@@ -2,7 +2,7 @@
   "id": "5fcacf36a7576f001cd4a67d",
   "title": "風呂にスマホを持ち込みますか?",
   "created": 1607126844,
-  "updated": 1611503648,
+  "updated": 1629833018,
   "lines": [
     {
       "id": "5fcacf36a7576f001cd4a67d",
@@ -41,17 +41,24 @@
     },
     {
       "id": "5fcad0bd1280f000009af0fa",
-      "text": "ないです[takker.icon][erniogi.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "ないです[takker.icon][erniogi.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1607127230,
-      "updated": 1611503648
+      "updated": 1629764346
     },
     {
       "id": "5fcad0c01280f000009af0fb",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "（スマホを持って）ないです[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1607127232,
-      "updated": 1607127232
+      "updated": 1629800190
+    },
+    {
+      "id": "6124c6f879d3a9000040d26e",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629800184,
+      "updated": 1629800185
     },
     {
       "id": "5fcb4caf1d860a000019c7d6",
@@ -259,9 +266,9 @@
     {
       "id": "5fccdde2b3e7ed00006b2998",
       "text": "\t\tボーっと考えてる",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1607261660,
-      "updated": 1607261669
+      "updated": 1629800222
     },
     {
       "id": "5fccdebfb3e7ed00006b299a",
@@ -271,11 +278,81 @@
       "updated": 1607261886
     },
     {
+      "id": "6124c71f79d3a9000040d270",
+      "text": "\t\t\t自分もここ派です[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629800223,
+      "updated": 1629800228
+    },
+    {
       "id": "5fccde8db3e7ed00006b2999",
       "text": "",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1607261832,
-      "updated": 1607261832
+      "updated": 1629800217
+    },
+    {
+      "id": "612478fe385a920000b5a74b",
+      "text": "[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629780222,
+      "updated": 1629780223
+    },
+    {
+      "id": "612478ff385a920000b5a74c",
+      "text": "　ときどき持ち込む",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629780223,
+      "updated": 1629780228
+    },
+    {
+      "id": "61247905385a920000b5a74d",
+      "text": "　　防水の入れ物に入れる",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629780229,
+      "updated": 1629780242
+    },
+    {
+      "id": "61247912385a920000b5a74e",
+      "text": "　kindle oasisのときも",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629780242,
+      "updated": 1629780260
+    },
+    {
+      "id": "61254721aff09e0000386cad",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832994,
+      "updated": 1629832994
+    },
+    {
+      "id": "61254722aff09e0000386cae",
+      "text": "[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832994,
+      "updated": 1629832996
+    },
+    {
+      "id": "61254724aff09e0000386caf",
+      "text": " 長風呂する時には持ち込む",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832996,
+      "updated": 1629833002
+    },
+    {
+      "id": "6125472aaff09e0000386cb0",
+      "text": " さっと上がる時には持ち込まない",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629833003,
+      "updated": 1629833012
+    },
+    {
+      "id": "61254739aff09e0000386cb2",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629833018,
+      "updated": 1629833018
     },
     {
       "id": "5fcb9aa78ee92a0000c57e4d",

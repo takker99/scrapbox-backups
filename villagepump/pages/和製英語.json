@@ -2,7 +2,7 @@
   "id": "5f8303d2c3a89a001e35bd12",
   "title": "和製英語",
   "created": 1602421736,
-  "updated": 1615618060,
+  "updated": 1631719717,
   "lines": [
     {
       "id": "5f8303d2c3a89a001e35bd12",
@@ -185,6 +185,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613130806,
       "updated": 1613130811
+    },
+    {
+      "id": "614210e81280f000006ac9ed",
+      "text": "\tこれは違う[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631719656,
+      "updated": 1631719662
+    },
+    {
+      "id": "614210ee1280f000006ac9ee",
+      "text": "\t 和製英語ではなく、商品名が一般名詞化した事例",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631719662,
+      "updated": 1631719717
     },
     {
       "id": "60266b58e5172d0000924fc1",

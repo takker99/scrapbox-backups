@@ -2,7 +2,7 @@
   "id": "5fdffad726d63c0022d758ff",
   "title": "PR誌",
   "created": 1608514268,
-  "updated": 1614323159,
+  "updated": 1627509492,
   "lines": [
     {
       "id": "5fdffad726d63c0022d758ff",
@@ -54,6 +54,13 @@
       "updated": 1614307363
     },
     {
+      "id": "606287aa8ee92a00002b0a6e",
+      "text": "  年間購読1000円",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617069994,
+      "updated": 1617070001
+    },
+    {
       "id": "5fe0aad88ee92a00006ad003",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
@@ -82,6 +89,20 @@
       "updated": 1608559382
     },
     {
+      "id": "60a56ce0246f59000021700a",
+      "text": " \t>ご愛読いただきましたＰＲ誌『アスペクト』は(2006年)９月号をもって休刊します。",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621454049,
+      "updated": 1621454190
+    },
+    {
+      "id": "60a56ce7246f59000021700b",
+      "text": "  > このような形でみなさんとお別れするのは残念ですが、だからといって千の風にはなりません。",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621454056,
+      "updated": 1621454056
+    },
+    {
       "id": "5fe0ab0c8ee92a00006ad008",
       "text": " 岩波書店 『[図書]』 [増井俊之.icon][dnin.icon]",
       "userId": "566fa156776c9b11008ee92a",
@@ -96,11 +117,18 @@
       "updated": 1608559384
     },
     {
+      "id": "60a56e36246f59000021700c",
+      "text": "  2019年7月号をもって休刊",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621454390,
+      "updated": 1621454392
+    },
+    {
       "id": "5fe0ab0c8ee92a00006ad00a",
-      "text": " 角川春樹事務所 『ランティエ』",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " 角川春樹事務所 『[ランティエ  http://www.kadokawaharuki.co.jp/rentier/]』",
+      "userId": "6055950b87138f0022246f59",
       "created": 1608559373,
-      "updated": 1608559392
+      "updated": 1621454466
     },
     {
       "id": "5fe0abf88ee92a00006ad037",
@@ -122,6 +150,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608559373,
       "updated": 1608559395
+    },
+    {
+      "id": "606287818ee92a00002b0a6d",
+      "text": " ジブリ 『[https://www.ghibli.jp/shuppan/np/ 熱風]』",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617069954,
+      "updated": 1617069976
     },
     {
       "id": "5fe0ab0c8ee92a00006ad00d",
@@ -146,10 +181,10 @@
     },
     {
       "id": "5fe0ab0c8ee92a00006ad010",
-      "text": " 新潮社 『波』 [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " 新潮社 『[波 https://www.shinchosha.co.jp/nami/]』 [増井俊之.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1608559373,
-      "updated": 1608559435
+      "updated": 1621454878
     },
     {
       "id": "5fe0ab0c8ee92a00006ad011",
@@ -230,10 +265,10 @@
     },
     {
       "id": "5fe0ab0c8ee92a00006ad01c",
-      "text": " みすず書房 『みすず』",
+      "text": " みすず書房 『[https://www.msz.co.jp/book/magazine/ みすず]』",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608559373,
-      "updated": 1608559411
+      "updated": 1617097856
     },
     {
       "id": "5fe0ab0c8ee92a00006ad01d",
@@ -255,6 +290,20 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608559373,
       "updated": 1608559413
+    },
+    {
+      "id": "607b81e08ee92a00007892a2",
+      "text": " [幻冬舎 『星星峡』]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618706912,
+      "updated": 1618707035
+    },
+    {
+      "id": "607b82298ee92a00007892a3",
+      "text": "  [https://www.gentosha.co.jp/pontoon/ PONTOON] に変わった模様",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618706985,
+      "updated": 1618707026
     },
     {
       "id": "5fe0ab348ee92a00006ad020",
@@ -283,6 +332,27 @@
       "userId": "5e644eb64b223c0017b3e7ed",
       "created": 1608561178,
       "updated": 1608561178
+    },
+    {
+      "id": "60ebc5388ee92a00002ef557",
+      "text": " 最近「[波]」と「[図書]」を定期購読している [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626064185,
+      "updated": 1627509492
+    },
+    {
+      "id": "60ebc54a8ee92a00002ef559",
+      "text": "  こういうのが自動で配達されるのはとても良い",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626064202,
+      "updated": 1626064221
+    },
+    {
+      "id": "60ebc5398ee92a00002ef558",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626064185,
+      "updated": 1626064185
     }
   ]
 }

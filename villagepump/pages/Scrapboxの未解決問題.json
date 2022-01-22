@@ -2,7 +2,7 @@
   "id": "5f8d2d37fa765700246f597c",
   "title": "Scrapboxの未解決問題",
   "created": 1603087673,
-  "updated": 1614427341,
+  "updated": 1620725319,
   "lines": [
     {
       "id": "5f8d2d37fa765700246f597c",
@@ -262,6 +262,69 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610864375,
       "updated": 1610869801
+    },
+    {
+      "id": "60861be11280f0000072ce9f",
+      "text": " [Internet Archive]に保存できない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401698,
+      "updated": 1619401713
+    },
+    {
+      "id": "60861bf11280f0000072cea0",
+      "text": "  これ致命的な弱点じゃないか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401713,
+      "updated": 1619401727
+    },
+    {
+      "id": "60861bff1280f0000072cea2",
+      "text": "   過去のscrapbox pageの[魚拓]を保存できない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401727,
+      "updated": 1619401758
+    },
+    {
+      "id": "60861c1e1280f0000072cea3",
+      "text": "   削除された scrapbox projectのpageを閲覧できない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401758,
+      "updated": 1619401773
+    },
+    {
+      "id": "609a4d01e5172d000070f178",
+      "text": "   [その発想はなかった][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620724993,
+      "updated": 1620724999
+    },
+    {
+      "id": "60861c591280f0000072cea5",
+      "text": "  解決策",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401817,
+      "updated": 1619401820
+    },
+    {
+      "id": "60861c5b1280f0000072cea6",
+      "text": "   静的ページを生成するclone siteを用意して、定期的に[魚拓]をとらせる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401820,
+      "updated": 1619401849
+    },
+    {
+      "id": "60861c311280f0000072cea4",
+      "text": "    [Scrapbox Reader]をベースに作れそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619401778,
+      "updated": 1619401859
+    },
+    {
+      "id": "609a4e43e5172d000070f179",
+      "text": "    [scbjson2ghpages]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620725316,
+      "updated": 1620725319
     },
     {
       "id": "5fab2b13dd59fe0000b5e870",

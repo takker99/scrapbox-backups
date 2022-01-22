@@ -2,7 +2,7 @@
   "id": "5ff4284a1f4086001cfe2e2d",
   "title": "2021/01/06",
   "created": 1609836620,
-  "updated": 1609986835,
+  "updated": 1621320072,
   "lines": [
     {
       "id": "5ff4284a1f4086001cfe2e2d",
@@ -48,10 +48,10 @@
     },
     {
       "id": "5ff42847d43875000005bf3e",
-      "text": "  毎年やってる講座ですね[takker.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "  [社会人のためのデータサイエンス入門]は毎年やってる講座ですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609836620,
-      "updated": 1609892651
+      "updated": 1621320059
     },
     {
       "id": "5ff5032b1280f000001a4bda",
@@ -59,27 +59,6 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609892652,
       "updated": 1609892665
-    },
-    {
-      "id": "5ff503391280f000001a4bdb",
-      "text": "   とてもおすすめ[takker.icon*5]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609892665,
-      "updated": 1609892699
-    },
-    {
-      "id": "5ff503601280f000001a4bde",
-      "text": "    統計解析の解説がすっごくわかりやすい",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609892704,
-      "updated": 1609892748
-    },
-    {
-      "id": "5ff503981280f000001a4bdf",
-      "text": "    特に信頼区間の解説はここが一番だと思う",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609892761,
-      "updated": 1609892797
     },
     {
       "id": "5ff42847d43875000005bf3f",

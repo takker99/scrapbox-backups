@@ -2,7 +2,7 @@
   "id": "5fd78b72ed85d6001ee545c3",
   "title": "PDF",
   "created": 1607961462,
-  "updated": 1611294174,
+  "updated": 1618837281,
   "lines": [
     {
       "id": "5fd78b72ed85d6001ee545c3",
@@ -17,6 +17,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1607961462,
       "updated": 1607961492
+    },
+    {
+      "id": "606db4e0dd60be00001d55ee",
+      "text": " \t印刷業界における標準は[PDF/X-1a]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617802465,
+      "updated": 1617802512
     },
     {
       "id": "5fd78b7f8ee92a0000452ac8",
@@ -82,6 +89,13 @@
       "updated": 1608758908
     },
     {
+      "id": "606db4a403b210000008d707",
+      "text": "   　中野ひとーー",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617802406,
+      "updated": 1617802427
+    },
+    {
       "id": "5fe3b6728ee92a000042da8c",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
@@ -124,6 +138,13 @@
       "updated": 1608882443
     },
     {
+      "id": "606db3b2dd60be00001d55ed",
+      "text": "     それでも怖いときはフォントをアウトライン化する[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617802163,
+      "updated": 1617802163
+    },
+    {
       "id": "5fe5990d8ee92a000079fd5d",
       "text": "    Macの場合、印刷メニューからPDFで保存すればフォントデータが埋め込まれたPDFが生成される",
       "userId": "566fa156776c9b11008ee92a",
@@ -131,11 +152,60 @@
       "updated": 1611294174
     },
     {
-      "id": "5fe598f68ee92a000079fd5c",
+      "id": "607d7d6bfd049e000010463b",
       "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1608882423,
-      "updated": 1608882423
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618836844,
+      "updated": 1618836844
+    },
+    {
+      "id": "607d7d78fd049e000010463c",
+      "text": "\t[The history of PDF | How the file format and Acrobat evolved https://www.prepressure.com/pdf/basics/history]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618836856,
+      "updated": 1618836856
+    },
+    {
+      "id": "607d7d79fd049e000010463d",
+      "text": "\t\t英語だけど詳しそうかも？[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618836858,
+      "updated": 1618836866
+    },
+    {
+      "id": "607d7ed0fd049e0000104643",
+      "text": "\t\t\tただ、どうして[PostScript]が[PDF]になったかというところはわからず。PDFの進化の過程しか分からなさそうなのが残念",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618837201,
+      "updated": 1618837247
+    },
+    {
+      "id": "607d7d7bfd049e000010463e",
+      "text": "  > The first time Adobe actually talked about this technology was at a Seybold conference in San Jose in 1991. At that time, it was referred to as ‘IPS’ which stood for ‘Interchange PostScript.’",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618836860,
+      "updated": 1618837007
+    },
+    {
+      "id": "607d7e13fd049e0000104640",
+      "text": "  \t最初はIPSだったんですねぇ",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618837012,
+      "updated": 1618837023
+    },
+    {
+      "id": "607d7eb2fd049e0000104641",
+      "text": "  > Adobe asked a steep price for the tools to create PDF files. Acrobat [Distiller] was available in personal and network versions, priced at $695 and $2,495 respectively. You even had to pay 50 dollars for Acrobat Reader.",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618837170,
+      "updated": 1618837184
+    },
+    {
+      "id": "607d7eb6fd049e0000104642",
+      "text": "  \t高い...(当時の他のソフトウェアがどれくらいのお値段か分からないから、安い方なのかも？)",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618837175,
+      "updated": 1618837275
     }
   ]
 }

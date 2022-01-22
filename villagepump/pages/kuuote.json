@@ -2,7 +2,7 @@
   "id": "5fa6680ca5d26b0024fb0f13",
   "title": "kuuote",
   "created": 1604741132,
-  "updated": 1612451234,
+  "updated": 1633018137,
   "lines": [
     {
       "id": "5fa6680ca5d26b0024fb0f13",
@@ -12,11 +12,32 @@
       "updated": 1604741132
     },
     {
-      "id": "5fa668454bb2e20000c70c42",
-      "text": "[https://lh3.googleusercontent.com/a-/AOh14Gj7DnwQqATbxkUQTJ_NouXMoLeeIUTwSYhjkgEY=s96-c#.png]",
+      "id": "61420f534bb2e20000a64ee9",
+      "text": "[https://gyazo.com/824bd93f27cebd407f1a145542989e03]",
       "userId": "5e8944948a182900174bb2e2",
-      "created": 1604741132,
-      "updated": 1604741132
+      "created": 1631719225,
+      "updated": 1631719230
+    },
+    {
+      "id": "613054bd1280f00000d6a49f",
+      "text": " アイコンがλじゃなくなってしまった……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630557373,
+      "updated": 1630557392
+    },
+    {
+      "id": "61420f6a4bb2e20000a64eed",
+      "text": "  Gyazoに突っ込んだので今度は大丈夫[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1631719248,
+      "updated": 1631719255
+    },
+    {
+      "id": "61420f781280f00000bfa2b6",
+      "text": "  [/icons/よかった.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631719288,
+      "updated": 1631719305
     },
     {
       "id": "5fa668454bb2e20000c70c43",
@@ -38,6 +59,13 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1605424361,
       "updated": 1605424366
+    },
+    {
+      "id": "60f9a95c4bb2e200003fe4e6",
+      "text": "アイコンはギリシャ文字のラムダです、ギリシャ文字はかっこいいと思う",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1626974515,
+      "updated": 1626974528
     },
     {
       "id": "5fa668514bb2e20000c70c47",
@@ -271,60 +299,11 @@
       "updated": 1604744278
     },
     {
-      "id": "5fb68b5a4bb2e200000daf9a",
-      "text": "",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605798740,
-      "updated": 1605798741
-    },
-    {
       "id": "5fb68b5c4bb2e200000daf9b",
-      "text": "自分の事をあれこれ書いたページ",
+      "text": "",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1605798742,
-      "updated": 1605798749
-    },
-    {
-      "id": "5fb68b634bb2e200000daf9c",
-      "text": " [趣味]",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605798750,
-      "updated": 1605798753
-    },
-    {
-      "id": "5fb68b684bb2e200000daf9d",
-      "text": " [嫌いな言葉]",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605798754,
-      "updated": 1605798759
-    },
-    {
-      "id": "5fb68b824bb2e200000daf9e",
-      "text": " [Scrapboxを知った時の高揚感について]",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605798781,
-      "updated": 1605798785
-    },
-    {
-      "id": "5fb68ba44bb2e200000daf9f",
-      "text": " [プログラミング言語の学び方]",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605798814,
-      "updated": 1605798815
-    },
-    {
-      "id": "5fc24af04bb2e20000aaae3b",
-      "text": " [最悪なUX]",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1606568657,
-      "updated": 1606568660
-    },
-    {
-      "id": "5fb68bef4bb2e20000694d04",
-      "text": "",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605798889,
-      "updated": 1605798889
+      "updated": 1626974503
     },
     {
       "id": "5fa7d4034bb2e20000c66625",
@@ -342,10 +321,10 @@
     },
     {
       "id": "5fa940d04bb2e20000d26a7d",
-      "text": " // import '/api/code/villagepump/pin-diary/user.js';",
+      "text": " import(\"/api/code/villagepump/pin-diary-4/script.js\");",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1604927691,
-      "updated": 1609480295
+      "updated": 1633018137
     },
     {
       "id": "5feeb8844bb2e200009f567e",
@@ -432,11 +411,18 @@
       "updated": 1610899473
     },
     {
+      "id": "60f9aa814bb2e200003fe4e7",
+      "text": " /* よさそうな背景が適用されたのでやめる */",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1626974808,
+      "updated": 1626974819
+    },
+    {
       "id": "600443e84bb2e20000f2de04",
-      "text": " @import \"/api/code/kuuote/神スクボ/style.css\";",
+      "text": " /* @import \"/api/code/kuuote/神スクボ/style.css\"; */",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1610892176,
-      "updated": 1610892184
+      "updated": 1626974802
     },
     {
       "id": "5fb954774bb2e20000154e0f",

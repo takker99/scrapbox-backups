@@ -2,7 +2,7 @@
   "id": "5ff1ce380958fc001c7fbf51",
   "title": "location記法",
   "created": 1609682489,
-  "updated": 1616133968,
+  "updated": 1616838064,
   "lines": [
     {
       "id": "5ff1ce380958fc001c7fbf51",
@@ -167,10 +167,17 @@
     },
     {
       "id": "60540ec2e5172d0000c6edc2",
-      "text": "　これホント便利よね[air34n.icon]",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　これホント便利よね[air34n.icon][dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1616121538,
-      "updated": 1616133968
+      "updated": 1616808452
+    },
+    {
+      "id": "605efda78ee92a0000bdb424",
+      "text": "　ローソン出来てたの知らなかった [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1616838056,
+      "updated": 1616838064
     },
     {
       "id": "60543f3f1d860a0000943c74",

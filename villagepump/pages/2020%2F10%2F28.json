@@ -2,7 +2,7 @@
   "id": "5f98c393b988eb00221fd902",
   "title": "2020/10/28",
   "created": 1603847061,
-  "updated": 1608117453,
+  "updated": 1626683130,
   "lines": [
     {
       "id": "5f98c393b988eb00221fd902",
@@ -31,41 +31,6 @@
       "userId": "5f7bafa76f34a0001ea9f474",
       "created": 1603888586,
       "updated": 1613112352
-    },
-    {
-      "id": "5f98c395a9f4740000a83e19",
-      "text": " [https://chrome.google.com/webstore/detail/coffeelings/hcbddpppkcnfjifbcfnhmelpemdoepkk coffeelings - Chrome Web Store]はじめた",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603847062,
-      "updated": 1603961477
-    },
-    {
-      "id": "5f98c3a2a9f4740000a83e1e",
-      "text": " 　[ムードトラッカー]だるい　でもこれ　いい",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603847074,
-      "updated": 1603961485
-    },
-    {
-      "id": "5fb4db37d438750000ea87c0",
-      "text": " 　　yappari続かない　4日程度で終了",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605688118,
-      "updated": 1605688130
-    },
-    {
-      "id": "5f98c3c1a9f4740000a83e20",
-      "text": " 　一日一回　楽",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603847105,
-      "updated": 1603961489
-    },
-    {
-      "id": "5f98c3d1a9f4740000a83e21",
-      "text": " 　拡張機能探し　一気　楽しい",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603847122,
-      "updated": 1603961497
     },
     {
       "id": "5f98c399a9f4740000a83e1c",
@@ -157,27 +122,6 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1604005735,
       "updated": 1604005744
-    },
-    {
-      "id": "5f9965faa9f47400009682d5",
-      "text": "\t什器　注意書き　全部剥がす",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603888634,
-      "updated": 1603961546
-    },
-    {
-      "id": "5f98eb6aa9f4740000005c14",
-      "text": "  10枚位",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603857258,
-      "updated": 1603961547
-    },
-    {
-      "id": "5f996617a9f47400009682d7",
-      "text": "　引きこもり　でも　1万歩　睡眠時間　少ない　けっこううろうろ",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603888663,
-      "updated": 1603961566
     },
     {
       "id": "5f996618a9f47400009682d8",
@@ -398,10 +342,17 @@
     },
     {
       "id": "5f98c396a9f4740000a83e1b",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "[https://gyazo.com/1994f6c77d0a99f73bb7871216ecb02f]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1603847062,
-      "updated": 1603847062
+      "updated": 1621583466
+    },
+    {
+      "id": "60a76653246f59000060cc82",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621583466,
+      "updated": 1621583466
     },
     {
       "id": "5fc26454d43875000051f82a",

@@ -2,7 +2,7 @@
   "id": "5feaedbf99aff8001dce871b",
   "title": "2020/12/30",
   "created": 1609231814,
-  "updated": 1609375285,
+  "updated": 1626680779,
   "lines": [
     {
       "id": "5feaedbf99aff8001dce871b",
@@ -17,20 +17,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1609231814,
       "updated": 1609231814
-    },
-    {
-      "id": "5feaedc2d4387500002d9eb8",
-      "text": "[dnin.icon]弟の卒論がやばそうなので、PDFをもらった",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609231814,
-      "updated": 1613112362
-    },
-    {
-      "id": "5feaedc2d4387500002d9eba",
-      "text": "TBSテレビで[思い出すシリーズ]をやっている",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609231814,
-      "updated": 1609297815
     },
     {
       "id": "5feaedc2d4387500002d9ebb",
@@ -111,10 +97,17 @@
     },
     {
       "id": "5feaedc2d4387500002d9ebc",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[https://gyazo.com/05b12adda073c27fce7caa531e41dacf]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609231814,
-      "updated": 1609231814
+      "updated": 1621582298
+    },
+    {
+      "id": "60a761c3246f59000007d50d",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621582298,
+      "updated": 1621582298
     },
     {
       "id": "5fec446d1d860a00009bebef",
@@ -139,17 +132,17 @@
     },
     {
       "id": "5fec44c41d860a00009bebf3",
-      "text": "　この前言ってたNetflixはとりあえず今は中断",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　この前言ってた[Netflix]はとりあえず今は中断",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609319611,
-      "updated": 1609319636
+      "updated": 1617083061
     },
     {
       "id": "5fec44de1d860a00009bebf4",
-      "text": "　　とりあえずdアニメストアの1ヶ月お試しを利用してみてる",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　　とりあえず[dアニメストア]の1ヶ月お試しを利用してみてる",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609319637,
-      "updated": 1609319680
+      "updated": 1617083057
     },
     {
       "id": "5fec450a1d860a00009bebf5",
@@ -167,10 +160,10 @@
     },
     {
       "id": "5fec45641d860a00009bebf7",
-      "text": "　　ハイレゾ対応とか",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　　[ハイレゾ]対応とか",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609319771,
-      "updated": 1609319777
+      "updated": 1617547310
     },
     {
       "id": "5fec456a1d860a00009bebf8",
@@ -237,10 +230,10 @@
     },
     {
       "id": "5fec702d1d860a0000491b9a",
-      "text": "　　以前はGooglePlayMusicで歌を買ってた",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　　以前は[GooglePlayMusic]で歌を買ってた",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609330726,
-      "updated": 1609330745
+      "updated": 1617547334
     },
     {
       "id": "5fec70411d860a0000491b9b",
@@ -258,10 +251,10 @@
     },
     {
       "id": "5fec70821d860a0000491b9d",
-      "text": "　　Taskerを購入してみるか",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　　[Tasker]を購入してみるか",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609330811,
-      "updated": 1609330832
+      "updated": 1617083076
     },
     {
       "id": "5fec759fd4387500000481ed",
@@ -290,6 +283,13 @@
       "userId": "58e5636749e40700111d860a",
       "created": 1609338588,
       "updated": 1609338636
+    },
+    {
+      "id": "6062bac7246f590000e1441c",
+      "text": "　　   公式サイトから[直接DL https://tasker.joaoapps.com/download.html]する必要アリです[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617083079,
+      "updated": 1617083219
     },
     {
       "id": "5fec75d6d4387500000481ee",

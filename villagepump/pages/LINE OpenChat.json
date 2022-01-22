@@ -2,7 +2,7 @@
   "id": "5fa4ba9f660cbc001ec33180",
   "title": "LINE OpenChat",
   "created": 1604631202,
-  "updated": 1604631521,
+  "updated": 1617546993,
   "lines": [
     {
       "id": "5fa4ba9f660cbc001ec33180",
@@ -69,10 +69,10 @@
     },
     {
       "id": "5fa4bb33d438750000b9e564",
-      "text": "正直ノイズが多い",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "正直[ノイズ]が多い",
+      "userId": "6055950b87138f0022246f59",
       "created": 1604631347,
-      "updated": 1604631353
+      "updated": 1617546993
     },
     {
       "id": "5fa4bb3ad438750000b9e567",

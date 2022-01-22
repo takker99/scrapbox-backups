@@ -2,7 +2,7 @@
   "id": "5f9b1d88a88bd8001e144eca",
   "title": "xyがyい",
   "created": 1604001163,
-  "updated": 1609675673,
+  "updated": 1618095038,
   "lines": [
     {
       "id": "5f9b1d88a88bd8001e144eca",
@@ -356,10 +356,17 @@
     },
     {
       "id": "5fb79b734daa9200000f7248",
-      "text": "",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "　　`datetime.time` or `datetime.timedelta`",
+      "userId": "6055950b87138f0022246f59",
       "created": 1605868403,
-      "updated": 1605868403
+      "updated": 1618095038
+    },
+    {
+      "id": "60722b98246f59000030be4e",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618095000,
+      "updated": 1618095000
     }
   ]
 }

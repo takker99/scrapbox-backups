@@ -2,7 +2,7 @@
   "id": "5fc3613a8df4b0002213dc00",
   "title": "nitter",
   "created": 1606639934,
-  "updated": 1606648826,
+  "updated": 1629207892,
   "lines": [
     {
       "id": "5fc3613a8df4b0002213dc00",
@@ -13,24 +13,38 @@
     },
     {
       "id": "5fc3613ed438750000c67120",
-      "text": "SSL証明書がexpireしてる希ガス",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[Twitter]フロントエンド",
+      "userId": "6055950b87138f0022246f59",
       "created": 1606639934,
-      "updated": 1606639947
+      "updated": 1618401306
     },
     {
-      "id": "5fc369881280f00000fcb5dd",
-      "text": " ほんとだ期限切れになってる",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1606642056,
-      "updated": 1606642067
+      "id": "60db156d0b87190000efd689",
+      "text": "[Nim]で書かれているからNitter",
+      "userId": "6118e67f8e5974001d110500",
+      "created": 1624970605,
+      "updated": 1629207869
     },
     {
-      "id": "5fc383e9d4387500006c30b4",
-      "text": " 更新されて復帰してる",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1606648809,
-      "updated": 1606648826
+      "id": "611bbd3c11050000009aebca",
+      "text": "",
+      "userId": "6118e67f8e5974001d110500",
+      "created": 1629207869,
+      "updated": 1629207869
+    },
+    {
+      "id": "611bbd3d11050000009aebcb",
+      "text": "[Nitter Redirect]という[Chrome拡張機能]がある",
+      "userId": "6118e67f8e5974001d110500",
+      "created": 1629207869,
+      "updated": 1629207892
+    },
+    {
+      "id": "60db15780b87190000efd68a",
+      "text": "",
+      "userId": "60d7d3e32182b900220b8719",
+      "created": 1624970617,
+      "updated": 1624970617
     },
     {
       "id": "5fc3613ed438750000c67121",
@@ -41,24 +55,38 @@
     },
     {
       "id": "5fc36178d4387500001e9cf6",
-      "text": "https://nitter.snopyta.org/ など他インスタンスを使おう",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "https://nitter.snopyta.org/",
+      "userId": "6055950b87138f0022246f59",
       "created": 1606639992,
-      "updated": 1606644768
-    },
-    {
-      "id": "5fc37418d43875000060b4a1",
-      "text": "[- 決してシステムクロックを戻さないように！]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1606644760,
-      "updated": 1606648807
+      "updated": 1618401227
     },
     {
       "id": "5fc22ddfd438750000298a0b",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "https://nitter.42l.fr/",
+      "userId": "6055950b87138f0022246f59",
       "created": 1606647649,
-      "updated": 1606647649
+      "updated": 1618401247
+    },
+    {
+      "id": "6076d7df246f590000a0f041",
+      "text": "https://nitter.kavin.rocks/",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618401247,
+      "updated": 1618401278
+    },
+    {
+      "id": "6076d7fd246f590000a0f042",
+      "text": "[https://gyazo.com/883c05a9db326cb4f2df67d270bf7649]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618401278,
+      "updated": 1619093019
+    },
+    {
+      "id": "6081661a246f5900006fee98",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619093019,
+      "updated": 1619093019
     }
   ]
 }

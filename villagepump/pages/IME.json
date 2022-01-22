@@ -2,7 +2,7 @@
   "id": "5fbf8c40e37d2c001e05e229",
   "title": "IME",
   "created": 1606388806,
-  "updated": 1607997696,
+  "updated": 1623678064,
   "lines": [
     {
       "id": "5fbf8c40e37d2c001e05e229",
@@ -20,10 +20,10 @@
     },
     {
       "id": "5fbf8c694bb2e200000a4c78",
-      "text": " 接続辞書、面白そう",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": " [接続辞書]、面白そう",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1606388816,
-      "updated": 1606521662
+      "updated": 1619700254
     },
     {
       "id": "5fcdb5188ee92a000001e1f2",
@@ -61,6 +61,48 @@
       "updated": 1607316869
     },
     {
+      "id": "608aa8ba8ee92a0000066de7",
+      "text": " てか普通に実装してホシイ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619699898,
+      "updated": 1619699914
+    },
+    {
+      "id": "60916aca8ee92a0000e70990",
+      "text": "  全然簡単だと思うし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620142794,
+      "updated": 1620142803
+    },
+    {
+      "id": "60c75bff1280f000002969b0",
+      "text": "Windows 10でIME自作できるかなとおもって調べてみたが、情報が一切出てこなかった……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623677953,
+      "updated": 1623677980
+    },
+    {
+      "id": "60c75c1a1280f000002969b1",
+      "text": " いや正確に書くと一つだけ見つかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623677980,
+      "updated": 1623678037
+    },
+    {
+      "id": "60c75c571280f000002969b3",
+      "text": "  [https://project-the-tower2.hatenadiary.org/entry/20090327/1238173943 C++でWindowsのIMEを作ろう( ﾟ∀ﾟ)　その１ - Webと文字]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623678040,
+      "updated": 1623678040
+    },
+    {
+      "id": "60c75c571280f000002969b4",
+      "text": " が、API回りの闇が深そうでそっ閉じした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623678041,
+      "updated": 1623678064
+    },
+    {
       "id": "5fbf8c5c4bb2e200000a4c77",
       "text": "",
       "userId": "5e8944948a182900174bb2e2",
@@ -69,10 +111,10 @@
     },
     {
       "id": "5fc22168dd59fe0000e6b407",
-      "text": "Input Method Editorってどういう意味なんだろう",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": "[Input Method Editor]ってどういう意味なんだろう",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1606558056,
-      "updated": 1606558085
+      "updated": 1620142937
     },
     {
       "id": "5fc2225bdd59fe0000e6b40b",
@@ -90,10 +132,17 @@
     },
     {
       "id": "5fc22226dd59fe0000e6b409",
-      "text": " ATOKの類の仮名漢字変換ソフト時代(太古)の名残だと思います [増井俊之.icon]",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": " [ATOK]の類の[仮名漢字変換]ソフト時代(太古)の名残だと思います [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1606558247,
-      "updated": 1607316917
+      "updated": 1619699879
+    },
+    {
+      "id": "60916b6d8ee92a0000e70995",
+      "text": "  IMEという名前は確かにヘンだと思う [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620142957,
+      "updated": 1620142966
     },
     {
       "id": "5fcdb4ec8ee92a000001e1f1",

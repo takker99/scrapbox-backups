@@ -2,7 +2,7 @@
   "id": "5fc5024138f69e001cddbc1d",
   "title": "ランダムにページを表示",
   "created": 1606746693,
-  "updated": 1616291994,
+  "updated": 1632008713,
   "lines": [
     {
       "id": "5fc5024138f69e001cddbc1d",
@@ -125,10 +125,45 @@
     },
     {
       "id": "6023149f758921000014b12e",
-      "text": " 専門学校のホームページをランダムに表示する",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": " [ランダム記事 | 雑学ネタ帳 https://zatsuneta.com/category/random.html]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1612911775,
-      "updated": 1612911783
+      "updated": 1616754513
+    },
+    {
+      "id": "609917a4246f5900009abd45",
+      "text": " https://c.xkcd.com/random/comic/",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620645796,
+      "updated": 1620645797
+    },
+    {
+      "id": "60c0bbfc246f590000775de9",
+      "text": " [上場企業のホームページにランダムに飛ぶ]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623243772,
+      "updated": 1623243781
+    },
+    {
+      "id": "60c0bcb0246f590000775dea",
+      "text": " [井戸端日記からランダムに1日を開く]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623243952,
+      "updated": 1623243958
+    },
+    {
+      "id": "60d93ba94ed33b0000633c29",
+      "text": " [Amarandom - この商品を買った人は、こんな商品は買っていません　https://ozuma.sakura.ne.jp/amarandom/]",
+      "userId": "60cd72635103b2001c4ed33b",
+      "created": 1624849320,
+      "updated": 1624849350
+    },
+    {
+      "id": "61463c77cc608600004c8ee0",
+      "text": " [https://anond.hatelabo.jp/20210918230314 過去はてブのランダム巡回]",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631992952,
+      "updated": 1631992954
     },
     {
       "id": "6017f8e8d43875000022098d",
@@ -171,6 +206,83 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1606865909,
       "updated": 1606865909
+    },
+    {
+      "id": "60c81305246f590000abdaa4",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623724806,
+      "updated": 1623724806
+    },
+    {
+      "id": "60c81306246f590000abdaa6",
+      "text": "[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623724806,
+      "updated": 1623724807
+    },
+    {
+      "id": "60c81307246f590000abdaa7",
+      "text": "　ちょっと昔に[StumbleUpon]というサイトがあったなぁ...",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623724807,
+      "updated": 1623724822
+    },
+    {
+      "id": "60c81305246f590000abdaa5",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623724806,
+      "updated": 1623724806
+    },
+    {
+      "id": "614679be79d3a900006a3a7d",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008639,
+      "updated": 1632008640
+    },
+    {
+      "id": "614679bf79d3a900006a3a7e",
+      "text": " 「Googleから辿れるサイト」の中からランダムに、とかしたら面白いだろうか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008640,
+      "updated": 1632008655
+    },
+    {
+      "id": "614679ce79d3a900006a3a80",
+      "text": " \t（googleさんが協力してくれないと）技術的に無理そうだが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008655,
+      "updated": 1632008703
+    },
+    {
+      "id": "614679d379d3a900006a3a81",
+      "text": " \tエログロなどヤバいコンテンツにぶちあたったときがキツそうだが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008660,
+      "updated": 1632008669
+    },
+    {
+      "id": "61467a0779d3a900006a3a83",
+      "text": " \tノイズ多そうだが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008712,
+      "updated": 1632008713
+    },
+    {
+      "id": "614679e279d3a900006a3a82",
+      "text": " \t……まあ[思考実験]で楽しむくらいか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008675,
+      "updated": 1632008684
+    },
+    {
+      "id": "614679bf79d3a900006a3a7f",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632008640,
+      "updated": 1632008640
     },
     {
       "id": "5fc502fd8ee92a00003e3f67",

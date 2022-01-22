@@ -2,7 +2,7 @@
   "id": "5f8ed228bcb32a001ebf49d8",
   "title": "GephiでScrapboxのリンク構造を観察する",
   "created": 1603195436,
-  "updated": 1603251771,
+  "updated": 1621268064,
   "lines": [
     {
       "id": "5f8ed228bcb32a001ebf49d8",
@@ -87,6 +87,20 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1603251544,
       "updated": 1603251626
+    },
+    {
+      "id": "60a296528ee92a00005fa060",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621268050,
+      "updated": 1621268050
+    },
+    {
+      "id": "60a296528ee92a00005fa061",
+      "text": " 面白いですが、なんか役にたったことあります? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621268050,
+      "updated": 1621268064
     },
     {
       "id": "5f8ee41ddd59fe000008f135",

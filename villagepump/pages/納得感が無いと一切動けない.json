@@ -2,7 +2,7 @@
   "id": "5ffdb16aa8fd1e001cbe5f47",
   "title": "納得感が無いと一切動けない",
   "created": 1610461548,
-  "updated": 1610593431,
+  "updated": 1620473845,
   "lines": [
     {
       "id": "5ffdb16aa8fd1e001cbe5f47",
@@ -13,10 +13,10 @@
     },
     {
       "id": "5ffdb1b54bb2e20000ef84dc",
-      "text": "自分の中で[納得]できないと行動に対する意欲が一切湧いてこないので社会生活に対する支障が出ている[kuuote.icon][yosider.icon][sta.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "自分の中で[納得]できないと行動に対する意欲が一切湧いてこないので社会生活に対する支障が出ている[kuuote.icon][yosider.icon][sta.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1610461548,
-      "updated": 1610535896
+      "updated": 1620358476
     },
     {
       "id": "5ffdb4a94bb2e20000ef84e3",
@@ -90,10 +90,10 @@
     },
     {
       "id": "5ffdb5b7e5172d0000d5b520",
-      "text": "\t失敗が目に見えていることもできない[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t失敗が目に見えていることもできない[yosider.icon][erniogi.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1610462647,
-      "updated": 1610462668
+      "updated": 1620473845
     },
     {
       "id": "5ffdb344e5172d0000d5b51b",
@@ -101,6 +101,27 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1610462020,
       "updated": 1610462020
+    },
+    {
+      "id": "6095ed5155cbd30000cf412d",
+      "text": "[https://gyazo.com/303969b326d46b49dbf386a6bf86f87a]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620438354,
+      "updated": 1620438357
+    },
+    {
+      "id": "6095ed5455cbd30000cf412e",
+      "text": "from: https://www.amazon.co.jp/dp/B009PL86BK/",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620438357,
+      "updated": 1620438383
+    },
+    {
+      "id": "6095ed6955cbd30000cf412f",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620438378,
+      "updated": 1620438378
     }
   ]
 }

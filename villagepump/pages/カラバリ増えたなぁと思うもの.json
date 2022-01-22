@@ -2,7 +2,7 @@
   "id": "6000dac2ff4d7e0036ec4081",
   "title": "カラバリ増えたなぁと思うもの",
   "created": 1610668741,
-  "updated": 1610668748,
+  "updated": 1618844659,
   "lines": [
     {
       "id": "6000dac2ff4d7e0036ec4081",
@@ -31,6 +31,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1610668744,
       "updated": 1610668744
+    },
+    {
+      "id": "607d9bf1fd049e0000cbc8d9",
+      "text": "[思うシリーズ]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618844658,
+      "updated": 1618844658
     }
   ]
 }

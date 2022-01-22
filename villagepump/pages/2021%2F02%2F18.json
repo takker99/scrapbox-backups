@@ -2,7 +2,7 @@
   "id": "602d2ff95e54740022c8d860",
   "title": "2021/02/18",
   "created": 1613574139,
-  "updated": 1613815869,
+  "updated": 1626675569,
   "lines": [
     {
       "id": "602d2ff95e54740022c8d860",
@@ -61,41 +61,6 @@
       "updated": 1613603390
     },
     {
-      "id": "602da23a758921000059a2cc",
-      "text": "　[Nitter]クライアント作ったら便利そう",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613603390,
-      "updated": 1613603401
-    },
-    {
-      "id": "602d2ff67589210000251faa",
-      "text": "　　条件付きで期間限定自動フォローを実装するとか",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613574139,
-      "updated": 1613603434
-    },
-    {
-      "id": "602da26c758921000059a2ce",
-      "text": "　　単語クリックで単語ミュート/検索とか",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613603439,
-      "updated": 1613603666
-    },
-    {
-      "id": "602da275758921000059a2cf",
-      "text": "　　RSSフィードだからRate Limitがない",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613603448,
-      "updated": 1613603460
-    },
-    {
-      "id": "602da281758921000059a2d0",
-      "text": "　　インスタンスがRate Limitになったら別のインスタンスにつながる",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613603460,
-      "updated": 1613603675
-    },
-    {
       "id": "602d2ff67589210000251fab",
       "text": " [VSCode]の[Interactive Playground]を初めて見た",
       "userId": "60226bcd2fbabe0022758921",
@@ -132,10 +97,10 @@
     },
     {
       "id": "602d2ff67589210000251fac",
-      "text": " [https://vscodethemes.com/ VSCodeThemes — Preview Visual Studio Code Themes.]",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": " [VSCodeThemes]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1613574139,
-      "updated": 1613618788
+      "updated": 1620027681
     },
     {
       "id": "602dde647589210000f06125",

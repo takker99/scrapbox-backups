@@ -2,7 +2,7 @@
   "id": "5f5debddf18d47001eafd03e",
   "title": "WikiWikiWeb",
   "created": 1599990751,
-  "updated": 1614771087,
+  "updated": 1624872354,
   "lines": [
     {
       "id": "5f5debddf18d47001eafd03e",
@@ -73,6 +73,13 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1600075365,
       "updated": 1600075365
+    },
+    {
+      "id": "60d9959be5172d00007209fd",
+      "text": "[thread mode]と[pattern mode]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624872347,
+      "updated": 1624872354
     },
     {
       "id": "5f5f1f5bdd59fe0000fca8d8",

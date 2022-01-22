@@ -2,7 +2,7 @@
   "id": "5fbd36fe0d2029001c01d2b4",
   "title": "最悪なUX",
   "created": 1606235906,
-  "updated": 1615294475,
+  "updated": 1631521917,
   "lines": [
     {
       "id": "5fbd36fe0d2029001c01d2b4",
@@ -146,10 +146,31 @@
     },
     {
       "id": "5fd31c35e5172d00008c2a19",
-      "text": "\t\t[楽天市場]やばすぎる[yosider.icon][MISONLN41.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t\t[楽天市場]やばすぎる[yosider.icon][MISONLN41.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1607670836,
-      "updated": 1610867639
+      "updated": 1618030471
+    },
+    {
+      "id": "6069567edd60be00009372f7",
+      "text": "\t\t\t楽天は「ごちゃごちゃしてる（[雑貨屋]とかを眺めるのと一緒）」を「良い」と思う層がターゲットだからあれはあれで間違いではないと思っている[45Nuyagawa.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617516157,
+      "updated": 1617958794
+    },
+    {
+      "id": "6069f964e5172d00008c43ab",
+      "text": "\t\t\t\t[ごちゃごちゃしたのが好き]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617557861,
+      "updated": 1617557868
+    },
+    {
+      "id": "60697795e5172d000085e3fe",
+      "text": "\t\t\t　まあ独自性はあるな…[yosider.icon][U.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617524629,
+      "updated": 1617532534
     },
     {
       "id": "5ffae3ade5172d0000d54876",
@@ -243,11 +264,116 @@
       "updated": 1610868258
     },
     {
+      "id": "606958ecdd60be00004d74bb",
+      "text": " \tたまに開発者ツールを開けると「開発者ツールを閉じて下さい」っていうページにリダイレクトされて終わるページがある[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617516779,
+      "updated": 1617516815
+    },
+    {
+      "id": "607017a41280f00000baec1b",
+      "text": " \t[/icons/まじかよ.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617958821,
+      "updated": 1617958952
+    },
+    {
+      "id": "607017ad1280f00000baec1c",
+      "text": " \t 何がそんなにも極端な[情報隠蔽主義]に走らせるのか……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617958830,
+      "updated": 1617958913
+    },
+    {
+      "id": "607018301280f00000baec1e",
+      "text": " \t 幸いにもそこまで極端なページには一度もあったことないけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617958961,
+      "updated": 1617958993
+    },
+    {
+      "id": "607044cc03b2100000b82d38",
+      "text": " \t 　悪用されるのを防ぐためではないですか？なりすましとかが発生する確率を減らすとか",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617970381,
+      "updated": 1617970430
+    },
+    {
+      "id": "607079e54bb2e200009aa142",
+      "text": " \t 　 [https://gyazo.com/57b8b1f424d9a474ba15d37f40917394]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617983897,
+      "updated": 1617983908
+    },
+    {
+      "id": "607079f84bb2e200009aa146",
+      "text": " \t 　 これで済む話なんだよなぁ[kuuote.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617983916,
+      "updated": 1617986030
+    },
+    {
+      "id": "607079fe4bb2e200009aa147",
+      "text": " \t 　  ちなみにこれはGoogle翻訳です",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617983921,
+      "updated": 1617983926
+    },
+    {
+      "id": "607081ff1280f00000a4aee4",
+      "text": "      Google Apps Scriptでも同じメッセージが出ますね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617986045,
+      "updated": 1617986057
+    },
+    {
+      "id": "607105fc03b21000005f6e88",
+      "text": "      書くのなくなるなー",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1618019837,
+      "updated": 1618019852
+    },
+    {
+      "id": "607018da1280f00000baec66",
+      "text": "テキストをコピーできないWebページ [増井俊之.icon][sta.icon][yosider.icon][kuuote.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1617959131,
+      "updated": 1618017412
+    },
+    {
+      "id": "607018da1280f00000baec67",
+      "text": " これは地味にイラッとするやつですね……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959131,
+      "updated": 1617959131
+    },
+    {
+      "id": "60707a374bb2e200009aa148",
+      "text": " 分かる人はコピーできる（悪用する人は大体こちら）ので意味無いと思う[kuuote.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1617983978,
+      "updated": 1618017417
+    },
+    {
+      "id": "607082121280f00000a4aee5",
+      "text": "  [/icons/それな.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617986064,
+      "updated": 1617986133
+    },
+    {
+      "id": "607103a703b210000072af40",
+      "text": "  そーかー",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1618019239,
+      "updated": 1618019249
+    },
+    {
       "id": "5fbd38724daa9200004bf7b1",
-      "text": "機械的に作られた大量のリンク[yuta0801.icon][増井俊之.icon]",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "機械的に作られた大量のリンク[yuta0801.icon][増井俊之.icon][45Nuyagawa.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1606236274,
-      "updated": 1610924386
+      "updated": 1618017419
     },
     {
       "id": "5fbd3b0c4daa920000bc1967",
@@ -255,6 +381,13 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1606236940,
       "updated": 1610867639
+    },
+    {
+      "id": "60695715dd60be00004d74b9",
+      "text": " \t行政の書類とかで、PDFのファイル名が解読不能な文字の羅列だったとき（それもめっちゃ長い）にすごい残念な気持ちになる",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617516308,
+      "updated": 1617516839
     },
     {
       "id": "5fbd3b254daa920000bc196a",
@@ -272,10 +405,10 @@
     },
     {
       "id": "5fbd94394daa9200005cc367",
-      "text": "あいうえお配列、abce配列の(仮想)キーボード[yuta0801.icon][takker.icon][MISONLN41.icon]",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "あいうえお配列、abce配列の(仮想)キーボード[yuta0801.icon][takker.icon][MISONLN41.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1606259770,
-      "updated": 1610869072
+      "updated": 1617984007
     },
     {
       "id": "5fbd94534daa9200005cc368",
@@ -409,6 +542,20 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606339343,
       "updated": 1610867639
+    },
+    {
+      "id": "60695777dd60be00004d74ba",
+      "text": "  \tPWAも、初見だと「ん？」となった[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617516405,
+      "updated": 1617516424
+    },
+    {
+      "id": "6070186e1280f00000baec1f",
+      "text": "  \t なにか違和感があるのですか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959022,
+      "updated": 1617959028
     },
     {
       "id": "5fbf0fd74daa920000180aa7",
@@ -565,6 +712,13 @@
       "updated": 1610867674
     },
     {
+      "id": "607033a5246f5900002f8044",
+      "text": " \t[簡単にできます]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617965990,
+      "updated": 1617965995
+    },
+    {
       "id": "5fbd8cc4d43875000051c7f2",
       "text": " まず説明がPDFだけ",
       "userId": "5fa258bdb102120024d43875",
@@ -706,10 +860,10 @@
     },
     {
       "id": "6003e6411280f00000672040",
-      "text": "  記号を使わせろ[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "  記号を使わせろ[takker.icon][yosider.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1610868289,
-      "updated": 1610868294
+      "updated": 1617984243
     },
     {
       "id": "6003e4481280f00000671fa5",
@@ -748,10 +902,10 @@
     },
     {
       "id": "6003e45b1280f00000671fee",
-      "text": "執拗に登録を求めてくるサイト[kuuote.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "執拗に登録を求めてくるサイト[kuuote.icon][sta.icon][yosider.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1610867804,
-      "updated": 1610869142
+      "updated": 1617599547
     },
     {
       "id": "6003e45b1280f00000671fef",
@@ -808,6 +962,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610867804,
       "updated": 1610867804
+    },
+    {
+      "id": "6069595e79d3a90000904444",
+      "text": " 実はTwitterも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617516895,
+      "updated": 1617516898
     },
     {
       "id": "6003e45b1280f00000671ff7",
@@ -887,6 +1048,62 @@
       "updated": 1610868144
     },
     {
+      "id": "607019401280f00000baec69",
+      "text": "「今すぐ使う」じゃなくて「今すぐ話を聞く」[kuuote.icon][dnin.icon][erniogi.icon][sta.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959232,
+      "updated": 1617959304
+    },
+    {
+      "id": "607019561280f00000baec6a",
+      "text": " from [Nerve]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959255,
+      "updated": 1617959295
+    },
+    {
+      "id": "6070197b1280f00000baec6b",
+      "text": " とりあえず使ってみる、ではなく「[今すぐ話を聞く]」なのでnot for meだなってなった[kuuote.icon][dnin.icon][erniogi.icon][sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959292,
+      "updated": 1617959293
+    },
+    {
+      "id": "6070197c1280f00000baec6c",
+      "text": "  ツールを使ってみたいだけなのでなんで人の話など聞かないとならんのだ[kuuote.icon][erniogi.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959293,
+      "updated": 1617959293
+    },
+    {
+      "id": "6070197c1280f00000baec6d",
+      "text": "  テキストコミュニケーションのツールなのにZoomによる音声会話から始まるんかい[dnin.icon][kuuote.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959293,
+      "updated": 1617959293
+    },
+    {
+      "id": "60d3c1801280f00000a206eb",
+      "text": "[登録しないと中身が見えないツール][takker.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1624490369,
+      "updated": 1624500763
+    },
+    {
+      "id": "60d3c1861280f00000a206ed",
+      "text": " ツールの使用感や雰囲気を気軽に試せない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624490376,
+      "updated": 1624490398
+    },
+    {
+      "id": "60d3c19d1280f00000a206ee",
+      "text": " Twitterやscrapboxなんかはlogin せずとも閲覧できるので雰囲気をつかめる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624490398,
+      "updated": 1624490434
+    },
+    {
       "id": "6003e4721280f00000672016",
       "text": "状態により要素が移動するUI[kuuote.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -927,6 +1144,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614966792,
       "updated": 1614966819
+    },
+    {
+      "id": "607018f71280f00000baec68",
+      "text": "\t何そのトラップ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959159,
+      "updated": 1617959165
     },
     {
       "id": "5fbdcab44bb2e2000046ab3d",
@@ -1140,17 +1364,10 @@
     },
     {
       "id": "6003e4681280f00000672005",
-      "text": " [スクロール]できるようにしる!",
+      "text": " [スクロール]できるようにしろ!",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610867816,
-      "updated": 1610867816
-    },
-    {
-      "id": "6004c1c28ee92a00005d9004",
-      "text": "テキストをコピーできないWebページ [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610924482,
-      "updated": 1610924507
+      "updated": 1617959339
     },
     {
       "id": "6003e58a1280f00000672038",
@@ -1266,10 +1483,10 @@
     },
     {
       "id": "5fd3a2504daa92000006de08",
-      "text": "  そもそもこの仕様自体がCOPPAあたりのせいなのでは？",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "  そもそもこの仕様自体が[COPPA]あたりのせいなのでは？",
+      "userId": "6127807d271b6b001dcc6086",
       "created": 1607705166,
-      "updated": 1610867742
+      "updated": 1631515420
     },
     {
       "id": "5fd3a26d4daa92000006de09",
@@ -1519,9 +1736,9 @@
     {
       "id": "5fd70352d438750000d78f60",
       "text": "   [和文和訳]",
-      "userId": "5fa258bdb102120024d43875",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1607926611,
-      "updated": 1610867728
+      "updated": 1619709865
     },
     {
       "id": "6003e73de5172d0000cc49a8",
@@ -1532,10 +1749,10 @@
     },
     {
       "id": "600ecacc4bb2e20000a62715",
-      "text": "ユーザーをブロックするチュートリアル[kuuote.icon][yosider.icon][takker.icon][sta.icon][erniogi.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "[ユーザーをブロックするチュートリアル][kuuote.icon][yosider.icon][takker.icon][sta.icon][erniogi.icon][dnin.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1611582044,
-      "updated": 1615278077
+      "updated": 1631521917
     },
     {
       "id": "600ecad84bb2e20000a62716",
@@ -1560,10 +1777,10 @@
     },
     {
       "id": "5fd0fcc81280f000002bd930",
-      "text": "ログイン時のエラーメッセージが嘘をつくor明らかにヒント足りない[sta.icon][kuuote.icon][yosider.icon][erniogi.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "ログイン時のエラーメッセージが嘘をつくor明らかにヒント足りない[sta.icon][kuuote.icon][yosider.icon][erniogi.icon][imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
       "created": 1607531720,
-      "updated": 1615278073
+      "updated": 1617532724
     },
     {
       "id": "601f8b5a79d3a900004f8c4e",
@@ -1573,11 +1790,60 @@
       "updated": 1612680039
     },
     {
+      "id": "6069a08dfd049e000019f985",
+      "text": " \t本当のことを教えると、それを手がかりに悪いことする人もいるので...(これはやりすぎかもですけど)[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617535117,
+      "updated": 1617535186
+    },
+    {
+      "id": "606997360684840000a20822",
+      "text": "会員登録時に[秘密の質問]の設定を強制される[imo.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617532728,
+      "updated": 1617959209
+    },
+    {
+      "id": "6069975b0684840000a20823",
+      "text": "\tApple IDの登録には「パスワードの設定」→「秘密の質問の設定」という手順が必要だった（らしい）",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617532764,
+      "updated": 1617533063
+    },
+    {
+      "id": "606997ae0684840000a20824",
+      "text": "\tらしい、というのはそもそも設定したか覚えていなかったので",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617532847,
+      "updated": 1617532943
+    },
+    {
+      "id": "606997ef0684840000a20825",
+      "text": "\t以前2段階認証を設定するときに秘密の質問の入力を求められてだいぶ参った",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617532912,
+      "updated": 1617534877
+    },
+    {
+      "id": "60699f9d06848400000ec241",
+      "text": "\t\tApple IDは秘密の質問をリセットするためには事前にメールアドレスを設定する必要があったらしく、それをしていなかった",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617534878,
+      "updated": 1617534929
+    },
+    {
+      "id": "606998dd0684840000a20828",
+      "text": "\t\tまあメモしていなかったのが悪いのだけれども…",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617533151,
+      "updated": 1617533160
+    },
+    {
       "id": "601f8b4b79d3a900004f8c4d",
-      "text": "解約しづらいやつ全般[sta.icon][kuuote.icon][yosider.icon][erniogi.icon][増井俊之.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "[解約]しづらいやつ全般[sta.icon][kuuote.icon][yosider.icon][erniogi.icon][増井俊之.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1612680013,
-      "updated": 1615294475
+      "updated": 1617966091
     },
     {
       "id": "601f8b9779d3a900004f8c50",
@@ -1595,10 +1861,129 @@
     },
     {
       "id": "601f8b9079d3a900004f8c4f",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "文字数制限のある住所入力[asaka_s.icon]",
+      "userId": "60634fe5518d3b0023e35cab",
       "created": 1612680082,
-      "updated": 1612680082
+      "updated": 1617517948
+    },
+    {
+      "id": "60695d66e35cab00002ab001",
+      "text": "\tマンション名とか入らない…",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617517927,
+      "updated": 1617517944
+    },
+    {
+      "id": "60695d80e35cab00002ab002",
+      "text": "全角ｏｎｌｙ[asaka_s.icon][yosider.icon][tetsuya-k.icon][U.icon][takker.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617517952,
+      "updated": 1617966023
+    },
+    {
+      "id": "60695de1e35cab00002ab003",
+      "text": "\tなぜこっちに強制させるんだろう？",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617518050,
+      "updated": 1617518076
+    },
+    {
+      "id": "60695dfce35cab00002ab004",
+      "text": "\t\t勝手に変換することを嫌がっているのか？",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617518076,
+      "updated": 1617518105
+    },
+    {
+      "id": "60695e18e35cab00002ab005",
+      "text": "\tそもそも全角しか受け付けない意味がわからない",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617518105,
+      "updated": 1617518120
+    },
+    {
+      "id": "6071a21eec4fce0000eabafa",
+      "text": "\t新聞社やテレビ局のＷｅｂニュースにありがちなやつだ...",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1618059809,
+      "updated": 1618059840
+    },
+    {
+      "id": "6071a2c6dd60be0000d3a354",
+      "text": "\t新聞の縦組みが全部全角で、そのテキストをそのままネットニュースに流したから全角のまま、というのはありそうですね[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1618059970,
+      "updated": 1618059974
+    },
+    {
+      "id": "6071a2cfdd60be0000d3a355",
+      "text": "\t\tじゃあなんでテレビ局のＷｅｂニュースは全角なんだろうか……",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1618059979,
+      "updated": 1618060028
+    },
+    {
+      "id": "60723d41fd049e000076d658",
+      "text": "\t\t[新聞社の全角英数字問題]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618099522,
+      "updated": 1618099533
+    },
+    {
+      "id": "606a9e71dd60be0000561652",
+      "text": "一覧が長すぎる[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617600110,
+      "updated": 1617600132
+    },
+    {
+      "id": "606a9e87dd60be0000561653",
+      "text": "\thttps://fm-goods.com/store_hololive_2/",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617600132,
+      "updated": 1617600132
+    },
+    {
+      "id": "607033d8246f5900002f8045",
+      "text": "\t[ページ内検索]とは相性が良い",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617966041,
+      "updated": 1617966050
+    },
+    {
+      "id": "60695d5be35cab00002ab000",
+      "text": "時間経過でログアウトするシステム[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617517916,
+      "updated": 1617959405
+    },
+    {
+      "id": "607019ed1280f00000baec6f",
+      "text": " てめーだよ[大学の連絡システム]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959405,
+      "updated": 1617959415
+    },
+    {
+      "id": "60703875e5172d00008d3db4",
+      "text": " 　ネットバンキングとかならまだしも、なんで大学の連絡システムがこうなってるんだろう[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617967222,
+      "updated": 1617967270
+    },
+    {
+      "id": "607038cbe5172d00008d3db5",
+      "text": " 　　[yosider.icon]が知っているやつも全部これ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617967307,
+      "updated": 1617967326
+    },
+    {
+      "id": "607019ea1280f00000baec6e",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617959402,
+      "updated": 1617959402
     },
     {
       "id": "5fbda080dd59fe00008a6592",

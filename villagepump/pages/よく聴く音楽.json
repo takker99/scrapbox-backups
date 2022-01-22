@@ -2,7 +2,7 @@
   "id": "5fba68ad1e6452001c774b5a",
   "title": "よく聴く音楽",
   "created": 1606052016,
-  "updated": 1616424371,
+  "updated": 1632196006,
   "lines": [
     {
       "id": "5fba68ad1e6452001c774b5a",
@@ -13,10 +13,10 @@
     },
     {
       "id": "60589604246f59000073ac01",
-      "text": "[おまかせ表示 https://idobata-diary.herokuapp.com/rpic/villagepump/よく聴く音楽]",
+      "text": "[おまかせ表示 https://idy.herokuapp.com/rpic/villagepump/よく聴く音楽]",
       "userId": "6055950b87138f0022246f59",
       "created": 1616418309,
-      "updated": 1616424371
+      "updated": 1618640665
     },
     {
       "id": "5fbb9731d438750000c91015",
@@ -531,10 +531,24 @@
     },
     {
       "id": "5fbba04a1d860a00007b1f39",
-      "text": "",
+      "text": "　　藤井風",
       "userId": "58e5636749e40700111d860a",
       "created": 1606131778,
-      "updated": 1606131778
+      "updated": 1616574730
+    },
+    {
+      "id": "605af9011d860a000017a898",
+      "text": "  YOASOBI",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1616574723,
+      "updated": 1616574827
+    },
+    {
+      "id": "605af9601d860a000017a89c",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1616574818,
+      "updated": 1616574818
     },
     {
       "id": "5fba73551d860a000070a1a0",
@@ -745,6 +759,27 @@
       "userId": "58e5636749e40700111d860a",
       "created": 1606054732,
       "updated": 1606054732
+    },
+    {
+      "id": "605af9261d860a000017a899",
+      "text": "　 上原ひろみ",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1616574759,
+      "updated": 1616574768
+    },
+    {
+      "id": "605af92f1d860a000017a89a",
+      "text": "　 Joshua Redman Quartet",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1616574769,
+      "updated": 1616574791
+    },
+    {
+      "id": "605af9481d860a000017a89b",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1616574793,
+      "updated": 1616574794
     },
     {
       "id": "5fba73551d860a000070a1ac",
@@ -1553,10 +1588,31 @@
     },
     {
       "id": "5fbb8dd0d438750000ef7c46",
-      "text": "[dnin.icon] [{ 順不同過ぎるので後でソートするかも]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1606127058,
-      "updated": 1613112355
+      "updated": 1621247184
+    },
+    {
+      "id": "60a063ac246f5900000cdc15",
+      "text": "　Buttertones",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621124028,
+      "updated": 1621247164
+    },
+    {
+      "id": "60ae408b246f590000889b54",
+      "text": "　[Everything You Do Is A Balloon - Boards of Canada]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622032523,
+      "updated": 1622032537
+    },
+    {
+      "id": "608caf83246f590000e60df3",
+      "text": "　[Buena Vista Social Club - Chan Chan]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619832709,
+      "updated": 1619832710
     },
     {
       "id": "5fbb8dd1d438750000ef7c47",
@@ -2134,10 +2190,10 @@
     },
     {
       "id": "5fbb9a9ad438750000c91031",
-      "text": "　大森靖子 ",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "　大森靖子 [p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
       "created": 1606130331,
-      "updated": 1606130465
+      "updated": 1632102313
     },
     {
       "id": "60056324d43875000044ef1b",
@@ -2560,6 +2616,13 @@
       "updated": 1610967486
     },
     {
+      "id": "605af9df1d860a000017a89d",
+      "text": "   え？？そちらにも精通されているのですか！！",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1616574944,
+      "updated": 1616574971
+    },
+    {
       "id": "6005674c8ee92a00005d901e",
       "text": " [/Jazz]",
       "userId": "566fa156776c9b11008ee92a",
@@ -2670,6 +2733,181 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1611590282,
       "updated": 1611590282
+    },
+    {
+      "id": "6147e8aa055332000007d6dd",
+      "text": "[p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1632102570,
+      "updated": 1632102570
+    },
+    {
+      "id": "6147e883055332000007d6da",
+      "text": "[Spotify]ならコラボプレイリストという形で共同編集できるからこんな入れ物作って好きな曲入れていくの面白そうだなって思った",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1632102532,
+      "updated": 1632102569
+    },
+    {
+      "id": "6147e884055332000007d6db",
+      "text": "https://open.spotify.com/playlist/2uOyQytSjDq9GF5z1RJj5w?si=e73cac2a2a294f7a",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1632102532,
+      "updated": 1632102532
+    },
+    {
+      "id": "6147e8ad055332000007d6de",
+      "text": "\t　（いざ追加しようと思うと迷うけど）",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1632102574,
+      "updated": 1632102584
+    },
+    {
+      "id": "6147e884055332000007d6dc",
+      "text": "  おもしろそう！ ぜひ聴いてみたいなー！ [tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1632102532,
+      "updated": 1632104311
+    },
+    {
+      "id": "6147ef5afd049e0000f9eee6",
+      "text": "",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1632104283,
+      "updated": 1632104283
+    },
+    {
+      "id": "614844c49a4352000089c1d1",
+      "text": "[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632126156,
+      "updated": 1632126162
+    },
+    {
+      "id": "614844ca9a4352000089c1d2",
+      "text": "スウェーデン/フィンランドのメロデスが大好きです。",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632126162,
+      "updated": 1632126184
+    },
+    {
+      "id": "614844d99a4352000089c1d4",
+      "text": "　Arch enemy/nemesis",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632126178,
+      "updated": 1632195929
+    },
+    {
+      "id": "614955509a43520000bbb38e",
+      "text": "　Children of bodom/needled 24/7",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195929,
+      "updated": 1632195951
+    },
+    {
+      "id": "614955419a43520000bbb38b",
+      "text": "テクノも好んで聴きます",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195914,
+      "updated": 1632195920
+    },
+    {
+      "id": "614955679a43520000bbb38f",
+      "text": " YMO",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195952,
+      "updated": 1632195956
+    },
+    {
+      "id": "6149556b9a43520000bbb390",
+      "text": " Chemical brothers",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195956,
+      "updated": 1632195960
+    },
+    {
+      "id": "6149556f9a43520000bbb391",
+      "text": "メロデス以外のフィンランドのメタルもいっぱい聴きます",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195960,
+      "updated": 1632195970
+    },
+    {
+      "id": "614955789a43520000bbb392",
+      "text": "\tBeast in black",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195970,
+      "updated": 1632195975
+    },
+    {
+      "id": "6149557d9a43520000bbb393",
+      "text": "\tkorpiklaani",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195975,
+      "updated": 1632196006
+    },
+    {
+      "id": "614955479a43520000bbb38c",
+      "text": "",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632195920,
+      "updated": 1632195920
+    },
+    {
+      "id": "614844ce9a4352000089c1d3",
+      "text": "",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1632126166,
+      "updated": 1632126166
+    },
+    {
+      "id": "614883e5d1a02f0000e6e829",
+      "text": "[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142310,
+      "updated": 1632142314
+    },
+    {
+      "id": "614883ecd1a02f0000e6e82d",
+      "text": "\t[Hotel California]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142318,
+      "updated": 1632142318
+    },
+    {
+      "id": "614883ecd1a02f0000e6e82e",
+      "text": "\t[RYDEEN]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142318,
+      "updated": 1632142340
+    },
+    {
+      "id": "614883ecd1a02f0000e6e82f",
+      "text": "\t[TECHNOPOLIS]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142318,
+      "updated": 1632142360
+    },
+    {
+      "id": "614883ecd1a02f0000e6e830",
+      "text": "\t[コンドルは飛んでいく]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142318,
+      "updated": 1632142376
+    },
+    {
+      "id": "614883ecd1a02f0000e6e831",
+      "text": "\t[元祖天才バカボンの春]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142318,
+      "updated": 1632142318
+    },
+    {
+      "id": "6148843ed1a02f0000e6e833",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632142400,
+      "updated": 1632142402
     }
   ]
 }

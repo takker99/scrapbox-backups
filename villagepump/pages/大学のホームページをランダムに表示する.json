@@ -2,7 +2,7 @@
   "id": "6056a89c67aee900214124b5",
   "title": "大学のホームページをランダムに表示する",
   "created": 1616291998,
-  "updated": 1616433638,
+  "updated": 1625355397,
   "lines": [
     {
       "id": "6056a89c67aee900214124b5",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6056a89e246f590000512b91",
-      "text": "https://daigaku.darui.ninja",
+      "text": "https://idy.herokuapp.com/daigaku",
       "userId": "6055950b87138f0022246f59",
       "created": 1616291999,
-      "updated": 1616424657
+      "updated": 1618640021
     },
     {
       "id": "6056a8aa246f590000512b93",
@@ -45,13 +45,6 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1616292060,
       "updated": 1616292065
-    },
-    {
-      "id": "6056b162246f590000f9149b",
-      "text": "[d.txt https://gist.github.com/dnin/2106e0f28c50b1784a5fe57e595037e9]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616294242,
-      "updated": 1616294245
     },
     {
       "id": "6056a8e0246f590000512b96",
@@ -201,20 +194,6 @@
       "updated": 1616294166
     },
     {
-      "id": "6056af27246f590000512ba9",
-      "text": "大学URLリストは[ここ https://gist.github.com/dnin/2b417db0404a40ab12f843f6cda84461]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616293672,
-      "updated": 1616294295
-    },
-    {
-      "id": "6056af18246f590000512ba8",
-      "text": " PR大歓迎",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616293656,
-      "updated": 1616299432
-    },
-    {
       "id": "6056af2f246f590000512baa",
       "text": "",
       "userId": "6055950b87138f0022246f59",
@@ -230,10 +209,17 @@
     },
     {
       "id": "6058d1ecb3e7ed00001d13b5",
-      "text": "",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": "　　[U.icon]",
+      "userId": "5f16f6af405d31002403b210",
       "created": 1616433637,
-      "updated": 1616433637
+      "updated": 1616459263
+    },
+    {
+      "id": "605935fd03b21000000374a5",
+      "text": "",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1616459262,
+      "updated": 1616459262
     }
   ]
 }

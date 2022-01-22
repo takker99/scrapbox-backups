@@ -2,7 +2,7 @@
   "id": "5fcacae5b82dba001f2ea7e2",
   "title": "複数のprojectを透過的に扱う",
   "created": 1607125741,
-  "updated": 1613062365,
+  "updated": 1623492552,
   "lines": [
     {
       "id": "5fcacae5b82dba001f2ea7e2",
@@ -117,11 +117,60 @@
       "updated": 1607125806
     },
     {
+      "id": "60c4875e1280f0000031743f",
+      "text": " リンクをつなげる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492448,
+      "updated": 1623492454
+    },
+    {
+      "id": "60c487451280f0000031743d",
+      "text": "  [ScrapBubble]@0.2.0以降を使う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492423,
+      "updated": 1623492455
+    },
+    {
+      "id": "60c487961280f00000317444",
+      "text": "  つなげ方を従来のIndexed DBを使った方法から変更して、即時に外部project同士を同じprojectであるかのように扱えるようになった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492504,
+      "updated": 1623492549
+    },
+    {
+      "id": "60c487661280f00000317440",
+      "text": " 入力補完をつなげる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492457,
+      "updated": 1623492462
+    },
+    {
+      "id": "60c4876c1280f00000317441",
+      "text": "  [external-completion]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492462,
+      "updated": 1623492465
+    },
+    {
+      "id": "60c4876f1280f00000317442",
+      "text": "  最新のbeta版はバグったまま放置してる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492465,
+      "updated": 1623492480
+    },
+    {
+      "id": "60c4877e1280f00000317443",
+      "text": "   近いうちに直すつもり[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623492480,
+      "updated": 1623492493
+    },
+    {
       "id": "5fcacb2e1280f00000bfbb0a",
-      "text": "\t以下の3つを組み合わせる",
+      "text": "\t[- 以下の3つを組み合わせる]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607125806,
-      "updated": 1607125833
+      "updated": 1623492429
     },
     {
       "id": "5fcacb481280f00000bfbb0b",

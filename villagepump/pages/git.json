@@ -2,7 +2,7 @@
   "id": "600727c6f7268e002290baed",
   "title": "git",
   "created": 1611081674,
-  "updated": 1611134072,
+  "updated": 1630989050,
   "lines": [
     {
       "id": "600727c6f7268e002290baed",
@@ -38,13 +38,6 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1611111901,
       "updated": 1611130117
-    },
-    {
-      "id": "6007e4d479d3a900005a2ecd",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1611130069,
-      "updated": 1611130069
     }
   ]
 }

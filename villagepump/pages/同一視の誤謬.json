@@ -2,7 +2,7 @@
   "id": "5fa3b00f883f5b001e9d9566",
   "title": "同一視の誤謬",
   "created": 1604562965,
-  "updated": 1605652927,
+  "updated": 1629580996,
   "lines": [
     {
       "id": "5fa3b00f883f5b001e9d9566",
@@ -101,6 +101,27 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1605652096,
       "updated": 1605652096
+    },
+    {
+      "id": "61216e5a8ee92a0000849bce",
+      "text": "[https://www.amazon.co.jp/dp/4163914072 Humankind 希望の歴史]によれば、人間は「他人はみんな悪人だ」と思ってるものらしい [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629580890,
+      "updated": 1629580949
+    },
+    {
+      "id": "61216e5f8ee92a0000849bcf",
+      "text": " 実際はそうではないのだから、そういう前提で行動するのは間違っているとのこと",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629580895,
+      "updated": 1629580978
+    },
+    {
+      "id": "61216e588ee92a0000849bcd",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629580889,
+      "updated": 1629580889
     }
   ]
 }

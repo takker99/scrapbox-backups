@@ -1,0 +1,547 @@
+{
+  "id": "60739678f771dd0023080a7a",
+  "title": "ScrapGames",
+  "created": 1618187901,
+  "updated": 1631435320,
+  "lines": [
+    {
+      "id": "60739678f771dd0023080a7a",
+      "text": "ScrapGames",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618187901,
+      "updated": 1618187901
+    },
+    {
+      "id": "60969272e5172d00008c5c4b",
+      "text": "Scrapbox上で[ゲーム]をするとしたら？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480627,
+      "updated": 1620481154
+    },
+    {
+      "id": "6073967e246f5900003d70ea",
+      "text": " [人狼ゲーム]とかできそう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618187901,
+      "updated": 1620480850
+    },
+    {
+      "id": "60739967fd049e000016bf12",
+      "text": " \tログが残るから狼さんが辛いかもしれませんね（[テキストセッション]でやったりもするのかな？）[tetsuya-k.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618188648,
+      "updated": 1620480850
+    },
+    {
+      "id": "609692cee5172d0000e6a3b0",
+      "text": " [素数大富豪]やりたい[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480718,
+      "updated": 1620480850
+    },
+    {
+      "id": "609692ece5172d0000e6a404",
+      "text": " [じゃんけん]",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1620480748,
+      "updated": 1626426136
+    },
+    {
+      "id": "609692ece5172d0000e6a405",
+      "text": " [Scrapboxで早押しクイズ]",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1620480748,
+      "updated": 1631229580
+    },
+    {
+      "id": "613a981bcc60860000f767aa",
+      "text": " 競技プログラミング",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631229980,
+      "updated": 1631229982
+    },
+    {
+      "id": "609692ece5172d0000e6a406",
+      "text": " 鬼ごっこ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480748,
+      "updated": 1620480850
+    },
+    {
+      "id": "6128cb0379d3a90000b03eb4",
+      "text": "  カーソル位置を判定して、重なったらアウト？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630063365,
+      "updated": 1630063368
+    },
+    {
+      "id": "6128cb1579d3a90000b03eb6",
+      "text": "  同じ行……はすぐ重なるからゲーム成立しないか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630063382,
+      "updated": 1630063391
+    },
+    {
+      "id": "609693d6e5172d0000ae681f",
+      "text": " [将棋]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480982,
+      "updated": 1620480982
+    },
+    {
+      "id": "609692ece5172d0000e6a409",
+      "text": " トランプ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480748,
+      "updated": 1620480850
+    },
+    {
+      "id": "609692ece5172d0000e6a40a",
+      "text": " エアホッケー",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480748,
+      "updated": 1620480850
+    },
+    {
+      "id": "609692ece5172d0000e6a40b",
+      "text": "  !?",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480748,
+      "updated": 1620480850
+    },
+    {
+      "id": "609692ece5172d0000e6a40c",
+      "text": " クレペリン検査",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480748,
+      "updated": 1620480850
+    },
+    {
+      "id": "609692ece5172d0000e6a40d",
+      "text": " （ゲームか微妙だが）[リレー小説]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480748,
+      "updated": 1620480850
+    },
+    {
+      "id": "6096959579e113000001ddde",
+      "text": " [ワードウルフ]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620481429,
+      "updated": 1620481432
+    },
+    {
+      "id": "60969817246f59000026e583",
+      "text": " [○×ゲーム.001]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620482072,
+      "updated": 1620528958
+    },
+    {
+      "id": "6128c3d1d0ca1c0000c152bb",
+      "text": " ゾーク",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061521,
+      "updated": 1630061524
+    },
+    {
+      "id": "6128cb8b79d3a90000b03eb9",
+      "text": " [Drawing]で[お絵かきクイズ]的な",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1630063501,
+      "updated": 1631230009
+    },
+    {
+      "id": "6128e29ffd049e00000f79d5",
+      "text": " \t面白そう[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630069407,
+      "updated": 1630069410
+    },
+    {
+      "id": "61292e5d32ef920000668a4f",
+      "text": " [宝探し]",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1630088798,
+      "updated": 1630088809
+    },
+    {
+      "id": "613bf98279d3a90000254d82",
+      "text": "\tカードゲーム",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631320451,
+      "updated": 1631320453
+    },
+    {
+      "id": "613b83c5aff09e000059db7e",
+      "text": "  [/nishio/パスタロジック]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631290310,
+      "updated": 1631320454
+    },
+    {
+      "id": "613b83c7aff09e000059db7f",
+      "text": "  　秘密情報がないしターン性だから普通に遊べる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631290311,
+      "updated": 1631320454
+    },
+    {
+      "id": "613b83dcaff09e000059db80",
+      "text": "  　カードをシャッフルして並べてくれるUserScriptがあれば良いか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631290332,
+      "updated": 1631320454
+    },
+    {
+      "id": "613b83f3aff09e000059db81",
+      "text": "  　[パスタロジック実験]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631290355,
+      "updated": 1631320454
+    },
+    {
+      "id": "613dba2a79d3a900007d3b28",
+      "text": "\t一人用ゲームを「みんなで同時に解いて」一番早くできた人が勝ち、的な路線",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631435306,
+      "updated": 1631435306
+    },
+    {
+      "id": "613dba2b79d3a900007d3b29",
+      "text": "\t\t一人用ゲーム案",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631435309,
+      "updated": 1631435317
+    },
+    {
+      "id": "60969280e5172d00008c5c4c",
+      "text": "\t\t\t[Mastermind]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620480640,
+      "updated": 1631435317
+    },
+    {
+      "id": "613db9fd79d3a900007d3b25",
+      "text": "\t\t",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631435262,
+      "updated": 1631435320
+    },
+    {
+      "id": "613dba3679d3a900007d3b2a",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631435319,
+      "updated": 1631435319
+    },
+    {
+      "id": "60739680246f5900003d70eb",
+      "text": "[Scrapbox]だからこそ向いてるゲームってなんだろう",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618187904,
+      "updated": 1618188724
+    },
+    {
+      "id": "60739694246f5900003d70ec",
+      "text": "\t[TRPG]とか向いているのでは？ってすこし思っています[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618187923,
+      "updated": 1618188701
+    },
+    {
+      "id": "609693c1e5172d0000ae67eb",
+      "text": "\t[非同期でできるゲーム]ならできそう[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480961,
+      "updated": 1620480974
+    },
+    {
+      "id": "6073a082246f590000ba435b",
+      "text": " [同時編集]を利用して何か対戦ができそうな気がする……[sta.icon][U.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618190465,
+      "updated": 1620481020
+    },
+    {
+      "id": "60816f11246f5900002fb45d",
+      "text": " カーソルの動きを捉えてなんかする",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619095313,
+      "updated": 1620480858
+    },
+    {
+      "id": "6082198dfd049e0000fedb9e",
+      "text": " \t斬新ですね。何かありそう[tetsuya-k.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619138958,
+      "updated": 1620480858
+    },
+    {
+      "id": "6082b51c55cbd30000af6bf2",
+      "text": " [マジカルバナナ]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619178780,
+      "updated": 1620480858
+    },
+    {
+      "id": "6082b52055cbd30000af6bf3",
+      "text": " 　「Aと言ったらB」で延々とページ量産していく",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619178785,
+      "updated": 1620480858
+    },
+    {
+      "id": "613b82f7aff09e000059db7c",
+      "text": " 　このスタイルでしりとりをしたら同じ単語を2回使った時にすぐ判定できる！！[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1631290103,
+      "updated": 1631290133
+    },
+    {
+      "id": "6096937be5172d00008c5c7b",
+      "text": " [井戸端大喜利ゲーム]を（いい感じにできそうなら）実装してみたいと思いました[tetsuya-k.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480891,
+      "updated": 1620480891
+    },
+    {
+      "id": "60969649fd049e0000f3bdf0",
+      "text": " \tいい感じにできなさそうなので諦め気味",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1620481610,
+      "updated": 1620481617
+    },
+    {
+      "id": "6096936ae5172d00008c5c5d",
+      "text": " [Scrapbox麻雀]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480874,
+      "updated": 1620480874
+    },
+    {
+      "id": "609693d3e5172d0000ae680a",
+      "text": " パラメータを各自で設定して、自動で対戦するシステムいいかも[yosider.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620480979,
+      "updated": 1626439104
+    },
+    {
+      "id": "609693d3e5172d0000ae680b",
+      "text": " 　[http://kimama.sakura.ne.jp/gekipawa6/ 劇空間ぱわふるリーグ6]から連想（自動で対戦じゃないけど）",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480979,
+      "updated": 1620480979
+    },
+    {
+      "id": "613bfac679d3a90000254d8d",
+      "text": " 　戦闘力の概念は使えないか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631320775,
+      "updated": 1631320775
+    },
+    {
+      "id": "613bfac679d3a90000254d8e",
+      "text": "   [GitHub戦闘力]みたいなイメージ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631320775,
+      "updated": 1631320775
+    },
+    {
+      "id": "613bfac679d3a90000254d8f",
+      "text": " [競技Wikipedia https://www.youtube.com/watch?v=my2WJHHjTRc]できそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631320775,
+      "updated": 1631320776
+    },
+    {
+      "id": "6096929fe5172d0000e6a3a6",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480672,
+      "updated": 1620480685
+    },
+    {
+      "id": "6128c30fd0ca1c0000c152b1",
+      "text": "　ゲームで使えそうなScrapboxらしい要素",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061328,
+      "updated": 1630061336
+    },
+    {
+      "id": "6128c318d0ca1c0000c152b3",
+      "text": "　　ページ削除",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061336,
+      "updated": 1630061339
+    },
+    {
+      "id": "6128c33fd0ca1c0000c152b8",
+      "text": "　　　今いるページが消えたら負け、みたいな",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061376,
+      "updated": 1630061480
+    },
+    {
+      "id": "6128c31bd0ca1c0000c152b4",
+      "text": "　　リンク一括置換",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061339,
+      "updated": 1630061346
+    },
+    {
+      "id": "6128c349d0ca1c0000c152b9",
+      "text": "　　　ゲームのルールがいきなり変わるみたいな",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061385,
+      "updated": 1630061397
+    },
+    {
+      "id": "6128c322d0ca1c0000c152b5",
+      "text": "　　Stream",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061346,
+      "updated": 1630061352
+    },
+    {
+      "id": "6128c328d0ca1c0000c152b6",
+      "text": "　　　ゲームマスターだけは見ていいみたいな",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061353,
+      "updated": 1630061357
+    },
+    {
+      "id": "6128c330d0ca1c0000c152b7",
+      "text": "　　　他の人は見ないで、ページ間をさまよう",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061361,
+      "updated": 1630061370
+    },
+    {
+      "id": "6128c5491280f00000222ad5",
+      "text": "　　　カーソル探しに使えそう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061897,
+      "updated": 1630061902
+    },
+    {
+      "id": "6128c54e1280f00000222ad6",
+      "text": "　　　 カーソルかくれんぼ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061902,
+      "updated": 1630061924
+    },
+    {
+      "id": "6128c5641280f00000222ad7",
+      "text": "　　　  隠れる人は任意のページにカーソルを置く",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061924,
+      "updated": 1630061934
+    },
+    {
+      "id": "6128c56e1280f00000222ad8",
+      "text": "　　　  　どんどんページを飛んでいい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061934,
+      "updated": 1630061946
+    },
+    {
+      "id": "6128c5791280f00000222ad9",
+      "text": "　　　  鬼はどこかのページにいるカーソルを探す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061946,
+      "updated": 1630061959
+    },
+    {
+      "id": "6128c59f1280f00000222adc",
+      "text": "　　　  これだけだと超絶難しいから、何か一捻り入れたいな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061983,
+      "updated": 1630061998
+    },
+    {
+      "id": "6128c5ad1280f00000222add",
+      "text": "　　　   隠れる人は必ずページを更新しないといけないとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630061998,
+      "updated": 1630062013
+    },
+    {
+      "id": "6128e87fe5172d0000a73020",
+      "text": "　　　   そのページからリンクしてるページにしか飛べないとか[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630070911,
+      "updated": 1630070924
+    },
+    {
+      "id": "6128c3b8d0ca1c0000c152ba",
+      "text": "　　複数プロジェクト",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061496,
+      "updated": 1630061499
+    },
+    {
+      "id": "6128c3e4d0ca1c0000c152bc",
+      "text": "　　　このページを探せ！みたいな？",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630061541,
+      "updated": 1630061549
+    },
+    {
+      "id": "6128e8e3e5172d0000a73021",
+      "text": "　　　あるテーマに沿ったページをできるだけたくさん集めてくるとか[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630071011,
+      "updated": 1630071033
+    },
+    {
+      "id": "6128e8f9e5172d0000a73022",
+      "text": "　　　　内容だと全文検索で集められてしまうので、ページの書き方とか言葉遣いみたいなメタなテーマ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630071033,
+      "updated": 1630071086
+    },
+    {
+      "id": "6128cb4879d3a90000b03eb8",
+      "text": " ゲームブックとかはかなりマッチしてると思う[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1630063434,
+      "updated": 1631294368
+    },
+    {
+      "id": "613b93a0385a92000039dada",
+      "text": " 　選択肢に応じて進めていくやつ",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631294368,
+      "updated": 1631294378
+    },
+    {
+      "id": "613b93c0385a92000039dadc",
+      "text": " 　 CSS使ってネタバレしないようにカードを隠して",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631294400,
+      "updated": 1631294415
+    },
+    {
+      "id": "613bfa5679d3a90000254d84",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631320662,
+      "updated": 1631320770
+    },
+    {
+      "id": "60969383e5172d00008c5c7c",
+      "text": "from [2021/04/11#60969294e5172d0000ae67e5]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480899,
+      "updated": 1620480930
+    },
+    {
+      "id": "60969385e5172d00008c5c7d",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620480902,
+      "updated": 1620480902
+    }
+  ]
+}

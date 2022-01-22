@@ -2,7 +2,7 @@
   "id": "5fc1a4905e2964001e10b395",
   "title": "自動思考",
   "created": 1606526103,
-  "updated": 1613735404,
+  "updated": 1618674774,
   "lines": [
     {
       "id": "5fc1a4905e2964001e10b395",
@@ -17,6 +17,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1606526105,
       "updated": 1606526636
+    },
+    {
+      "id": "607b040efd049e000055cbfe",
+      "text": "\t[認知行動療法]の理論で登場する概念。辛くなった時に頭に浮かぶ考えやイメージのこと([URL http://www.ginzataimei.com/menu/ct/])",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618674703,
+      "updated": 1618674774
     },
     {
       "id": "5fc1a6acd43875000047deb7",

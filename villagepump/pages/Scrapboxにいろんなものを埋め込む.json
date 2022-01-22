@@ -2,7 +2,7 @@
   "id": "600d21d0b83783001c7a6f34",
   "title": "Scrapboxにいろんなものを埋め込む",
   "created": 1611473362,
-  "updated": 1612074926,
+  "updated": 1632794357,
   "lines": [
     {
       "id": "600d21d0b83783001c7a6f34",
@@ -26,11 +26,67 @@
       "updated": 1611709350
     },
     {
-      "id": "600d22f01280f00000933edb",
+      "id": "61514d3c79e1130000469f5d",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632718141,
+      "updated": 1632718141
+    },
+    {
+      "id": "61514d3c79e1130000469f5e",
+      "text": " 20210927 Chromeだと出来なくなっているみたい?[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632718141,
+      "updated": 1632738319
+    },
+    {
+      "id": "61514d4979e1130000469f5f",
+      "text": "  [https://gyazo.com/26ce2405131d2dfad300782944efcfe6]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632718153,
+      "updated": 1632718165
+    },
+    {
+      "id": "61514d5579e1130000469f60",
+      "text": "  Firefoxだと依然埋め込める[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632718165,
+      "updated": 1632729474
+    },
+    {
+      "id": "615179831280f0000077813e",
+      "text": "   [https://gyazo.com/e82a14b13126e32b963f340a1afdb667]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632729475,
+      "updated": 1632729475
+    },
+    {
+      "id": "615276d71280f00000ca714e",
+      "text": "  あー、[frame-src]に引っかかるのか[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632794327,
+      "updated": 1632794346
+    },
+    {
+      "id": "615276dd1280f00000ca714f",
+      "text": "   code:txt",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632794335,
+      "updated": 1632794336
+    },
+    {
+      "id": "615276e01280f00000ca7150",
+      "text": "    Refused to frame 'https://embed.nicovideo.jp/' because it violates the following Content Security Policy directive: \"frame-src 'self' www.google.com www.youtube.com player.vimeo.com translation.helpfeel.com js.stripe.com\".",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632794336,
+      "updated": 1632794337
+    },
+    {
+      "id": "615276ec1280f00000ca7151",
       "text": "",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611473649,
-      "updated": 1611473649
+      "created": 1632794348,
+      "updated": 1632794348
     },
     {
       "id": "600d21e81280f00000933ece",
@@ -205,7 +261,7 @@
       "text": "   <iframe src=\"https://calendar.google.com/calendar/embed?${params}\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611889734,
-      "updated": 1611893122
+      "updated": 1621916733
     },
     {
       "id": "60137c451280f00000eacb30",
@@ -255,6 +311,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611890813,
       "updated": 1611890813
+    },
+    {
+      "id": "60ac869279e113000066d0a2",
+      "text": "[ScrapboxにScrapboxを埋め込む]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1621919380,
+      "updated": 1621919392
+    },
+    {
+      "id": "60ac869e79e113000066d0a4",
+      "text": "　昔、タイトルが特定の条件にマッチしたら同名のprivateプロジェクトをiframeで埋め込むUserscriptをつくった[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1621919392,
+      "updated": 1625368203
+    },
+    {
+      "id": "60ac86b879e113000066d0a5",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1621919418,
+      "updated": 1621919418
     }
   ]
 }

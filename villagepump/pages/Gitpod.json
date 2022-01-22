@@ -2,7 +2,7 @@
   "id": "5fd0f113ed8d5a0022b6a2b6",
   "title": "Gitpod",
   "created": 1607528737,
-  "updated": 1610111042,
+  "updated": 1631836548,
   "lines": [
     {
       "id": "5fd0f113ed8d5a0022b6a2b6",
@@ -40,6 +40,13 @@
       "updated": 1610110939
     },
     {
+      "id": "611bbd9511050000009aebcc",
+      "text": "  拡張機能は割と動く",
+      "userId": "6118e67f8e5974001d110500",
+      "created": 1629207957,
+      "updated": 1629207963
+    },
+    {
       "id": "5fd0f1f8ec4fce000065c5aa",
       "text": " 中身はDockerらしい",
       "userId": "5da3a9589b96b70017ec4fce",
@@ -75,6 +82,41 @@
       "updated": 1607528843
     },
     {
+      "id": "6143d912cc60860000c916ce",
+      "text": " VSCodeの設定はリポジトリ・インスタンス間で共有されるっぽい",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631836435,
+      "updated": 1631836435
+    },
+    {
+      "id": "6143d913cc60860000c916cf",
+      "text": " 低スペックなFire 7でも動作した",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631836435,
+      "updated": 1631836435
+    },
+    {
+      "id": "6143d916cc60860000c916d0",
+      "text": " マウスの戻る・進むボタンがブラウザのHistory前後と被る",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631836438,
+      "updated": 1631836463
+    },
+    {
+      "id": "6143d932cc60860000c916d1",
+      "text": " 　惜しい![dnin.icon]",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631836467,
+      "updated": 1631836469
+    },
+    {
+      "id": "6143d94ccc60860000c916d2",
+      "text": " 　これ[2021/05/30#60b2d3c0246f5900005760c4]ができない",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631836493,
+      "updated": 1631836548
+    },
+    {
       "id": "5fd0f16cec4fce000065c5a4",
       "text": "",
       "userId": "5da3a9589b96b70017ec4fce",
@@ -94,6 +136,55 @@
       "userId": "5da3a9589b96b70017ec4fce",
       "created": 1607528966,
       "updated": 1607528966
+    },
+    {
+      "id": "612b467bd0ca1c0000b7592d",
+      "text": "無料枠でもめっちゃサクサクしてる",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630226046,
+      "updated": 1630226052
+    },
+    {
+      "id": "612b4681d0ca1c0000b7592f",
+      "text": "[https://gyazo.com/d89f9e3be9264126c527c9485a19deda]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630226052,
+      "updated": 1630226052
+    },
+    {
+      "id": "612b467dd0ca1c0000b7592e",
+      "text": "Speedtestもめっちゃ[早かった https://www.speedtest.net/result/c/fb16eb96-9909-4138-8789-8abca983f601]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630226048,
+      "updated": 1630226628
+    },
+    {
+      "id": "612b4865d0ca1c0000e2c6f0",
+      "text": " ネットワーク帯域を使い切ってしまうのか、インスタンスが落ちる",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630226537,
+      "updated": 1630226553
+    },
+    {
+      "id": "612b47e6d0ca1c0000e2c6ef",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630226410,
+      "updated": 1630226410
+    },
+    {
+      "id": "61344f3ecc60860000206ccd",
+      "text": "",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1630818111,
+      "updated": 1631836432
+    },
+    {
+      "id": "613aa73acc608600006c0b97",
+      "text": "",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631233851,
+      "updated": 1631233851
     }
   ]
 }

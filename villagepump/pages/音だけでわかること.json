@@ -2,7 +2,7 @@
   "id": "602dab74a72592002319ecb0",
   "title": "音だけでわかること",
   "created": 1613605752,
-  "updated": 1615189650,
+  "updated": 1617871526,
   "lines": [
     {
       "id": "602dab74a72592002319ecb0",
@@ -132,10 +132,73 @@
     },
     {
       "id": "6045d67b55cbd30000ebf64b",
-      "text": "",
-      "userId": "5ae7fecf7766b7001455cbd3",
+      "text": "テレビが付いているかどうか",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1615189628,
-      "updated": 1615189628
+      "updated": 1617728994
+    },
+    {
+      "id": "606c96264bb2e200002123f0",
+      "text": " ただしブラウン管テレビのみ",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617728994,
+      "updated": 1617729015
+    },
+    {
+      "id": "606da24079d3a90000b1b0b3",
+      "text": "タイピングスピード",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617797696,
+      "updated": 1617797701
+    },
+    {
+      "id": "606ec25dfd049e0000f92def",
+      "text": "\t[タイピング音から入力文字を推測するアプリがGitHubにあるらしい https://github.com/ggerganov/kbd-audio]([Gigazineの翻訳記事 https://gigazine.net/news/20181130-kbd-audio/])",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617871454,
+      "updated": 1617871526
+    },
+    {
+      "id": "606c96244bb2e200002123ef",
+      "text": "コップにどのくらい水が注がれているか",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617728992,
+      "updated": 1617844905
+    },
+    {
+      "id": "606e5a9ffd049e000090c5c1",
+      "text": "　水筒だとわかりやすいですよね",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617844896,
+      "updated": 1617851912
+    },
+    {
+      "id": "606e75f103b2100000f49bff",
+      "text": "声相",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617851891,
+      "updated": 1617864458
+    },
+    {
+      "id": "606ea70803b2100000ee120d",
+      "text": "場所（上級者）",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617864458,
+      "updated": 1617871191
+    },
+    {
+      "id": "606ec157fd049e0000f92dec",
+      "text": "季節（上級者）",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617871192,
+      "updated": 1617871210
+    },
+    {
+      "id": "606ec16bfd049e0000f92dee",
+      "text": "\t[田舎]限定かも",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617871211,
+      "updated": 1617871219
     }
   ]
 }

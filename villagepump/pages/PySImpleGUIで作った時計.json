@@ -2,7 +2,7 @@
   "id": "5fffcaa153c4b2001c79f69c",
   "title": "PySImpleGUIで作った時計",
   "created": 1610599075,
-  "updated": 1613698652,
+  "updated": 1616720301,
   "lines": [
     {
       "id": "5fffcaa153c4b2001c79f69c",
@@ -20,38 +20,24 @@
     },
     {
       "id": "60263f1a758921000007e075",
-      "text": " 1. ",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": "code:準備.sh",
+      "userId": "6055950b87138f0022246f59",
       "created": 1613119258,
-      "updated": 1613119280
+      "updated": 1616720291
     },
     {
-      "id": "60263f43758921000007e07b",
-      "text": " \t[/programming-notes/Tkinter#5d1b3bf4e5172d00001c9296]",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613119300,
-      "updated": 1613119300
-    },
-    {
-      "id": "60263ebd758921000007e070",
-      "text": " 2. ",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613119166,
-      "updated": 1613119301
-    },
-    {
-      "id": "60263f2a758921000007e077",
-      "text": " \tcode:準備.sh",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613119274,
-      "updated": 1613119274
+      "id": "605d319b246f590000ba7ccc",
+      "text": " sudo apt install python3-tk",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616720285,
+      "updated": 1616720299
     },
     {
       "id": "60263ec9758921000007e073",
-      "text": "  \tpip install pysimplegui",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": " pip install pysimplegui",
+      "userId": "6055950b87138f0022246f59",
       "created": 1613119178,
-      "updated": 1613119276
+      "updated": 1616720301
     },
     {
       "id": "60263f34758921000007e079",

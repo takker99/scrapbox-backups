@@ -2,7 +2,7 @@
   "id": "5f893927f90c1b001e56ede2",
   "title": "2020/10/16",
   "created": 1602828589,
-  "updated": 1609369337,
+  "updated": 1626683448,
   "lines": [
     {
       "id": "5f893927f90c1b001e56ede2",
@@ -181,10 +181,17 @@
     },
     {
       "id": "5f897530a9f47400004b2249",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "[https://gyazo.com/c751192efef81dd9fbf382d069f0aa55]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1602843952,
-      "updated": 1602843952
+      "updated": 1621584796
+    },
+    {
+      "id": "60a76b85246f590000a83665",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621584796,
+      "updated": 1621584796
     },
     {
       "id": "5f8973b3a9f47400004b223e",
@@ -195,17 +202,10 @@
     },
     {
       "id": "5f9d03c2a9f474000002af38",
-      "text": " [Kees Moeliker: How a dead duck changed my life | TED Talk https://www.ted.com/talks/kees_moeliker_how_a_dead_duck_changed_my_life]面白かった",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [Kees Moeliker: How a dead duck changed my life] が面白かった",
+      "userId": "6055950b87138f0022246f59",
       "created": 1604125635,
-      "updated": 1604125639
-    },
-    {
-      "id": "5f89753ea9f47400004b224a",
-      "text": "　[/qb/モニターのケーブルをHDMIからDVIにした]",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1602843966,
-      "updated": 1602843966
+      "updated": 1620032945
     },
     {
       "id": "5f89753fa9f47400004b224b",
@@ -227,48 +227,6 @@
       "userId": "5f7bafa76f34a0001ea9f474",
       "created": 1602843572,
       "updated": 1602848244
-    },
-    {
-      "id": "5f8977a31d860a0000959b2e",
-      "text": "　[/qb/いけない旅行]　読書実況",
-      "userId": "58e5636749e40700111d860a",
-      "created": 1602844580,
-      "updated": 1603962614
-    },
-    {
-      "id": "5f897e6ca9f4740000744065",
-      "text": "  読書　[BGV]　良い",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1602846316,
-      "updated": 1603962624
-    },
-    {
-      "id": "5f9a8701a9f4740000b8fc32",
-      "text": "  モテ男　つまらん",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1603962625,
-      "updated": 1603962636
-    },
-    {
-      "id": "5f898a121280f00000d28a5e",
-      "text": "  [* B]ack [* G]round [* V]ideoの略か",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1602849299,
-      "updated": 1602849355
-    },
-    {
-      "id": "5f898a4c1280f00000d28a61",
-      "text": "  　一瞬誤字かと思った",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1602849357,
-      "updated": 1602849364
-    },
-    {
-      "id": "5f898a371280f00000d28a60",
-      "text": "   初めて聞いた",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1602849335,
-      "updated": 1602849344
     },
     {
       "id": "5f89859ea9f4740000744066",

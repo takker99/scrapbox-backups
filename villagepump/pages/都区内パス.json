@@ -1,0 +1,50 @@
+{
+  "id": "60729e4260210f001e313127",
+  "title": "都区内パス",
+  "created": 1618124355,
+  "updated": 1618124970,
+  "lines": [
+    {
+      "id": "60729e4260210f001e313127",
+      "text": "都区内パス",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618124355,
+      "updated": 1618124355
+    },
+    {
+      "id": "60729e42246f590000bbab9e",
+      "text": "大人760円、小児380円",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618124355,
+      "updated": 1618124771
+    },
+    {
+      "id": "60729fe3246f590000bbabac",
+      "text": "[https://gyazo.com/c841384df296b953e8f3063fd1a7ec74]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618124772,
+      "updated": 1618124899
+    },
+    {
+      "id": "6072a063246f590000e6cad8",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618124899,
+      "updated": 1618124899
+    },
+    {
+      "id": "60729fe3246f590000bbabab",
+      "text": "https://www.jreast.co.jp/tickets/info.aspx?txt_keyword=%93s%8B%E6%93%E0&mode=keyw&SearchFlag=1&ctl02.x=0&ctl02.y=0&GoodsCd=2485",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618124771,
+      "updated": 1618124970
+    },
+    {
+      "id": "6072a0a9246f590000f79293",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618124970,
+      "updated": 1618124970
+    }
+  ]
+}

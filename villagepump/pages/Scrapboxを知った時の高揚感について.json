@@ -2,7 +2,7 @@
   "id": "5f3d3570a93ded001f808007",
   "title": "Scrapboxを知った時の高揚感について",
   "created": 1597846898,
-  "updated": 1615104924,
+  "updated": 1632112960,
   "lines": [
     {
       "id": "5f3d3570a93ded001f808007",
@@ -34,10 +34,10 @@
     },
     {
       "id": "5f3d35cf1280f0000095f9e5",
-      "text": "\t馴れ初め的な（？）[udonn.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "\t[馴れ初め]的な（？）[udonn.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1597846992,
-      "updated": 1597847101
+      "updated": 1617547125
     },
     {
       "id": "5f3d362fb3e7ed0000bba0c6",
@@ -97,10 +97,10 @@
     },
     {
       "id": "5f3d379b1280f0000095f9ef",
-      "text": "　\t[/shokai/shokai.icon]さんや[/rashitamemo/rashita.icon]さんの書いた文章をめちゃくちゃ読み込んで、「[/icons/Scrapbox.icon]最高……！」ってなった",
+      "text": "　\t[shokai.icon]さんや[/rashitamemo/rashita.icon]さんの書いた文章をめちゃくちゃ読み込んで、「[/icons/Scrapbox.icon]最高……！」ってなった",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1597847453,
-      "updated": 1597847529
+      "updated": 1622171717
     },
     {
       "id": "5f3d39b51280f0000095fa03",
@@ -293,10 +293,10 @@
     },
     {
       "id": "5f3d754eb3e7ed00000e5547",
-      "text": "\tあたりの動画をみて、大学教授[/masui/概要.icon]が開発してるし、なんか凄そうな人[/shokai/shokai.icon][/daiiz/daiiz.icon]が使ってる感があったので、自分もその仲間入りだ！！というノリで初めてみた。",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": "\tあたりの動画をみて、大学教授[増井俊之.icon]が開発してるし、なんか凄そうな人[shokai.icon][/daiiz/daiiz.icon]が使ってる感があったので、自分もその仲間入りだ！！というノリで初めてみた。",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1597863247,
-      "updated": 1597863672
+      "updated": 1622171738
     },
     {
       "id": "5f3d75ceb3e7ed00000e5548",
@@ -335,10 +335,10 @@
     },
     {
       "id": "5f40e28d4daa920000bd3a96",
-      "text": "去年の7月あたりに使い始めた気がするけど、記憶力がなさすぎて全く覚えてない[yuta0801.icon]",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "去年の7月あたりに使い始めた気がするけど、[記憶力]がなさすぎて全く覚えてない[yuta0801.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1598087820,
-      "updated": 1598087877
+      "updated": 1617547155
     },
     {
       "id": "5f40e2c64daa920000bd3a98",
@@ -405,10 +405,10 @@
     },
     {
       "id": "5f7fd43ea9f4740000c82e5f",
-      "text": "嵐にハマっていく感じに似ている",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "[嵐にハマっていく感じ]に似ている",
+      "userId": "6055950b87138f0022246f59",
       "created": 1602212927,
-      "updated": 1602212940
+      "updated": 1617547182
     },
     {
       "id": "5f7fd44ba9f4740000c82e60",
@@ -615,10 +615,10 @@
     },
     {
       "id": "5fb29d91dd59fe00003e4623",
-      "text": "　WYSIWYGでソースコードや数式も貼れるという位の情報しか知らなかったはず",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": "　[WYSIWYG]でソースコードや数式も貼れるという位の情報しか知らなかったはず",
+      "userId": "6055950b87138f0022246f59",
       "created": 1605541266,
-      "updated": 1605541541
+      "updated": 1617547197
     },
     {
       "id": "5fb29a27dd59fe00003e4617",
@@ -713,10 +713,10 @@
     },
     {
       "id": "5fd32f10e5172d000014ec17",
-      "text": "\t正月早々[/icons/shokai.icon]のお手を[煩わせている姿 https://twitter.com/piconic_X/status/1081574278368120834?s=20]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t正月早々[shokai.icon]のお手を[煩わせている姿 https://twitter.com/piconic_X/status/1081574278368120834?s=20]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607675663,
-      "updated": 1607675898
+      "updated": 1622171753
     },
     {
       "id": "5fd32e94e5172d000014ec15",
@@ -731,6 +731,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1607675764,
       "updated": 1607694270
+    },
+    {
+      "id": "60c0e6bee5172d000086dba7",
+      "text": " 哲学を知り哲学に共感すると、本格的にハマりやすい傾向？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1623254718,
+      "updated": 1623254722
     },
     {
       "id": "5fd377b61280f00000197999",
@@ -768,6 +775,20 @@
       "updated": 1611142424
     },
     {
+      "id": "60d6f5d579d3a900007e137c",
+      "text": "\t高揚感知ったタイミングは覚えてないなぁ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624700374,
+      "updated": 1624700379
+    },
+    {
+      "id": "60d6f5dd79d3a900007e137d",
+      "text": "\t\tとりあえず[Scrapboxの哲学]と特に[ターン制コミュニケーション]には感銘を受けた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624700382,
+      "updated": 1624700397
+    },
+    {
       "id": "5ff46105a336820000d0c420",
       "text": "",
       "userId": "5e5b870dd7f3000017a33682",
@@ -776,10 +797,10 @@
     },
     {
       "id": "5ff461f2a336820000d0c422",
-      "text": "[erniogi.icon]は[/nishio/nishio.icon]さんの[エンジニアの知的生産術　 https://scrapbox.io/nishio/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93_%E8%91%97%E8%80%85%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8]のなかで紹介されているのを見て，TeX言語が使えたのが決め手で使いはじめた．",
+      "text": "[erniogi.icon]は[/nishio/nishio.icon]さんの[エンジニアの知的生産術　 https://scrapbox.io/nishio/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93_%E8%91%97%E8%80%85%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8]のなかで紹介されているのを見て，TeX言語が使えたのが決め手で使いはじめた",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1609851378,
-      "updated": 1609851893
+      "updated": 1628408426
     },
     {
       "id": "5ff46297a336820000d0c424",
@@ -790,10 +811,10 @@
     },
     {
       "id": "5ff4632da336820000d0c425",
-      "text": "\t[/icons/shokai.icon]さんの[/shokai/scrapboxの哲学]が冴えてた",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "\t[shokai.icon]さんの[/shokai/scrapboxの哲学]が冴えてた",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609851694,
-      "updated": 1609852732
+      "updated": 1622171758
     },
     {
       "id": "5ff463b2a336820000d0c427",
@@ -818,10 +839,10 @@
     },
     {
       "id": "6003dc02db62ad0000d73b2d",
-      "text": "　ポストイットがいっぱい並んでいるような画面の意味が分からず、一つのページをブログ記事と同じような感覚で読んでいたので、最初は他のブログサービスとの区別がついていなかった。",
-      "userId": "5b8d55ab7d11180014db62ad",
+      "text": "　[ポストイット]がいっぱい並んでいるような画面の意味が分からず、一つのページをブログ記事と同じような感覚で読んでいたので、最初は他のブログサービスとの区別がついていなかった。",
+      "userId": "6055950b87138f0022246f59",
       "created": 1610865667,
-      "updated": 1610865693
+      "updated": 1617547221
     },
     {
       "id": "6003dc13db62ad0000d73b2e",
@@ -853,10 +874,10 @@
     },
     {
       "id": "6003dc58db62ad0000d73b35",
-      "text": "\t [/shokai/Scrapboxの哲学][/icons/shokai.icon]",
-      "userId": "5b8d55ab7d11180014db62ad",
+      "text": "\t [/shokai/Scrapboxの哲学][shokai.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610865753,
-      "updated": 1610865931
+      "updated": 1622171762
     },
     {
       "id": "6003dc44db62ad0000d73b31",
@@ -867,10 +888,10 @@
     },
     {
       "id": "6003dc65db62ad0000d73b36",
-      "text": " [TiddlyWiki]、[Evernote]、個人[pukiwiki]、[howm]、Excelシート、紙の手帳など、いろんなものに手を出しては破綻させてきた自分にとって、Scrapboxは今までの人生で見た中で最も筋の良い解だった。",
-      "userId": "5b8d55ab7d11180014db62ad",
+      "text": " [TiddlyWiki]、[Evernote]、個人[pukiwiki]、[howm]、[Excel]シート、紙の[手帳]など、いろんなものに手を出しては破綻させてきた自分にとって、Scrapboxは今までの人生で見た中で最も筋の良い解だった。",
+      "userId": "6055950b87138f0022246f59",
       "created": 1610865765,
-      "updated": 1612433438
+      "updated": 1617547238
     },
     {
       "id": "6003dc6fdb62ad0000d73b37",
@@ -941,6 +962,314 @@
       "userId": "5ae7fecf7766b7001455cbd3",
       "created": 1615103419,
       "updated": 1615103419
+    },
+    {
+      "id": "60910b2579e11300004b5eae",
+      "text": "[bluemountain.icon] [/blu3mo-public/Scrapboxを気に入った流れ]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118309,
+      "updated": 1623248752
+    },
+    {
+      "id": "60910b5b79e11300004b5eb9",
+      "text": "2019/10以前、",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118363,
+      "updated": 1620118363
+    },
+    {
+      "id": "60910b5b79e11300004b5eba",
+      "text": " [nishio]さんがScrapboxとかいうサービスに色々書いてるなーということは知っていた（[/nishio]）",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118363,
+      "updated": 1620118363
+    },
+    {
+      "id": "60910b5b79e11300004b5ebb",
+      "text": " ただ、あまり価値は分かっていなかった",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118363,
+      "updated": 1620118363
+    },
+    {
+      "id": "60910b5b79e11300004b5ebd",
+      "text": "2019/10、",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118363,
+      "updated": 1620118363
+    },
+    {
+      "id": "60910b2d79e11300004b5eb0",
+      "text": "　[/nishio]でリンクを飛びながら色々読んでいて、なるほどこう使っているのかというのは分かってきていた",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118317,
+      "updated": 1620118367
+    },
+    {
+      "id": "60910b3779e11300004b5eb1",
+      "text": "　　（[/nishio]、すごい分かりやすいサンプルな気がしている）",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118328,
+      "updated": 1620118367
+    },
+    {
+      "id": "60910b3779e11300004b5eb2",
+      "text": "　[/nishio/Scrapboxの哲学]に偶然ぶつかった",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118328,
+      "updated": 1620118367
+    },
+    {
+      "id": "60910b3779e11300004b5eb3",
+      "text": "　　そこから[/shokai/Scrapboxの哲学]に飛んで、なるほど〜〜！！となった",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118328,
+      "updated": 1620118367
+    },
+    {
+      "id": "60910b2579e11300004b5eaf",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620118309,
+      "updated": 1620118309
+    },
+    {
+      "id": "60c0cb1fdd60be000094c3ff",
+      "text": "[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623247646,
+      "updated": 1623247647
+    },
+    {
+      "id": "60c0cb20dd60be000094c400",
+      "text": "2020/10くらい",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623247647,
+      "updated": 1623247654
+    },
+    {
+      "id": "60c0cb26dd60be000094c401",
+      "text": "\t学校の[生徒会]の仕事にお邪魔したら、「Scrapboxというサービスを使うから入ってくれ」と言われ、いきなり入らされた",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1623247654,
+      "updated": 1623248721
+    },
+    {
+      "id": "60c0cb49dd60be000094c402",
+      "text": "\t入ってみたらハマった",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623247688,
+      "updated": 1623247714
+    },
+    {
+      "id": "60c0cb63dd60be000094c403",
+      "text": "\t\tスクボはもちろん、生徒会の仕事にも……(((",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623247715,
+      "updated": 1623247736
+    },
+    {
+      "id": "60c0cfb9dd60be000094c40b",
+      "text": " 　おー、うちの高校でも使われてます（布教した）[2021/05/18#60a3c2e979e113000053207c] [bluemountain.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248825,
+      "updated": 1623248825
+    },
+    {
+      "id": "60c0cfe4dd60be000094c40c",
+      "text": " 　\t着実に広まっている[45Nuyagawa.icon*3]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248867,
+      "updated": 1623248876
+    },
+    {
+      "id": "60c0ceb3dd60be000094c405",
+      "text": "\tで、なんだかんだあって生徒会に入った（2021/04）",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248562,
+      "updated": 1623248829
+    },
+    {
+      "id": "60c0cec3dd60be000094c406",
+      "text": "\t\t上で入ったのはそのお手伝いのための専用箱で、それとは別にちゃんと運用しているのがあった",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248579,
+      "updated": 1623248660
+    },
+    {
+      "id": "60c0cf15dd60be000094c407",
+      "text": "\t\t\tそこにはいろんな[哲学]が書いてあった",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248660,
+      "updated": 1623248668
+    },
+    {
+      "id": "60c0cf1edd60be000094c408",
+      "text": "\t\t\t圧倒された",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248669,
+      "updated": 1623248672
+    },
+    {
+      "id": "60c0cf28dd60be000094c409",
+      "text": "　で、ついこの間、きたる文化祭に向けて[45Nuyagawa.icon]の所属学級に導入した",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248679,
+      "updated": 1623248715
+    },
+    {
+      "id": "60c0cf54dd60be000094c40a",
+      "text": "　\tみんな少しずつ使い始めている。嬉しい",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1623248723,
+      "updated": 1623248735
+    },
+    {
+      "id": "60c0cee179e11300001ed0e8",
+      "text": "　　時代だ…(n回目)",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1623248610,
+      "updated": 1623254746
+    },
+    {
+      "id": "60915237e5172d00005f0ca5",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620136503,
+      "updated": 1623254712
+    },
+    {
+      "id": "6091523ae5172d00005f0ca6",
+      "text": "[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620136506,
+      "updated": 1623282860
+    },
+    {
+      "id": "60c154ac246f590000a6ea54",
+      "text": " Scrapboxの登場、性の目覚めと同じくらいインパクトがある",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623282861,
+      "updated": 1623282903
+    },
+    {
+      "id": "60c154ad246f590000a6ea55",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623282861,
+      "updated": 1623282861
+    },
+    {
+      "id": "610f82d7a19e4000007aa71e",
+      "text": "[kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406488,
+      "updated": 1628406492
+    },
+    {
+      "id": "610f82dca19e4000007aa720",
+      "text": "\t使い始めは2019年12月",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406493,
+      "updated": 1628406500
+    },
+    {
+      "id": "610f82f7a19e4000007aa723",
+      "text": "\t[/nishio/nishio.icon]さんのエンジニアの[知的生産術]を読んで感銘を受け、本人のTwitterから Scrapboxにたどり着いた。",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406520,
+      "updated": 1628406591
+    },
+    {
+      "id": "610f839ca19e4000007aa725",
+      "text": "\t最初は「他のブログサービスと大分見た目が違うな」という印象で、付箋サービスの一種かなと思った。",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406684,
+      "updated": 1628406742
+    },
+    {
+      "id": "610f833fa19e4000007aa724",
+      "text": "\t多くの方と同じように、以下のページを読んで哲学を少しずつ理解して、自分でも使いたい気持ちになった。",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406592,
+      "updated": 1628406941
+    },
+    {
+      "id": "610f82e4a19e4000007aa721",
+      "text": "\t\t[/nishio/Scrapboxの良さ][/nishio/nishio.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406500,
+      "updated": 1628406517
+    },
+    {
+      "id": "610f82f3a19e4000007aa722",
+      "text": " \t[/shokai/Scrapboxの哲学][shokai.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406515,
+      "updated": 1628406519
+    },
+    {
+      "id": "610f82d7a19e4000007aa71f",
+      "text": "　使い始めて100ページ越えたあたりから楽しさ加速",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406488,
+      "updated": 1628406773
+    },
+    {
+      "id": "610f83f6a19e4000007aa727",
+      "text": "　\t周りにも布教活動をしたが、[Notion]派やはてなブログ派の心を変えられるような説明をできなかった。説明下手。",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406775,
+      "updated": 1628406925
+    },
+    {
+      "id": "61100d439a4352000005e29b",
+      "text": "[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1628441925,
+      "updated": 1628441929
+    },
+    {
+      "id": "61100d689a4352000005e29d",
+      "text": "　未踏ジュニアで使われてたのが馴れ初め",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1628441963,
+      "updated": 1628441978
+    },
+    {
+      "id": "61100d779a4352000005e29e",
+      "text": "　\tパーソナルウィキペディアが作れるのすげぇって言うのが最初の印象",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1628441978,
+      "updated": 1628441998
+    },
+    {
+      "id": "61100d8b9a4352000005e29f",
+      "text": "　\tいろんな人のページにコメントを書き込んでいって話がどんどん盛り上がるのも面白いなぁって",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1628441998,
+      "updated": 1628442021
+    },
+    {
+      "id": "61100da49a4352000005e2a0",
+      "text": "　\t個人で利用し始めたのは[bluemountain.icon]氏のを見てから！",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1628442023,
+      "updated": 1628442045
+    },
+    {
+      "id": "61109a77e5172d000079e1ff",
+      "text": "　\t[/icons/いい話だ.icon][yosider.icon][erniogi.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628478071,
+      "updated": 1632112960
+    },
+    {
+      "id": "610f83e0a19e4000007aa726",
+      "text": "",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628406752,
+      "updated": 1628406752
     }
   ]
 }

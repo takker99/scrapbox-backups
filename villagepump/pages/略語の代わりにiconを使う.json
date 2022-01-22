@@ -2,7 +2,7 @@
   "id": "5f6bfb1018a2cf001f4c5782",
   "title": "略語の代わりにiconを使う",
   "created": 1600912144,
-  "updated": 1607594118,
+  "updated": 1628833941,
   "lines": [
     {
       "id": "5f6bfb1018a2cf001f4c5782",
@@ -38,6 +38,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1600912144,
       "updated": 1600912161
+    },
+    {
+      "id": "611608771280f000008e395f",
+      "text": "\t2021-08-13 14:51:58 最近めっきり使わなくなってしまった……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628833914,
+      "updated": 1628833941
     },
     {
       "id": "5fad6235dd59fe0000427671",
@@ -118,10 +125,24 @@
     },
     {
       "id": "5fadeaeadd59fe000028dbf1",
-      "text": "",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": " 漢字に慣れると漢字の方が速く読める、みたいな? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1605233386,
-      "updated": 1605233386
+      "updated": 1628833868
+    },
+    {
+      "id": "6116083a8ee92a0000e9c0af",
+      "text": "  [/icons/VSCode.icon] という漢字の読みが「Visual Studio Code」だとか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628833851,
+      "updated": 1628833919
+    },
+    {
+      "id": "611608578ee92a0000e9c0b0",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628833879,
+      "updated": 1628833879
     }
   ]
 }

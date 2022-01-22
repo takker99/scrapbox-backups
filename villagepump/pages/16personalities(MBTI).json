@@ -2,7 +2,7 @@
   "id": "5f9db3469c8c45001eac7ed6",
   "title": "16personalities(MBTI)",
   "created": 1604170568,
-  "updated": 1614086537,
+  "updated": 1618231755,
   "lines": [
     {
       "id": "5f9db3469c8c45001eac7ed6",
@@ -489,10 +489,17 @@
     },
     {
       "id": "60350183db62ad0000f341d1",
-      "text": "",
-      "userId": "5b8d55ab7d11180014db62ad",
+      "text": "[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
       "created": 1614086531,
-      "updated": 1614086531
+      "updated": 1618231754
+    },
+    {
+      "id": "607441cafd049e0000e5732c",
+      "text": "[https://gyazo.com/822b02ff8e0eae857944910bf4302fe4]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618231754,
+      "updated": 1618231755
     },
     {
       "id": "60350184db62ad0000f341d2",

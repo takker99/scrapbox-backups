@@ -2,7 +2,7 @@
   "id": "5fd2f4cd6d5990001cb1173c",
   "title": "SikuliX",
   "created": 1607660753,
-  "updated": 1614880423,
+  "updated": 1620447569,
   "lines": [
     {
       "id": "5fd2f4cd6d5990001cb1173c",
@@ -40,11 +40,18 @@
       "updated": 1607669634
     },
     {
+      "id": "6096114b8ee92a00006cfe93",
+      "text": "  なにが 2 なんだろう?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620447564,
+      "updated": 1620447569
+    },
+    {
       "id": "5fd2f4cf8ee92a0000f9b0e3",
-      "text": " [OpenCV]を使ったデスクトップ[GUI]のオート操作ツール",
+      "text": " [OpenCV]を使ったデスクトップ[GUI]のオート操作ツール ([RPA])",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1607660753,
-      "updated": 1607660753
+      "updated": 1620433527
     },
     {
       "id": "5fd2f4cf8ee92a0000f9b0e4",
@@ -117,11 +124,46 @@
       "updated": 1607660780
     },
     {
-      "id": "5fd2f4cf8ee92a0000f9b0ed",
+      "id": "6095d9b08ee92a000005f162",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
+      "created": 1620433328,
+      "updated": 1620433329
+    },
+    {
+      "id": "6095d9b08ee92a000005f163",
+      "text": " ScrapboxでSikuli風のコードを書きたい [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620433329,
+      "updated": 1620433346
+    },
+    {
+      "id": "5fd2f4cf8ee92a0000f9b0ed",
+      "text": "  [文芸的プログラミング]的にGUIプログラミングできるかも",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1607660753,
-      "updated": 1607660753
+      "updated": 1620433369
+    },
+    {
+      "id": "6095d9c88ee92a000005f164",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620433352,
+      "updated": 1620433352
+    },
+    {
+      "id": "6095da618ee92a000005f166",
+      "text": " [SikuliX 2.0.4のインストール方法と基本的な使い方。変更点・追加機能も解説 – Valmore https://valmore.work/setup-sikulix-2-0-4/]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620433506,
+      "updated": 1620433506
+    },
+    {
+      "id": "6095da628ee92a000005f167",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620433506,
+      "updated": 1620433506
     }
   ]
 }

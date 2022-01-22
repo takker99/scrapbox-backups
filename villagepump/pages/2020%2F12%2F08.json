@@ -2,7 +2,7 @@
   "id": "5fc498e729c6f2001c4c3ea0",
   "title": "2020/12/08",
   "created": 1606719721,
-  "updated": 1612306597,
+  "updated": 1626681681,
   "lines": [
     {
       "id": "5fc498e729c6f2001c4c3ea0",
@@ -34,17 +34,17 @@
     },
     {
       "id": "5fcf3384d438750000d9c309",
-      "text": " https://idobata-diary.herokuapp.com つくった",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " https://idobata-diary.herokuapp.com (現 https://idy.herokuapp.com ) つくった",
+      "userId": "6055950b87138f0022246f59",
       "created": 1607414660,
-      "updated": 1607426242
+      "updated": 1618638672
     },
     {
       "id": "5fcf338ad438750000d9c30a",
-      "text": "  当日の[日記]に直行できる",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "  当日の[日記]に直行できる [idobata-diary]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1607414667,
-      "updated": 1607414727
+      "updated": 1620042438
     },
     {
       "id": "5fcf37791280f00000a726fb",
@@ -62,10 +62,10 @@
     },
     {
       "id": "5fcf60c7d43875000048a9e9",
-      "text": "   https://idobata-diary.herokuapp.com/wq",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "   https://idy.herokuapp.com/dn",
+      "userId": "6055950b87138f0022246f59",
       "created": 1607426248,
-      "updated": 1607426274
+      "updated": 1618640732
     },
     {
       "id": "5fcf60ecd43875000048a9ea",
@@ -73,20 +73,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1607426284,
       "updated": 1612306560
-    },
-    {
-      "id": "5fc498eed438750000f5960f",
-      "text": "　[未踏]にエントリーできる年齢じゃなくなった",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1606719726,
-      "updated": 1607405873
-    },
-    {
-      "id": "5fce1730d4387500006e7691",
-      "text": "　一日早く、大きい[プリン]を[https://www.glico.com/jp/product/yogurt_pudding/tororicream/27737/ 食べました]！",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607341873,
-      "updated": 1607389631
     },
     {
       "id": "5fce172dd4387500006e7690",
@@ -122,90 +108,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1607421666,
       "updated": 1607421685
-    },
-    {
-      "id": "5fced614d438750000d77935",
-      "text": " nvimからkakouneに鞍替えする機運高まる",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607390740,
-      "updated": 1607414808
-    },
-    {
-      "id": "5fcf33bbd438750000cffb6f",
-      "text": " [2020/12/08#5fcf3384d438750000d9c309]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607414716,
-      "updated": 1607414717
-    },
-    {
-      "id": "5fcf1d30d438750000396807",
-      "text": "  久々に[Django]プロジェクトを引っ張り出している",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607408944,
-      "updated": 1608122168
-    },
-    {
-      "id": "5fcf1d55d438750000396808",
-      "text": "   いろいろ忘れている ",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607408981,
-      "updated": 1607409031
-    },
-    {
-      "id": "5fcf1d89d438750000396809",
-      "text": "   `DJ_SECRET`紛失してた",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607409033,
-      "updated": 1607409277
-    },
-    {
-      "id": "5fcf1e7dd43875000039680a",
-      "text": "  流用せず、Project作りなおす",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607409277,
-      "updated": 1607409297
-    },
-    {
-      "id": "5fcf1e93d43875000039680b",
-      "text": "  \tfishじゃなくてbashでやらないとめんどい",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607409300,
-      "updated": 1607414867
-    },
-    {
-      "id": "5fcf3454d438750000323d11",
-      "text": "  \tsecret_keyをPublicにしたら即メール来た、おい",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607414868,
-      "updated": 1607414923
-    },
-    {
-      "id": "5fcf2a8bd438750000995147",
-      "text": "  H14",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607412364,
-      "updated": 1607412579
-    },
-    {
-      "id": "5fcf2b62d438750000995148",
-      "text": "   Procfile missing",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607412579,
-      "updated": 1607412593
-    },
-    {
-      "id": "5fcf331dd438750000d9c303",
-      "text": "   [【Heroku × Flask】No web processes runningエラーの対処 | ゆうきのせかい https://yuki.world/heroku-h14-error/]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607414558,
-      "updated": 1607414558
-    },
-    {
-      "id": "5fcf331fd438750000d9c304",
-      "text": "    コードに問題なくって、スイッチ入ってなかっただけだった",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607414559,
-      "updated": 1607414582
     },
     {
       "id": "5fced18dd4387500006ca4ff",
@@ -2110,6 +2012,83 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607428754,
       "updated": 1607428787
+    },
+    {
+      "id": "608e78561280f00000e82f5c",
+      "text": " 更に改良",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949656,
+      "updated": 1619949661
+    },
+    {
+      "id": "608e785b1280f00000e82f5d",
+      "text": " code:script2.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949661,
+      "updated": 1619949665
+    },
+    {
+      "id": "608e78b01280f00000e82f66",
+      "text": "  const zero = n => `${n}`.padStart(2, '0');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949746,
+      "updated": 1619949857
+    },
+    {
+      "id": "608e79211280f00000e82f68",
+      "text": "  const format = date => `${date.getFullYear()}/${zero(date.getMonth() + 1)}/${zero(date.getDate())}`;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949859,
+      "updated": 1619949886
+    },
+    {
+      "id": "608e785f1280f00000e82f5e",
+      "text": "  scrapbox.TimeStamp.addFormat(today => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949665,
+      "updated": 1619949938
+    },
+    {
+      "id": "608e786d1280f00000e82f60",
+      "text": "    const to = new Date(today);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949680,
+      "updated": 1619949942
+    },
+    {
+      "id": "608e787f1280f00000e82f62",
+      "text": "    to.setDate(new Date().getDate() + 1);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949697,
+      "updated": 1619949701
+    },
+    {
+      "id": "608e787f1280f00000e82f63",
+      "text": "    const ye = new Date(today);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949697,
+      "updated": 1619949943
+    },
+    {
+      "id": "608e787f1280f00000e82f64",
+      "text": "    ye.setDate(new Date().getDate() - 1);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949697,
+      "updated": 1619949701
+    },
+    {
+      "id": "608e788a1280f00000e82f65",
+      "text": "    return `[${format(ye)}]←${format(today)}→[${format(to)}]`;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949708,
+      "updated": 1619949944
+    },
+    {
+      "id": "608e786b1280f00000e82f5f",
+      "text": "  });",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619949677,
+      "updated": 1619949678
     },
     {
       "id": "5fcf63c3d438750000d96877",

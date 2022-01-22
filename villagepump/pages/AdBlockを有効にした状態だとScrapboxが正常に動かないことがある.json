@@ -2,7 +2,7 @@
   "id": "60211f3d947aef00205ab2be",
   "title": "AdBlockを有効にした状態だとScrapboxが正常に動かないことがある",
   "created": 1612783427,
-  "updated": 1612784172,
+  "updated": 1617272220,
   "lines": [
     {
       "id": "60211f3d947aef00205ab2be",
@@ -115,6 +115,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1612784170,
       "updated": 1612784170
+    },
+    {
+      "id": "60659d9279d3a900009995d8",
+      "text": "[uBlock Origin]だと大丈夫",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617272210,
+      "updated": 1617272220
+    },
+    {
+      "id": "60659d9379d3a900009995d9",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617272211,
+      "updated": 1617272211
     }
   ]
 }

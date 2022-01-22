@@ -1,0 +1,659 @@
+{
+  "id": "612b801f86c929001f0e79f0",
+  "title": "体験したことがあること",
+  "created": 1630240801,
+  "updated": 1631790582,
+  "lines": [
+    {
+      "id": "612b801f86c929001f0e79f0",
+      "text": "体験したことがあること",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630240801,
+      "updated": 1630240808
+    },
+    {
+      "id": "612b8d551280f0000097679e",
+      "text": " 1000m以上2000m未満の山に登る[takker.icon][増井俊之.icon][rickshinmi.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630244181,
+      "updated": 1630283848
+    },
+    {
+      "id": "612b8d6a1280f0000097679f",
+      "text": " 2000m以上3000m未満の山に登る[takker.icon][増井俊之.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630244202,
+      "updated": 1630283849
+    },
+    {
+      "id": "612b80218ee92a00008814d3",
+      "text": " 3000m以上4000m未満の高い山に登る [増井俊之.icon][takker.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630240801,
+      "updated": 1630283851
+    },
+    {
+      "id": "612b8d801280f000009767a0",
+      "text": " 4000m以上の高い山に登る",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630244224,
+      "updated": 1630244236
+    },
+    {
+      "id": "612b8f518ee92a000088150b",
+      "text": "  米国で車で登ったことはある [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630244690,
+      "updated": 1630244802
+    },
+    {
+      "id": "614214831280f000006aca08",
+      "text": " [沢登り]する[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631720580,
+      "updated": 1631720595
+    },
+    {
+      "id": "614214931280f000006aca09",
+      "text": " [雪山登山]する[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631720595,
+      "updated": 1631720603
+    },
+    {
+      "id": "612b80948ee92a0000881502",
+      "text": " [訴訟]でひどい目にあう [増井俊之.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630240917,
+      "updated": 1630247737
+    },
+    {
+      "id": "612b9b39a19e4000002e4a7a",
+      "text": " \t気になる",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630247737,
+      "updated": 1630247739
+    },
+    {
+      "id": "613955448ee92a0000c87ae2",
+      "text": "\t 実印と借用書を偽造されて返還訴訟を起こされた [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631147333,
+      "updated": 1631147393
+    },
+    {
+      "id": "612b9fc18ee92a0000881524",
+      "text": " 訴訟する",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248897,
+      "updated": 1630248901
+    },
+    {
+      "id": "612b92258ee92a0000881516",
+      "text": " ネットで炎上する [増井俊之.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630245414,
+      "updated": 1630312498
+    },
+    {
+      "id": "612b9f4e8ee92a0000881522",
+      "text": " 海外で差別される [増井俊之.icon][erniogi.icon][rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1630248783,
+      "updated": 1630305941
+    },
+    {
+      "id": "612b92348ee92a0000881517",
+      "text": " SNSのアカウントを乗っ取られる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630245429,
+      "updated": 1630248424
+    },
+    {
+      "id": "612b80218ee92a00008814e6",
+      "text": " 無免許運転でつかまる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630240801,
+      "updated": 1630241114
+    },
+    {
+      "id": "612b91828ee92a0000881512",
+      "text": " パトカーに乗る [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630245251,
+      "updated": 1630245257
+    },
+    {
+      "id": "613dc52c8ee92a0000c4efaa",
+      "text": "  無免許運転でつかまったとき [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631438125,
+      "updated": 1631438134
+    },
+    {
+      "id": "612b80218ee92a00008814ff",
+      "text": " 死体を発見する [増井俊之.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1630240801,
+      "updated": 1630300858
+    },
+    {
+      "id": "612b91718ee92a0000881511",
+      "text": " 救急車に乗る[kidooom.icon][sta.icon][kuuote.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630245234,
+      "updated": 1631720507
+    },
+    {
+      "id": "612b80c08ee92a0000881503",
+      "text": "  [イギリス]では乗ったことある [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630240960,
+      "updated": 1630245283
+    },
+    {
+      "id": "6142115b4bb2e200004a47b9",
+      "text": "  自分が患者じゃないケースもカウントしていいのかしら[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1631719745,
+      "updated": 1631719760
+    },
+    {
+      "id": "614325d18ee92a00008b9acc",
+      "text": "   良いのでは",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631790546,
+      "updated": 1631790550
+    },
+    {
+      "id": "612b80218ee92a0000881500",
+      "text": " 遭難しそうになる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630240801,
+      "updated": 1630241069
+    },
+    {
+      "id": "612b8e291280f000009767ae",
+      "text": " 遭難した[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630244392,
+      "updated": 1630244395
+    },
+    {
+      "id": "613de45e8ee92a0000f1489c",
+      "text": " 溺れかかる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446110,
+      "updated": 1631446114
+    },
+    {
+      "id": "612b81678ee92a0000881505",
+      "text": " [訴訟]の[デポ]に呼び出される [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630241127,
+      "updated": 1630242962
+    },
+    {
+      "id": "612b81288ee92a0000881504",
+      "text": " 近しい人が自殺する",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630241064,
+      "updated": 1630242924
+    },
+    {
+      "id": "612b9e048ee92a000088151c",
+      "text": " 同級生が自殺する [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248453,
+      "updated": 1630248460
+    },
+    {
+      "id": "612b88628ee92a0000881507",
+      "text": " 結婚 [増井俊之.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630242915,
+      "updated": 1630247782
+    },
+    {
+      "id": "612b9b711280f00000b15e2c",
+      "text": " 離婚",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630247793,
+      "updated": 1630247794
+    },
+    {
+      "id": "612b9b93a19e4000002e4a7b",
+      "text": " 親になる[kidooom.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630247827,
+      "updated": 1630248236
+    },
+    {
+      "id": "612b8dc91280f000009767a1",
+      "text": " 飲酒 [増井俊之.icon][kidooom.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630244297,
+      "updated": 1630283866
+    },
+    {
+      "id": "612b8de01280f000009767a6",
+      "text": "  日本酒 [増井俊之.icon][kidooom.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630244319,
+      "updated": 1630283867
+    },
+    {
+      "id": "612b8de31280f000009767a7",
+      "text": "  ビール [増井俊之.icon][kidooom.icon][tetsuya-k.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630244323,
+      "updated": 1630323030
+    },
+    {
+      "id": "612b8de51280f000009767a8",
+      "text": "  ワイン [増井俊之.icon][kidooom.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630244324,
+      "updated": 1630283872
+    },
+    {
+      "id": "612b8de61280f000009767a9",
+      "text": "  ウォッカ [増井俊之.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630244326,
+      "updated": 1630283873
+    },
+    {
+      "id": "612b9e228ee92a000088151d",
+      "text": "  ジン [増井俊之.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1630248482,
+      "updated": 1630283875
+    },
+    {
+      "id": "612c2864fd049e0000ee62d7",
+      "text": "  テキーラ[tetsuya-k.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630283876,
+      "updated": 1630284999
+    },
+    {
+      "id": "612c2870fd049e0000ee62d8",
+      "text": "  ウイスキー[tetsuya-k.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630283888,
+      "updated": 1630284998
+    },
+    {
+      "id": "612b8dce1280f000009767a2",
+      "text": " 喫煙",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630244302,
+      "updated": 1630244304
+    },
+    {
+      "id": "612b8dd01280f000009767a3",
+      "text": "  紙たばこ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630244304,
+      "updated": 1630244723
+    },
+    {
+      "id": "612b8dd31280f000009767a4",
+      "text": "  葉巻たばこ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630244307,
+      "updated": 1630244310
+    },
+    {
+      "id": "612b8dd61280f000009767a5",
+      "text": "  水たばこ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630244310,
+      "updated": 1630244335
+    },
+    {
+      "id": "612b8def1280f000009767aa",
+      "text": " 運転",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630244335,
+      "updated": 1630247780
+    },
+    {
+      "id": "612b8dfc1280f000009767ad",
+      "text": "  乗用車 [増井俊之.icon][kidooom.icon][tetsuya-k.icon][sta.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1630244348,
+      "updated": 1631719783
+    },
+    {
+      "id": "612c984279d3a90000018bb0",
+      "text": "  トラック [増井俊之.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630312516,
+      "updated": 1630312535
+    },
+    {
+      "id": "612b8df71280f000009767ac",
+      "text": "  工事用車両",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630244343,
+      "updated": 1630244357
+    },
+    {
+      "id": "612c2cd38ee92a000088152d",
+      "text": "  原付 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630285011,
+      "updated": 1630285018
+    },
+    {
+      "id": "612c2cd68ee92a000088152e",
+      "text": "  自動二輪 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630285014,
+      "updated": 1630285020
+    },
+    {
+      "id": "612b88858ee92a0000881508",
+      "text": " 免許取得",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630242950,
+      "updated": 1630244745
+    },
+    {
+      "id": "612b8f898ee92a000088150d",
+      "text": "  原付免許取得 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630244745,
+      "updated": 1630244770
+    },
+    {
+      "id": "612b8f908ee92a000088150e",
+      "text": "  自動二輪免許取得 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630244753,
+      "updated": 1630244771
+    },
+    {
+      "id": "612b8f998ee92a000088150f",
+      "text": "  普通免許取得 [増井俊之.icon][kidooom.icon][tetsuya-k.icon][sta.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1630244761,
+      "updated": 1631719831
+    },
+    {
+      "id": "612b8f828ee92a000088150c",
+      "text": "　感電する[hata6502.icon][増井俊之.icon][rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1630244739,
+      "updated": 1630248405
+    },
+    {
+      "id": "612b91b08ee92a0000881513",
+      "text": "　高速で[エンコ]する [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630245296,
+      "updated": 1630248317
+    },
+    {
+      "id": "612b908cd1a02f00004c3c54",
+      "text": " 高速で[パンク]する [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630244993,
+      "updated": 1630248319
+    },
+    {
+      "id": "612b96fa9a435200003a8459",
+      "text": " 実弾の発砲[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1630246651,
+      "updated": 1630246657
+    },
+    {
+      "id": "612b9e498ee92a000088151e",
+      "text": " 和弓をひく [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248521,
+      "updated": 1630248532
+    },
+    {
+      "id": "612b97009a435200003a845a",
+      "text": " 鹿狩り[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1630246657,
+      "updated": 1630246664
+    },
+    {
+      "id": "612b91bd8ee92a0000881514",
+      "text": "　新卒採用[kidooom.icon][増井俊之.icon][tetsuya-k.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630245310,
+      "updated": 1630312553
+    },
+    {
+      "id": "612b9bcfa19e4000002e4a7d",
+      "text": "　転職 [kidooom.icon][増井俊之.icon][hata6502.icon][tetsuya-k.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1630247887,
+      "updated": 1631719800
+    },
+    {
+      "id": "612b9db79a435200003a845b",
+      "text": "　転校 [rickshinmi.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248376,
+      "updated": 1630249130
+    },
+    {
+      "id": "612b9bd2a19e4000002e4a7e",
+      "text": "　フリーランス[kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630247890,
+      "updated": 1630247894
+    },
+    {
+      "id": "612b9bc6a19e4000002e4a7c",
+      "text": " 海外に住む [増井俊之.icon][bluemountain.icon][rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1630247879,
+      "updated": 1630325182
+    },
+    {
+      "id": "612b9d488ee92a0000881518",
+      "text": " ウィンドサーフィン [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248264,
+      "updated": 1630248553
+    },
+    {
+      "id": "612b9f148ee92a0000881521",
+      "text": " サーフィン",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248724,
+      "updated": 1630248727
+    },
+    {
+      "id": "613de7258ee92a0000f148da",
+      "text": " ヨット [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446821,
+      "updated": 1631446821
+    },
+    {
+      "id": "613de7078ee92a0000f148d6",
+      "text": " スキー [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446791,
+      "updated": 1631446795
+    },
+    {
+      "id": "613de7078ee92a0000f148d7",
+      "text": " スノボ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446791,
+      "updated": 1631446796
+    },
+    {
+      "id": "612b9e648ee92a000088151f",
+      "text": " 高額宝クジにあたる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630248549,
+      "updated": 1630248681
+    },
+    {
+      "id": "612b9ede8ee92a0000881520",
+      "text": " 詐欺にあう [hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630248671,
+      "updated": 1630252866
+    },
+    {
+      "id": "6139552c8ee92a0000c87ae1",
+      "text": "  どんな? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631147309,
+      "updated": 1631147311
+    },
+    {
+      "id": "613dd39fd1a02f0000e1b4bf",
+      "text": "  　https://ja.m.wikipedia.org/wiki/十分の一税",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631441824,
+      "updated": 1631441895
+    },
+    {
+      "id": "613dd3abd1a02f0000e1b4c0",
+      "text": "  　　新卒で３年間ほど納めてました。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631441835,
+      "updated": 1631441964
+    },
+    {
+      "id": "613dd42cd1a02f0000e1b4c1",
+      "text": "  　　詐欺というには大げさですね。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631441964,
+      "updated": 1631441964
+    },
+    {
+      "id": "612ba0818ee92a0000881528",
+      "text": " 追突する [増井俊之.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1630249090,
+      "updated": 1631719822
+    },
+    {
+      "id": "612ba0868ee92a0000881529",
+      "text": " 追突される",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630249095,
+      "updated": 1630249097
+    },
+    {
+      "id": "612ba1898ee92a000088152a",
+      "text": " 100Kg以上になる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630249353,
+      "updated": 1630249360
+    },
+    {
+      "id": "6139550f8ee92a0000c87ae0",
+      "text": " 砂漠の中で車のラジエータの水がなくなる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631147279,
+      "updated": 1631147295
+    },
+    {
+      "id": "613dc4d08ee92a0000c4efa9",
+      "text": " 訴訟の証人に呼ばれる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631438032,
+      "updated": 1631438038
+    },
+    {
+      "id": "613de42d8ee92a0000f1489b",
+      "text": " [天の川]をくっきり見た [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446061,
+      "updated": 1631446074
+    },
+    {
+      "id": "613de4758ee92a0000f1489d",
+      "text": " [痛風]で難儀する [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446134,
+      "updated": 1631446142
+    },
+    {
+      "id": "612b9f6d8ee92a0000881523",
+      "text": " [骨折]する[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1630248813,
+      "updated": 1631719813
+    },
+    {
+      "id": "613de48d8ee92a0000f1489e",
+      "text": " [告白]する",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446157,
+      "updated": 1631446397
+    },
+    {
+      "id": "613de5778ee92a0000f148a6",
+      "text": " 告白される",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446391,
+      "updated": 1631446395
+    },
+    {
+      "id": "613de5738ee92a0000f148a5",
+      "text": " 巨大な鹿に遭遇してビビる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446388,
+      "updated": 1631446431
+    },
+    {
+      "id": "614214661280f000006aca07",
+      "text": " 小熊とじゃれあう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631720551,
+      "updated": 1631720558
+    },
+    {
+      "id": "613de6c48ee92a0000f148ae",
+      "text": " キャンプ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446725,
+      "updated": 1631446732
+    },
+    {
+      "id": "613de6c78ee92a0000f148af",
+      "text": " ソロキャンプ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446727,
+      "updated": 1631446730
+    },
+    {
+      "id": "614325f08ee92a00008b9ace",
+      "text": " 10回引っ越し [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631790577,
+      "updated": 1631790582
+    },
+    {
+      "id": "614325e88ee92a00008b9acd",
+      "text": " 20回引っ越し [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631790569,
+      "updated": 1631790575
+    },
+    {
+      "id": "613de5958ee92a0000f148a7",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631446422,
+      "updated": 1631446422
+    }
+  ]
+}

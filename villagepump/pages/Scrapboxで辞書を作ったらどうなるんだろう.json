@@ -2,7 +2,7 @@
   "id": "5f39b70dca7f66001ecb43c4",
   "title": "Scrapboxで辞書を作ったらどうなるんだろう",
   "created": 1597617954,
-  "updated": 1607248917,
+  "updated": 1631697133,
   "lines": [
     {
       "id": "5f39b70dca7f66001ecb43c4",
@@ -48,10 +48,10 @@
     },
     {
       "id": "5f39fc175b98c20000097dc5",
-      "text": " 2ホップリンクは、すっげー強力。",
+      "text": " [2-hop link]は、すっげー強力。",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1597635607,
-      "updated": 1597635624
+      "updated": 1631695804
     },
     {
       "id": "5f39fc175b98c20000097dc6",
@@ -59,6 +59,13 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1597635607,
       "updated": 1597635630
+    },
+    {
+      "id": "6141b2ae5b98c20000883a19",
+      "text": "  [Helpfeel記法]に期待している。2021/09/15 17:47:28[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631695534,
+      "updated": 1631695650
     },
     {
       "id": "5f39fc175b98c20000097dc7",
@@ -178,6 +185,69 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1606593507,
       "updated": 1607248915
+    },
+    {
+      "id": "6140aec9d1a02f00002f4453",
+      "text": "やってみる。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631629001,
+      "updated": 1631629019
+    },
+    {
+      "id": "6140ae8dd1a02f00002f4450",
+      "text": "\t[/scrapedia]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631628941,
+      "updated": 1631670200
+    },
+    {
+      "id": "6140ae96d1a02f00002f4451",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631628950,
+      "updated": 1631628950
+    },
+    {
+      "id": "61414f54d1a02f0000321897",
+      "text": "[/nishio/Wikiは辞書ではない]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631670100,
+      "updated": 1631670101
+    },
+    {
+      "id": "61414f54d1a02f0000321898",
+      "text": "\t「百科事典の記事として適切であること」という強い制約が付く。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631670101,
+      "updated": 1631670175
+    },
+    {
+      "id": "61414f7ad1a02f0000321899",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631670139,
+      "updated": 1631670139
+    },
+    {
+      "id": "6141b89a5b98c20000883a1a",
+      "text": "辞書を作るのはいろいろ大変だねって話[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631697051,
+      "updated": 1631697133
+    },
+    {
+      "id": "6141b8b05b98c20000883a1b",
+      "text": "　[大漢和辞典ができるまで]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631697072,
+      "updated": 1631697123
+    },
+    {
+      "id": "6141b8cf5b98c20000883a1c",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631697103,
+      "updated": 1631697103
     }
   ]
 }

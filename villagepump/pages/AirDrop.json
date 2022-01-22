@@ -1,0 +1,64 @@
+{
+  "id": "60f4e5515d4b76001c325ce5",
+  "title": "AirDrop",
+  "created": 1626662232,
+  "updated": 1626710873,
+  "lines": [
+    {
+      "id": "60f4e5515d4b76001c325ce5",
+      "text": "AirDrop",
+      "userId": "60f3a5d03a31ac001cd9875a",
+      "created": 1626662232,
+      "updated": 1626662232
+    },
+    {
+      "id": "60f4e558d9875a0000cde6ba",
+      "text": " 知らない人から道案内を求められた時、地図のリンクを送ってあげるときに便利",
+      "userId": "60f3a5d03a31ac001cd9875a",
+      "created": 1626662232,
+      "updated": 1626662288
+    },
+    {
+      "id": "60f543ecdd60be00007f280f",
+      "text": " 電車の中だと[エアドロテロ]が起きる",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1626686444,
+      "updated": 1626686510
+    },
+    {
+      "id": "60f4e55ed9875a0000cde6bc",
+      "text": "",
+      "userId": "60f3a5d03a31ac001cd9875a",
+      "created": 1626662238,
+      "updated": 1626662238
+    },
+    {
+      "id": "60f5a30c32ef920000827775",
+      "text": "\tこれwifiとかの環境がなくても使えるらしい",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1626710797,
+      "updated": 1626710813
+    },
+    {
+      "id": "60f5a34832ef920000827778",
+      "text": "\t\t携帯会社との契約もいらない？",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1626710857,
+      "updated": 1626710873
+    },
+    {
+      "id": "60f5a32d32ef920000827777",
+      "text": "\t\t[bluetooth]だから",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1626710830,
+      "updated": 1626710840
+    },
+    {
+      "id": "60f5a30d32ef920000827776",
+      "text": "",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1626710798,
+      "updated": 1626710798
+    }
+  ]
+}

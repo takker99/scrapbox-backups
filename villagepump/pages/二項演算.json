@@ -1,0 +1,57 @@
+{
+  "id": "615440de5f7d44001d501704",
+  "title": "二項演算",
+  "created": 1632911583,
+  "updated": 1632919709,
+  "lines": [
+    {
+      "id": "615440de5f7d44001d501704",
+      "text": "二項演算",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632911583,
+      "updated": 1632911583
+    },
+    {
+      "id": "615440df1280f000005ec1a8",
+      "text": "2つの変数の各定義域と値域が同じ[函数]のこと",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632911583,
+      "updated": 1632911643
+    },
+    {
+      "id": "615440e01280f000005ec1a9",
+      "text": " [$ \\mu:A\\times A\\to A]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632911584,
+      "updated": 1632911621
+    },
+    {
+      "id": "615440ee1280f000005ec1aa",
+      "text": " 入力と出力が同じ型じゃないといけないのか。[/icons/知らんかった.icon][takker.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1632911599,
+      "updated": 1632919558
+    },
+    {
+      "id": "6154608ee5172d0000e66348",
+      "text": " 　そうじゃなくても二項演算と呼ぶ場合もあるらしい",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1632919694,
+      "updated": 1632919708
+    },
+    {
+      "id": "615441061280f000005ec1ab",
+      "text": " 　　[https://ja.wikipedia.org/wiki/二項演算#外部二項演算 二項演算#外部二項演算 - Wikipedia]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1632911623,
+      "updated": 1632919709
+    },
+    {
+      "id": "6154607ae5172d0000e66346",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1632919674,
+      "updated": 1632919674
+    }
+  ]
+}

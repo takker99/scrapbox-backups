@@ -2,7 +2,7 @@
   "id": "5f6af09318abff001e5575f0",
   "title": "みんなん家､テープやディスク､カードってある?",
   "created": 1600843927,
-  "updated": 1614916015,
+  "updated": 1622381072,
   "lines": [
     {
       "id": "5f6af09318abff001e5575f0",
@@ -27,10 +27,17 @@
     },
     {
       "id": "5f6af1cbb8f8be0000225f78",
-      "text": "　[レコード][MISONLN41.icon][増井俊之.icon][kuuote.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　[レコード][MISONLN41.icon][増井俊之.icon][kuuote.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1600844235,
-      "updated": 1614915564
+      "updated": 1622381072
+    },
+    {
+      "id": "608037b8dd60be0000de10c8",
+      "text": "　\tじーちゃんの家になら[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1619015609,
+      "updated": 1619015615
     },
     {
       "id": "5f6af1d2b8f8be0000225f79",
@@ -66,6 +73,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1600908151,
       "updated": 1600908154
+    },
+    {
+      "id": "60b36521246f590000c06299",
+      "text": "　　別に掘ってないか[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622369569,
+      "updated": 1622369576
     },
     {
       "id": "5f6af1beb8f8be0000225f75",
@@ -104,10 +118,10 @@
     },
     {
       "id": "5f6af2bab8f8be0000225f85",
-      "text": " [ハードディスク][dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " [ハードディスク][dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844474,
-      "updated": 1614915580
+      "updated": 1619015599
     },
     {
       "id": "5f6af0a5b8f8be0000225f4f",
@@ -132,10 +146,10 @@
     },
     {
       "id": "5f6af0aab8f8be0000225f51",
-      "text": "\t　3.5インチ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "\t　3.5インチ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600843946,
-      "updated": 1613112348
+      "updated": 1619015595
     },
     {
       "id": "5f6af0adb8f8be0000225f52",
@@ -146,10 +160,10 @@
     },
     {
       "id": "5f6af0aeb8f8be0000225f53",
-      "text": "[カセットテープ][takker.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "[カセットテープ][takker.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600843950,
-      "updated": 1614915587
+      "updated": 1619015593
     },
     {
       "id": "5f6af0b0b8f8be0000225f54",
@@ -174,10 +188,10 @@
     },
     {
       "id": "5f6af0b3b8f8be0000225f56",
-      "text": "　VHS[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　VHS[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600843955,
-      "updated": 1613112348
+      "updated": 1619015590
     },
     {
       "id": "5f6af0b7b8f8be0000225f57",
@@ -195,17 +209,17 @@
     },
     {
       "id": "5f6af306b8f8be0000225f96",
-      "text": "　DV[増井俊之.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　DV[増井俊之.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844550,
-      "updated": 1608593246
+      "updated": 1619015587
     },
     {
       "id": "5f6af307b8f8be0000225f97",
-      "text": "　miniDV[dnin.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　miniDV[dnin.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844551,
-      "updated": 1613112348
+      "updated": 1619015585
     },
     {
       "id": "5f6af154b8f8be0000225f70",
@@ -272,24 +286,31 @@
     },
     {
       "id": "5f6af205b8f8be0000225f7f",
-      "text": "　 フルサイズ[dnin.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　 フルサイズ[dnin.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844294,
-      "updated": 1613112348
+      "updated": 1619015530
     },
     {
       "id": "5f6af207b8f8be0000225f80",
-      "text": "　 8cm[MISONLN41.icon][kuuote.icon][air34n.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　 8cm[MISONLN41.icon][kuuote.icon][air34n.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844296,
-      "updated": 1608617235
+      "updated": 1619015532
+    },
+    {
+      "id": "6080376cdd60be0000de10c7",
+      "text": "　 \tメルセデス・ベンツの車のOSSライセンスの書類が入ったCDが8cmだった[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1619015533,
+      "updated": 1619015571
     },
     {
       "id": "5f6af0ccb8f8be0000225f5c",
-      "text": "　DVD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　DVD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600843981,
-      "updated": 1613112348
+      "updated": 1619015528
     },
     {
       "id": "5f6af0cdb8f8be0000225f5d",
@@ -307,10 +328,10 @@
     },
     {
       "id": "5f6af0d5b8f8be0000225f60",
-      "text": "　ブルーレイ",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "　ブルーレイ[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600843990,
-      "updated": 1600843991
+      "updated": 1619015526
     },
     {
       "id": "5f6af0d8b8f8be0000225f61",
@@ -328,10 +349,10 @@
     },
     {
       "id": "5f6af257b8f8be0000225f81",
-      "text": " MD[takker.icon][MISONLN41.icon][air34n.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " MD[takker.icon][MISONLN41.icon][air34n.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844376,
-      "updated": 1608617249
+      "updated": 1619015487
     },
     {
       "id": "5f6af0dcb8f8be0000225f63",
@@ -363,17 +384,17 @@
     },
     {
       "id": "5f6af389b8f8be0000225f9a",
-      "text": " USBメモリ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " USBメモリ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844682,
-      "updated": 1613112348
+      "updated": 1619015490
     },
     {
       "id": "5f6af352b8f8be0000225f98",
-      "text": " SSD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " SSD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844626,
-      "updated": 1613112348
+      "updated": 1619015493
     },
     {
       "id": "5f6af0fab8f8be0000225f66",
@@ -384,10 +405,10 @@
     },
     {
       "id": "5f6af12ab8f8be0000225f6c",
-      "text": " 　フルサイズ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " 　フルサイズ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844074,
-      "updated": 1613112348
+      "updated": 1619015496
     },
     {
       "id": "5f6af130b8f8be0000225f6f",
@@ -398,17 +419,17 @@
     },
     {
       "id": "5f6af12bb8f8be0000225f6d",
-      "text": " 　Micro[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " 　Micro[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844076,
-      "updated": 1613112348
+      "updated": 1619015499
     },
     {
       "id": "5f6af124b8f8be0000225f6b",
-      "text": " メモリースティック",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " メモリースティック[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844069,
-      "updated": 1600944672
+      "updated": 1619015500
     },
     {
       "id": "5f6c7a20ec4fce000027e4cb",
@@ -419,17 +440,17 @@
     },
     {
       "id": "5f6af375b8f8be0000225f99",
-      "text": " スマートメディア[suto3.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " スマートメディア[suto3.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844661,
-      "updated": 1608636714
+      "updated": 1619015503
     },
     {
       "id": "5f6af105b8f8be0000225f68",
-      "text": " コンパクトフラッシュ[suto3.icon]",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": " コンパクトフラッシュ[suto3.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600844037,
-      "updated": 1608636722
+      "updated": 1619015504
     },
     {
       "id": "5f6beb5b1280f00000a6c870",
@@ -524,10 +545,10 @@
     },
     {
       "id": "6041a8de7589210000078626",
-      "text": " SDカードとよばれている",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": " [SDカード]とよばれている",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614915806,
-      "updated": 1614915814
+      "updated": 1622369604
     },
     {
       "id": "6041a90d7589210000078627",
@@ -566,10 +587,31 @@
     },
     {
       "id": "5fe8c8e7e5172d0000289a31",
-      "text": "",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t\t「え？みんなんいえ？ん？」と最初意味がわからなかったｗ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1609091299,
-      "updated": 1609091299
+      "updated": 1619682036
+    },
+    {
+      "id": "608a68b8246f5900003b801e",
+      "text": "\t\t「〇〇んち」というのが方言なのかな[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619683512,
+      "updated": 1619683523
+    },
+    {
+      "id": "608a7451e5172d0000fe0728",
+      "text": "\t\t よく言ってたけど、漢字で書くと不思議な感じがした[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619686494,
+      "updated": 1619686511
+    },
+    {
+      "id": "608a62de79d3a9000048f144",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619682015,
+      "updated": 1619682015
     },
     {
       "id": "5fe01974d4387500001d5bef",

@@ -2,7 +2,7 @@
   "id": "60314b7ad66cf900203012b4",
   "title": "Obsidian",
   "created": 1613843327,
-  "updated": 1614426103,
+  "updated": 1620878944,
   "lines": [
     {
       "id": "60314b7ad66cf900203012b4",
@@ -136,6 +136,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1614401681,
       "updated": 1614401681
+    },
+    {
+      "id": "609ca648e5172d0000c639c8",
+      "text": "[https://github.com/tokuhirom/obsidian-2hop-links-plugin tokuhirom/obsidian-2hop-links-plugin]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620878920,
+      "updated": 1620878923
+    },
+    {
+      "id": "609ca64ce5172d0000c639ca",
+      "text": " obsidianで[2-hop link]を表示するプラグインとのこと",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620878924,
+      "updated": 1620878944
+    },
+    {
+      "id": "609ca64be5172d0000c639c9",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620878923,
+      "updated": 1620878923
     }
   ]
 }

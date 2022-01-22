@@ -2,7 +2,7 @@
   "id": "60037b35a9562700485c7fde",
   "title": "ScrapboxのSEOは強くない",
   "created": 1610840888,
-  "updated": 1611387881,
+  "updated": 1632489311,
   "lines": [
     {
       "id": "60037b35a9562700485c7fde",
@@ -166,11 +166,60 @@
       "updated": 1611363213
     },
     {
-      "id": "600b736579d3a900008e861a",
+      "id": "614dcce91280f00000fc670d",
       "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488681,
+      "updated": 1632488684
+    },
+    {
+      "id": "600b736579d3a900008e861a",
+      "text": "[ScrapboxのSEOは意外と強い]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611363164,
-      "updated": 1611363164
+      "updated": 1632489311
+    },
+    {
+      "id": "60fbd6eb19827000000ab931",
+      "text": "",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1627117292,
+      "updated": 1627117292
+    },
+    {
+      "id": "60fbd6eb19827000000ab932",
+      "text": "",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1627117292,
+      "updated": 1627117292
+    },
+    {
+      "id": "60fbc8fb385a9200005f0c19",
+      "text": "そもそもSEOの強い弱いを評価するのが難しい気がする[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1627113724,
+      "updated": 1627113741
+    },
+    {
+      "id": "60fbc8fc385a9200005f0c1a",
+      "text": " はてブやQiitaのプラットフォームとしての流入がないと考えれば、それはそうだろうな",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1627113725,
+      "updated": 1627113932
+    },
+    {
+      "id": "60fbc90f385a9200005f0c1b",
+      "text": " SEOの強弱ではなく、SEO最適化を施しているプラットフォームかどうかという軸で話したほうが正確かも[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627113744,
+      "updated": 1627117421
+    },
+    {
+      "id": "60fbd74f1280f000001857c4",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627117391,
+      "updated": 1627117391
     }
   ]
 }

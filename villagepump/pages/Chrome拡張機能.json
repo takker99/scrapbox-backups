@@ -2,7 +2,7 @@
   "id": "5fcf7c714b1587001e9b922c",
   "title": "Chrome拡張機能",
   "created": 1607433331,
-  "updated": 1607440971,
+  "updated": 1631965598,
   "lines": [
     {
       "id": "5fcf7c714b1587001e9b922c",
@@ -10,6 +10,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1607433331,
       "updated": 1607433331
+    },
+    {
+      "id": "6145d19ed0ca1c0000f3fd6d",
+      "text": "[/chrome-extensions]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1631965598,
+      "updated": 1631965598
     },
     {
       "id": "5fcf7c738ee92a0000b33404",

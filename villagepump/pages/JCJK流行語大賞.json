@@ -2,14 +2,14 @@
   "id": "5fc4d1e6bb039c004e46c320",
   "title": "JCJK流行語大賞",
   "created": 1606734315,
-  "updated": 1612441140,
+  "updated": 1617090135,
   "lines": [
     {
       "id": "5fc4d1e6bb039c004e46c320",
-      "text": "JCJK流行語大賞 ",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "JCJK流行語大賞",
+      "userId": "6055950b87138f0022246f59",
       "created": 1606734315,
-      "updated": 1606734326
+      "updated": 1617057162
     },
     {
       "id": "5fc4d1ffd4387500006f2c3a",
@@ -388,6 +388,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1606736809,
       "updated": 1607948385
+    },
+    {
+      "id": "6062d63e55cbd3000028bab9",
+      "text": "  \tプロゲーマーの[ウメハラ]がアイドルに教えてもらっててめちゃくちゃ面白かった",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1617090110,
+      "updated": 1617090135
     },
     {
       "id": "5fc4dc4dd438750000aa2557",

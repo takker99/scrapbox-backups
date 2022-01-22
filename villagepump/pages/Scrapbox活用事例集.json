@@ -2,7 +2,7 @@
   "id": "603cac2a3c279900231fb42a",
   "title": "Scrapbox活用事例集",
   "created": 1614588972,
-  "updated": 1614589070,
+  "updated": 1621773536,
   "lines": [
     {
       "id": "603cac2a3c279900231fb42a",
@@ -47,11 +47,18 @@
       "updated": 1614589025
     },
     {
-      "id": "603cac2c8ee92a0000d6f69e",
+      "id": "60aa4ca5246f59000059c5a1",
+      "text": "　「活用事例集」と「InterestingProjects」がイコールじゃないのでモヤモヤする[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621773505,
+      "updated": 1621773536
+    },
+    {
+      "id": "60aa4ca7246f59000059c5a2",
       "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1614588973,
-      "updated": 1614588973
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621773506,
+      "updated": 1621773506
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "60462a660c6c72001cf03090",
   "title": "Scrapboxをスプレッドシートのように使う",
   "created": 1615211113,
-  "updated": 1615612020,
+  "updated": 1627787610,
   "lines": [
     {
       "id": "60462a660c6c72001cf03090",
@@ -27,10 +27,10 @@
     },
     {
       "id": "60462bbf8ee92a0000e8af45",
-      "text": " `[= 式]` という表記を利用する [増井俊之.icon]",
+      "text": " `[% 式]` という表記を利用する [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615211456,
-      "updated": 1615213725
+      "updated": 1627753616
     },
     {
       "id": "60462be18ee92a0000e8af47",
@@ -90,31 +90,31 @@
     },
     {
       "id": "60462a688ee92a00007ba969",
-      "text": " [= a = 100]",
+      "text": " [% a = 100]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615211113,
-      "updated": 1615211118
+      "updated": 1627753567
     },
     {
       "id": "60462a698ee92a00007ba96a",
-      "text": " [= b = 200]",
+      "text": " [% b = 200]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615211113,
-      "updated": 1615211141
+      "updated": 1627753569
     },
     {
       "id": "60462a708ee92a00007ba96b",
-      "text": " [= a + b]",
+      "text": " [% a + b]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615211120,
-      "updated": 1615211129
+      "updated": 1627753571
     },
     {
       "id": "60462c808ee92a00002df496",
-      "text": " [= Date()]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [%  Date()]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1615211648,
-      "updated": 1615211651
+      "updated": 1627787415
     },
     {
       "id": "60462cd68ee92a00001dc0d6",
@@ -251,10 +251,10 @@
     },
     {
       "id": "60462ac58ee92a0000647b33",
-      "text": "     for(const expr of document.getElementsByClassName('deco-\\=')){",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "     for(const expr of document.getElementsByClassName('deco-\\%')){",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1615211205,
-      "updated": 1615214901
+      "updated": 1627784688
     },
     {
       "id": "60462ac58ee92a0000647b34",
@@ -467,11 +467,18 @@
       "updated": 1615612002
     },
     {
-      "id": "604884071d860a000090b3e7",
+      "id": "61060c111280f00000edad0b",
       "text": "",
-      "userId": "58e5636749e40700111d860a",
-      "created": 1615365129,
-      "updated": 1615365129
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627787561,
+      "updated": 1627787561
+    },
+    {
+      "id": "610604d01280f00000967b33",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627784403,
+      "updated": 1627784403
     }
   ]
 }

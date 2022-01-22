@@ -2,7 +2,7 @@
   "id": "604375e06c0f91001e7804ec",
   "title": "2021/03/10",
   "created": 1615033825,
-  "updated": 1615424337,
+  "updated": 1626674622,
   "lines": [
     {
       "id": "604375e06c0f91001e7804ec",
@@ -101,13 +101,6 @@
       "userId": "6044910bc9a74e001eb19cc3",
       "created": 1615370330,
       "updated": 1615370464
-    },
-    {
-      "id": "6048b738b19cc30000d4abe3",
-      "text": " [PySimpleGUIで作ったTaskChute]の最新版をはっつけてみた",
-      "userId": "6044910bc9a74e001eb19cc3",
-      "created": 1615378233,
-      "updated": 1615378240
     },
     {
       "id": "604898e1b19cc3000026e515",

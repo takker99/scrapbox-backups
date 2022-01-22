@@ -1,0 +1,57 @@
+{
+  "id": "6082b0b9f39c080020edd22e",
+  "title": "SkyWay",
+  "created": 1619177659,
+  "updated": 1619178251,
+  "lines": [
+    {
+      "id": "6082b0b9f39c080020edd22e",
+      "text": "SkyWay",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177659,
+      "updated": 1619177660
+    },
+    {
+      "id": "6082b0bc246f590000ededd1",
+      "text": "音声・ビデオ通話プラットフォーム",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177660,
+      "updated": 1619178251
+    },
+    {
+      "id": "6082b0d9246f590000ededd7",
+      "text": "50万接続まで無料",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177689,
+      "updated": 1619177694
+    },
+    {
+      "id": "6082b0c0246f590000ededd3",
+      "text": "https://webrtc.ecl.ntt.com/",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177665,
+      "updated": 1619177668
+    },
+    {
+      "id": "6082b0bd246f590000ededd2",
+      "text": "[https://gyazo.com/c1e7ee6ded4391a4ab2f1bb7e1364958]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177662,
+      "updated": 1619177674
+    },
+    {
+      "id": "6082b0ca246f590000ededd6",
+      "text": "[SkyWay Conference]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177674,
+      "updated": 1619177723
+    },
+    {
+      "id": "6082b0f5246f590000ededd8",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177717,
+      "updated": 1619177717
+    }
+  ]
+}

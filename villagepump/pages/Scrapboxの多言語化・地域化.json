@@ -2,7 +2,7 @@
   "id": "60029d279fe7f3002318ec9d",
   "title": "Scrapboxの多言語化・地域化",
   "created": 1610784040,
-  "updated": 1610864782,
+  "updated": 1621319057,
   "lines": [
     {
       "id": "60029d279fe7f3002318ec9d",
@@ -87,6 +87,20 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610864776,
       "updated": 1610864782
+    },
+    {
+      "id": "60a34f8c8ee92a00005fa0e8",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621315468,
+      "updated": 1621315468
+    },
+    {
+      "id": "60a34f8c8ee92a00005fa0e9",
+      "text": "Macの[ハングル]IMEで不具合があったのを先日なおしました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621315468,
+      "updated": 1621319057
     },
     {
       "id": "6003d8511280f000001f4e4b",

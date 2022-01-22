@@ -2,7 +2,7 @@
   "id": "6055b9fe176fe20023b7cd1d",
   "title": "ワンラインオンラインPythonのeval",
   "created": 1616230912,
-  "updated": 1616436725,
+  "updated": 1623669842,
   "lines": [
     {
       "id": "6055b9fe176fe20023b7cd1d",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6055b9ff246f590000da19f0",
-      "text": "https://idobata-diary.herokuapp.com/calc/\"ほげほげ\"*30",
+      "text": "https://idy.herokuapp.com/calc/\"ほげほげ\"*30",
       "userId": "6055950b87138f0022246f59",
       "created": 1616230912,
-      "updated": 1616424397
+      "updated": 1618640852
     },
     {
       "id": "6055d4b31280f00000e83350",
@@ -76,24 +76,31 @@
     },
     {
       "id": "6058ac66246f59000068490c",
-      "text": "　https://idobata-diary.herokuapp.com/calc/20/12",
+      "text": "　https://idy.herokuapp.com/calc/20/12",
       "userId": "6055950b87138f0022246f59",
       "created": 1616424039,
-      "updated": 1616424401
+      "updated": 1618641180
     },
     {
-      "id": "6058ac75246f59000068490d",
+      "id": "607a7fd9246f5900007d1b8b",
       "text": "　 対応した[dnin.icon]",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616424054,
-      "updated": 1616424060
+      "created": 1618640857,
+      "updated": 1618640857
     },
     {
-      "id": "6055b9ff246f590000da19f1",
+      "id": "607a7fd9246f5900007d1b8c",
+      "text": " https://idy.herokuapp.com/calc/len(\"666666666666666\")",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618640857,
+      "updated": 1618640857
+    },
+    {
+      "id": "60753fee246f590000f32daa",
       "text": "",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616230912,
-      "updated": 1616230912
+      "created": 1618296818,
+      "updated": 1618296818
     },
     {
       "id": "6055ba41246f5900007b0a9e",
@@ -124,27 +131,6 @@
       "updated": 1616237592
     },
     {
-      "id": "6055de97246f590000f91456",
-      "text": "\t [https://i.imgur.com/gctp4mM.png]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616240279,
-      "updated": 1616240289
-    },
-    {
-      "id": "6055de97246f590000f91457",
-      "text": "　\t\tが必要かもｗ",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616240280,
-      "updated": 1616240291
-    },
-    {
-      "id": "6055dec5246f590000f91458",
-      "text": "　\tそれよりリンク先を見て確定しろという話",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616240325,
-      "updated": 1616240343
-    },
-    {
       "id": "6055caac1280f00000e83337",
       "text": "",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -167,80 +153,87 @@
     },
     {
       "id": "6055e7b1246f590000e55536",
-      "text": "　 https://idobata-diary.herokuapp.com/calc/random.choice([\"カツ丼\",\"ラーメン\",\"カレー\"])",
+      "text": "　 https://idy.herokuapp.com/calc/random.choice([\"カツ丼\",\"ラーメン\",\"カレー\"])",
       "userId": "6055950b87138f0022246f59",
       "created": 1616242610,
-      "updated": 1616424405
+      "updated": 1618640864
     },
     {
-      "id": "6055e6e8246f590000e5552e",
+      "id": "607a7fe0246f5900007d1b8d",
       "text": "　math",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242409,
-      "updated": 1616242409
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e817246f590000e55538",
-      "text": "　 https://idobata-diary.herokuapp.com/calc/math.ceil(3.9901)",
+      "id": "607a7fe0246f5900007d1b8e",
+      "text": "　 [https://idy.herokuapp.com/calcs/math.ceil(3.9901)#.svg]",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242711,
-      "updated": 1616424407
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e6e9246f590000e5552f",
+      "id": "607a7fe0246f5900007d1b8f",
       "text": "　collections",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242410,
-      "updated": 1616242411
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055eb6c246f590000f91468",
-      "text": "　 https://idobata-diary.herokuapp.com/calc/collections.Counter(\"abcd3\")==collections.Counter(\"3acdb\")",
+      "id": "607a7fe0246f5900007d1b90",
+      "text": "　 [https://idy.herokuapp.com/calcs/collections.Counter(\"abcd3\")==collections.Counter(\"3acdb\")#.svg]",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616243564,
-      "updated": 1616424408
+      "created": 1618640864,
+      "updated": 1623669842
     },
     {
-      "id": "6055e6eb246f590000e55530",
+      "id": "607a7fe0246f5900007d1b91",
       "text": "　requests",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242412,
-      "updated": 1616242414
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e6ee246f590000e55531",
+      "id": "607a7fe0246f5900007d1b92",
       "text": "　pyotp ",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242414,
-      "updated": 1616242806
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e877246f590000e55539",
-      "text": "　 https://idobata-diary.herokuapp.com/calc/pyotp.TOTP(\"base32secret3232\").now()",
+      "id": "607a7fe0246f5900007d1b93",
+      "text": "　 https://idy.herokuapp.com/calc/pyotp.TOTP(\"base32secret3232\").now()",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242807,
-      "updated": 1616424410
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e6f2246f590000e55532",
+      "id": "607a7fe0246f5900007d1b94",
+      "text": "　 [オンラインでOTP]要らないじゃん[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618640864,
+      "updated": 1618640864
+    },
+    {
+      "id": "607a7fe0246f5900007d1b95",
       "text": "　feedparser",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242419,
-      "updated": 1616242422
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e6f6246f590000e55533",
+      "id": "607a7fe0246f5900007d1b96",
       "text": "　string",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242423,
-      "updated": 1616242547
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
-      "id": "6055e936246f590000f91467",
-      "text": "　 https://idobata-diary.herokuapp.com/calc/string.printable",
+      "id": "607a7fe0246f5900007d1b97",
+      "text": "　 https://idy.herokuapp.com/calc/string.printable",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616242999,
-      "updated": 1616424412
+      "created": 1618640864,
+      "updated": 1618640864
     },
     {
       "id": "6055e711246f590000e55534",

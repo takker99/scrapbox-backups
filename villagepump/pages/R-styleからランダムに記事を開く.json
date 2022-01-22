@@ -2,7 +2,7 @@
   "id": "6055b5558391b6001c6ea35a",
   "title": "R-styleからランダムに記事を開く",
   "created": 1616229719,
-  "updated": 1616424429,
+  "updated": 1618640998,
   "lines": [
     {
       "id": "6055b5558391b6001c6ea35a",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6055b556246f590000da19ed",
-      "text": "https://idobata-diary.herokuapp.com/rrstyle",
+      "text": "https://idy.herokuapp.com/rrstyle",
       "userId": "6055950b87138f0022246f59",
       "created": 1616229719,
-      "updated": 1616424429
+      "updated": 1618640998
     },
     {
       "id": "6055b557246f590000da19ee",

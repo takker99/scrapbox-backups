@@ -2,7 +2,7 @@
   "id": "5f60804a71bba90024af1a3b",
   "title": "Scrapboxのページ一覧を広げて､ズームアウトしてみるとこうなる",
   "created": 1600159822,
-  "updated": 1613531020,
+  "updated": 1619844935,
   "lines": [
     {
       "id": "5f60804a71bba90024af1a3b",
@@ -384,17 +384,87 @@
     },
     {
       "id": "602c8789a3368200006afb02",
-      "text": "",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1613531017,
-      "updated": 1613531020
+      "updated": 1619343498
+    },
+    {
+      "id": "6085388a79d3a9000062e491",
+      "text": " window10 + firefoxだとダメかも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619343499,
+      "updated": 1619343557
+    },
+    {
+      "id": "608538c479d3a9000062e492",
+      "text": " \t[https://gyazo.com/96c5a7d337c20bd0a135f31cc553c64e]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619343557,
+      "updated": 1619343558
+    },
+    {
+      "id": "608538c679d3a9000062e493",
+      "text": "\t\t\t（そうじゃないっ……！）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619343558,
+      "updated": 1619343650
     },
     {
       "id": "5f62030b1280f00000e522af",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "\t\tchromeでも同じだった",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1600258827,
-      "updated": 1600258827
+      "updated": 1619343611
+    },
+    {
+      "id": "608538fa79d3a9000062e495",
+      "text": "\t\twindowsだとダメなのかも？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619343611,
+      "updated": 1619343614
+    },
+    {
+      "id": "60854037e5172d0000b01704",
+      "text": "\t\t[Settings#5fe33bcfd4387500008c6e44]か[Scrapboxのページ一覧を広げて､ズームアウトしてみるとこうなる#5f6080a28a8c6a00009e16bf]を発動させておく必要がありますね[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619345464,
+      "updated": 1619345491
+    },
+    {
+      "id": "60854053e5172d0000b01705",
+      "text": "\t\t　後者は検索バーが崩れてしまうので前者が良いと思う",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619345491,
+      "updated": 1619345517
+    },
+    {
+      "id": "608cddf379d3a900002de9d6",
+      "text": "\t\t　[/icons/あざっす.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619844598,
+      "updated": 1619844608
+    },
+    {
+      "id": "608538f579d3a9000062e494",
+      "text": "\t\t前者使ってできました！（全ページ表示ではないですが）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619343606,
+      "updated": 1619844935
+    },
+    {
+      "id": "608cdf0279d3a90000791e11",
+      "text": "\t\t\t[https://gyazo.com/ad88175982e9decd632e9715bf786ad6]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619844869,
+      "updated": 1619844869
+    },
+    {
+      "id": "608cdf0079d3a90000791e10",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619844867,
+      "updated": 1619844867
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "5fa356e08b648300203b0944",
   "title": "2020/11/09",
   "created": 1604540144,
-  "updated": 1615258277,
+  "updated": 1626697567,
   "lines": [
     {
       "id": "5fa356e08b648300203b0944",
@@ -94,55 +94,6 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1604891625,
       "updated": 1604901015
-    },
-    {
-      "id": "5fa8d770d438750000201eb1",
-      "text": " [Sarah Vaughan 自由過ぎる https://www.youtube.com/watch?v=FFUsj_1dwKg]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604900720,
-      "updated": 1604901005
-    },
-    {
-      "id": "5fa8d780d438750000201eb2",
-      "text": " 　もはや原曲がわからないけど､これはこれでイイ",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604900736,
-      "updated": 1604901005
-    },
-    {
-      "id": "5fa8d793d438750000201eb3",
-      "text": " 　歌詞カードに(scat)だけ書かれててカッコイイ",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604900755,
-      "updated": 1604901005
-    },
-    {
-      "id": "5fa8d770d438750000201eb0",
-      "text": " 秋になると自動的に[これ https://www.youtube.com/watch?v=Gsz3mrnIBd0]が脳内で流れる",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604900720,
-      "updated": 1604901006
-    },
-    {
-      "id": "5fa92b99d438750000cfcb8a",
-      "text": " 思い立ったときに使えるように､VirtualboxでUbuntu環境を作っている",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604922265,
-      "updated": 1604922282
-    },
-    {
-      "id": "5fa92baad438750000cfcb8b",
-      "text": " 　Ryzen5 3500だと重くないな",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604922282,
-      "updated": 1604922306
-    },
-    {
-      "id": "5fa92c17d438750000cfcb8c",
-      "text": " 　Ubuntuの起動音を久々に聞いた",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604922392,
-      "updated": 1604922401
     },
     {
       "id": "5fa8d7f5d438750000201eb5",
@@ -283,6 +234,48 @@
       "userId": "6044910bc9a74e001eb19cc3",
       "created": 1615258275,
       "updated": 1615258275
+    },
+    {
+      "id": "60f555001280f000004114e1",
+      "text": " 何故1月……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626690816,
+      "updated": 1626690823
+    },
+    {
+      "id": "60f555071280f000004114e2",
+      "text": "\t\t[2020/11/09#5fa8dae5d43875000079d413]のところから1MONTHという表現になったものと想像します[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1626690824,
+      "updated": 1626693102
+    },
+    {
+      "id": "60f55dc7fd049e000075db97",
+      "text": "\t\t>日記を始めた[2020/10/09]から一ヶ月経ったね",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1626693063,
+      "updated": 1626693065
+    },
+    {
+      "id": "60f56ede1280f00000301a68",
+      "text": "\t\tあーなるほど。たしかにそうですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626697439,
+      "updated": 1626697446
+    },
+    {
+      "id": "60f56ee61280f00000301a69",
+      "text": "\t\t It's been a month since we start keeping a diary. ということか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626697446,
+      "updated": 1626697565
+    },
+    {
+      "id": "60f55db7fd049e000075db96",
+      "text": "",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1626693047,
+      "updated": 1626693047
     },
     {
       "id": "5fc26423d438750000b6b459",

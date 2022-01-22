@@ -1,0 +1,176 @@
+{
+  "id": "605deee54c4861001ceddc02",
+  "title": "Migemo",
+  "created": 1616768743,
+  "updated": 1623674716,
+  "lines": [
+    {
+      "id": "605deee54c4861001ceddc02",
+      "text": "Migemo",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768743,
+      "updated": 1616768743
+    },
+    {
+      "id": "605deee61280f00000cd1840",
+      "text": "ローマ字で[日本語をincremental search]するツール",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616768743,
+      "updated": 1616783312
+    },
+    {
+      "id": "605def051280f00000cd1842",
+      "text": " いちいちかな/漢字変換する必要がなくなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768773,
+      "updated": 1616768809
+    },
+    {
+      "id": "605def291280f00000cd1843",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768810,
+      "updated": 1616768810
+    },
+    {
+      "id": "605def291280f00000cd1844",
+      "text": "仕組み",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768810,
+      "updated": 1616768848
+    },
+    {
+      "id": "605def501280f00000cd1845",
+      "text": " 入力されたローマ字に一致するひらがな・カタカナ・漢字の語句候補を全てつなげた正規表現を作り、それで検索をかける",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768849,
+      "updated": 1616768921
+    },
+    {
+      "id": "605def991280f00000cd1848",
+      "text": " e.g. ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768921,
+      "updated": 1616768998
+    },
+    {
+      "id": "605df04d1280f00000cd1854",
+      "text": "  from [http://0xcc.net/migemo/ Migemo: ローマ字のまま日本語をインクリメンタル検索]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769101,
+      "updated": 1616769101
+    },
+    {
+      "id": "605defe61280f00000cd184d",
+      "text": " 　`nez`と入力すると、",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768998,
+      "updated": 1616769001
+    },
+    {
+      "id": "605defe91280f00000cd184e",
+      "text": " 　`/nez|ｎｅｚ|ねざ|ネザ|ねじ|ネジ|ねず|ネズ|ねぜ|ネゼ|ねぞ|ネゾ|ねっ|ネッ|根差|根魚|根崎|寝醒め|根差し|寝惚|寝相|根津|禰津| 鼠|鼡|鼠色|鼠男|鼠達|鼠取|捻|捩|螺|捻子|螺子|捩子|ネジ|拗|捻じ伏|捩じ込み|根占|捩じり鉢巻き|捩り鉢巻き|根城/`が生成される",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769001,
+      "updated": 1616769005
+    },
+    {
+      "id": "605deff91280f00000cd1850",
+      "text": " 　文字クラスを使って圧縮し、歯抜け検索に対応させると↓になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769018,
+      "updated": 1616769059
+    },
+    {
+      "id": "605df0221280f00000cd1851",
+      "text": " 　 `/[鼠捻螺拗捩鼡]|ns *es *z|ｎs *ｅs *ｚ|ねs *[ざじずぜぞっ]|ネs *[ザジズゼゾッ]|根s *[魚差崎城占津]|寝s *(?:[惚相]|醒s *め)|禰s *津/`",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769059,
+      "updated": 1616769095
+    },
+    {
+      "id": "605deeea1280f00000cd1841",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616768746,
+      "updated": 1616768746
+    },
+    {
+      "id": "605df0bb1280f00000cd1855",
+      "text": "Scrapboxの[リンクの入力補完]に移植できないかな？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769212,
+      "updated": 1616769236
+    },
+    {
+      "id": "605e2776e5172d00001140a1",
+      "text": "\tブラウザの[ページ内検索]も変換無しで[incremental search]になってほしい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616783223,
+      "updated": 1616783321
+    },
+    {
+      "id": "605df0bc1280f00000cd1856",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769214,
+      "updated": 1616769214
+    },
+    {
+      "id": "605df0d51280f00000cd1857",
+      "text": "Reference",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769238,
+      "updated": 1616769241
+    },
+    {
+      "id": "605df0d81280f00000cd1859",
+      "text": " [Migemo：日本語のインクリメンタル検索 https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=11380&item_no=1&page_id=13&block_id=8]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769241,
+      "updated": 1616769357
+    },
+    {
+      "id": "605df0d71280f00000cd1858",
+      "text": "  [増井俊之.icon]さんが共著している論文",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769240,
+      "updated": 1616769379
+    },
+    {
+      "id": "605df1631280f00000cd185c",
+      "text": " [http://0xcc.net/migemo/ Migemo: ローマ字のまま日本語をインクリメンタル検索]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769379,
+      "updated": 1616769386
+    },
+    {
+      "id": "60c74f4b1280f00000dc4807",
+      "text": " [/icons/github.icon][https://github.com/koron/cmigemo koron/cmigemo]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623674701,
+      "updated": 1623674716
+    },
+    {
+      "id": "60c74f5a1280f00000dc480a",
+      "text": "  C言語による実装",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623674716,
+      "updated": 1623674716
+    },
+    {
+      "id": "60c74f521280f00000dc4809",
+      "text": "  だれかRustに移植して[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623674707,
+      "updated": 1623674712
+    },
+    {
+      "id": "605df14e1280f00000cd185b",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616769359,
+      "updated": 1616769359
+    }
+  ]
+}

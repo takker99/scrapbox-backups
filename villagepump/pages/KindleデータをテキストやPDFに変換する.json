@@ -1,0 +1,694 @@
+{
+  "id": "6072cda9a32674001c58c991",
+  "title": "KindleデータをテキストやPDFに変換する",
+  "created": 1618136490,
+  "updated": 1628906683,
+  "lines": [
+    {
+      "id": "6072cda9a32674001c58c991",
+      "text": "KindleデータをテキストやPDFに変換する",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136685
+    },
+    {
+      "id": "6072cdaa8ee92a000072a15b",
+      "text": "from [アクティブ読書]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a15c",
+      "text": " [https://calibre-ebook.com/ Calibre]というアプリで変換してた [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136540
+    },
+    {
+      "id": "6072cdaa8ee92a000072a15d",
+      "text": "  [DRM解除]はやりたくないですね……[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136541
+    },
+    {
+      "id": "6072cdaa8ee92a000072a15e",
+      "text": "   垢BANがこわい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136541
+    },
+    {
+      "id": "6072cddf8ee92a00000cf241",
+      "text": "  Amazonに知られることはないと思いますが... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136543,
+      "updated": 1618136557
+    },
+    {
+      "id": "6072d7dd1280f00000091d05",
+      "text": "   それもそうですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618139100,
+      "updated": 1618139120
+    },
+    {
+      "id": "6072d7e51280f00000091d06",
+      "text": "   知られるとしたらどういう経路があるんだろう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618139108,
+      "updated": 1618139118
+    },
+    {
+      "id": "6072d7f31280f00000091d07",
+      "text": "   　いややっぱ無理か",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618139122,
+      "updated": 1618139143
+    },
+    {
+      "id": "6072d8081280f00000091d08",
+      "text": "   　KindleデータをKindle appの管理外にコピーしたあと、そこでDRM除去をすれば、Kindle appからDRM除去されたかどうか確認する方法がない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618139143,
+      "updated": 1618139233
+    },
+    {
+      "id": "6072e22e8ee92a0000b1a042",
+      "text": "   　そう思いますけどね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618141742,
+      "updated": 1618141747
+    },
+    {
+      "id": "6072cdf18ee92a00000cf243",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136562,
+      "updated": 1618136562
+    },
+    {
+      "id": "6072cdaa8ee92a000072a15f",
+      "text": " Calibreが最近うまくいかなくなった... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136565
+    },
+    {
+      "id": "6072ce238ee92a00000cf245",
+      "text": "  [azw3]がダウンロードできない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136612,
+      "updated": 1618712194
+    },
+    {
+      "id": "6072cdaa8ee92a000072a160",
+      "text": "  DRM除去プラグインが動かない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136566
+    },
+    {
+      "id": "6072cdaa8ee92a000072a161",
+      "text": " [https://jp.epubor.com/guide/remove-kindle-drm-on-mac-os-catalina/ Kindle端末からUSBでダウンロードする方法]とかでうまくいくのか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136585
+    },
+    {
+      "id": "6072cdaa8ee92a000072a162",
+      "text": "  面倒臭い...",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072ce0d8ee92a00000cf244",
+      "text": "  Kindle端末が必要みたいに書いてある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136590,
+      "updated": 1618136597
+    },
+    {
+      "id": "6072cdaa8ee92a000072a163",
+      "text": "  Kindle端末のIDは本当に要るのだろうか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a164",
+      "text": "   azw3にIDが入ってたりするのか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a165",
+      "text": " Amazonのコンテンツ管理ページで「ダウンロードしてUSB経由で転送」を選ぶとazw3ファイルがダウンロードできた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a166",
+      "text": "  しかしこれがCalibreで解読できない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136622
+    },
+    {
+      "id": "6072cdaa8ee92a000072a167",
+      "text": "  DRM解除プラグインを入れたのに駄目",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a168",
+      "text": " [Epubor Ultimate]というのを使ってみる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618148744
+    },
+    {
+      "id": "6072cdaa8ee92a000072a169",
+      "text": "  手持ちのKindle PaperwhiteのIDを入れてみて変換はできた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136630
+    },
+    {
+      "id": "6072cdaa8ee92a000072a16a",
+      "text": "   IDが無いと変換できないっぽいがEpuborのページに書いてないような?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a16b",
+      "text": "  しかしデータの一部しか変換されなかった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a16c",
+      "text": "   これは無料トライアル版のためだった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136641
+    },
+    {
+      "id": "6072cdaa8ee92a000072a16d",
+      "text": "   https://jp.epubor.com/kindle-drm解除/",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a16e",
+      "text": "   > 試用版では変換の量が20％のみ、出力形式はTXT（文字）のみとなります。",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cdaa8ee92a000072a16f",
+      "text": "  今後ちゃんと変換できるならEpubor買いたいところだが、大丈夫なのかな",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "6072cf5e8ee92a0000b1a03e",
+      "text": "   $30だと1年しか使えない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136927,
+      "updated": 1618136937
+    },
+    {
+      "id": "6072cf698ee92a0000b1a03f",
+      "text": "   $60出すとずっと使えるようだ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136937,
+      "updated": 1618136950
+    },
+    {
+      "id": "6072cdaa8ee92a000072a170",
+      "text": "  M1 Macで動くのだろーか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618136490,
+      "updated": 1618136490
+    },
+    {
+      "id": "611724aa8ee92a0000b39bc5",
+      "text": "   動いた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628906667,
+      "updated": 1628906670
+    },
+    {
+      "id": "6072e24b8ee92a0000b1a043",
+      "text": " まぁあんまりヘンなことはしたくないけど、いろいろ実験はしたい [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618141771,
+      "updated": 1618141786
+    },
+    {
+      "id": "6072e25a8ee92a0000b1a044",
+      "text": "  Kindleのインタフェースetcが最悪なのも問題で",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618141786,
+      "updated": 1618141802
+    },
+    {
+      "id": "6072f24f8ee92a0000b1a04c",
+      "text": " 買ってみました [増井俊之.icon] 2021/4/11 22:00",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618145871,
+      "updated": 1618176838
+    },
+    {
+      "id": "6072f25c8ee92a0000b1a04d",
+      "text": "  Kindle本はすべてテキストやPDFにできる模様",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618145884,
+      "updated": 1618145898
+    },
+    {
+      "id": "6072f2b78ee92a0000b1a04e",
+      "text": "  Unlimitedの本でも変換できる!",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618145976,
+      "updated": 1618148585
+    },
+    {
+      "id": "6072f3308ee92a0000b1a050",
+      "text": "  生成されたPDFはとても綺麗",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618146097,
+      "updated": 1618195182
+    },
+    {
+      "id": "6072f4848ee92a0000b1a052",
+      "text": "   [https://gyazo.com/e2ebf315f6faf2ce1d8be617008675cf]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618146436,
+      "updated": 1618146437
+    },
+    {
+      "id": "6072f2ce8ee92a0000b1a04f",
+      "text": "  ちょっとこれはヤバいかもてレベルだけど、とりあえず使ってみます",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618145998,
+      "updated": 1618146046
+    },
+    {
+      "id": "6072f49b8ee92a0000b1a054",
+      "text": "   Unlimitedで読んでる本も全部PDFにできてしまふ...",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618146459,
+      "updated": 1628906683
+    },
+    {
+      "id": "6072f65c03b2100000e478f4",
+      "text": "   [/icons/すごい.icon][U.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618146909,
+      "updated": 1618148257
+    },
+    {
+      "id": "6072fb338ee92a0000b1a055",
+      "text": "   ちょっとこれはいかがなものかとは思いますが、できるのは本当です [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618148147,
+      "updated": 1618148169
+    },
+    {
+      "id": "6072d8721280f00000091d0a",
+      "text": "   とりあえずこっそり便利に使っていろいろ実験してみたいと思うます [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618139250,
+      "updated": 1618148228
+    },
+    {
+      "id": "6072fbbd8ee92a0000b1a057",
+      "text": "   問題が出たらあとで謝ればいいや、ていう考え方があるんだっけ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618148286,
+      "updated": 1618148305
+    },
+    {
+      "id": "6072fb6f8ee92a0000b1a056",
+      "text": "    [許可より謝罪]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618148208,
+      "updated": 1618148315
+    },
+    {
+      "id": "6072fbe08ee92a0000b1a058",
+      "text": "    それそれ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618148320,
+      "updated": 1618148323
+    },
+    {
+      "id": "6072fef48ee92a0000b1a068",
+      "text": "   AmazonがツブれたらKindleデータが消えるけどPDFにしとけばOKかも?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618149108,
+      "updated": 1618149127
+    },
+    {
+      "id": "6072fbe38ee92a0000b1a059",
+      "text": "　　[/icons/gyazo.icon]が大きい口を開けて待っているぞ...",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618148324,
+      "updated": 1618148379
+    },
+    {
+      "id": "6072fc35246f59000015b692",
+      "text": "　　　鳴門海峡[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618148406,
+      "updated": 1618148412
+    },
+    {
+      "id": "6072fc1c246f59000015b691",
+      "text": "　　\tそもそもAmazonよ、アンリミくらい全文検索させてくれ[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618148381,
+      "updated": 1618148456
+    },
+    {
+      "id": "6072fc50246f59000015b693",
+      "text": "　　\t　[全文検索]して本探してもいいじゃん",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618148432,
+      "updated": 1618148615
+    },
+    {
+      "id": "6072fce2246f59000015b694",
+      "text": "　　\t　\t多すぎて砂浜の釘探しになるか...",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618148578,
+      "updated": 1618148602
+    },
+    {
+      "id": "6072fd16246f59000015b695",
+      "text": "　　\t　\t 特にアンリミなのでノイズが多そう",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618148630,
+      "updated": 1618148645
+    },
+    {
+      "id": "6072fc2b1280f000007d7c84",
+      "text": "　　\tアイコンがそもそも口みたい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618148396,
+      "updated": 1618148406
+    },
+    {
+      "id": "6072fc6b8ee92a0000b1a05a",
+      "text": "　　\t全文検索という発想が古いかもよ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618148460,
+      "updated": 1618148477
+    },
+    {
+      "id": "6072fc7d8ee92a0000b1a05b",
+      "text": "　　\t リンクがしっかりしてたらそんなの要らないとか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618148477,
+      "updated": 1618148491
+    },
+    {
+      "id": "607446c8db62ad0000c59a90",
+      "text": "　　\t リンクつけたい、編集したい、ランダムアクセスしたい……[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618233033,
+      "updated": 1618233054
+    },
+    {
+      "id": "607446f0db62ad0000c59a91",
+      "text": "　　\t 　今の電子書籍って、携帯電話がどうあるべきかよく分かってなかった時代のガラケーに近いものだと思う",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618233073,
+      "updated": 1618233111
+    },
+    {
+      "id": "6072d8731280f00000091d0b",
+      "text": "[Kindle Cloud Reader]で読める書籍なら、[開発コンソール]から画像を1ページずつ抜き取ることができる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618139250,
+      "updated": 1618139297
+    },
+    {
+      "id": "6072e2078ee92a0000b1a041",
+      "text": " それだとスキャンするのとあまり変わらないような... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618141704,
+      "updated": 1618141719
+    },
+    {
+      "id": "6072d8741280f00000091d0c",
+      "text": " script組めば全部自動でできるので楽です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618139251,
+      "updated": 1618145750
+    },
+    {
+      "id": "6072f1d61280f0000012629a",
+      "text": " 　画像もオリジナルサイズで取得できます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618145750,
+      "updated": 1618145761
+    },
+    {
+      "id": "6072f1e51280f0000012629b",
+      "text": " 　テキストデータを取得できないという点ではスキャンと確かに同じですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618145765,
+      "updated": 1618145784
+    },
+    {
+      "id": "6072f1c81280f00000126299",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618145737,
+      "updated": 1618145737
+    },
+    {
+      "id": "607303088ee92a0000b1a069",
+      "text": "正直、Kindle本を綺麗なPDFに変換できるなら超嬉しい [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618150153,
+      "updated": 1618150182
+    },
+    {
+      "id": "607303098ee92a0000b1a06a",
+      "text": " 特殊アプリを使わないと読めないデータなんて書籍じゃない!",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618150153,
+      "updated": 1618150210
+    },
+    {
+      "id": "6073032f8ee92a0000b1a06b",
+      "text": " [https://twitter.com/masui/status/160218503914323968 https://gyazo.com/18e44d517356ca4ea6fd56ba29a8d38c]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618150191,
+      "updated": 1618150349
+    },
+    {
+      "id": "6073b1bd8ee92a0000b1a07d",
+      "text": "　分かりすぎる[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618194877,
+      "updated": 1618233233
+    },
+    {
+      "id": "6074478cdb62ad0000c59a92",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618233229,
+      "updated": 1618233229
+    },
+    {
+      "id": "6073b1c18ee92a0000b1a07f",
+      "text": "Kindleで漫画読むのとPDFで漫画読むのは似たようなものだろう",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194882,
+      "updated": 1618194901
+    },
+    {
+      "id": "6073b1d58ee92a0000b1a080",
+      "text": " 書き込んだりしないから",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194901,
+      "updated": 1618194913
+    },
+    {
+      "id": "6073b1ee8ee92a0000b1a082",
+      "text": "Kindleで小説読むよりScrapboxで小説読む方が楽しい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194927,
+      "updated": 1618194984
+    },
+    {
+      "id": "6073b2288ee92a0000b1a083",
+      "text": " 注釈やリンク書き込めるから",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194984,
+      "updated": 1618194993
+    },
+    {
+      "id": "60dba0cc8ee92a000003f3aa",
+      "text": " 勝手に挿絵を入れたら面白いかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1625006285,
+      "updated": 1625006297
+    },
+    {
+      "id": "60dba08c8ee92a000003f3a8",
+      "text": " [https://gyazo.com/1dab9cc1fb9b5d12bc3846a8746d4c19]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1625006220,
+      "updated": 1625006221
+    },
+    {
+      "id": "6073b1e18ee92a0000b1a081",
+      "text": "Kindleで実用書読むのとScrapboxで実用書読むのでは全然違う",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194913,
+      "updated": 1618195005
+    },
+    {
+      "id": "6073b2378ee92a0000b1a084",
+      "text": " Scrapboxで読む方が10倍有用",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194999,
+      "updated": 1618195014
+    },
+    {
+      "id": "6073b24a8ee92a0000b1a085",
+      "text": "ということは、",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618195018,
+      "updated": 1618195040
+    },
+    {
+      "id": "6073b2538ee92a0000b1a086",
+      "text": "1. 画像ベースなものはPDFで読む",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618195027,
+      "updated": 1618195066
+    },
+    {
+      "id": "6073b2608ee92a0000b1a087",
+      "text": "2. テキスト主体なものはScrapboxで読む",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618195041,
+      "updated": 1618195069
+    },
+    {
+      "id": "6073b26d8ee92a0000b1a088",
+      "text": " というのが良いのだろうか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618195053,
+      "updated": 1618195062
+    },
+    {
+      "id": "6073b1be8ee92a0000b1a07e",
+      "text": "いずれにしても、[[購入したKindle本はすぐにPDFかテキストにすればいいことになる]]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618194878,
+      "updated": 1618195136
+    },
+    {
+      "id": "6073b28a8ee92a0000b1a089",
+      "text": " [* Kindleで読むメリットは全然無いんだし]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618195082,
+      "updated": 1618195161
+    },
+    {
+      "id": "6073bc0a8ee92a0000b1a08b",
+      "text": "[pdfimages]というコマンドでPDFは画像にできるので、これをScrapboxプロジェクトに貼っていけばよい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618197514,
+      "updated": 1618610388
+    },
+    {
+      "id": "6073b2ce8ee92a0000b1a08a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618195150,
+      "updated": 1618195150
+    },
+    {
+      "id": "60745ba7db62ad00008025f3",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618238376,
+      "updated": 1618238376
+    },
+    {
+      "id": "60745b92db62ad00008025f1",
+      "text": "[数式]とかソースコード混じりで組版されている文章もScrapboxに取り込みたいのだが、まだ正解を見つけられてない [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618238355,
+      "updated": 1620469530
+    },
+    {
+      "id": "607a6a728ee92a0000ebc909",
+      "text": " 数式を画像処理してLaTeXにするサービスがある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618635378,
+      "updated": 1618635640
+    },
+    {
+      "id": "607a6b5c8ee92a0000ebc910",
+      "text": "  画像キャプチャするもの",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618635612,
+      "updated": 1618635619
+    },
+    {
+      "id": "607a6ab88ee92a0000ebc90a",
+      "text": "   [Mathpix Snipping Tool]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618635448,
+      "updated": 1618635620
+    },
+    {
+      "id": "607a6b648ee92a0000ebc911",
+      "text": "  手書きを変換するもの",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618635621,
+      "updated": 1618635628
+    },
+    {
+      "id": "607a6b3d8ee92a0000ebc90f",
+      "text": "   https://webdemo.myscript.com/views/math/index.html",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618635582,
+      "updated": 1618635629
+    },
+    {
+      "id": "609667038ee92a00009314ae",
+      "text": "  これらを使うと、Kindleなどの数式もScrapboxに変換できると思う",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620469508,
+      "updated": 1620469525
+    },
+    {
+      "id": "60745b96db62ad00008025f2",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618238359,
+      "updated": 1618238359
+    }
+  ]
+}

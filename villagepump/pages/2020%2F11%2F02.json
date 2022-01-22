@@ -2,7 +2,7 @@
   "id": "5f9f281dd33e07002293cba2",
   "title": "2020/11/02",
   "created": 1604266017,
-  "updated": 1608117809,
+  "updated": 1626682845,
   "lines": [
     {
       "id": "5f9f281dd33e07002293cba2",
@@ -89,48 +89,6 @@
       "updated": 1613112353
     },
     {
-      "id": "5fa001d5a9f47400005fc6f0",
-      "text": " Amazonでコスプレ道具を見ると､口をふさぐ竹の棒が売れている｡",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604321750,
-      "updated": 1604321767
-    },
-    {
-      "id": "5f9ffc7fa9f47400001a0c70",
-      "text": " 30型の蛍光管を頭に載せ､｢天使!!!!｣ってやってたけど秒で飽きた",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604320383,
-      "updated": 1604320434
-    },
-    {
-      "id": "5f9ffcb3a9f47400008dda7d",
-      "text": " \tアマゾンで見たら2000円台の蛍光管があってびっくり",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604320435,
-      "updated": 1604320451
-    },
-    {
-      "id": "5f9ffcc3a9f47400008dda7e",
-      "text": " \tLEDシーリングライトが買える､買おう",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604320451,
-      "updated": 1604320460
-    },
-    {
-      "id": "5f9ffcdaa9f47400008dda7f",
-      "text": " \t\tイマドキのやつ､みんなUFOみたいじゃん",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604320474,
-      "updated": 1604321316
-    },
-    {
-      "id": "5fa00023a9f47400006286ea",
-      "text": " \t\tもっとUFOっぽさに偏ったスタイルが誕生して欲しい",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604321316,
-      "updated": 1604321327
-    },
-    {
       "id": "5f9fdf28a9f4740000b846d9",
       "text": " なぞの漢方薬の匂いがする銭湯に行きたい",
       "userId": "5f7bafa76f34a0001ea9f474",
@@ -138,18 +96,11 @@
       "updated": 1604312885
     },
     {
-      "id": "5f9fe357a9f4740000b846db",
-      "text": " どうぶつと日本語でお話したい",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604313944,
-      "updated": 1604313949
-    },
-    {
       "id": "5f9fc05aa9f47400001baa09",
-      "text": " IBMのeラーニングの利用を開始｡データ分析の講座を受講｡",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [IBM]のeラーニングの利用を開始｡データ分析の講座を受講｡",
+      "userId": "60e9e764c588100023fa8faf",
       "created": 1604304986,
-      "updated": 1604305054
+      "updated": 1626441234
     },
     {
       "id": "5f9fc09ea9f47400001baa0a",
@@ -188,10 +139,10 @@
     },
     {
       "id": "5f9fcf75a9f4740000c58266",
-      "text": " \tIBMってDropboxだけじゃなくてBoxとも連携関係にあるんだね",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " \tIBMって[Dropbox]だけじゃなくて[Box.com]とも連携関係にあるんだね",
+      "userId": "60e9e764c588100023fa8faf",
       "created": 1604308853,
-      "updated": 1604308877
+      "updated": 1626441243
     },
     {
       "id": "5f9f3faea9f4740000fcaf6d",

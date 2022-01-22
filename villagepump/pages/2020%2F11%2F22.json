@@ -2,7 +2,7 @@
   "id": "5fb9e2bbb9b518001c0d1f68",
   "title": "2020/11/22",
   "created": 1606017724,
-  "updated": 1608226903,
+  "updated": 1620041130,
   "lines": [
     {
       "id": "5fb9e2bbb9b518001c0d1f68",
@@ -272,10 +272,10 @@
     },
     {
       "id": "5fba3a18d4387500001ecad2",
-      "text": "　　iOSはNFCでペアリング非対応",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "　　iOSは[NFC]でペアリング非対応",
+      "userId": "6055950b87138f0022246f59",
       "created": 1606040088,
-      "updated": 1606040103
+      "updated": 1620041130
     },
     {
       "id": "5fba3a0cd4387500001ecad1",

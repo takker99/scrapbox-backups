@@ -2,7 +2,7 @@
   "id": "6055a9d26c2f83002216278b",
   "title": "RSS新着から1つランダムに開く",
   "created": 1616226773,
-  "updated": 1616424423,
+  "updated": 1624389010,
   "lines": [
     {
       "id": "6055a9d26c2f83002216278b",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6055a9e2246f590000614ba7",
-      "text": "`https://idobata-diary.herokuapp.com/rrss/sb-projectname/pagetitle`",
+      "text": "`https://idy.herokuapp.com/rrss/sb-projectname/pagetitle`",
       "userId": "6055950b87138f0022246f59",
       "created": 1616226786,
-      "updated": 1616424420
+      "updated": 1618640760
     },
     {
       "id": "6055aa0d246f590000614ba9",
@@ -31,27 +31,6 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1616227933,
       "updated": 1616227934
-    },
-    {
-      "id": "6055aa14246f590000614baa",
-      "text": "Scrapboxページに改行区切りでfeed urlを書いてく",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616226836,
-      "updated": 1616226847
-    },
-    {
-      "id": "6055a9e3246f590000614ba8",
-      "text": "　例 [/m-02317515/feeds]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616226787,
-      "updated": 1616227316
-    },
-    {
-      "id": "6055ae6d246f590000da19e5",
-      "text": "　　https://idobata-diary.herokuapp.com/rrss/m-02317515/feeds",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616227950,
-      "updated": 1616424423
     },
     {
       "id": "6055aa4a246f590000614bad",
@@ -69,10 +48,10 @@
     },
     {
       "id": "6055aa48246f590000614bac",
-      "text": "",
+      "text": "[読んでるページのRSSフィードのURLをScrapboxに追記する]を併用すると便利",
       "userId": "6055950b87138f0022246f59",
       "created": 1616226889,
-      "updated": 1616226889
+      "updated": 1620886068
     }
   ]
 }

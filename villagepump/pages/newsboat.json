@@ -2,7 +2,7 @@
   "id": "600616641b7f2d0036eb4b24",
   "title": "newsboat",
   "created": 1611011688,
-  "updated": 1611011764,
+  "updated": 1620555884,
   "lines": [
     {
       "id": "600616641b7f2d0036eb4b24",
@@ -55,10 +55,10 @@
     },
     {
       "id": "6006169fd438750000e46943",
-      "text": "`.newsboat/urls`にFeed URLを改行区切りで書いて`newsboat`で起動するだけ",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "`.newsboat/urls`にFeed URLを[改行区切り]で書いて`newsboat`で起動するだけ",
+      "userId": "6055950b87138f0022246f59",
       "created": 1611011743,
-      "updated": 1611011764
+      "updated": 1620555884
     },
     {
       "id": "600616a0d438750000e46944",

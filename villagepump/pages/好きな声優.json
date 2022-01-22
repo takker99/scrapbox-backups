@@ -2,7 +2,7 @@
   "id": "5fc8cbb9fedbab001c47b3a5",
   "title": "好きな声優",
   "created": 1606994878,
-  "updated": 1612423855,
+  "updated": 1617122708,
   "lines": [
     {
       "id": "5fc8cbb9fedbab001c47b3a5",
@@ -117,6 +117,27 @@
       "updated": 1612384451
     },
     {
+      "id": "6063557de35cab00007a4386",
+      "text": "\t[早見沙織][asaka_s.icon]",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122682,
+      "updated": 1617122689
+    },
+    {
+      "id": "60635584e35cab00007a4387",
+      "text": "\t[小原好美][asaka_s.icon]",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122689,
+      "updated": 1617122697
+    },
+    {
+      "id": "60635591e35cab00007a4388",
+      "text": "\t[種田梨沙][asaka_s.icon]",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122702,
+      "updated": 1617122708
+    },
+    {
       "id": "5fc8ceee1d860a0000ac401f",
       "text": "",
       "userId": "58e5636749e40700111d860a",
@@ -125,10 +146,10 @@
     },
     {
       "id": "601b08cd1280f00000ee3e9e",
-      "text": "アニメはよく見るが声優の話はぜんぜんわからない[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "アニメはよく見るが声優の話はぜんぜんわからない[takker.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1612384460,
-      "updated": 1612384488
+      "updated": 1617097308
     },
     {
       "id": "601b08ea1280f00000ee3ea0",
@@ -139,17 +160,24 @@
     },
     {
       "id": "601ba27fe5172d00008f1a5d",
-      "text": " 聞いてもこれは誰とかあまりわからないけど、このキャラクターの声いいなと思って調べたら知ってる名前が出てくることがよくある[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": " 聞いてもこれは誰とかあまりわからないけど、このキャラクターの声いいなと思って調べたら知ってる名前が出てくることがよくある[yosider.icon][dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1612423806,
-      "updated": 1612423855
+      "updated": 1617099932
     },
     {
       "id": "601b08d51280f00000ee3e9f",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " 一部の実力者が色んなアニメに顔だしてるんだなぁと思いながら聴いている[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1612384468,
-      "updated": 1612384468
+      "updated": 1617097333
+    },
+    {
+      "id": "6062f25d79d3a9000064f935",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617097309,
+      "updated": 1617097309
     }
   ]
 }

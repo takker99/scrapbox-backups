@@ -2,7 +2,7 @@
   "id": "5f69e8434dee70001ec9ec04",
   "title": "もっと遅く生まれたかった",
   "created": 1600776265,
-  "updated": 1615595591,
+  "updated": 1628433248,
   "lines": [
     {
       "id": "5f69e8434dee70001ec9ec04",
@@ -66,6 +66,41 @@
       "userId": "5953adab7aa58a0011385a92",
       "created": 1615575611,
       "updated": 1615575618
+    },
+    {
+      "id": "610feb39a19e4000005af986",
+      "text": "　\t[/icons/わかる.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628433210,
+      "updated": 1628433248
+    },
+    {
+      "id": "610f9cab8ee92a0000981fb3",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628413100,
+      "updated": 1628413100
+    },
+    {
+      "id": "610f9cac8ee92a0000981fb4",
+      "text": "[増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628413100,
+      "updated": 1628413101
+    },
+    {
+      "id": "610f9cad8ee92a0000981fb6",
+      "text": " シンギュラリティを見たかった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628413102,
+      "updated": 1628413109
+    },
+    {
+      "id": "610f9cac8ee92a0000981fb5",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628413100,
+      "updated": 1628413100
     },
     {
       "id": "5f69eeffb3e7ed00004a3131",

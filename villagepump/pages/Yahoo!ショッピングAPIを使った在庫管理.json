@@ -2,7 +2,7 @@
   "id": "5fe47b11e2e96a001c4e2371",
   "title": "Yahoo!ショッピングAPIを使った在庫管理",
   "created": 1608809234,
-  "updated": 1616066921,
+  "updated": 1619931497,
   "lines": [
     {
       "id": "5fe47b11e2e96a001c4e2371",
@@ -13,10 +13,10 @@
     },
     {
       "id": "5fe47b37d438750000f8f37b",
-      "text": "https://idobata-diary.herokuapp.com/zaiko/villagepump/4901301024077",
-      "userId": "6044910bc9a74e001eb19cc3",
+      "text": "https://idy.herokuapp.com/zaiko/villagepump/4901301024077",
+      "userId": "6055950b87138f0022246f59",
       "created": 1608809271,
-      "updated": 1616066894
+      "updated": 1618640988
     },
     {
       "id": "60533956b19cc3000032fcd3",
@@ -33,11 +33,18 @@
       "updated": 1611894290
     },
     {
+      "id": "608e315c246f59000017b9be",
+      "text": " プライベートブランドには対応していない",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619931485,
+      "updated": 1619931493
+    },
+    {
       "id": "60138e2ad43875000083a20b",
-      "text": "QRコードリーダー付きPWAにしたら便利そう",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " QRコードリーダー付き[PWA]にしたら便利そう",
+      "userId": "6055950b87138f0022246f59",
       "created": 1611894315,
-      "updated": 1611894315
+      "updated": 1619931497
     }
   ]
 }

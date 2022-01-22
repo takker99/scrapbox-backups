@@ -2,7 +2,7 @@
   "id": "5fe3bba66e7697001c6b6c55",
   "title": "EpisoPassで伏字",
   "created": 1608760232,
-  "updated": 1608776332,
+  "updated": 1628682655,
   "lines": [
     {
       "id": "5fe3bba66e7697001c6b6c55",
@@ -45,6 +45,27 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608763381,
       "updated": 1608763390
+    },
+    {
+      "id": "609956bf8ee92a00003a5008",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620661951,
+      "updated": 1620661951
+    },
+    {
+      "id": "609956bf8ee92a00003a5009",
+      "text": " Zという作品について忘れてた [増井俊之.icon] 2021/5/11",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620661951,
+      "updated": 1620661965
+    },
+    {
+      "id": "609956cc8ee92a00003a500a",
+      "text": "  EpisoPass回答して思い出せた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620661965,
+      "updated": 1620661973
     },
     {
       "id": "5fe3bd6c8ee92a000042daa7",
@@ -202,10 +223,10 @@
     },
     {
       "id": "5fe3bc861280f00000e17e0a",
-      "text": "公開情報の中に[非公開情報]を混ぜたいときに使えそう",
+      "text": "公開情報の中に[非公開]情報を混ぜたいときに使えそう",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608760455,
-      "updated": 1608760675
+      "updated": 1628682655
     },
     {
       "id": "5fe3bd0c1280f00000e17e0f",
@@ -227,6 +248,55 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608760652,
       "updated": 1608760652
+    },
+    {
+      "id": "609a011d79d3a90000e6d7c4",
+      "text": "レベル感[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620705566,
+      "updated": 1620705623
+    },
+    {
+      "id": "609a012179d3a90000e6d7c6",
+      "text": " Lv3: publicな場で吐く",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620705570,
+      "updated": 1620705682
+    },
+    {
+      "id": "609a014379d3a90000e6d7c8",
+      "text": " Lv2: EpisoPassはここ？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620705604,
+      "updated": 1620705686
+    },
+    {
+      "id": "609a019579d3a90000e6d7ca",
+      "text": " \t見える場所で吐きたいけど、直接見られるのは危ないという微妙な機微を実現できる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620705686,
+      "updated": 1620705741
+    },
+    {
+      "id": "609a139e8ee92a00003a5011",
+      "text": " \t忘れても良いかどうか、他人に見せるかどうかで違いそう [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620710303,
+      "updated": 1620710326
+    },
+    {
+      "id": "609a019e79d3a90000e6d7cb",
+      "text": " Lv1: 吐ければそれでいい（privateな場で吐く）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620705694,
+      "updated": 1620705743
+    },
+    {
+      "id": "609a011f79d3a90000e6d7c5",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620705568,
+      "updated": 1620705568
     }
   ]
 }

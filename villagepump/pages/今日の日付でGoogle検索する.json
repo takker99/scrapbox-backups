@@ -2,7 +2,7 @@
   "id": "603ac3b1d755c1001c11f03c",
   "title": "今日の日付でGoogle検索する",
   "created": 1614463930,
-  "updated": 1616068007,
+  "updated": 1618641079,
   "lines": [
     {
       "id": "603ac3b1d755c1001c11f03c",
@@ -13,10 +13,10 @@
     },
     {
       "id": "603ae65875892100009f4976",
-      "text": "https://idobata-diary.herokuapp.com/g",
-      "userId": "6044910bc9a74e001eb19cc3",
+      "text": "https://idy.herokuapp.com/g",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614472792,
-      "updated": 1616066951
+      "updated": 1618641079
     },
     {
       "id": "603ac3d07589210000621b66",

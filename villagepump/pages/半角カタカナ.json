@@ -1,0 +1,57 @@
+{
+  "id": "615429c23b52ae001dd2df06",
+  "title": "半角カタカナ",
+  "created": 1632905669,
+  "updated": 1632905856,
+  "lines": [
+    {
+      "id": "615429c23b52ae001dd2df06",
+      "text": "半角カタカナ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905669,
+      "updated": 1632905669
+    },
+    {
+      "id": "615429c55b98c200003e70bc",
+      "text": "[文字化け]の原因になったりするので、いらない子扱いされている",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905669,
+      "updated": 1632905856
+    },
+    {
+      "id": "615429ff5b98c200003e70be",
+      "text": "けど、必要だったんだよ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905727,
+      "updated": 1632905754
+    },
+    {
+      "id": "615429ce5b98c200003e70bd",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905678,
+      "updated": 1632905678
+    },
+    {
+      "id": "61542a4a5b98c200003e70c2",
+      "text": "[https://ja.wikipedia.org/wiki/%E5%8D%8A%E8%A7%92%E3%82%AB%E3%83%8A 半角カナ - Wikipedia]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905803,
+      "updated": 1632905837
+    },
+    {
+      "id": "61542a205b98c200003e70bf",
+      "text": "[https://ja.wikipedia.org/wiki/JIS_X_0201 JIS X 0201 - Wikipedia]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905760,
+      "updated": 1632905801
+    },
+    {
+      "id": "61542a485b98c200003e70c1",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632905801,
+      "updated": 1632905801
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "60fbaff3d43090001ca045ed",
+  "title": "kanvas",
+  "created": 1627107316,
+  "updated": 1630114365,
+  "lines": [
+    {
+      "id": "60fbaff3d43090001ca045ed",
+      "text": "kanvas",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1627107316,
+      "updated": 1628337987
+    },
+    {
+      "id": "60fbaff41280f00000ce9487",
+      "text": "[Drawing]の代替としても使える、[お絵描き]用[web component]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627107316,
+      "updated": 1627107338
+    },
+    {
+      "id": "60fbb0381280f00000ce948f",
+      "text": " [/icons/github.icon][https://github.com/hata6502/kanvas hata6502/kanvas]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627107384,
+      "updated": 1627107384
+    },
+    {
+      "id": "60fbb0351280f00000ce948e",
+      "text": " [/hata6502/kanvas] [hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1627107381,
+      "updated": 1628339952
+    },
+    {
+      "id": "60fbb00e1280f00000ce948b",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627107342,
+      "updated": 1627107342
+    },
+    {
+      "id": "60fbb00f1280f00000ce948c",
+      "text": "Scrapboxで使う時",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627107343,
+      "updated": 1627107346
+    },
+    {
+      "id": "60fbb0491280f00000ce9497",
+      "text": " [https://scrapbox.io/files/60fa8cbbedef19001cbcf7dc.mp4]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627107400,
+      "updated": 1627107400
+    },
+    {
+      "id": "60fbb00a1280f00000ce9489",
+      "text": " [/hata6502/Scrapbox にお絵かきアプリをインストールする]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1627107338,
+      "updated": 1628338322
+    },
+    {
+      "id": "60fbb00d1280f00000ce948a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627107341,
+      "updated": 1627599584
+    },
+    {
+      "id": "610332e18ee92a0000282ad2",
+      "text": "関係ない描画アプリをScrapboxから呼び出すのと同じなんですかね? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627599585,
+      "updated": 1627599612
+    },
+    {
+      "id": "60fbaff51280f00000ce9488",
+      "text": "\t[UserScript] にお絵かき機能をまるごと書いています。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1627107317,
+      "updated": 1628338229
+    },
+    {
+      "id": "610e7837d1a02f00001b48db",
+      "text": "\tなので、外部のサイトにあるお絵かきアプリを呼び出す、というわけではないです。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628338231,
+      "updated": 1628338260
+    },
+    {
+      "id": "610e780dd1a02f00001b48da",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628338189,
+      "updated": 1628338189
+    },
+    {
+      "id": "610e7f36d1a02f0000ef349b",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628340022,
+      "updated": 1628340022
+    },
+    {
+      "id": "610e7f18d1a02f0000ef349a",
+      "text": "アイデアスケッチというよりも、本来の「お絵かき」向け。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628339993,
+      "updated": 1628340020
+    },
+    {
+      "id": "610e7f0fd1a02f0000ef3498",
+      "text": "\tアイデアを非言語的に共有する目的よりも、色やトーンを重ねてスケッチすることを重視しています。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628339984,
+      "updated": 1628340105
+    },
+    {
+      "id": "610e7f10d1a02f0000ef3499",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628339985,
+      "updated": 1628339985
+    },
+    {
+      "id": "610e9cf6e5172d00002be61c",
+      "text": "[/hata6502/自由度を下げて高品質と素早さを両立する]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1628347638,
+      "updated": 1628347639
+    },
+    {
+      "id": "610e9cf7e5172d00002be61e",
+      "text": " [解像度]が低い（[ドット絵]っぽい）ことで、線の歪みのような細かい部分が目立たなくなって絵が上手く見える効果がある感じがした[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1628347640,
+      "updated": 1628347948
+    },
+    {
+      "id": "610e9d69e5172d00002be61f",
+      "text": " 　[Kakeru]ではフィッティングすることで手書きの歪みを消しているが、解像度を下げるという解決方法もあるのかーと感心",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1628347754,
+      "updated": 1628347838
+    },
+    {
+      "id": "610e9cf7e5172d00002be61d",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1628347639,
+      "updated": 1628347639
+    },
+    {
+      "id": "61299207d1a02f0000caa844",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114312,
+      "updated": 1630114312
+    },
+    {
+      "id": "612991fdd1a02f0000caa843",
+      "text": "連想できるお絵かきツール",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114301,
+      "updated": 1630114365
+    },
+    {
+      "id": "612991fad1a02f0000caa840",
+      "text": "\t[Kid Pix]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114299,
+      "updated": 1630114300
+    },
+    {
+      "id": "6129920fd1a02f0000caa845",
+      "text": "\t\tfrom https://twitter.com/odiak_/status/1430979992729448450",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114319,
+      "updated": 1630114343
+    },
+    {
+      "id": "612991fbd1a02f0000caa841",
+      "text": "\t[Zaurus]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114300,
+      "updated": 1630114300
+    },
+    {
+      "id": "612991fbd1a02f0000caa842",
+      "text": "\t\tfrom https://twitter.com/masui/status/1431392597096894465",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114300,
+      "updated": 1630114353
+    },
+    {
+      "id": "61299215d1a02f0000caa846",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630114325,
+      "updated": 1630114325
+    }
+  ]
+}

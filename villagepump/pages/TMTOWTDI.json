@@ -2,7 +2,7 @@
   "id": "5fb4505a3cab13001e261379",
   "title": "TMTOWTDI",
   "created": 1605652572,
-  "updated": 1610617936,
+  "updated": 1620618664,
   "lines": [
     {
       "id": "5fb4505a3cab13001e261379",
@@ -82,6 +82,13 @@
       "updated": 1605652700
     },
     {
+      "id": "6098aa765b98c20000b3cfa8",
+      "text": " [Zen of Python]、[Python]のモットー。",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1620617847,
+      "updated": 1620618055
+    },
+    {
       "id": "5fb450d0dd59fe00002ec777",
       "text": " >There should be one-- and preferably only one --obvious way to do it. [PEP 20 -- The Zen of Python https://www.python.org/dev/peps/pep-0020/]",
       "userId": "5f3cf18043ed94001edd59fe",
@@ -96,25 +103,18 @@
       "updated": 1605652987
     },
     {
+      "id": "6098ad9a246f59000006f81e",
+      "text": "  　[赤ちゃんをあやす謎の言葉]みたいだ[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620618651,
+      "updated": 1620618664
+    },
+    {
       "id": "5fb50d985b98c20000a14954",
       "text": "",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1605701017,
       "updated": 1605701021
-    },
-    {
-      "id": "5fb50d9d5b98c20000a14955",
-      "text": "[https://en.wikipedia.org/wiki/Zen_of_Python Zen of Python - Wikipedia]",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605701022,
-      "updated": 1605701023
-    },
-    {
-      "id": "5fb45135dd59fe00002ec77a",
-      "text": "",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1605652789,
-      "updated": 1605652789
     },
     {
       "id": "5ffff4f4e5172d00003a1e8d",

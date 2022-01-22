@@ -2,7 +2,7 @@
   "id": "5fb4afade4c1390022849818",
   "title": "install-CDN",
   "created": 1605676975,
-  "updated": 1608740585,
+  "updated": 1617459976,
   "lines": [
     {
       "id": "5fb4afade4c1390022849818",
@@ -166,6 +166,13 @@
       "updated": 1605684824
     },
     {
+      "id": "606871f01280f00000de3792",
+      "text": "     ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617457648,
+      "updated": 1617457648
+    },
+    {
       "id": "5fb4ce55dd59fe0000c50f22",
       "text": "     const script = document.createElement(\"script\");",
       "userId": "5f3cf18043ed94001edd59fe",
@@ -174,45 +181,17 @@
     },
     {
       "id": "5fb4ce55dd59fe0000c50f23",
-      "text": "     script.addEventListener('load', () => {",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": "     script.addEventListener('load', () => resolve());",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1605684824,
-      "updated": 1605684824
-    },
-    {
-      "id": "5fb4ce55dd59fe0000c50f24",
-      "text": "         resolve();",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1605684824,
-      "updated": 1605684824
-    },
-    {
-      "id": "5fb4ce55dd59fe0000c50f25",
-      "text": "     });",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1605684824,
-      "updated": 1605684824
+      "updated": 1617457633
     },
     {
       "id": "5fb4ce55dd59fe0000c50f26",
-      "text": "     script.addEventListener('error', (ev) => {",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": "     script.addEventListener('error', ev => reject(ev));",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1605684824,
-      "updated": 1605684824
-    },
-    {
-      "id": "5fb4ce55dd59fe0000c50f27",
-      "text": "         reject(ev);",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1605684824,
-      "updated": 1605684824
-    },
-    {
-      "id": "5fb4ce55dd59fe0000c50f28",
-      "text": "     });",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1605684824,
-      "updated": 1605684824
+      "updated": 1617457644
     },
     {
       "id": "5fb4ce55dd59fe0000c50f29",
@@ -236,6 +215,13 @@
       "updated": 1605684824
     },
     {
+      "id": "606871f31280f00000de3793",
+      "text": "     ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617457651,
+      "updated": 1617457651
+    },
+    {
       "id": "5fb4ce55dd59fe0000c50f2c",
       "text": "     document.head.appendChild(script);",
       "userId": "5f3cf18043ed94001edd59fe",
@@ -255,6 +241,83 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1605684821,
       "updated": 1605684821
+    },
+    {
+      "id": "60685d19385a9200008a8005",
+      "text": "試してみたけどCSPに引っかかった[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1617452314,
+      "updated": 1617452335
+    },
+    {
+      "id": "60685d1f385a9200008a8006",
+      "text": "　これもfirefoxとかchromeでの挙動の違いかな？",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1617452321,
+      "updated": 1617452356
+    },
+    {
+      "id": "60685d2f385a9200008a8007",
+      "text": " 引っかかったのは`scrapbox.io/files`のJSファイルですか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617452336,
+      "updated": 1617457538
+    },
+    {
+      "id": "606871821280f00000de3790",
+      "text": " 　その場合は、おそらく`script-src`で制限されているのだと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617457538,
+      "updated": 1617457574
+    },
+    {
+      "id": "606871a51280f00000de3791",
+      "text": " 　`cdnjs.cloudflare.com`はChromeでも引っかからないはずです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617457574,
+      "updated": 1617457604
+    },
+    {
+      "id": "606871671280f00000de378f",
+      "text": "   これだとできた！[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1617457512,
+      "updated": 1617458300
+    },
+    {
+      "id": "6068747b385a92000037698c",
+      "text": "   　[miyamonz.icon]が失敗したのは`cdn.jsdelivr.net`",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1617458300,
+      "updated": 1617458343
+    },
+    {
+      "id": "60687474385a92000037698b",
+      "text": "    scrapbox自体が利用してるcdnと同じものを使えば制限に引っかからないということか",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1617458294,
+      "updated": 1617458368
+    },
+    {
+      "id": "606874a7385a92000037698d",
+      "text": "    そういうことですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617458344,
+      "updated": 1617459908
+    },
+    {
+      "id": "60687ac41280f00000de3795",
+      "text": "     [/ci7lus/たのしいScrapboxUserScript#5f6386ceae0f140000027ce4]に使えるdomain一覧があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617459908,
+      "updated": 1617459976
+    },
+    {
+      "id": "60687abe1280f00000de3794",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617459904,
+      "updated": 1617459904
     }
   ]
 }

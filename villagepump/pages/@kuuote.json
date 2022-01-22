@@ -2,7 +2,7 @@
   "id": "5fe9308813f4c90022cd4385",
   "title": "@kuuote",
   "created": 1609117833,
-  "updated": 1613150732,
+  "updated": 1626426308,
   "lines": [
     {
       "id": "5fe9308813f4c90022cd4385",
@@ -10,6 +10,181 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609117833,
       "updated": 1609117833
+    },
+    {
+      "id": "60e6a9721280f00000c66360",
+      "text": "[vim-jp/slacklog]をscrapboxへ移植するテストをやっています。招待URLをおいておくので、もし興味があれば参加してみてください[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729395,
+      "updated": 1625729478
+    },
+    {
+      "id": "60e6a9c51280f00000c66363",
+      "text": " (本体) https://scrapbox.io/projects/takker-test-vim-jp/invitations/c6103a0a5bcaa41c230145aee83d3f6c",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729478,
+      "updated": 1625729543
+    },
+    {
+      "id": "60e6a9eb1280f00000c66364",
+      "text": " (絵文字置き場) https://scrapbox.io/projects/takker-vim-jp-emoji/invitations/6d5ba05a308c8513daf763f6191df914",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729516,
+      "updated": 1625729552
+    },
+    {
+      "id": "60e6af0b1280f00000c66372",
+      "text": "  約16000 pages分のchannel dataをimportしてあります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625730827,
+      "updated": 1625732408
+    },
+    {
+      "id": "60e6af0c1280f00000c66373",
+      "text": "   1page = 各channelで1日に投稿されたmessages",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625732400,
+      "updated": 1625732400
+    },
+    {
+      "id": "60e6aada1280f00000c6636e",
+      "text": "  ライセンス回りがまだ適当なので、あまり表に出さない形でお願いします",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729755,
+      "updated": 1625729779
+    },
+    {
+      "id": "60e6a9731280f00000c66361",
+      "text": " 文中リンクは特に貼っていないので、全文検索で探すのが主になります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729395,
+      "updated": 1625729590
+    },
+    {
+      "id": "60e6aa361280f00000c66366",
+      "text": "  channelや日付で2 hop linkをつないであるので、そこから他のmessageをたどることも可能です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729590,
+      "updated": 1625729642
+    },
+    {
+      "id": "60e6aa881280f00000c66368",
+      "text": " 未実装のもの",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729673,
+      "updated": 1625729678
+    },
+    {
+      "id": "60e6aa6a1280f00000c66367",
+      "text": "  Mrkdwn記法のparse",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729642,
+      "updated": 1625729685
+    },
+    {
+      "id": "60e6aa941280f00000c66369",
+      "text": "  ファイル添付",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729686,
+      "updated": 1625729689
+    },
+    {
+      "id": "60e6aaa01280f00000c6636a",
+      "text": "  Threadの取り扱い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729697,
+      "updated": 1625729701
+    },
+    {
+      "id": "60e6aaa41280f00000c6636b",
+      "text": "  Botの取り扱い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729701,
+      "updated": 1625729711
+    },
+    {
+      "id": "60e6aaae1280f00000c6636c",
+      "text": "　いい感じに使えるようになれば、別途public projectを作って公開したいと思っています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729711,
+      "updated": 1625729752
+    },
+    {
+      "id": "60e6aad71280f00000c6636d",
+      "text": "　 その前にvim-jpで公開してもいいかどうか尋ねるつもりです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729752,
+      "updated": 1625729886
+    },
+    {
+      "id": "60e6ab5e1280f00000c6636f",
+      "text": "　 　Licenseを見る限り許諾は必要なさそうですが一応",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729886,
+      "updated": 1625729907
+    },
+    {
+      "id": "60e6d64c4bb2e20000d62962",
+      "text": "　お、面白そう[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1625740865,
+      "updated": 1625740868
+    },
+    {
+      "id": "60e6aa101280f00000c66365",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625729553,
+      "updated": 1625729553
+    },
+    {
+      "id": "60dbc4721280f000005c2a31",
+      "text": "[/kuuote/coc.nvimをセットアップしてみた(with deno)#60db30144bb2e20000791c69]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625015410,
+      "updated": 1625015410
+    },
+    {
+      "id": "60dbc4721280f000005c2a30",
+      "text": " あれ？coc-denoは開発が停滞しているからcoc-denolandを使うべきと聞いたんですけど、coc-denoの方がよさげなのでしょうか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625015409,
+      "updated": 1625015476
+    },
+    {
+      "id": "60dbc4b51280f000005c2a32",
+      "text": " 　coc-denoの開発が再開したみたい？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625015476,
+      "updated": 1625015484
+    },
+    {
+      "id": "60dbde6e4bb2e20000c3e2bb",
+      "text": " 　何も分からないまま書いてあることに従っている…[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1625022066,
+      "updated": 1625022088
+    },
+    {
+      "id": "60dbde884bb2e20000c3e2bc",
+      "text": " 　 触ってる限りだと普通に動いてるみたいですが、後でdenolandも見てみます",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1625022092,
+      "updated": 1625022135
+    },
+    {
+      "id": "60dbc4bd1280f000005c2a33",
+      "text": " (coc-denolandをどこで推奨されたかは覚えていない)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625015484,
+      "updated": 1625015509
+    },
+    {
+      "id": "60dbc46d1280f000005c2a2d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625015404,
+      "updated": 1625015404
     },
     {
       "id": "5fe930941280f00000661fb4",
@@ -328,10 +503,10 @@
     },
     {
       "id": "601583eb4bb2e200008c3139",
-      "text": "   [- オセロ/リバーシだったら裏返るやつだ]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "   [- [オセロ]/リバーシだったら裏返るやつだ]",
+      "userId": "60e9e764c588100023fa8faf",
       "created": 1612022636,
-      "updated": 1612022655
+      "updated": 1626426308
     },
     {
       "id": "6026b5e24bb2e2000040d360",

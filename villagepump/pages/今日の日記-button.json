@@ -2,7 +2,7 @@
   "id": "5fad6b5975b9650020bb66f6",
   "title": "今日の日記-button",
   "created": 1605200731,
-  "updated": 1605233599,
+  "updated": 1621586428,
   "lines": [
     {
       "id": "5fad6b5975b9650020bb66f6",
@@ -76,10 +76,17 @@
     },
     {
       "id": "5fad6c04dd59fe000086d912",
-      "text": "",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": "[String.prototype.padStart()]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1605200898,
-      "updated": 1605200898
+      "updated": 1621586428
+    },
+    {
+      "id": "60a771e1246f590000ad6c9e",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621586425,
+      "updated": 1621586425
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "600ee08297bba6001c51fbc2",
   "title": "虚無の定義を定める",
   "created": 1611587715,
-  "updated": 1611654051,
+  "updated": 1619251958,
   "lines": [
     {
       "id": "600ee08297bba6001c51fbc2",
@@ -691,6 +691,62 @@
       "updated": 1611594133
     },
     {
+      "id": "6083d0b21280f00000b7ce32",
+      "text": "  [/motoso/虚無]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251377,
+      "updated": 1619251377
+    },
+    {
+      "id": "6083d0dc1280f00000b7ce35",
+      "text": "   >この問題は、人間の認知の限界と、発言するプラットフォームの特性に起因する問題",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251418,
+      "updated": 1619251452
+    },
+    {
+      "id": "6083d0fd1280f00000b7ce36",
+      "text": "   コンテキストの違いがメインで起こる現象か？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251452,
+      "updated": 1619251477
+    },
+    {
+      "id": "6083d12e1280f00000b7ce38",
+      "text": "   [\" 想定読者ではない人]というのが、コンテキストの違う人を意味する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251501,
+      "updated": 1619251514
+    },
+    {
+      "id": "6083d2f71280f00000b7ce40",
+      "text": "  [/mrsekut-p/虚無主義]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251958,
+      "updated": 1619251958
+    },
+    {
+      "id": "6083d2f71280f00000b7ce41",
+      "text": "   これは[ニヒリズム]の和訳なので違う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251958,
+      "updated": 1619251958
+    },
+    {
+      "id": "6083d0b21280f00000b7ce33",
+      "text": "  [/issac-37765679/虚無の暗黒]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251377,
+      "updated": 1619251377
+    },
+    {
+      "id": "6083d2dd1280f00000b7ce39",
+      "text": "   [無反応]から生じる辞書的な意味の虚無",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251932,
+      "updated": 1619251952
+    },
+    {
       "id": "600ef61cdb62ad0000d70679",
       "text": "",
       "userId": "5b8d55ab7d11180014db62ad",
@@ -762,17 +818,80 @@
     },
     {
       "id": "600ef620db62ad0000d7068c",
-      "text": "",
-      "userId": "5b8d55ab7d11180014db62ad",
+      "text": " 名前をつけて区別したい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611593253,
-      "updated": 1611593253
+      "updated": 1619250995
+    },
+    {
+      "id": "6083cf341280f00000b7cdf0",
+      "text": "  案1",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619250995,
+      "updated": 1619250997
+    },
+    {
+      "id": "6083cf1e1280f00000b7cded",
+      "text": "   1. 虚無 (辞書)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619250973,
+      "updated": 1619250998
+    },
+    {
+      "id": "6083cf1f1280f00000b7cdee",
+      "text": "   2. 虚無",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619250974,
+      "updated": 1619250999
+    },
+    {
+      "id": "6083cf391280f00000b7cdf1",
+      "text": "  案2",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251000,
+      "updated": 1619251002
+    },
+    {
+      "id": "6083cffb1280f00000b7cdf5",
+      "text": "  　辞書的意味に括弧をつけないほうがいいのならこっち",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251193,
+      "updated": 1619251206
+    },
+    {
+      "id": "6083cf3b1280f00000b7cdf2",
+      "text": "   1. 虚無",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251002,
+      "updated": 1619251013
+    },
+    {
+      "id": "6083cf3e1280f00000b7cdf3",
+      "text": "   2. 虚無 (<なにか>)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251004,
+      "updated": 1619251280
+    },
+    {
+      "id": "6083d0081280f00000b7cdf6",
+      "text": "    <なにか>を何にするかで悩むな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251207,
+      "updated": 1619251382
+    },
+    {
+      "id": "6083cf141280f00000b7cdec",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251370,
+      "updated": 1619251370
     },
     {
       "id": "600ef620db62ad0000d7068d",
       "text": "　この辺の記述から考えると、下記のような概念を「虚無」と呼んでいると思う。",
-      "userId": "5b8d55ab7d11180014db62ad",
-      "created": 1611593253,
-      "updated": 1611593253
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619251370,
+      "updated": 1619251370
     },
     {
       "id": "600ef620db62ad0000d7068e",

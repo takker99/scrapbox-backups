@@ -2,7 +2,7 @@
   "id": "5fb9b6254d054e001c42e0ba",
   "title": "今は使ってない or 使えなくなった懐かしいアプリ,ハード,サービス",
   "created": 1606006312,
-  "updated": 1614849730,
+  "updated": 1626023618,
   "lines": [
     {
       "id": "5fb9b6254d054e001c42e0ba",
@@ -40,6 +40,13 @@
       "updated": 1608190301
     },
     {
+      "id": "60816a8e246f5900002fb452",
+      "text": "  [AppSheet Automation]とかが代替になるんだろうか",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619094158,
+      "updated": 1619094187
+    },
+    {
       "id": "5fdb0917d43875000025fb0e",
       "text": "",
       "userId": "5fa258bdb102120024d43875",
@@ -54,6 +61,13 @@
       "updated": 1613112355
     },
     {
+      "id": "6066f279246f590000898f1a",
+      "text": "　まだ存在する",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617359482,
+      "updated": 1617359484
+    },
+    {
       "id": "5fb9b649d438750000ed23af",
       "text": " 今はSmbSyncを使ってる",
       "userId": "5fa258bdb102120024d43875",
@@ -66,6 +80,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1606006322,
       "updated": 1613112355
+    },
+    {
+      "id": "6066f27d246f590000898f1b",
+      "text": "　サービス終了",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617359486,
+      "updated": 1617359488
     },
     {
       "id": "5fcf6548d438750000f7d0f9",
@@ -91,9 +112,9 @@
     {
       "id": "5fcf697d1280f000003b3db0",
       "text": "Windows[takker.icon][kuuote.icon][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1607428477,
-      "updated": 1607430318
+      "updated": 1620054452
     },
     {
       "id": "5fcf69851280f000003b3db1",
@@ -167,10 +188,17 @@
     },
     {
       "id": "5fcf698c1280f000003b3db2",
-      "text": "[Google Photo][takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "[Google Photos][takker.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
       "created": 1607428492,
-      "updated": 1607428515
+      "updated": 1621230319
+    },
+    {
+      "id": "6066f286246f590000898f1c",
+      "text": "　今年からPixelの一部機種以外、無料無制限が終了",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617359495,
+      "updated": 1617359515
     },
     {
       "id": "5fcf69a31280f000003b3db3",
@@ -199,6 +227,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607428639,
       "updated": 1607428659
+    },
+    {
+      "id": "6066f29f246f590000898f1d",
+      "text": "　サービス終了",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617359520,
+      "updated": 1617359521
     },
     {
       "id": "5fcf6a2a1280f000003b3db7",
@@ -286,10 +321,10 @@
     },
     {
       "id": "5fcf71aa8ee92a00007a6e00",
-      "text": " Chromebookをメインに使ってる[air34n.icon][増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [Chromebook]をメインに使ってる[air34n.icon][増井俊之.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1607430571,
-      "updated": 1607492998
+      "updated": 1617357135
     },
     {
       "id": "5fcf76404bb2e20000e2def4",
@@ -433,10 +468,10 @@
     },
     {
       "id": "5fcf7af34bb2e20000e90de9",
-      "text": "Evernote[air34n.icon][yosider.icon][dnin.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "Evernote[air34n.icon][yosider.icon][dnin.icon][tetsuya-k.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1607432887,
-      "updated": 1613112355
+      "updated": 1620054474
     },
     {
       "id": "5fcfa2c31d860a00007f2ad3",
@@ -559,10 +594,10 @@
     },
     {
       "id": "5fcfb4a01280f00000f1f1c6",
-      "text": "  ほかは全部[FIrefox for Android Nightly]",
+      "text": "  ほかは全部[Firefox for Android Nightly]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607447713,
-      "updated": 1607447723
+      "updated": 1631163402
     },
     {
       "id": "5fd065a58ee92a0000b33426",
@@ -664,10 +699,10 @@
     },
     {
       "id": "5fe98faf8ee92a0000758aff",
-      "text": "エルカセット",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "[エルカセット]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1609142192,
-      "updated": 1609142195
+      "updated": 1617359544
     },
     {
       "id": "5fe98fb38ee92a0000758b00",
@@ -685,10 +720,101 @@
     },
     {
       "id": "5fe2ad208ee92a0000a78f83",
+      "text": "Yahoo! ジオシティーズ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1608690977,
+      "updated": 1617357207
+    },
+    {
+      "id": "6066e98f79d3a90000dfa423",
+      "text": " これでホームページつくってましたわ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617357201,
+      "updated": 1617357206
+    },
+    {
+      "id": "6066e99879d3a90000dfa424",
+      "text": " \tシンプルな使い心地とデザインで気に入ってた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617357209,
+      "updated": 1617357216
+    },
+    {
+      "id": "6066e98b79d3a90000dfa422",
+      "text": "前略プロフィール[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617357196,
+      "updated": 1617357226
+    },
+    {
+      "id": "6081e5728ee92a0000f78a29",
+      "text": "Googleクラウドプリント",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619125618,
+      "updated": 1619125629
+    },
+    {
+      "id": "6081e5848ee92a0000f78a2a",
+      "text": " 懐かしくはないけど [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619125636,
+      "updated": 1619125642
+    },
+    {
+      "id": "6066e9a979d3a90000dfa426",
+      "text": "Googleコードサーチ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617357226,
+      "updated": 1619125658
+    },
+    {
+      "id": "608f77988ee92a000068f143",
+      "text": "[スクリーンセーバー]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620015001,
+      "updated": 1620015009
+    },
+    {
+      "id": "608f7826246f59000009ce10",
+      "text": "　壁紙は意外と長生き",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620015142,
+      "updated": 1620015157
+    },
+    {
+      "id": "60901194a3368200006d316b",
+      "text": "GoodReader[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1620054420,
+      "updated": 1620054440
+    },
+    {
+      "id": "60901199a3368200006d316c",
+      "text": "Opera[erniogi.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1620054425,
+      "updated": 1626023612
+    },
+    {
+      "id": "60eb26cc4bb2e20000e5a396",
+      "text": " [Vivaldi]はいいぞ",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1626023612,
+      "updated": 1626023618
+    },
+    {
+      "id": "60ea76728ee92a0000721e1e",
+      "text": "朝日年鑑 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1625978483,
+      "updated": 1625978487
+    },
+    {
+      "id": "6081e5938ee92a0000f78a2b",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
-      "created": 1608690977,
-      "updated": 1608690977
+      "created": 1619125652,
+      "updated": 1619125652
     },
     {
       "id": "5fcf6566d438750000f7d0fc",

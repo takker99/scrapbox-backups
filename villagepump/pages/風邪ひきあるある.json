@@ -2,7 +2,7 @@
   "id": "5fcf7d95a99bd40022f08bab",
   "title": "風邪ひきあるある",
   "created": 1607433624,
-  "updated": 1607433973,
+  "updated": 1617807008,
   "lines": [
     {
       "id": "5fcf7d95a99bd40022f08bab",
@@ -52,6 +52,27 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1607433633,
       "updated": 1607433737
+    },
+    {
+      "id": "606c7234dd60be0000ce98e4",
+      "text": " \t低気圧で頭やられてるときとかは「あれ、なんか全ての音がちょっと低く聞こえるぞ……」と気づくことは稀にありますね[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617719860,
+      "updated": 1617719906
+    },
+    {
+      "id": "606c726add60be0000ce98e6",
+      "text": " \t\t逆に[45Nuyagawa.icon]は風邪を引くと音が高く聞こえる",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1617719914,
+      "updated": 1617719923
+    },
+    {
+      "id": "606dc6848ee92a0000f91e69",
+      "text": "  歳とると絶対音感の精度が悪くなってきた [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617806981,
+      "updated": 1617807008
     },
     {
       "id": "5fcf7df98ee92a0000b3341c",

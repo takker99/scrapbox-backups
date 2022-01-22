@@ -2,7 +2,7 @@
   "id": "5f6d44e7a469990025f698a3",
   "title": "「ルール」という言葉が生み出す排除意識",
   "created": 1600996585,
-  "updated": 1610284954,
+  "updated": 1630486264,
   "lines": [
     {
       "id": "5f6d44e7a469990025f698a3",
@@ -110,6 +110,20 @@
       "updated": 1606354604
     },
     {
+      "id": "610f6e44a19e400000ade401",
+      "text": "\t\t\t\t[/icons/わかる.icon] [kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628401221,
+      "updated": 1628401257
+    },
+    {
+      "id": "610f6e6aa19e400000ade402",
+      "text": "\t\t\t\t\t[少数決原理]が働いちゃう。どっちでもいい派８割と否定派２割がいたら、否定の方向に傾いてしまう。",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628401259,
+      "updated": 1628401301
+    },
+    {
       "id": "5f6dae711280f000002e1c01",
       "text": "\t\t\t典型例",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -201,6 +215,27 @@
       "updated": 1602203665
     },
     {
+      "id": "6111111279d3a90000611355",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508436,
+      "updated": 1628508436
+    },
+    {
+      "id": "6111111379d3a90000611357",
+      "text": "ドイツは規則にうるさいらしいが、どういう感じなんだろ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508437,
+      "updated": 1628508445
+    },
+    {
+      "id": "6111111379d3a90000611356",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508436,
+      "updated": 1628508436
+    },
+    {
       "id": "5f6d462a4daa9200007a3cf1",
       "text": "#言葉",
       "userId": "5bc5772df30ff700134daa92",
@@ -216,10 +251,17 @@
     },
     {
       "id": "5f7fc505a9f474000065c9e5",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " ガラスのコップってビンと一緒に出しちゃ駄目なんだ! [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1602209030,
-      "updated": 1602209030
+      "updated": 1628468056
+    },
+    {
+      "id": "611073478ee92a000005313e",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628468039,
+      "updated": 1628468039
     },
     {
       "id": "5f7fc489a9f474000065c9e2",
@@ -262,6 +304,48 @@
       "userId": "5ee76ce85f51de0023482754",
       "created": 1602227316,
       "updated": 1602227316
+    },
+    {
+      "id": "610fa291d1a02f0000b5ef89",
+      "text": "Twitter でも「F外失」とか「夜中にメンションしない」とかルール作っちゃうのよくない。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628414609,
+      "updated": 1628414803
+    },
+    {
+      "id": "610fa295d1a02f0000b5ef8a",
+      "text": "　プロフィールに[独自ルール]書いてる人は避けてる。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1628414614,
+      "updated": 1630471344
+    },
+    {
+      "id": "610fa355d1a02f0000b5ef8b",
+      "text": "　　わかる[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628414806,
+      "updated": 1630477540
+    },
+    {
+      "id": "612f3ee0d0ca1c000074754a",
+      "text": "　　この手の話で良いまとめがあった",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630486241,
+      "updated": 1630486264
+    },
+    {
+      "id": "612f3ee7d0ca1c000074754b",
+      "text": "　　　[https://cremu.jp/topics/9570 今からアカウント作ってTwitterで交流したい方に向けて言いたいこと ... | cremu クレム]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630486248,
+      "updated": 1630486252
+    },
+    {
+      "id": "612f1cdad1a02f00003b53bc",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630477531,
+      "updated": 1630477531
     }
   ]
 }

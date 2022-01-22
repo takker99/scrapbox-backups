@@ -2,7 +2,7 @@
   "id": "5faeb1ace26c220024e96d6e",
   "title": "2020/11/14",
   "created": 1605284270,
-  "updated": 1608118100,
+  "updated": 1631746530,
   "lines": [
     {
       "id": "5faeb1ace26c220024e96d6e",
@@ -251,157 +251,17 @@
     },
     {
       "id": "5fafb88c5b98c20000f88710",
-      "text": "[夜食]に何食べたい？",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": " [夜食に何食べたい？]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1605351564,
-      "updated": 1605352023
+      "updated": 1631746530
     },
     {
-      "id": "5fafb8ac5b98c20000f88711",
-      "text": " table:data",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605351887
-    },
-    {
-      "id": "5fafb8ac5b98c20000f88712",
-      "text": "  name\tvalue",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605351890
-    },
-    {
-      "id": "5fafbaecd438750000141f9b",
-      "text": "  うどん\t3",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605352172,
-      "updated": 1605352176
-    },
-    {
-      "id": "5fafbaf0d438750000141f9c",
-      "text": "  うなぎパイ\t2",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605352177,
-      "updated": 1605352180
-    },
-    {
-      "id": "5fafba6fd43875000058beab",
-      "text": "  ラーメン\t7",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605352047,
-      "updated": 1605362140
-    },
-    {
-      "id": "5fafba82d43875000058beac",
-      "text": "  雑炊\t1",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605352066,
-      "updated": 1605352069
-    },
-    {
-      "id": "5fafb8ac5b98c20000f88713",
-      "text": "  おにぎり\t2",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605352088
-    },
-    {
-      "id": "5fafb8ac5b98c20000f88714",
-      "text": "  焼きそば\t1",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605351893
-    },
-    {
-      "id": "5fafb8ac5b98c20000f88715",
-      "text": "  唐揚げ\t2",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605352045
-    },
-    {
-      "id": "5fafba644bb2e20000e6b04e",
-      "text": "  カレーライス\t1",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1605352019,
-      "updated": 1605352037
-    },
-    {
-      "id": "5fafe1faec4fce00007ec9a6",
-      "text": "  柿の種\t1",
-      "userId": "5da3a9589b96b70017ec4fce",
-      "created": 1605362170,
-      "updated": 1605362174
-    },
-    {
-      "id": "5fafcc801280f0000045ed44",
-      "text": "  何も食べない\t1",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1605356673,
-      "updated": 1605356678
-    },
-    {
-      "id": "5fafb8ac5b98c20000f88716",
-      "text": " テーブルの項目を追加したり、valueの値を変えたりしてみてね。",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605352005
-    },
-    {
-      "id": "5fafde121280f00000ea331c",
-      "text": "夜はたくさん食べないようにしたほうがいいですよ",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1605361171,
-      "updated": 1605361192
-    },
-    {
-      "id": "5fafde271280f00000ea331d",
-      "text": "\t睡眠の質が落ちる",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1605361192,
-      "updated": 1605361198
-    },
-    {
-      "id": "5fafde2d1280f00000ea331e",
-      "text": "\t朝食を食べる気がなくなって、悪循環に陥る",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1605361198,
-      "updated": 1605361215
-    },
-    {
-      "id": "5fafe1e9ec4fce00007ec9a5",
-      "text": "\tついつい食べちゃうんですよね...",
-      "userId": "5da3a9589b96b70017ec4fce",
-      "created": 1605362153,
-      "updated": 1605362165
-    },
-    {
-      "id": "5fafde401280f00000ea331f",
-      "text": "少なくとも寝る三時間前までに[夜食]は済ませたほうがいい",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1605361216,
-      "updated": 1605361240
-    },
-    {
-      "id": "5fafba465b98c2000010fb1b",
+      "id": "60a764ad246f590000807aa7",
       "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605352007,
-      "updated": 1605352008
-    },
-    {
-      "id": "5fafb8ac5b98c20000f88717",
-      "text": "[d3-csv-barchart-button.icon]←グラフを描く（[アイコンボタン]）",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1605351596,
-      "updated": 1605351880
-    },
-    {
-      "id": "5faf82f51280f00000274475",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1605337845,
-      "updated": 1605361118
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621583045,
+      "updated": 1621583045
     },
     {
       "id": "5fafddded438750000e1d400",
@@ -409,48 +269,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1605361119,
       "updated": 1613112354
-    },
-    {
-      "id": "5fafdde2d438750000e1d401",
-      "text": " table:stats",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605361123,
-      "updated": 1605361177
-    },
-    {
-      "id": "5fafde18d438750000e1d404",
-      "text": "  steps\t6661",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605361177,
-      "updated": 1605361280
-    },
-    {
-      "id": "5fafde20d438750000e1d405",
-      "text": "  taps\t4600",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605361185,
-      "updated": 1605362041
-    },
-    {
-      "id": "5fafde3dd438750000e1d406",
-      "text": "  cat\t0",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605361214,
-      "updated": 1605361289
-    },
-    {
-      "id": "5fafdeb6d43875000038edec",
-      "text": "  money\t0",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605361335,
-      "updated": 1605361346
-    },
-    {
-      "id": "5fafdeb1d43875000038edeb",
-      "text": " taps→[今年は何回スマホにタップしただろう?]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1605361330,
-      "updated": 1605361941
     },
     {
       "id": "5fafdef0d43875000038eded",

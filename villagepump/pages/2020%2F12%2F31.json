@@ -2,7 +2,7 @@
   "id": "5fec3f4b53cd64001c17e72c",
   "title": "2020/12/31",
   "created": 1609318221,
-  "updated": 1610203556,
+  "updated": 1626680759,
   "lines": [
     {
       "id": "5fec3f4b53cd64001c17e72c",
@@ -38,34 +38,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1609399117,
       "updated": 1609399139
-    },
-    {
-      "id": "5fed7b64d43875000082d530",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609399139,
-      "updated": 1609399139
-    },
-    {
-      "id": "5fed76d3d438750000acd459",
-      "text": "　聞いた[dnin.icon]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609397971,
-      "updated": 1613112362
-    },
-    {
-      "id": "5fed76d5d438750000acd45a",
-      "text": "　　坂本冬美の曲がモダンな感じになってて良かった",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609397973,
-      "updated": 1609398014
-    },
-    {
-      "id": "5fed76fdd438750000acd45b",
-      "text": "　　　Enka*R&Bだ",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609398014,
-      "updated": 1609398041
     },
     {
       "id": "5fecf7cdd438750000db46e9",
@@ -671,17 +643,10 @@
     },
     {
       "id": "5fed7871d438750000acd45e",
-      "text": " ペアレンタルコントロールされているAndroid端末、Chromeでシークレットタブが使えないのか！",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "",
+      "userId": "60f3a5d03a31ac001cd9875a",
       "created": 1609398385,
-      "updated": 1609412315
-    },
-    {
-      "id": "5fedb16bd4387500001d169c",
-      "text": " お笑いって第7世代までなの？",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1609412973,
-      "updated": 1609413044
+      "updated": 1626680759
     },
     {
       "id": "5fed17ae1280f00000734638",

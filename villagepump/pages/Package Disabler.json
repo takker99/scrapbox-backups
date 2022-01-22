@@ -2,7 +2,7 @@
   "id": "600bfe7a77e5b5001c813115",
   "title": "Package Disabler",
   "created": 1611398781,
-  "updated": 1612575891,
+  "updated": 1617576748,
   "lines": [
     {
       "id": "600bfe7a77e5b5001c813115",
@@ -13,10 +13,10 @@
     },
     {
       "id": "600bff16d4387500004cccf2",
-      "text": "Android向けアプリ無効化ユーティリティ",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[Android]向けアプリ無効化ユーティリティ",
+      "userId": "6055950b87138f0022246f59",
       "created": 1611398935,
-      "updated": 1611398943
+      "updated": 1616474086
     },
     {
       "id": "6015f6fad438750000eb600a",
@@ -41,10 +41,10 @@
     },
     {
       "id": "6015f6f3d438750000eb6009",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [Download https://drive.google.com/u/0/uc?export=download&confirm=-viH&id=1g6PZ_H1FlH92BRr5DCqwNAKUkhDczioA]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1612052212,
-      "updated": 1612052212
+      "updated": 1617576748
     },
     {
       "id": "6015f6ffd438750000eb600b",

@@ -2,7 +2,7 @@
   "id": "5f786da0f6a73e001e4f8986",
   "title": "Guildedってそんなにいいの？",
   "created": 1601727907,
-  "updated": 1605507827,
+  "updated": 1617532890,
   "lines": [
     {
       "id": "5f786da0f6a73e001e4f8986",
@@ -206,6 +206,20 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1601943626,
       "updated": 1601943626
+    },
+    {
+      "id": "606997c3fd049e00008a9eb3",
+      "text": "[tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617532867,
+      "updated": 1617532868
+    },
+    {
+      "id": "606997c4fd049e00008a9eb4",
+      "text": "検索機能がほぼ使えないようなので、[Discord]のほうが好き",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1617532868,
+      "updated": 1617532888
     }
   ]
 }

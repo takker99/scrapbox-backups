@@ -2,7 +2,7 @@
   "id": "600d9878607470002296818e",
   "title": "2021/01/25",
   "created": 1611503738,
-  "updated": 1612028531,
+  "updated": 1626676477,
   "lines": [
     {
       "id": "600d9878607470002296818e",
@@ -339,20 +339,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1611530067,
       "updated": 1611530965
-    },
-    {
-      "id": "600dfbe1d4387500006abe29",
-      "text": " [Created on Skills Network Labs https://gist.github.com/ssctt14/07044a55f3b872c9bf606662b8bd532c]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611529185,
-      "updated": 1611533058
-    },
-    {
-      "id": "600e0b02d438750000836506",
-      "text": "  [Gist]って[Jupyter Notebook]のノートも表示対応してるんだな",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611533059,
-      "updated": 1611533077
     },
     {
       "id": "600e2c49d43875000004c263",

@@ -2,7 +2,7 @@
   "id": "6002d7b866d412001f3f8a1e",
   "title": "人によって公開基準が異なる問題",
   "created": 1610799048,
-  "updated": 1610802341,
+  "updated": 1626962755,
   "lines": [
     {
       "id": "6002d7b866d412001f3f8a1e",
@@ -251,17 +251,24 @@
     },
     {
       "id": "6002e4811280f0000006d06e",
-      "text": "  同期ができないのが欠点",
+      "text": "  [- 同期ができないのが欠点]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610802305,
-      "updated": 1610802327
+      "updated": 1626962685
     },
     {
-      "id": "6002e4971280f0000006d06f",
-      "text": "   同期したくなければ有効だけど",
+      "id": "60f97afd1280f00000d8a7cd",
+      "text": "   [- 同期したくなければ有効だけど]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1610802328,
-      "updated": 1610802341
+      "created": 1626962685,
+      "updated": 1626962685
+    },
+    {
+      "id": "60f97afe1280f00000d8a7ce",
+      "text": "  public areaを公開&閲覧専用にするなら[scrapbox-duplicator]が使える",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626962686,
+      "updated": 1626962752
     },
     {
       "id": "6002daaa79d3a90000edd6a6",

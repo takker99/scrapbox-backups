@@ -2,7 +2,7 @@
   "id": "5f7e5be666f0a4002518d1b4",
   "title": "スマホからscrapbox編集する人",
   "created": 1602116588,
-  "updated": 1611507252,
+  "updated": 1629832726,
   "lines": [
     {
       "id": "5f7e5be666f0a4002518d1b4",
@@ -187,6 +187,34 @@
       "updated": 1602126809
     },
     {
+      "id": "612545ceaff09e0000386ca4",
+      "text": "　9割以上[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832655,
+      "updated": 1629832665
+    },
+    {
+      "id": "612545d9aff09e0000386ca5",
+      "text": "　 PCの前にいる時しかアウトプットできないのでは不便",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832665,
+      "updated": 1629832686
+    },
+    {
+      "id": "612545f1aff09e0000386ca6",
+      "text": "　 最近のスマホは防水なのでお風呂でも使える",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832689,
+      "updated": 1629832711
+    },
+    {
+      "id": "61254608aff09e0000386ca7",
+      "text": "　 [キーボードはオワコン](誇張)",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629832712,
+      "updated": 1629832726
+    },
+    {
       "id": "5f7ee1ec4827540000313979",
       "text": "\tそんなにやらない[udonn.icon][erniogi.icon]",
       "userId": "5ee76ce85f51de0023482754",
@@ -209,10 +237,10 @@
     },
     {
       "id": "5f7f3366b3e7ed0000981db4",
-      "text": "\t\t\tすぐ忘れてしまうからキーワードだけメモはする",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": "\t\t\tすぐ忘れてしまうから[キーワードだけメモ]はする",
+      "userId": "6055950b87138f0022246f59",
       "created": 1602171750,
-      "updated": 1602235406
+      "updated": 1618646164
     },
     {
       "id": "5f802c0eec4fce0000c501d3",
@@ -292,6 +320,13 @@
       "updated": 1602204226
     },
     {
+      "id": "607a9d16dd60be0000a156e5",
+      "text": "　　　 \t「きょう」「いま」とかから変換するのは不十分なのかな？",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1618648337,
+      "updated": 1618648350
+    },
+    {
       "id": "5f7fb241a9f4740000ac95af",
       "text": "　　　 iOSのキーボードアプリにも､日付入力に特化したものがあるかも",
       "userId": "5f7bafa76f34a0001ea9f474",
@@ -328,10 +363,10 @@
     },
     {
       "id": "5f7fb1851280f00000917992",
-      "text": "編集ではなく閲覧であれば結構使える[takker.icon][dnin.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "編集ではなく閲覧であれば結構使える[takker.icon][dnin.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1602204037,
-      "updated": 1613112349
+      "updated": 1629696100
     },
     {
       "id": "5f7fb1be1280f00000917993",
@@ -433,10 +468,10 @@
     },
     {
       "id": "5f80342ea9f4740000baba27",
-      "text": "物理キーボードを使うと結構いける[dnin.icon]",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "[物理キーボード]を使うと結構いける[dnin.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1602237486,
-      "updated": 1613112349
+      "updated": 1629726321
     },
     {
       "id": "5f80343fa9f4740000baba2b",
@@ -465,6 +500,41 @@
       "userId": "5f7bafa76f34a0001ea9f474",
       "created": 1602237490,
       "updated": 1602237563
+    },
+    {
+      "id": "6123a6211280f000003869b6",
+      "text": " Androidx[MOBO Keyboard][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726242,
+      "updated": 1629726328
+    },
+    {
+      "id": "6123a6251280f000003869b7",
+      "text": "  最高",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726245,
+      "updated": 1629726247
+    },
+    {
+      "id": "6123a62a1280f000003869b8",
+      "text": "  若干キーの挙動がPCのときと違う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726251,
+      "updated": 1629726269
+    },
+    {
+      "id": "6123a63d1280f000003869b9",
+      "text": "   [/takker/scrapboxにおける物理キーボードの挙動]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726269,
+      "updated": 1629726290
+    },
+    {
+      "id": "6123a6521280f000003869ba",
+      "text": "  [/takker/物理キーボード用拡張shortcut keyを導入するScrapBindingsの設定]を入れると、ほぼキーボードだけで操作できるようになる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726290,
+      "updated": 1629726459
     },
     {
       "id": "5fca29c7d438750000befd2a",
@@ -525,16 +595,16 @@
     {
       "id": "5fc3bf908ee92a0000b6937b",
       "text": " タップしただけでキーボードが表示されるのがウザいかということで長押しにしてましたが、そういう[時代]でもないんじゃないかということで",
-      "userId": "566fa156776c9b11008ee92a",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606664081,
-      "updated": 1606665077
+      "updated": 1629693512
     },
     {
       "id": "5fc3bfab8ee92a0000b6937c",
-      "text": " 個人的には長押しのままにしてもらいたいです[takker.icon][kuuote.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " 個人的には[長押しでキーボード表示]という仕様のままにしてもらいたいです[takker.icon][kuuote.icon]",
+      "userId": "60613a2b47fa22001c8a3b92",
       "created": 1606664108,
-      "updated": 1607082397
+      "updated": 1629696752
     },
     {
       "id": "5fca1dfa1280f000008df3c1",
@@ -579,6 +649,13 @@
       "updated": 1607142896
     },
     {
+      "id": "6123a68f1280f000003869bb",
+      "text": "  (2021-08-23)[ATOK for Android]の半透明キーボードと[MOBO Keyboard]を使うようになったのでもう気にならなくなった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726352,
+      "updated": 1629726383
+    },
+    {
       "id": "5fca223c1280f00000261043",
       "text": " ブラウザのUser Agentを気分で変更して使ってる[dnin.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -587,10 +664,52 @@
     },
     {
       "id": "600d85dc0553320000f9d08a",
-      "text": "",
-      "userId": "5d131fa66fe2890017055332",
+      "text": " 長押しすごいストレスを感じるので変わってほしい[miyamonz.icon][bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
       "created": 1611498972,
-      "updated": 1611498972
+      "updated": 1629726441
+    },
+    {
+      "id": "61236e2a385a9200008f681b",
+      "text": "  長押しをUserScriptでemulateすればなんとかなりそうです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629711914,
+      "updated": 1629726418
+    },
+    {
+      "id": "6123a6c71280f000003869bd",
+      "text": "   [/takker/mobile版scrapboxのtext-inputにfocusを当て]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726407,
+      "updated": 1629726407
+    },
+    {
+      "id": "6123a6d21280f000003869be",
+      "text": "   ↑をページ遷移するたびに実行するとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629726419,
+      "updated": 1629726438
+    },
+    {
+      "id": "6123a6b01280f000003869bc",
+      "text": "　　操作した瞬間にキーボードが生えるような、別の操作になってほしいなーと思う[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1629726385,
+      "updated": 1629726610
+    },
+    {
+      "id": "6123a77d79e11300001aa407",
+      "text": "　　　それこそUserscriptでやればよいのか",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1629726589,
+      "updated": 1629726602
+    },
+    {
+      "id": "6123a73579e11300001aa405",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1629726517,
+      "updated": 1629726517
     },
     {
       "id": "600d85dc0553320000f9d08b",

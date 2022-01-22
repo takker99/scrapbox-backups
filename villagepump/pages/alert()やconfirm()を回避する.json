@@ -2,7 +2,7 @@
   "id": "6016c1c9a732f0002285c131",
   "title": "alert()やconfirm()を回避する",
   "created": 1612104138,
-  "updated": 1612298539,
+  "updated": 1631965638,
   "lines": [
     {
       "id": "6016c1c9a732f0002285c131",
@@ -167,10 +167,24 @@
     },
     {
       "id": "6016c1dde5172d000078f1b6",
-      "text": " もしかして[FooView]ってこれを使ってダイアログ無視してるのか?",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": " [TamperMonkey]が使えた",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1612104153,
-      "updated": 1612131157
+      "updated": 1631965625
+    },
+    {
+      "id": "6145d1b8d0ca1c0000f3fd6f",
+      "text": " 　[Linkclump]と組み合わせてページを一括削除できる",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1631965625,
+      "updated": 1631965638
+    },
+    {
+      "id": "6145d1b3d0ca1c0000f3fd6e",
+      "text": " もしかして[FooView]ってこれを使ってダイアログ無視してるのか?",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1631965619,
+      "updated": 1631965619
     },
     {
       "id": "6016c1dbe5172d000078f1b5",

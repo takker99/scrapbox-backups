@@ -1,0 +1,288 @@
+{
+  "id": "614dcd22a94c0d001df07ea4",
+  "title": "ScrapboxのSEOは意外と強い",
+  "created": 1632488739,
+  "updated": 1632657797,
+  "lines": [
+    {
+      "id": "614dcd22a94c0d001df07ea4",
+      "text": "ScrapboxのSEOは意外と強い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19780",
+      "text": "from [ScrapboxのSEOは強くない]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19782",
+      "text": "検索しても出てこない情報を自分なりに調べてまとめておくと、そこそこまあまあの頻度で検索上位に出てくることがある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19783",
+      "text": "　誰か既にやっていないか検索したら、まともな記事が「調べたけど見つからなかった」と書かれた自分のメモ書きしかなかったことが1,2回あってげんなりした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19784",
+      "text": "  Google検索経由で[自分検索]するという面白現象",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19785",
+      "text": "  wakaru[mrsekut.icon][sta.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1632488739,
+      "updated": 1632497825
+    },
+    {
+      "id": "614dcd221280f00000f19786",
+      "text": "  \tなんか申し訳なくなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19787",
+      "text": "\t[https://gyazo.com/70fdf2fb7a81b1493152f952db74c700]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19788",
+      "text": "\t\tこの`cargo2nix`って、現時点では[ブラケティング]してるだけで、新しいページ作ってないんだけど、それでも上位4番に出てきてビビった[mrsekut.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f19789",
+      "text": "\t\t 空ページも検索結果に入ってくるのか……(困惑)[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "61505f7d1280f00000933c86",
+      "text": "\t\t (脱線)なんでタイトルが[The server can't be reached]なの……？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632657277,
+      "updated": 1632657325
+    },
+    {
+      "id": "61505f871280f00000933c87",
+      "text": "\t\t  [https://gyazo.com/9135f5ffd8a8432ae75c6c64975948d1]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632657287,
+      "updated": 1632657288
+    },
+    {
+      "id": "615060e0d1a02f00000eb972",
+      "text": "\t\t\t\t[/forum-jp/「The server can't be reached」で Google にインデックスされる][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632657633,
+      "updated": 1632657638
+    },
+    {
+      "id": "614dcd221280f00000f1978a",
+      "text": "\t\t何も知らない人はこのページに来て「は？何も書いてないやんけ」になってしまう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f1978b",
+      "text": "\t\t わかる[takker.icon*2][sta.icon*3]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f1978c",
+      "text": "\t\t「俺が悪いんじゃなくてgoogleが悪い」と言い聞かせてる[mrsekut.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd221280f00000f1978d",
+      "text": "\t自分のprojectの[Date last visited]を見てて「なんかページA、最近よく上がってくるな」→ぐぐってみる→めっちゃ上位でヒットする、がちょいちょいある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488739,
+      "updated": 1632488739
+    },
+    {
+      "id": "614dcd7679e1130000b56577",
+      "text": "\t わかる[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488823,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7a79e1130000b56579",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7a79e1130000b5657a",
+      "text": "　自分のプロジェクトも、よく分からんページにviewが集まっているな〜と思った[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488890
+    },
+    {
+      "id": "614dcd7b79e1130000b5657b",
+      "text": "　　[/blu3mo-public/BASE特性]とか",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7b79e1130000b5657c",
+      "text": "　　https://www.google.com/search?q=BASE特性",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7b79e1130000b5657d",
+      "text": "　　　検索で三番目に出てきてしまうのか",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7b79e1130000b5657e",
+      "text": "　　　怖い、自分用のメモのつもりなのに見られても困る",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcdc21280f00000f19790",
+      "text": "　　　 [見てもいい]運用を1000pagesくらいしていると、こういうなぜかSEOに強い謎記事がちょくちょく出てくる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488899,
+      "updated": 1632488997
+    },
+    {
+      "id": "614dcd7b79e1130000b56580",
+      "text": "　　他にも、ニッチな検索トピックだと、それについて以前書いた自分のページがGoogleに出てくることがたまにある",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7b79e1130000b56581",
+      "text": "　　　怖い",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dce301280f00000f19791",
+      "text": "　　　ニッチ情報はあるある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632489009,
+      "updated": 1632489017
+    },
+    {
+      "id": "614dcd7b79e1130000b56582",
+      "text": "　　「[bluemountain.icon]のScrapboxページ」としてではなく、「Google検索結果の1ページ」として見られることに怖さを感じる[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614ddf8e5b98c20000efca98",
+      "text": "　　うち、「[/suto3/目的は手段を正当化する]」という[中二病]っぽい名前のページがあるんだけど[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632493455,
+      "updated": 1632493808
+    },
+    {
+      "id": "614ddfed5b98c20000efca99",
+      "text": "　　　なんかページランクが高いみたいで、そこそこアクセスがある",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632493549,
+      "updated": 1632493659
+    },
+    {
+      "id": "614de0db5b98c20000efca9a",
+      "text": "　　　　なんでや",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632493788,
+      "updated": 1632493794
+    },
+    {
+      "id": "6150615c1280f00000933c91",
+      "text": "　　　中二病ではないと思うけどランク高い理由が謎すぎる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632657756,
+      "updated": 1632657797
+    },
+    {
+      "id": "614dcd7b79e1130000b56583",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632488827,
+      "updated": 1632488827
+    },
+    {
+      "id": "614dcd7779e1130000b56578",
+      "text": "タイトル変えたい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488823,
+      "updated": 1632489126
+    },
+    {
+      "id": "614dcea61280f00000f19793",
+      "text": " 「意外と強い」でもだいたいあってはいるんだけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632489127,
+      "updated": 1632489201
+    },
+    {
+      "id": "614dcec11280f00000f19794",
+      "text": " 「なぜか強い」とか「強いと勘違いされる」みたいなニュアンスを入れたい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632489153,
+      "updated": 1632489198
+    },
+    {
+      "id": "614dd08879e113000078060b",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632489609,
+      "updated": 1632489609
+    },
+    {
+      "id": "614dcfe479e1130000562703",
+      "text": "　（今と少し違うけど、）「期待しているより強い」という表現がページの内容とあっていそう[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632489445,
+      "updated": 1632489473
+    },
+    {
+      "id": "614dcfdc79e1130000562701",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1632489436,
+      "updated": 1632489436
+    }
+  ]
+}

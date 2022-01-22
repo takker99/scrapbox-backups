@@ -1,0 +1,78 @@
+{
+  "id": "608805c7947ecb001cbed078",
+  "title": "情報通信研究機構",
+  "created": 1619527113,
+  "updated": 1625316065,
+  "lines": [
+    {
+      "id": "60e02ee90b87190000eee35b",
+      "text": "情報通信研究機構",
+      "userId": "60d7d3e32182b900220b8719",
+      "created": 1625304809,
+      "updated": 1625304810
+    },
+    {
+      "id": "608805c7947ecb001cbed078",
+      "text": "[NICT]",
+      "userId": "60d7d3e32182b900220b8719",
+      "created": 1619527113,
+      "updated": 1625304813
+    },
+    {
+      "id": "6088070e246f59000087aebb",
+      "text": "https://www.nict.go.jp/",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619527438,
+      "updated": 1619527438
+    },
+    {
+      "id": "608805c8246f59000087aea4",
+      "text": "[国立研究開発法人][情報通信研究機構]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619527113,
+      "updated": 1619527214
+    },
+    {
+      "id": "608805d3246f59000087aea6",
+      "text": "[正確な時計 https://www.nict.go.jp/JST/JST5.html]と[でかい時計 https://www.nict.go.jp/JST/JST6.html]で有名",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619527124,
+      "updated": 1619527171
+    },
+    {
+      "id": "60e05ae0dd60be0000d99b9a",
+      "text": "",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1625316065,
+      "updated": 1625316065
+    },
+    {
+      "id": "608805e3246f59000087aea7",
+      "text": "[https://gyazo.com/bdf2de051640fa46f4d8ca54c74417d7]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619527139,
+      "updated": 1619528044
+    },
+    {
+      "id": "6088096c246f59000087aeef",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619528044,
+      "updated": 1619528044
+    },
+    {
+      "id": "6088072c246f59000087aebe",
+      "text": "#総務省",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619527468,
+      "updated": 1619527470
+    },
+    {
+      "id": "6088072c246f59000087aebf",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619527469,
+      "updated": 1619527469
+    }
+  ]
+}

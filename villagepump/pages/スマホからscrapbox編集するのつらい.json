@@ -2,7 +2,7 @@
   "id": "5fd55ecf7d6e76001c53a7df",
   "title": "スマホからscrapbox編集するのつらい",
   "created": 1607818964,
-  "updated": 1614430927,
+  "updated": 1627789812,
   "lines": [
     {
       "id": "5fd55ecf7d6e76001c53a7df",
@@ -61,25 +61,53 @@
       "updated": 1607819195
     },
     {
+      "id": "6061c0ba1280f00000a11453",
+      "text": "\t　[音声入力]を使うとだいぶマシになった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617019066,
+      "updated": 1617019104
+    },
+    {
+      "id": "6061c0e01280f00000a11455",
+      "text": "\t　 [/programming-notes/scrapbox-speech-input]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617019104,
+      "updated": 1617019130
+    },
+    {
       "id": "5fd55ed81280f00000c42e80",
-      "text": "　[scrapbox-text-bubble]とかを使って関連ページを覗けない",
+      "text": "　[- [scrapbox-text-bubble]][- とかを使って関連ページを覗けない]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607818968,
-      "updated": 1607819001
+      "updated": 1627787887
     },
     {
-      "id": "5fd55ef91280f00000c42e83",
-      "text": "　　[関連ページリストを閲覧しにくい]",
+      "id": "6106126f1280f00000ee5069",
+      "text": "  [- [関連ページリストを閲覧しにくい]]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1607819001,
-      "updated": 1607819053
+      "created": 1627787887,
+      "updated": 1627787887
     },
     {
-      "id": "5fd55ed71280f00000c42e7e",
-      "text": "　　もっとも、文字入力に意識を割かない分、[関連ページリスト]に意識が行きやすいので、そこまで問題でもないかもしれない",
+      "id": "6106126f1280f00000ee506a",
+      "text": "  [- もっとも、文字入力に意識を割かない分、][- [関連ページリスト]][- に意識が行きやすいので、そこまで問題でもないかもしれない]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1607818967,
-      "updated": 1607819184
+      "created": 1627787887,
+      "updated": 1627787887
+    },
+    {
+      "id": "610612701280f00000ee506b",
+      "text": "  [ScrapBubble]@0.2.0だと長押しで一応表示できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627787888,
+      "updated": 1627787911
+    },
+    {
+      "id": "610612861280f00000ee506c",
+      "text": "   意図した動作ではないしcontext menuに相当するdialogが出てきてうざったいが、表示はちゃんとされる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627787911,
+      "updated": 1627787962
     },
     {
       "id": "5fd5d477e5172d00003c135b",
@@ -164,6 +192,34 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1610783301,
       "updated": 1610783362
+    },
+    {
+      "id": "610609bfaff09e0000a1a8bf",
+      "text": " \t\tサードパーティのiOSアプリPorterを使ってる[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1627785663,
+      "updated": 1627785770
+    },
+    {
+      "id": "61060b78aff09e0000a1a8c2",
+      "text": " \t\t　https://apps.apple.com/jp/app/porter-for-scrapbox/id1305805708",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1627786105,
+      "updated": 1627786105
+    },
+    {
+      "id": "61060a1aaff09e0000a1a8c0",
+      "text": " \t\t　[Porter for Scrapbox]が使えなくなったらとても困る",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627785754,
+      "updated": 1627789829
+    },
+    {
+      "id": "61060aa1aff09e0000a1a8c1",
+      "text": " \t\t　Porterがなかったら今ほどScrapboxを使ってなかったのは間違いない",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1627785890,
+      "updated": 1627785917
     },
     {
       "id": "60029a46e5172d0000fae53e",

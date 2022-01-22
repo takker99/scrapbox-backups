@@ -2,7 +2,7 @@
   "id": "5ff95bb60b57d10022c7fcc9",
   "title": "見てもいいと見てほしいの意味や分類を考える",
   "created": 1610177465,
-  "updated": 1610188776,
+  "updated": 1622978917,
   "lines": [
     {
       "id": "5ff95bb60b57d10022c7fcc9",
@@ -47,6 +47,27 @@
       "updated": 1610177730
     },
     {
+      "id": "60b9606a79d3a90000efb32c",
+      "text": "\tなんかマトリックスできた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622761579,
+      "updated": 1622761583
+    },
+    {
+      "id": "60b9606f79d3a90000efb32d",
+      "text": "\t\t[/sta/見てもいいと見てほしい]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622761583,
+      "updated": 1622761584
+    },
+    {
+      "id": "60b9606579d3a90000efb32b",
+      "text": "\t---",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622761574,
+      "updated": 1622761577
+    },
+    {
       "id": "5ff962a479d3a900007aa933",
       "text": " こねこねしてる",
       "userId": "5a4873ab2e26fb001479d3a9",
@@ -61,6 +82,13 @@
       "updated": 1610179204
     },
     {
+      "id": "60b963581280f000001fcf5f",
+      "text": "\t [情報発信]が目的",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762329,
+      "updated": 1622762329
+    },
+    {
       "id": "5ff95e8e79d3a900007aa907",
       "text": "\t 読者に歩み寄る",
       "userId": "5a4873ab2e26fb001479d3a9",
@@ -68,11 +96,81 @@
       "updated": 1610179204
     },
     {
+      "id": "60b963781280f000001fcf61",
+      "text": "\t 媒体",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762361,
+      "updated": 1622762362
+    },
+    {
       "id": "5ff95e8e79d3a900007aa908",
-      "text": " \t一般的にはブログとかQiitaとかGitHubの[TIL]みたいなメモとか",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "  \tブログ",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610178181,
-      "updated": 1610179204
+      "updated": 1622762369
+    },
+    {
+      "id": "60b963811280f000001fcf62",
+      "text": "  \t[note]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762369,
+      "updated": 1622762372
+    },
+    {
+      "id": "60b963831280f000001fcf63",
+      "text": "  \tQiita",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762372,
+      "updated": 1622762373
+    },
+    {
+      "id": "60b963a21280f000001fcf68",
+      "text": "  \t zenn",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762403,
+      "updated": 1622762404
+    },
+    {
+      "id": "60b963a51280f000001fcf6a",
+      "text": "   \tGitHub gist",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762406,
+      "updated": 1622762406
+    },
+    {
+      "id": "60b963841280f000001fcf64",
+      "text": "  \tGitHubの[TIL]みたいなメモ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762373,
+      "updated": 1622762376
+    },
+    {
+      "id": "60b963881280f000001fcf66",
+      "text": "  \t これやっている人いるのかなあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622762377,
+      "updated": 1622762396
+    },
+    {
+      "id": "60bcb13e79d3a9000048099b",
+      "text": "  \t 日本人では見たことないですね（何人かはいそうですが）[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622978879,
+      "updated": 1622978893
+    },
+    {
+      "id": "60bcb14c79d3a9000048099c",
+      "text": "  \t \tGitHubで検索して出てくるの、全部外国人",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622978893,
+      "updated": 1622978905
+    },
+    {
+      "id": "60bcb15979d3a9000048099d",
+      "text": "  \t \t中国や韓国も割と多い印象",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622978905,
+      "updated": 1622978917
     },
     {
       "id": "5ff95e8e79d3a900007aa909",

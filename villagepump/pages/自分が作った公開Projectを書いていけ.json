@@ -2,7 +2,7 @@
   "id": "5f3c4e0d8c826c001ec9f2b3",
   "title": "自分が作った公開Projectを書いていけ",
   "created": 1597787664,
-  "updated": 1613454042,
+  "updated": 1630239898,
   "lines": [
     {
       "id": "5f3c4e0d8c826c001ec9f2b3",
@@ -103,60 +103,11 @@
       "updated": 1597788138
     },
     {
-      "id": "5f3c4fea4daa920000a564ac",
-      "text": "Q&A [/q-a][yuta0801.icon]",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788138,
-      "updated": 1597788145
-    },
-    {
-      "id": "5f3c4f9d4daa920000a564a9",
-      "text": "\t参加：[/q-a/このプロジェクトについて]",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788061,
-      "updated": 1597788153
-    },
-    {
-      "id": "5f3c4ff94daa920000a564ad",
-      "text": "\t[Discord]とかで[質問]しているのを見ていて色んな問題を感じたので、Scrapboxならどうなるのかという興味から作った",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788152,
-      "updated": 1597799646
-    },
-    {
-      "id": "5f3c50cc4daa920000a564b0",
-      "text": "\t\t解決していないのに流れてしまったり、言及が出来なくて、何度も同じ説明をする羽目になるとか",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788363,
-      "updated": 1597788379
-    },
-    {
-      "id": "5f3c50dd4daa920000a564b1",
-      "text": "\t\tそれから解決してしまった質問に対して後から補足できないのが個人的に気になっていた",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788381,
-      "updated": 1597788408
-    },
-    {
-      "id": "5f3c50504daa920000a564af",
-      "text": "\tここと同じようにチャットのような気軽さで質問できるような感じを目指してる",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788239,
-      "updated": 1597788449
-    },
-    {
-      "id": "5f3c50004daa920000a564ae",
-      "text": "　この質問が興味深かったです[takker.icon]",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1597788160,
-      "updated": 1597800776
-    },
-    {
-      "id": "5f3c78de1280f00000918f13",
-      "text": "　\t[/q-a/質問と回答という流れにおける通知の役割について/自分の関わった記事の更新をうまく確認する方法]",
+      "id": "60dfc8a51280f000009ecd7d",
+      "text": "[scrapbox.io/q-a]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1597798622,
-      "updated": 1597798631
+      "created": 1625278630,
+      "updated": 1625278636
     },
     {
       "id": "5f3c78cd1280f00000918f12",
@@ -360,6 +311,34 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1608195660,
       "updated": 1608195660
+    },
+    {
+      "id": "612b5cc4d0ca1c0000f74e9d",
+      "text": "chrome-extensions [/chrome-extensions][dep18.icon]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630231751,
+      "updated": 1630231767
+    },
+    {
+      "id": "612b5cd5d0ca1c0000f74e9e",
+      "text": " まだ作ったばかり",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630231769,
+      "updated": 1630231785
+    },
+    {
+      "id": "612b5cf0d0ca1c0000f74ea1",
+      "text": " 「おすすめ拡張機能まとめ」みたいな長いブログより、ここにまとまってて欲しい",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630231796,
+      "updated": 1630231819
+    },
+    {
+      "id": "612b5cd5d0ca1c0000f74e9f",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630231769,
+      "updated": 1630231769
     },
     {
       "id": "5f3c81101280f0000012a7cf",

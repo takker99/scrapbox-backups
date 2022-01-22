@@ -2,7 +2,7 @@
   "id": "5fd5a6163107520022b32baf",
   "title": "Androidアプリ開発入門",
   "created": 1607837207,
-  "updated": 1612874049,
+  "updated": 1619903000,
   "lines": [
     {
       "id": "5fd5a6163107520022b32baf",
@@ -101,6 +101,41 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1612872555,
       "updated": 1612872555
+    },
+    {
+      "id": "608d5cee8ee92a0000de5c39",
+      "text": " AndroidアプリはJSで作りたいなぁ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619877103,
+      "updated": 1619877113
+    },
+    {
+      "id": "608d5cef8ee92a0000de5c3a",
+      "text": "  [React Native]とかそのへんで行けそう[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1619877103,
+      "updated": 1619889730
+    },
+    {
+      "id": "608d8e134bb2e20000534faf",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1619889684,
+      "updated": 1619889684
+    },
+    {
+      "id": "608dc20679d3a900006a796d",
+      "text": " 開発環境重くて挫折したが、PC替えた今ならいける気がする……[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619902984,
+      "updated": 1619903000
+    },
+    {
+      "id": "608dc20679d3a900006a796e",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619902984,
+      "updated": 1619902984
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "5ffab1eb31c4e3001c490f74",
   "title": "Herokuの無料枠",
   "created": 1610265068,
-  "updated": 1611549476,
+  "updated": 1622444743,
   "lines": [
     {
       "id": "5ffab1eb31c4e3001c490f74",
@@ -174,10 +174,10 @@
     },
     {
       "id": "5ffab855d438750000efbdbe",
-      "text": "　　　 デビットカードでも登録できた[dnin.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "　　　 [デビットカード]でも登録できた[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1610266709,
-      "updated": 1613112363
+      "updated": 1619932169
     },
     {
       "id": "5ffab1eb1280f00000f93aed",
@@ -241,6 +241,48 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610265068,
       "updated": 1610265068
+    },
+    {
+      "id": "60b48922246f59000042c9be",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622444322,
+      "updated": 1622444322
+    },
+    {
+      "id": "60b48922246f59000042c9bf",
+      "text": "無料枠を8割超えるとメールが来る",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622444322,
+      "updated": 1622444334
+    },
+    {
+      "id": "60b4892d246f59000042c9c1",
+      "text": "[[https://gyazo.com/1a851a7ad673b2511c1b53dc55e0a91b]]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622444334,
+      "updated": 1622444337
+    },
+    {
+      "id": "60b4892d246f59000042c9c2",
+      "text": " 一部のserverless functionをVercelとかに移したほうが良さそう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622444334,
+      "updated": 1622444721
+    },
+    {
+      "id": "60b48ab11280f00000f9776e",
+      "text": "  あーでも独自ドメインを使えなくなるのか。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622444721,
+      "updated": 1622444743
+    },
+    {
+      "id": "60b48927246f59000042c9c0",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622444327,
+      "updated": 1622444327
     }
   ]
 }

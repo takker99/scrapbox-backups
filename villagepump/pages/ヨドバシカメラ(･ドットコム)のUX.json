@@ -2,7 +2,7 @@
   "id": "5f6dcfc7cd6036001efc5b12",
   "title": "ヨドバシカメラ(･ドットコム)のUX",
   "created": 1601032136,
-  "updated": 1608790119,
+  "updated": 1616666096,
   "lines": [
     {
       "id": "5f6dcfc7cd6036001efc5b12",
@@ -33,6 +33,20 @@
       "updated": 1613112349
     },
     {
+      "id": "605c5da1e5172d00001cdc7f",
+      "text": "  楽天みたいにごちゃごちゃはしていない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616666019,
+      "updated": 1616666026
+    },
+    {
+      "id": "605c5da9e5172d00001cdc80",
+      "text": "  レスポンスが遅いことがある",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616666026,
+      "updated": 1616666042
+    },
+    {
       "id": "5f6dd061b8f8be0000c2cdd5",
       "text": "",
       "userId": "5f68f69fe5e3af0023b8f8be",
@@ -41,10 +55,17 @@
     },
     {
       "id": "5f6dcfddb8f8be0000c2cdcd",
-      "text": "ポイント1割･送料無料(早く届く)",
-      "userId": "5f68f69fe5e3af0023b8f8be",
+      "text": "ポイント1割･[送料無料](早く届く)",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1601032158,
-      "updated": 1601032214
+      "updated": 1616665982
+    },
+    {
+      "id": "605c5d7ee5172d00001cdc7e",
+      "text": "　送料無料ありがたい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616665984,
+      "updated": 1616665990
     },
     {
       "id": "5f6dd00db8f8be0000c2cdd1",
@@ -122,6 +143,20 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1608790081,
       "updated": 1608790081
+    },
+    {
+      "id": "605c5de8e5172d00001cdc81",
+      "text": "#ヨドバシカメラ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616666090,
+      "updated": 1616666096
+    },
+    {
+      "id": "605c5de8e5172d00001cdc82",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616666090,
+      "updated": 1616666090
     }
   ]
 }

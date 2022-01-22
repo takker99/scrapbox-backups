@@ -2,7 +2,7 @@
   "id": "5f9b3e5d93d0e9001e0a4e7a",
   "title": "PageのRefactoring",
   "created": 1604009568,
-  "updated": 1610788412,
+  "updated": 1630563415,
   "lines": [
     {
       "id": "5f9b3e5d93d0e9001e0a4e7a",
@@ -117,11 +117,25 @@
       "updated": 1604887378
     },
     {
-      "id": "5fda3e19e5172d0000f7e192",
+      "id": "61306c431280f00000933137",
+      "text": " [ページの分割で一覧性を担保する方法]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630563395,
+      "updated": 1630563403
+    },
+    {
+      "id": "61306c4c1280f00000933139",
+      "text": " [頭にスッと入ってくる箇条書き]にする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630563405,
+      "updated": 1630563415
+    },
+    {
+      "id": "61306c451280f00000933138",
       "text": "",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1608138263,
-      "updated": 1608138263
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630563397,
+      "updated": 1630563397
     },
     {
       "id": "5fda3e43e5172d0000f7e195",
@@ -171,6 +185,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1604010097,
       "updated": 1604010119
+    },
+    {
+      "id": "6068080c1280f0000080ba3f",
+      "text": " [https://blog.sushi.money/entry/2020/05/16/235900 チームのScrapbox3000ページくらいを見返して整理した - hitode909の日記]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617430541,
+      "updated": 1617430541
     },
     {
       "id": "5f9b3ef51280f00000e0f37c",

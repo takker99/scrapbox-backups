@@ -2,7 +2,7 @@
   "id": "5f6bec79fd3a7d00216db9af",
   "title": "ブラケティング",
   "created": 1600908411,
-  "updated": 1611740562,
+  "updated": 1626006211,
   "lines": [
     {
       "id": "5f6bec79fd3a7d00216db9af",
@@ -40,11 +40,39 @@
       "updated": 1611740562
     },
     {
+      "id": "60eae2ac8ee92a00000fca5a",
+      "text": " 　まぁ広く認識はされてないですよね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626006189,
+      "updated": 1626006203
+    },
+    {
+      "id": "60eae2bc8ee92a00000fca5b",
+      "text": " 　 もっと良い言葉あるかな?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626006205,
+      "updated": 1626006211
+    },
+    {
       "id": "5f6bec881280f00000a6c878",
-      "text": "[bracketing]",
+      "text": " [bracketing]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1600908425,
-      "updated": 1600908428
+      "updated": 1616770541
+    },
+    {
+      "id": "605df5ee1280f00000cd1889",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616770543,
+      "updated": 1616770543
+    },
+    {
+      "id": "605df5fa1280f00000cd188a",
+      "text": "手動でしかリンクにできないツールと、自動でリンクにできるツールとがある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616770554,
+      "updated": 1616770585
     },
     {
       "id": "5f6c149a5b98c20000ab5eda",

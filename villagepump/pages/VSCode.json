@@ -1,0 +1,43 @@
+{
+  "id": "60a4f9c63fed7f001c167468",
+  "title": "VSCode",
+  "created": 1621424585,
+  "updated": 1628825437,
+  "lines": [
+    {
+      "id": "60a4f9c63fed7f001c167468",
+      "text": "VSCode",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621424585,
+      "updated": 1621424585
+    },
+    {
+      "id": "60a4f9c9246f590000ac8ae6",
+      "text": "[Visual Studio Code]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621424585,
+      "updated": 1621424592
+    },
+    {
+      "id": "6115e7598ee92a0000deb6bb",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628825434,
+      "updated": 1628825434
+    },
+    {
+      "id": "6115e75a8ee92a0000deb6bc",
+      "text": "#エディタ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628825435,
+      "updated": 1628825437
+    },
+    {
+      "id": "60a4f9cb246f590000ac8ae7",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1621424588,
+      "updated": 1621424588
+    }
+  ]
+}

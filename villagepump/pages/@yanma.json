@@ -2,7 +2,7 @@
   "id": "604e4ab453296300211121e1",
   "title": "@yanma",
   "created": 1615743670,
-  "updated": 1616421556,
+  "updated": 1619864574,
   "lines": [
     {
       "id": "604e4ab453296300211121e1",
@@ -446,6 +446,13 @@
       "updated": 1615969151
     },
     {
+      "id": "608d2bf81280f00000604e53",
+      "text": "      [ScrapBubble]に実装しました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619864568,
+      "updated": 1619864574
+    },
+    {
       "id": "6051bb651280f00000300c6e",
       "text": "",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -584,6 +591,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1615744220,
       "updated": 1615746224
+    },
+    {
+      "id": "6076d8521280f0000080f2b8",
+      "text": "   2021-04-14 20:56:09 実装しました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618401361,
+      "updated": 1618401368
+    },
+    {
+      "id": "6076d8561280f0000080f2b9",
+      "text": "   　[/programming-notes/scrapbox-text-bubble-2#6076d7ce1280f00000cff67f]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618401365,
+      "updated": 1618401366
+    },
+    {
+      "id": "6076fe58db62ad0000ee145f",
+      "text": "   　[/icons/クラッカー.icon][yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1618411096,
+      "updated": 1618411096
     },
     {
       "id": "604e4ce61280f0000016c3a8",

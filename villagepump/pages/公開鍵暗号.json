@@ -2,7 +2,7 @@
   "id": "5ff86aa7544ecf00365a9751",
   "title": "公開鍵暗号",
   "created": 1610115765,
-  "updated": 1610765686,
+  "updated": 1632217656,
   "lines": [
     {
       "id": "5ff86aa7544ecf00365a9751",
@@ -90,136 +90,10 @@
     },
     {
       "id": "5ff9698f1280f000008cf2ba",
-      "text": "    　公開鍵から秘密鍵を生成することはできない",
+      "text": "    　[公開鍵から秘密鍵は生成不可]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610181008,
-      "updated": 1610181053
-    },
-    {
-      "id": "5ff97464e5172d0000a34bbf",
-      "text": "    　公開鍵を公開すること自体は問題ない？[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610183779,
-      "updated": 1610183803
-    },
-    {
-      "id": "5ff9747ce5172d0000a34bc0",
-      "text": "    　\t一応秘密鍵を生成する（すごく弱い）ヒントにはなる？",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610183803,
-      "updated": 1610183828
-    },
-    {
-      "id": "5ff97567e5172d0000a34bc1",
-      "text": "    　\t\t[https://ja.wikipedia.org/wiki/%E5%85%AC%E9%96%8B%E9%8D%B5%E6%9A%97%E5%8F%B7#RSA%E6%9A%97%E5%8F%B7 公開鍵暗号#RSA暗号 - Wikipedia]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610184039,
-      "updated": 1610184053
-    },
-    {
-      "id": "5ffa9faa8ee92a000073ae12",
-      "text": "    　\t\tなりません [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610260396,
-      "updated": 1610260399
-    },
-    {
-      "id": "5ffa9fb08ee92a000073ae13",
-      "text": "    　\t\t なったらえらいことです",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610260402,
-      "updated": 1610260409
-    },
-    {
-      "id": "5ffaa0f58ee92a000073ae18",
-      "text": "    　\t\t Webの秘密通信インフラが崩壊しまっせ",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610260727,
-      "updated": 1610260737
-    },
-    {
-      "id": "5ffaa408e5172d0000d94b9d",
-      "text": "    　\t\t wikipediaの例をみると、2つの素数p, qを当てるのに、nの情報があるのとないのとではだいぶ違うきがするのですが…[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610261510,
-      "updated": 1610261557
-    },
-    {
-      "id": "5ffaa43b8ee92a000073ae27",
-      "text": "    　\t\t 公開鍵は「p」だけですから、そこからは何もわからないと思いますよ [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610261565,
-      "updated": 1610261584
-    },
-    {
-      "id": "5ffaa46de5172d0000d94b9e",
-      "text": "    　\t\t \t[\" n を公開鍵として公開する]とあるのは間違いなのかな",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610261612,
-      "updated": 1610261626
-    },
-    {
-      "id": "5ffaa44f8ee92a000073ae28",
-      "text": "    　\t\t 素数の例は単純化のため出してるだけなんじゃないかな?",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610261585,
-      "updated": 1610261600
-    },
-    {
-      "id": "5ffaa48c8ee92a000073ae2b",
-      "text": "    　\t\t  nを公開しても誰にも素因数分解できないという前提でしょう",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610261646,
-      "updated": 1610261662
-    },
-    {
-      "id": "5ffaa4a38ee92a000073ae2c",
-      "text": "    　\t\t  量子コンピュータとかで素因数分解できるなら話は別ですが",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610261669,
-      "updated": 1610261682
-    },
-    {
-      "id": "5ffaa4f9e5172d0000d94ba0",
-      "text": "    　\t\t  \t今後量子コンピュータが発展して素因数分解できるようになってきたら、ヒントになりうる？",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610261751,
-      "updated": 1610261773
-    },
-    {
-      "id": "5ffaa5438ee92a000073ae30",
-      "text": "    　\t\t  \tそういうことがあればまた別の暗号化が必要になるんでしょうね [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610261830,
-      "updated": 1610261845
-    },
-    {
-      "id": "5ffaa59ee5172d0000d94ba2",
-      "text": "    　\t\t  \tなるほど[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610261916,
-      "updated": 1610261916
-    },
-    {
-      "id": "5ffaa4618ee92a000073ae29",
-      "text": "    　\t\t いずれにせよ、公開鍵から秘密鍵がわかるようならWebが崩壊するのは間違いないです",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610261603,
-      "updated": 1610261687
-    },
-    {
-      "id": "5ff9a0ea1280f000004daa0d",
-      "text": "    　\t[量子コンピュータ]が普及したら問題になると思いますが、それは公開鍵を公開することではなくRSA暗号の方の問題になりますね[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1610195179,
-      "updated": 1610261791
-    },
-    {
-      "id": "5ff9a17fe5172d0000ea7036",
-      "text": "    　\t\t他の方式だとヒントにならないのかはよく知らない[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610195327,
-      "updated": 1610195349
+      "updated": 1632217656
     },
     {
       "id": "5ff96e4ae5172d0000a34bbd",

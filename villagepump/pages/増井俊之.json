@@ -2,7 +2,7 @@
   "id": "5fc2cf653f6afd00223c6099",
   "title": "増井俊之",
   "created": 1606602599,
-  "updated": 1616207327,
+  "updated": 1631445035,
   "lines": [
     {
       "id": "5fc2cf653f6afd00223c6099",
@@ -131,6 +131,13 @@
       "updated": 1609066776
     },
     {
+      "id": "61070c048ee92a00000767d7",
+      "text": " [昭和34年 1959] 生まれ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627851781,
+      "updated": 1627851789
+    },
+    {
       "id": "5fdf19868ee92a00006285a5",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
@@ -166,6 +173,27 @@
       "updated": 1610970080
     },
     {
+      "id": "610685228ee92a000015b73a",
+      "text": "code:script.js__",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627817251,
+      "updated": 1627817373
+    },
+    {
+      "id": "6106851f8ee92a000015b738",
+      "text": " /api/code/villagepump/リアルタイム版ScrapCalc/script.js",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627817248,
+      "updated": 1627817256
+    },
+    {
+      "id": "610685208ee92a000015b739",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627817248,
+      "updated": 1627817248
+    },
+    {
       "id": "60555ddc8ee92a00004f585d",
       "text": "[ScrapExec]によるコードブロック評価",
       "userId": "566fa156776c9b11008ee92a",
@@ -177,7 +205,7 @@
       "text": "code:script.js",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1616207325,
-      "updated": 1616207325
+      "updated": 1627817376
     },
     {
       "id": "60555ddd8ee92a00004f585f",
@@ -192,6 +220,55 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1611299791,
       "updated": 1611299791
+    },
+    {
+      "id": "60ad86408ee92a0000615bf4",
+      "text": "[ScrapCalc]によるコード実行",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984833,
+      "updated": 1621984871
+    },
+    {
+      "id": "60ad86418ee92a0000615bf6",
+      "text": "code:script.js",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984834,
+      "updated": 1627817379
+    },
+    {
+      "id": "60ad86418ee92a0000615bf7",
+      "text": " import '/api/code/masui/ScrapCalc/script.js'",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984834,
+      "updated": 1621984845
+    },
+    {
+      "id": "60ad86418ee92a0000615bf8",
+      "text": "code:style.css",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984834,
+      "updated": 1621984846
+    },
+    {
+      "id": "60ad86418ee92a0000615bf9",
+      "text": " @import '/api/code/masui/ScrapCalc/style.css';",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984834,
+      "updated": 1621984847
+    },
+    {
+      "id": "60ad86418ee92a0000615bfa",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984834,
+      "updated": 1621984834
+    },
+    {
+      "id": "60ad86408ee92a0000615bf5",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621984833,
+      "updated": 1621984833
     },
     {
       "id": "600a7be88ee92a0000fb3291",
@@ -345,7 +422,7 @@
       "text": "code:style.css",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1611299816,
-      "updated": 1611299816
+      "updated": 1617272598
     },
     {
       "id": "600a7be88ee92a0000fb32a7",
@@ -1650,6 +1727,13 @@
       "updated": 1611299816
     },
     {
+      "id": "613ddf1e8ee92a00006c2617",
+      "text": " /*",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631444767,
+      "updated": 1631444767
+    },
+    {
       "id": "600a7be88ee92a0000fb3361",
       "text": " .navbar-brand::before {",
       "userId": "566fa156776c9b11008ee92a",
@@ -1662,6 +1746,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1611299816,
       "updated": 1611299816
+    },
+    {
+      "id": "613ddf208ee92a00006c2618",
+      "text": "   */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631444769,
+      "updated": 1631444769
     },
     {
       "id": "600a7be88ee92a0000fb3363",
@@ -1798,10 +1889,10 @@
     },
     {
       "id": "600a7be88ee92a0000fb3376",
-      "text": "   body:not(.presentation) { padding-top: 90px; padding-right: 0 !important }",
+      "text": "   body:not(.presentation) { padding-top: 0px; padding-right: 0 !important } /*******/",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1611299816,
-      "updated": 1611299816
+      "updated": 1631445035
     },
     {
       "id": "600a7be88ee92a0000fb3377",
@@ -2274,10 +2365,10 @@
     },
     {
       "id": "604a32bd8ee92a000001ede6",
-      "text": "code:script.js",
+      "text": "code:script.js__",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615475390,
-      "updated": 1615475390
+      "updated": 1621984827
     },
     {
       "id": "604a32bd8ee92a000001ede7",
@@ -2484,10 +2575,10 @@
     },
     {
       "id": "604a32bd8ee92a000001ee04",
-      "text": "code:script.js",
+      "text": "code:script.js__",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615475390,
-      "updated": 1615475390
+      "updated": 1621984822
     },
     {
       "id": "604a32bd8ee92a000001ee05",
@@ -3148,11 +3239,193 @@
       "updated": 1615455309
     },
     {
-      "id": "6049e44c8ee92a000017e8db",
+      "id": "610e76448ee92a0000dc9d42",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337732,
+      "updated": 1628337732
+    },
+    {
+      "id": "6049e44c8ee92a000017e8db",
+      "text": "[https://gyazo.com/12c0ea2fdbc86632c2059d602a4cca18]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1615455309,
-      "updated": 1615455309
+      "updated": 1628337662
+    },
+    {
+      "id": "610e75fd8ee92a0000dc9d3f",
+      "text": " `1`～`4`で記入",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337662,
+      "updated": 1628337662
+    },
+    {
+      "id": "610e75d88ee92a0000dc9d25",
+      "text": "`1. 自分は周りの人たちの中になじんでいると感じますか` [% q1 = 4]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337625,
+      "updated": 1628337673
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d28",
+      "text": "`2. 自分には人との付き合いがないと感じることがありますか` [% q2 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d29",
+      "text": "`3. 自分には頼れる人が誰もいないと感じることがありますか` [% q3 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d2a",
+      "text": "`4. 自分はひとりぼっちだと感じることがありますか` [% q4 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d2b",
+      "text": "`5. 自分は友人や仲間のグループの一員だと感じることがありますか` [% q5 = 3]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337747
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d2c",
+      "text": "`6. 自分は周りの人たちと共通点が多いと感じることがありますか` [% q6 = 3]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337689
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d2d",
+      "text": "`7. 自分は誰とも親しくしていないと感じることはありますか` [% q7 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d2e",
+      "text": "`8. 自分の関心や考えは周りの人たちにはわからないと感じることがありますか` [% q8 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d2f",
+      "text": "`9. 自分を社交的で親しみやすいと感じますか` [% q9 = 3]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337699
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d30",
+      "text": "`10. 自分には親しい人たちがいると感じますか` [% q10 = 4]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337702
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d31",
+      "text": "`11. 自分は取り残されていると感じることがありますか3` [% q11 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d32",
+      "text": "`12. 他人との関わりは意味がないと感じることがありますか` [% q12 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d33",
+      "text": "`13. 自分のことを本当によく知っている人は誰もいないと感じることはありますか` [% q13 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d34",
+      "text": "`14. 自分は他の人たちから孤立していると感じることはありますか` [% q14 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d35",
+      "text": "`15. 希望すれば自分と気の合う仲間は見つかると感じますか` [% q15 = 4]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337713
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d36",
+      "text": "`16. 自分を本当に理解している人がいると感じますか` [% q16 = 4]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337715
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d37",
+      "text": "`17. 自分は内気であると感じますか` [% q17 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d38",
+      "text": "`18. 周りの人たちと一体感がもてないと感じることがありますか` [% q18 = 1]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d39",
+      "text": "`19. 話し相手がいると感じますか` [% q19 = 4]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337721
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d3a",
+      "text": "`20. 頼れる人がいると感じますか` [% q20 = 4]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337723
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d3b",
+      "text": "孤独度 = [% (5-q1)+q2+q3+q4+(5-q5)+(5-q6)+q7+q8+(5-q9)+(5-q10)+q11+q12+q13+q14+(5-q15)+(5-q16)+q17+q18+(5-q19)+(5-q20)]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d98ee92a0000dc9d3c",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337626,
+      "updated": 1628337626
+    },
+    {
+      "id": "610e75d88ee92a0000dc9d26",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337625,
+      "updated": 1628337625
+    },
+    {
+      "id": "610e75d88ee92a0000dc9d27",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628337625,
+      "updated": 1628337625
     },
     {
       "id": "5fdf19108ee92a00006285a1",

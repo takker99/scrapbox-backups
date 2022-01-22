@@ -2,7 +2,7 @@
   "id": "603ac3a1a54819001ce61850",
   "title": "今日の日付のWikipediaページを開く",
   "created": 1614463912,
-  "updated": 1616066863,
+  "updated": 1618641065,
   "lines": [
     {
       "id": "603ac3a1a54819001ce61850",
@@ -13,10 +13,10 @@
     },
     {
       "id": "603ae3997589210000b6fcbb",
-      "text": "https://idobata-diary.herokuapp.com/w",
-      "userId": "6044910bc9a74e001eb19cc3",
+      "text": "https://idy.herokuapp.com/w",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614472090,
-      "updated": 1616066856
+      "updated": 1618641065
     },
     {
       "id": "603ae39a7589210000b6fcbc",

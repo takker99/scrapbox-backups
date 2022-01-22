@@ -2,7 +2,7 @@
   "id": "5fb5e3b6aa40df0024e21e89",
   "title": "嫌いな言葉",
   "created": 1605755833,
-  "updated": 1614343736,
+  "updated": 1632659278,
   "lines": [
     {
       "id": "5fb5e3b6aa40df0024e21e89",
@@ -10,6 +10,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1605755833,
       "updated": 1609835217
+    },
+    {
+      "id": "60f193169a4352000035219c",
+      "text": "論破[rickshinmi.icon][erniogi.icon][kidooom.icon][takker.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1626444567,
+      "updated": 1628340364
     },
     {
       "id": "5fb5e3d6d438750000aa3566",
@@ -20,10 +27,17 @@
     },
     {
       "id": "5fb5e3bad438750000aa3562",
-      "text": "オープン価格[dnin.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[オープン価格][dnin.icon][erniogi.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1605755834,
-      "updated": 1613112354
+      "updated": 1626354741
+    },
+    {
+      "id": "60f034381280f0000087e403",
+      "text": " 一体何がオープンなんだ……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626354745,
+      "updated": 1626354763
     },
     {
       "id": "5fb5f223d438750000fc0c18",
@@ -31,6 +45,27 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1605759523,
       "updated": 1613112354
+    },
+    {
+      "id": "60f0340a1280f0000087e402",
+      "text": " 「要は」「要するに」はよく使っている[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626354698,
+      "updated": 1626354735
+    },
+    {
+      "id": "60f034c81280f0000087e406",
+      "text": " 「つまり」に言い換えた方がいいかなあ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626354889,
+      "updated": 1626354910
+    },
+    {
+      "id": "60f04d8f8ee92a0000943e2e",
+      "text": " 別に嫌いじゃないなぁ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361231,
+      "updated": 1626361239
     },
     {
       "id": "5fb5e3c1d438750000aa3564",
@@ -41,10 +76,10 @@
     },
     {
       "id": "5fb5ea69d438750000fc0c16",
-      "text": "コロナに勝つとか負けるとか[dnin.icon][takker.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "コロナに勝つとか負けるとか[dnin.icon][takker.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1605757545,
-      "updated": 1614343543
+      "updated": 1628209517
     },
     {
       "id": "5fb5e3bad438750000aa3563",
@@ -66,6 +101,20 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1605759485,
       "updated": 1613112354
+    },
+    {
+      "id": "60f04da88ee92a0000943e2f",
+      "text": " 「適切」って駄目なんですか? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361256,
+      "updated": 1626361266
+    },
+    {
+      "id": "60f0568e385a9200005f5ae7",
+      "text": " 　[「適切」が適切に使われてない]ときとか[miyamonz.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1626363535,
+      "updated": 1626363564
     },
     {
       "id": "5fc46b87d4387500009c7fd2",
@@ -139,10 +188,10 @@
     },
     {
       "id": "5fb5f25c05533200002b14f6",
-      "text": "とりま[dnin.icon]",
-      "userId": "5d131fa66fe2890017055332",
+      "text": "とりま[dnin.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1605759580,
-      "updated": 1613112354
+      "updated": 1628209534
     },
     {
       "id": "5fb6585dd4387500001621c9",
@@ -223,10 +272,10 @@
     },
     {
       "id": "60128c441280f00000a9c77c",
-      "text": "[\" 下品][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "下品 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611828292,
-      "updated": 1611828292
+      "updated": 1622412371
     },
     {
       "id": "60128c501280f00000a9c7b0",
@@ -237,17 +286,17 @@
     },
     {
       "id": "60128c501280f00000a9c7b1",
-      "text": "いつも言ってるけど[dnin.icon][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "いつも言ってるけど[dnin.icon][増井俊之.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1611828304,
-      "updated": 1613112354
+      "updated": 1628209539
     },
     {
       "id": "60128c541280f00000a9c7b5",
-      "text": "[\" だから言ったのに][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "だから言ったのに [増井俊之.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1611828309,
-      "updated": 1611828309
+      "updated": 1628209540
     },
     {
       "id": "60128c501280f00000a9c7b2",
@@ -265,17 +314,17 @@
     },
     {
       "id": "60128c441280f00000a9c77e",
-      "text": "[\" ～のせいで][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "～のせいで [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611828292,
-      "updated": 1611828292
+      "updated": 1622412355
     },
     {
       "id": "60128c441280f00000a9c77f",
-      "text": "[\" アナタのためを思って] [dnin.icon*3][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "アナタのためを思って [dnin.icon*3][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611828292,
-      "updated": 1613112354
+      "updated": 1622412358
     },
     {
       "id": "60128c441280f00000a9c780",
@@ -300,10 +349,10 @@
     },
     {
       "id": "60128c441280f00000a9c783",
-      "text": "[\" 〜してあげたのに][増井俊之.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "〜してあげたのに [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611828292,
-      "updated": 1611828292
+      "updated": 1622412384
     },
     {
       "id": "6038eb17e5172d0000f743de",
@@ -314,10 +363,10 @@
     },
     {
       "id": "60128c771280f00000a9c997",
-      "text": "やればできるじゃん[yosider.icon][takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "やればできるじゃん[yosider.icon][takker.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1611828344,
-      "updated": 1611828344
+      "updated": 1628209550
     },
     {
       "id": "60128c771280f00000a9c998",
@@ -363,10 +412,10 @@
     },
     {
       "id": "5fc2eb67d43875000050a347",
-      "text": "成功者[dnin.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "成功者[dnin.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1606609768,
-      "updated": 1613112354
+      "updated": 1628209554
     },
     {
       "id": "5fc46b53d4387500009c7fcf",
@@ -388,6 +437,13 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1609821997,
       "updated": 1611586641
+    },
+    {
+      "id": "60f04dde8ee92a0000943e30",
+      "text": "　そんなに嫌いですか? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361311,
+      "updated": 1626361316
     },
     {
       "id": "5fc46ba5d4387500009c7fd3",
@@ -509,6 +565,13 @@
       "updated": 1611586721
     },
     {
+      "id": "60b40c6e8ee92a000029d602",
+      "text": " 気にならないやで [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622412398,
+      "updated": 1622412405
+    },
+    {
       "id": "5fb5e4d34bb2e200001983ba",
       "text": "陰キャ、陽キャ等カジュアルに人を馬鹿にするニュアンスを含んでいて、それを隠しもしない言葉[kuuote.icon]",
       "userId": "5e8944948a182900174bb2e2",
@@ -559,10 +622,10 @@
     },
     {
       "id": "5fb5e6004bb2e200001983bd",
-      "text": "障がい[kuuote.icon][sta.icon][増井俊之.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "障がい[kuuote.icon][sta.icon][増井俊之.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1605756417,
-      "updated": 1611669850
+      "updated": 1628340410
     },
     {
       "id": "5fb604cd4bb2e200000b1c16",
@@ -691,6 +754,41 @@
       "updated": 1611586721
     },
     {
+      "id": "60f04e148ee92a0000943e31",
+      "text": "　　色の区別が苦手なぐらいで「障害」とか言わないでほしい [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361364,
+      "updated": 1626361385
+    },
+    {
+      "id": "60f04e288ee92a0000943e33",
+      "text": "　　 ドレミを区別できない連中は「障害者」とか言われないのに",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361385,
+      "updated": 1626361436
+    },
+    {
+      "id": "60f05709385a9200005f5ae8",
+      "text": "　　 　音程って現代社会のコミュニケーションの一部には使われてないということかも[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626363658,
+      "updated": 1626363682
+    },
+    {
+      "id": "60f05722385a9200005f5ae9",
+      "text": "　　 　　色は時々使われる",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626363682,
+      "updated": 1626363690
+    },
+    {
+      "id": "60f04e4e8ee92a0000943e34",
+      "text": "　　 視力が悪い連中も「障害者」とか言われてないのに",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361422,
+      "updated": 1626361449
+    },
+    {
       "id": "5fb6458d4bb2e200006cd8f9",
       "text": "古い名称といえば、ユビキタスって言葉好きなのにIoTとかいうクソダサい名前と置き換わってしまったのが悲しい[kuuote.icon]",
       "userId": "5e8944948a182900174bb2e2",
@@ -731,6 +829,34 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1609826945,
       "updated": 1611586721
+    },
+    {
+      "id": "60f04e768ee92a0000943e35",
+      "text": " ユビキタスが好きじゃないのは何故でしょう? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626361462,
+      "updated": 1626361477
+    },
+    {
+      "id": "60f0b9581280f000000486f7",
+      "text": "  理由が全然ないですねー。ただただなんとなく好きじゃないなあという感じ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626388824,
+      "updated": 1626388847
+    },
+    {
+      "id": "60f0b96f1280f000000486f8",
+      "text": "   「ユビキタス」を使っている場面に遭遇しても拒否反応や嫌悪感は特に起きない程度の「好きじゃない」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626388847,
+      "updated": 1626388891
+    },
+    {
+      "id": "60f05756385a9200005f5aea",
+      "text": "DX [miyamonz.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1626363734,
+      "updated": 1626389077
     },
     {
       "id": "5fbe3d704bb2e20000cd0aa8",
@@ -944,10 +1070,10 @@
     },
     {
       "id": "5fcca1204daa92000059d5f7",
-      "text": "天才〇〇[yuta0801.icon]",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "天才〇〇[yuta0801.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1607246113,
-      "updated": 1611586761
+      "updated": 1628209589
     },
     {
       "id": "5fcca1254daa92000059d5f9",
@@ -979,24 +1105,24 @@
     },
     {
       "id": "5fc2d8fa8ee92a0000df45e8",
-      "text": "[\" 恩知らず][増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "恩知らず [増井俊之.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1606605051,
-      "updated": 1611586792
+      "updated": 1628209597
     },
     {
       "id": "5fc2d8fc8ee92a0000df45e9",
-      "text": "[\" 恥知らず][増井俊之.icon]",
+      "text": "恥知らず [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1606605053,
-      "updated": 1611586792
+      "updated": 1622412272
     },
     {
       "id": "5fdc29e18ee92a0000d9f2e7",
-      "text": "[\" それボクも考えてたんだけど][増井俊之.icon]",
+      "text": "それボクも考えてたんだけど [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608264162,
-      "updated": 1611586792
+      "updated": 1622412278
     },
     {
       "id": "5feb34fc8ee92a0000588cdb",
@@ -1014,10 +1140,10 @@
     },
     {
       "id": "5ff4155da336820000cfeda0",
-      "text": "どこにもない言葉[erniogi.icon]",
+      "text": "どこにもない言葉",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1609831773,
-      "updated": 1611586931
+      "updated": 1627721763
     },
     {
       "id": "5ff41565a336820000cfeda1",
@@ -1062,6 +1188,27 @@
       "updated": 1611622247
     },
     {
+      "id": "60eed521fa8faf00006866ac",
+      "text": " [漢熟語の一部をひらがなで書く]",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626264866,
+      "updated": 1626264909
+    },
+    {
+      "id": "60eed510fa8faf00006866ab",
+      "text": " [ATOK]にその手のサジェスチョンがあるっぽい",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626264848,
+      "updated": 1626264859
+    },
+    {
+      "id": "608beac38ee92a0000066e41",
+      "text": "まん延 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619782339,
+      "updated": 1620093346
+    },
+    {
       "id": "5fd7063dd43875000016bfc1",
       "text": "[OJT][sta.icon]",
       "userId": "5fa258bdb102120024d43875",
@@ -1097,13 +1244,6 @@
       "updated": 1611586944
     },
     {
-      "id": "600edd841280f000001ce394",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611586949,
-      "updated": 1611586949
-    },
-    {
       "id": "601771ded4387500003216c1",
       "text": "総合的に判断",
       "userId": "5fa258bdb102120024d43875",
@@ -1118,11 +1258,11 @@
       "updated": 1612149233
     },
     {
-      "id": "601771ded4387500003216c2",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612149215,
-      "updated": 1612149215
+      "id": "608e2cfd246f590000f40696",
+      "text": "エンゲージメント[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619930365,
+      "updated": 1619930365
     },
     {
       "id": "601c9851d4387500005f67f3",
@@ -1139,18 +1279,263 @@
       "updated": 1614343726
     },
     {
-      "id": "6038ee2e1280f00000d3604f",
+      "id": "608e2d1e246f590000f4069a",
       "text": "  聞いたことのない表現",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619930398,
+      "updated": 1619930398
+    },
+    {
+      "id": "608e2d03246f590000f40697",
+      "text": " 　アプリをインストールする",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619930372,
+      "updated": 1619930382
+    },
+    {
+      "id": "608e2d0e246f590000f40698",
+      "text": " 　音楽をアプリでダウンロードする",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619930382,
+      "updated": 1619930405
+    },
+    {
+      "id": "60f034901280f0000087e405",
+      "text": " 　[/icons/なるほど.icon][takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1614343726,
-      "updated": 1614343736
+      "created": 1626354832,
+      "updated": 1626354845
+    },
+    {
+      "id": "6076b6808ee92a000029a040",
+      "text": "確定申告 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618392704,
+      "updated": 1618392711
+    },
+    {
+      "id": "6082b002246f590000ededcf",
+      "text": "補習授業[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619177474,
+      "updated": 1619177478
+    },
+    {
+      "id": "608beaa58ee92a0000066e3f",
+      "text": "I regret to inform you that... [増井俊之.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1619782309,
+      "updated": 1622521474
+    },
+    {
+      "id": "608beab48ee92a0000066e40",
+      "text": " 論文がリジェクトされたときの言葉",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619782325,
+      "updated": 1619782333
+    },
+    {
+      "id": "60f0347c1280f0000087e404",
+      "text": " かなしい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626354813,
+      "updated": 1626354820
     },
     {
       "id": "601c9849d4387500005f67f2",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "オールジャパン[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1612486731,
-      "updated": 1612486731
+      "updated": 1620080144
+    },
+    {
+      "id": "60f05777385a9200005f5aeb",
+      "text": "クールジャパン[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626363768,
+      "updated": 1626363770
+    },
+    {
+      "id": "60f0577a385a9200005f5aec",
+      "text": "　クールジャパンという名前がクールじゃないという矛盾がある",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626363770,
+      "updated": 1626363793
+    },
+    {
+      "id": "6090a9908ee92a00008adb30",
+      "text": "このライブ ストリームの記録は、ご覧いただけません [増井俊之.icon][dnin.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1620093329,
+      "updated": 1626363633
+    },
+    {
+      "id": "6090aa158ee92a00008adb32",
+      "text": "可及的速やかに [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620093461,
+      "updated": 1620093494
+    },
+    {
+      "id": "6090aa368ee92a00008adb33",
+      "text": " 急いで、と言えばいいのに",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620093494,
+      "updated": 1620093506
+    },
+    {
+      "id": "6090e6dd1280f00000876801",
+      "text": "本当の理由[takker.icon][dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620109020,
+      "updated": 1620109559
+    },
+    {
+      "id": "6090a9938ee92a00008adb31",
+      "text": " これつけとけばユーザーの目を引けるとか思ってんだろ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620093331,
+      "updated": 1620109078
+    },
+    {
+      "id": "60a411698ee92a00007d6359",
+      "text": " たったひとつの理由 とかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621365098,
+      "updated": 1621365107
+    },
+    {
+      "id": "60a5e5a58ee92a0000fda709",
+      "text": "エンターテイメント [増井俊之.icon] (エンターテインメントだろ!)",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621484965,
+      "updated": 1622412211
+    },
+    {
+      "id": "60a5e5a98ee92a0000fda70a",
+      "text": "サスティナブル [増井俊之.icon] (サステイナブルだろ!)",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621484969,
+      "updated": 1622412218
+    },
+    {
+      "id": "60b48ed98ee92a0000cf3d9e",
+      "text": "世間知らず [増井俊之.icon][dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622445785,
+      "updated": 1622448073
+    },
+    {
+      "id": "60b5b68aa3368200007883a5",
+      "text": "慎重に検討致しましたが..[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1622521482,
+      "updated": 1622521494
+    },
+    {
+      "id": "60b5b696a3368200007883a6",
+      "text": "意見は割れたのですが..[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1622521495,
+      "updated": 1622521509
+    },
+    {
+      "id": "60b804dc246f5900007ca71a",
+      "text": "インプット、アウトプット、言語化、情報発信[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1622672604,
+      "updated": 1622672613
+    },
+    {
+      "id": "60bf74618ee92a000061208f",
+      "text": "家事を手伝う [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1623159906,
+      "updated": 1623159912
+    },
+    {
+      "id": "60f04d5b8ee92a0000943e2d",
+      "text": "「hoge」とか「fuga」とか [増井俊之.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1626361180,
+      "updated": 1626363650
+    },
+    {
+      "id": "60f0b9ab1280f000000486f9",
+      "text": " 適当な名前が思いつかないんです許して下しあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626388907,
+      "updated": 1626388930
+    },
+    {
+      "id": "60f28011e5172d00008fc364",
+      "text": "[暇つぶし][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626505233,
+      "updated": 1626505243
+    },
+    {
+      "id": "60f2801be5172d00008fc366",
+      "text": " 言葉が嫌いというわけではないが、虚しいイメージがある",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626505244,
+      "updated": 1626505265
+    },
+    {
+      "id": "60f28019e5172d00008fc365",
+      "text": "コロナ関連で言われる「間違ったメッセージ」",
+      "userId": "606814ae11bf57001cad2a18",
+      "created": 1626505241,
+      "updated": 1627721738
+    },
+    {
+      "id": "61051009ad2a180000f91d7e",
+      "text": "　なんか受け取った側が悪いみたいなニュアンスを感じる[sekiyasu.icon]",
+      "userId": "606814ae11bf57001cad2a18",
+      "created": 1627721738,
+      "updated": 1627721814
+    },
+    {
+      "id": "610d53e51280f00000edc8ff",
+      "text": "　検索してみたけど見つからなかった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628263397,
+      "updated": 1628263409
+    },
+    {
+      "id": "6090e6eb1280f00000876802",
+      "text": "[合意形成]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1620109035,
+      "updated": 1628340464
+    },
+    {
+      "id": "610e8103d1a02f0000ef349e",
+      "text": "\tこの言葉を出した時点で「話がうまく進まない」流れに決まる感じがする。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628340484,
+      "updated": 1628340564
+    },
+    {
+      "id": "611207498ee92a000015c60b",
+      "text": "前も言ったよね [増井俊之.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1628571466,
+      "updated": 1628573795
+    },
+    {
+      "id": "615067488ee92a00004a5338",
+      "text": "審査待ち [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1632659273,
+      "updated": 1632659278
+    },
+    {
+      "id": "610e80e9d1a02f0000ef349d",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1628340458,
+      "updated": 1628340458
     },
     {
       "id": "5fd7063dd43875000016bfc2",
@@ -1160,18 +1545,18 @@
       "updated": 1607927364
     },
     {
-      "id": "5fd70640d43875000016bfc3",
-      "text": "エンゲージメント[dnin.icon]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1607927363,
-      "updated": 1613112354
+      "id": "5ff3fd9005533200009306fa",
+      "text": "[好きな言葉]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609825680,
+      "updated": 1618392762
     },
     {
-      "id": "5ff3fd9005533200009306fa",
+      "id": "6076b6b58ee92a000029a041",
       "text": "",
-      "userId": "5d131fa66fe2890017055332",
-      "created": 1609825680,
-      "updated": 1609825680
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618392758,
+      "updated": 1618392758
     }
   ]
 }

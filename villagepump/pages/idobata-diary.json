@@ -2,7 +2,7 @@
   "id": "6002d85adc09dc0023f00f99",
   "title": "idobata-diary",
   "created": 1610799197,
-  "updated": 1614067902,
+  "updated": 1629248394,
   "lines": [
     {
       "id": "6002d85adc09dc0023f00f99",
@@ -13,45 +13,59 @@
     },
     {
       "id": "6027ac277589210000fc7f1b",
-      "text": "[***** [今日のページに移動 https://idobata-diary.herokuapp.com]]",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": "[***** [今日のページに移動 https://idy.herokuapp.com]]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1613212712,
-      "updated": 1613212712
+      "updated": 1618640702
     },
     {
-      "id": "6028f85f758921000079dce3",
+      "id": "607a7f26246f5900007e024e",
+      "text": "[*** [過去の日記にランダムジャンプ https://idy.herokuapp.com/drand]]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618640678,
+      "updated": 1618898986
+    },
+    {
+      "id": "607a7f26246f5900007e024f",
+      "text": "[* [今日のページを作成 https://idy.herokuapp.com/i]]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618640678,
+      "updated": 1618898873
+    },
+    {
+      "id": "607a7f26246f5900007e0250",
+      "text": "任意の日付ページをつくれます",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618640678,
+      "updated": 1619827487
+    },
+    {
+      "id": "608c9b1e246f59000026d778",
+      "text": "　https://idy.herokuapp.com/i/3044/1/3",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619827487,
+      "updated": 1619827493
+    },
+    {
+      "id": "608c9b26246f59000026d779",
       "text": "",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613297760,
-      "updated": 1613297760
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619827495,
+      "updated": 1619827495
     },
     {
-      "id": "60263487758921000086f606",
-      "text": "[***** [今日のページを作成 https://idobata-diary.herokuapp.com/i]]",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613116551,
-      "updated": 1613297756
-    },
-    {
-      "id": "602633f475892100006e264a",
-      "text": "",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613116404,
-      "updated": 1613116404
-    },
-    {
-      "id": "602633f475892100006e264b",
-      "text": "`https://idobata-diary.herokuapp.com`オプション",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1613116405,
-      "updated": 1613116582
+      "id": "607a7f26246f5900007e0251",
+      "text": "`https://idoy.herokuapp.com`オプション",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618640678,
+      "updated": 1618640685
     },
     {
       "id": "6008d0f8d4387500006ff211",
       "text": "`/任意のプロジェクト名`",
-      "userId": "5fa258bdb102120024d43875",
+      "userId": "6118e67f8e5974001d110500",
       "created": 1611190521,
-      "updated": 1611892707
+      "updated": 1629248394
     },
     {
       "id": "6008d102d4387500006ff212",
@@ -83,10 +97,10 @@
     },
     {
       "id": "6034b8b5758921000037010d",
-      "text": "参考:[/hub/みんなで書く],[共同日記]",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": "参考:[/hub/みんなで書く],[共同日記],[日付入れ太郎]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614067894,
-      "updated": 1614067902
+      "updated": 1617814110
     },
     {
       "id": "6034b8b7758921000037010e",

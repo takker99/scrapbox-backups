@@ -2,7 +2,7 @@
   "id": "5fa90d68942f2000200caab8",
   "title": "Scrapboxのテーブルリンクの拡張子はなんでもいい",
   "created": 1604914538,
-  "updated": 1605668512,
+  "updated": 1630368815,
   "lines": [
     {
       "id": "5fa90d68942f2000200caab8",
@@ -14,9 +14,9 @@
     {
       "id": "5fa90d8d4daa9200007ffb2d",
       "text": "table:mytable",
-      "userId": "5bc5772df30ff700134daa92",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1604914573,
-      "updated": 1604914578
+      "updated": 1630361758
     },
     {
       "id": "5fa90d8d4daa9200007ffb2e",
@@ -45,6 +45,20 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1604914632,
       "updated": 1604914641
+    },
+    {
+      "id": "612d741c8ee92a0000a13894",
+      "text": "\t仕様ではないので`csv`だけ使うようにお願いいたします [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630368796,
+      "updated": 1630368815
+    },
+    {
+      "id": "612d74208ee92a0000a13895",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630368800,
+      "updated": 1630368800
     }
   ]
 }

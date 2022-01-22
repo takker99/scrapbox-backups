@@ -2,7 +2,7 @@
   "id": "5fa8d35fe2beee0023b1ab93",
   "title": "Browserだけで十分",
   "created": 1604899682,
-  "updated": 1611725397,
+  "updated": 1631507069,
   "lines": [
     {
       "id": "5fa8d35fe2beee0023b1ab93",
@@ -54,6 +54,13 @@
       "updated": 1604899764
     },
     {
+      "id": "61198a618ee92a0000e08a17",
+      "text": "\t\t\tSlackはブラウザで使ってます [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629063778,
+      "updated": 1629063786
+    },
+    {
       "id": "6010fa460553320000d5b907",
       "text": "\t\t[Teams]とかもある",
       "userId": "5d131fa66fe2890017055332",
@@ -62,10 +69,10 @@
     },
     {
       "id": "5fa8d3b84daa920000f94d91",
-      "text": "\t\tVSCode",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "\t\t[VSCode]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1604899767,
-      "updated": 1604899771
+      "updated": 1629002457
     },
     {
       "id": "5fa8d3bb4daa920000f94d92",
@@ -94,6 +101,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1604899873,
       "updated": 1604899890
+    },
+    {
+      "id": "61198a2e8ee92a0000e08a16",
+      "text": "\t\t\t[VSCode Web]を使えばブラウザで使える!",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629063726,
+      "updated": 1629064390
     },
     {
       "id": "5fa8d4104daa920000f94d95",
@@ -328,10 +342,52 @@
     },
     {
       "id": "5fa8d4804bb2e20000f7c594",
-      "text": "",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "\t\t\t\t今はテキストメモをまさにそんな感じでやっている[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1604899965,
-      "updated": 1604899965
+      "updated": 1629006550
+    },
+    {
+      "id": "6118aaa879d3a900009c8437",
+      "text": "\t\t\t\tGitHubにテキストリポジトリ(4000commitくらいある)一つつくって、push(アップロード)とpull(ダウンロード)を手動で行っている感じ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629006505,
+      "updated": 1629006542
+    },
+    {
+      "id": "6118aa8979d3a900009c8436",
+      "text": "\t各種クラウドから同期したキャッシュを集めたワークスペース、みたいな概念（そういうコンセプトのOS？）になるのかもしれない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629006474,
+      "updated": 1629006750
+    },
+    {
+      "id": "6118ab6e79d3a900009c8439",
+      "text": "\t\tブラウザベースで色んなサービス使ってると、あっちこっち散らかって、なんかこう気持ち悪い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629006704,
+      "updated": 1629006845
+    },
+    {
+      "id": "6118ab8679d3a900009c843a",
+      "text": "\t\t上手く言えなかったのでまたあとで[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629006728,
+      "updated": 1629006874
+    },
+    {
+      "id": "6118ac1779d3a900009c843c",
+      "text": "\t\t",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629006872,
+      "updated": 1629006932
+    },
+    {
+      "id": "6118ab8b79d3a900009c843b",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629006732,
+      "updated": 1629006732
     },
     {
       "id": "5fa8d6924bb2e20000f7c598",
@@ -846,10 +902,17 @@
     },
     {
       "id": "5fbf19601280f00000850893",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "   [ActivityWatch]がそのやり方だった",
+      "userId": "6127807d271b6b001dcc6086",
       "created": 1606359392,
-      "updated": 1606359392
+      "updated": 1631507069
+    },
+    {
+      "id": "613ed26fcc60860000e1603d",
+      "text": "",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631507056,
+      "updated": 1631507056
     }
   ]
 }

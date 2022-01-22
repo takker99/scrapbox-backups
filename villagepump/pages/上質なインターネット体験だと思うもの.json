@@ -2,7 +2,7 @@
   "id": "602bafc3a9cd2d0022b7087e",
   "title": "上質なインターネット体験だと思うもの",
   "created": 1613475781,
-  "updated": 1613475839,
+  "updated": 1618844678,
   "lines": [
     {
       "id": "602bafc3a9cd2d0022b7087e",
@@ -13,10 +13,10 @@
     },
     {
       "id": "602bafca7589210000f9ed58",
-      "text": "[Vimeo]の[Staff Picks https://vimeo.com/channels/staffpicks]を見る[dnin.icon]",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": "[VimeoのStaffPicks]を見る[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1613475787,
-      "updated": 1613475839
+      "updated": 1617963906
     },
     {
       "id": "602bafce7589210000f9ed59",
@@ -24,6 +24,13 @@
       "userId": "60226bcd2fbabe0022758921",
       "created": 1613475790,
       "updated": 1613475790
+    },
+    {
+      "id": "607d9c05fd049e0000cbc8de",
+      "text": "[思うシリーズ]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618844677,
+      "updated": 1618844677
     }
   ]
 }

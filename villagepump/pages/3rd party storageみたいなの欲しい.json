@@ -1,0 +1,743 @@
+{
+  "id": "611ba73a5f73ca001dceefab",
+  "title": "3rd party storageみたいなの欲しい",
+  "created": 1629202236,
+  "updated": 1629202243,
+  "lines": [
+    {
+      "id": "611ba73a5f73ca001dceefab",
+      "text": "3rd party storageみたいなの欲しい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c14",
+      "text": "from [2021/08/16]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202243
+    },
+    {
+      "id": "611ba73b79d3a90000a59c15",
+      "text": " [/sta/3rd party storage]みたいなの欲しいなぁと今日熱烈に考えていた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c16",
+      "text": " \t[Local Storage]のWebサービス版みたいなイメージ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c17",
+      "text": " \t\tローカルのindex.htmlからでもkey-valueへのset/getができる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c18",
+      "text": " \tまだ存在しないかしら",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c19",
+      "text": " \t[CORS]？とかできないといけなくて技術的に無理なのかもしれない説",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c1a",
+      "text": " \t簡易的な[DaaS]みたいなものでしょうか？[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c1b",
+      "text": " \t 正直、DaaSとの違いが分からなかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c1c",
+      "text": "  \tごくごく簡単なものなら、[Google Apps Script]と[Google Spread Sheet]とを組み合わせれば作れそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c1d",
+      "text": "\t\t\t\tどちらも知らないので可否はわかりませんが、できそうなにおいがします",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c1e",
+      "text": "\t\t\t\tたとえば",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c1f",
+      "text": "\t\t\t\t\t[sta.icon]がGASでTodoアプリXをつくって、「Xの保存先はあなたが用意してください」「適当にGSSつくって、そのurl(?)をXのここの設定に入れてください」",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c20",
+      "text": "\t\t\t\t\tこのイメージ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c21",
+      "text": "\t\t  適当に作るのは簡単です[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c22",
+      "text": "\t\t   認証周りをちゃんとやろうとすると難しいですが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c23",
+      "text": "\t\t   　Spread SheetをDaaS管理者が勝手に書き換えられないようにしないといけない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c24",
+      "text": "\t\t   　もちろん生データをsheetに直接書き込むのもまずいので、暗号化して保存する必要がある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c25",
+      "text": "\t\t   あ、Google Driveを使うのもありか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c26",
+      "text": "\t\t    適当なCloud Storageをuserに選択させて、中のデータ構造とかは全部アプリがやる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c27",
+      "text": "  \t\t   ただそれだともちろん開発が複雑になる[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c28",
+      "text": "  \t\t   CRUDから作る必要がある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c29",
+      "text": "\t\t    ↑ これです[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c2a",
+      "text": "\t\t    この「適当なCloud Storage」として、なんか上手い感じ（語彙力）のやつが欲しかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c2b",
+      "text": "\t\t    CRUDをLocal Storage並に簡単にした、Cloud Storage wrapperみたいなのが近いかな[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c2c",
+      "text": "\t\t     開発者は使用するCloud StorageのAPI keyさえ用意すれば、そのまま即使えるようになる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c2d",
+      "text": "\t\t     ですね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c2e",
+      "text": " \tData As A Serviceだとしたら、yesかもしれません（知らなかった）[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c2f",
+      "text": "\t\t\tちょっと調べてみるか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c30",
+      "text": "\t\t\tビッグデータのようなでかいデータを扱うニュアンスが強そう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c31",
+      "text": "\t\tイメージ図",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c32",
+      "text": "\t\t\t[https://gyazo.com/728167d58ee320422123e7ea04764c9b]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c33",
+      "text": "\t\t\ttodo.html（TODOアプリ）もdiary.html（日記アプリ）も、ローカルに置いてるjs入りhtmlファイル",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c34",
+      "text": "\t\t\t\tこれらのhtmlは、Xというクラウドサービス上（右側の四角）にデータを保存するようにつくってある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c35",
+      "text": "\t\t\tAさんがこれらのアプリを使うには",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c36",
+      "text": "\t\t\t\tXのアカウントをつくる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c37",
+      "text": "\t\t\t\tX上でtodo.html用のストアと、diary.htmlのストアを新規する（この時アプリキーが発行される）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c38",
+      "text": "\t\t\t\ttodo.htmlやdiary.htmlに、Xのアカウント情報やらアプリキーやらを記入",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c39",
+      "text": "\t\t\tこのXにあたるサービスが欲しい[sta.icon*3]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c3a",
+      "text": "\t\t\t [Pixela]あたりが近そう？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c3b",
+      "text": "\t\t\t  あれは数値、タイムスタンプだけの格納だけど",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c3c",
+      "text": "\t\t\t \tまさにこれですね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c3d",
+      "text": "\t\t\t \t\tあとは以下があれば",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c3e",
+      "text": "\t\t\t  \t1: 格納できるデータをjsのオブジェクト全般にする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c3f",
+      "text": "\t\t\t  \t2: nアプリ分の保存先をつくれる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c40",
+      "text": "\t\t\t  \t\tPixelaでいうと",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c41",
+      "text": "\t\t\t  \t\t`\"username\":\"stakiran\"`を",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c42",
+      "text": "\t\t\t  \t\t`\"username\":\"stakiran-todo\"`とか`\"username\":\"stakiran-diary\"`みたいに変えればいけるが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c43",
+      "text": "\t\t\t [etcd]をどっかにホストするのは普通のDBみたいで面倒か",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c44",
+      "text": "\t\t\t \tそうですね、自分でホストする手間は負いたくないですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c45",
+      "text": "\t\t\t \tアカウントつくるくらいでもう保存先ができてほしい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c46",
+      "text": "\t\t\t \ttodo.htmlを、たとえばITに詳しくない人にも使わせたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c47",
+      "text": "\t\t\t \t\tITに詳しくない人は、Xのアカウントつくって、ログインしてちょっとごにょごにょして、アプリキーとかコピってきて、todo.htmlに書き加える……くらいでもう使える",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c48",
+      "text": "\t\t レコード数が10000 を超えないなら開発してもいいかな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c49",
+      "text": "\t\t  ちょっとプロトタイプ作ってみよか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c4a",
+      "text": "\t\t\t\tいえ、自分がプログラミングのモチベが今ほとんどないので、たぶんつくっていただいても（すぐには）使わない気がします",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c4b",
+      "text": "\t\t\t\t\tどちらかといえば、Xのような概念や既存例の有無を確かめたかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c4c",
+      "text": "\t\t欲しいと考えた動機",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c4d",
+      "text": "\t\t\tWebアプリのデータ保存部分を自製するのがしんどいので、楽したい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c4e",
+      "text": "\t\t\tindex.htmlにjs書く ← これくらいで済ませたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c4f",
+      "text": "\t\t\tデータ保存のためにサーバーサイドつくるとか管理するみたいなことはしたくない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c50",
+      "text": "\t\t\tデータ保存は",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c51",
+      "text": "\t\t\t\tcode:かなり雑な擬似コード.py",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c52",
+      "text": "\t\t\t\t library.init(user='...', pass='...', appid='...')",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c53",
+      "text": "\t\t\t\t library.set('key1', 'value1')",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c54",
+      "text": "\t\t\t\tこれくらいで保存できるようにしたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c55",
+      "text": "\t\t\tこの保存先にあたるクラウドサービスが欲しい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c56",
+      "text": "\t\t\t\tどこかの会社がこういうサービスをつくるのか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c57",
+      "text": "\t\t\t\tGoogleDriveなどの既存サービスで使えるようにするのか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c58",
+      "text": "   Pluginで保存先のクラウドサービスを指定できるようにするのが無難かな[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c59",
+      "text": "    code:js",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c5a",
+      "text": "     import {GoogleDrivePlugin} from \"https://xxx\";",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c5b",
+      "text": "     import init from \"https://yyy\";",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c5c",
+      "text": "     ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c5d",
+      "text": "     const {set, get, remove} = await init(new GoogleDrivePlugin({",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c5e",
+      "text": "       apiKey: \"xxxxx\",",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c5f",
+      "text": "       clientId: \"yyyyy\",",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c60",
+      "text": "     }));",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c61",
+      "text": "     await set(\"key1\", \"value1\");",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c62",
+      "text": "    Google DriveだとOAuth認証を通さないといけないから面倒か",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c63",
+      "text": "    独自の認証なしDB serverを使うときは、例えばこうする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c64",
+      "text": "     code:js",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c65",
+      "text": "      import {MyServerPlugin} from \"https://zzz\";",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c66",
+      "text": "      import init from \"https://yyy\";",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c67",
+      "text": "      ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c68",
+      "text": "      const {set, get, remove} = await init(new MyServerPlugin());",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c69",
+      "text": "      await set(\"key1\", \"value1\");",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c6a",
+      "text": "\t\t\t\t `init`の引数の型に合うようにPluginをつくる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c6b",
+      "text": "\t\t ちょいとややこしくなってきたので絵解きしますか[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c6c",
+      "text": "\t\t \tお願いしたいですｗ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c6d",
+      "text": "\t\t  ウッソだろペンタブドライバが認識してくれない[takker.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c6e",
+      "text": "\t\t  　ちょっとお待ち下さい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c6f",
+      "text": "\t\t  　もちろんのんびりで良いですよ。井戸端ですし",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c70",
+      "text": "\t\t  　ペンタブ買おうかな……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c71",
+      "text": "\t\t  　\tマウスキツすぎる。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c72",
+      "text": "\t\t  20:27:15 ドライバ入れ直したのに[Kakeru]に書き込めない……ナンデ……？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c73",
+      "text": "\t\t   ドライバは認識できたみたいだが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c74",
+      "text": "\t\t   　入れ直す前はペンタブが接続されていないというダイアログが出たが、入れ直した後はちゃんとWacomの設定画面に移動する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c75",
+      "text": " \t\t   ドライバの再インストールは以下を参照した",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c76",
+      "text": " \t\t    [https://semimasa.com/pentab-error/ ワコムのペンタブが認識されない時にやってみたこと | 今日もwebでセミが鳴く]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c77",
+      "text": "\t\t  20:50:14 だめだお手上げだ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c78",
+      "text": "\t\t  　[Kakeru]で認識しない原因が全くわからない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c79",
+      "text": "\t\t  　[8bitpaint web]や[Drawing]だと認識するのに",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c7a",
+      "text": "\t\t  　あとペンのドラッグがスクロールとして認識されちゃうのナンデ？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    },
+    {
+      "id": "611ba73b79d3a90000a59c7b",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629202236,
+      "updated": 1629202236
+    }
+  ]
+}

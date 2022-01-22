@@ -2,7 +2,7 @@
   "id": "600c05410f0518001c260c9b",
   "title": "日付入れ太郎",
   "created": 1611400519,
-  "updated": 1613473036,
+  "updated": 1621039098,
   "lines": [
     {
       "id": "600c05410f0518001c260c9b",
@@ -33,11 +33,18 @@
       "updated": 1611589995
     },
     {
-      "id": "600ee94e1280f000001bfe9e",
-      "text": "[| [https://2.bp.blogspot.com/-H2eLSLfzvpA/XGjx1UapC6I/AAAAAAABRcA/5Xdh-W7tqk8X1YONndv2B1ykhJ6BRS1bgCLcBGAs/s800/ai_computer_sousa_robot.png][https://3.bp.blogspot.com/-T9MXxX4htpQ/WEztOQr0AmI/AAAAAAABAUo/uIb2k0nOI4UZqFLQ-KYJ0NakfMF885aIACLcB/s800/ai_write.png]]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611589967,
-      "updated": 1613473036
+      "id": "609f17cf55cbd3000052a225",
+      "text": "[https://gyazo.com/d44cb1ed39901308f5a99db7e7cd14f9][https://gyazo.com/c83ecf9c8cc4d780ae932b67e157e029]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1621039055,
+      "updated": 1621039098
+    },
+    {
+      "id": "609f17fa55cbd3000052a227",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1621039098,
+      "updated": 1621039098
     },
     {
       "id": "600ee9631280f000001bfea0",
@@ -76,10 +83,10 @@
     },
     {
       "id": "600ef18da336820000bd1b39",
-      "text": "   ダサいは草[takker.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "   ダサいは草[takker.icon][U.icon]",
+      "userId": "5f16f6af405d31002403b210",
       "created": 1611592077,
-      "updated": 1611592196
+      "updated": 1617632300
     },
     {
       "id": "600f007be5172d00000092f0",

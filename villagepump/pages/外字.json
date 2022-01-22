@@ -1,0 +1,43 @@
+{
+  "id": "60a655dcd559350022c7c978",
+  "title": "外字",
+  "created": 1621513703,
+  "updated": 1621513943,
+  "lines": [
+    {
+      "id": "60a655dcd559350022c7c978",
+      "text": "外字",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1621513703,
+      "updated": 1621513703
+    },
+    {
+      "id": "60a655e6fd049e00006cb425",
+      "text": "[電子行政における外字問題の解決に向けて ―人間とコンピュータの関係から外字問題を考える― : 富士通総研 https://www.fujitsu.com/jp/group/fri/report/research/2013/report-400.html]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1621513703,
+      "updated": 1621513726
+    },
+    {
+      "id": "60a655e7fd049e00006cb426",
+      "text": "\t富士通の論文(PDF)が面白い",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1621513704,
+      "updated": 1621513757
+    },
+    {
+      "id": "60a6568afd049e00006cb42c",
+      "text": "\t\t> 6.1 標準的な漢字の認識能力について",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1621513867,
+      "updated": 1621513890
+    },
+    {
+      "id": "60a6560dfd049e00006cb42b",
+      "text": "",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1621513741,
+      "updated": 1621513741
+    }
+  ]
+}

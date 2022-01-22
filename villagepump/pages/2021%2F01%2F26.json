@@ -2,7 +2,7 @@
   "id": "600f3a668cdf6b001ccfbf57",
   "title": "2021/01/26",
   "created": 1611610727,
-  "updated": 1614966979,
+  "updated": 1626676452,
   "lines": [
     {
       "id": "600f3a668cdf6b001ccfbf57",
@@ -122,55 +122,6 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611642652,
       "updated": 1611647129
-    },
-    {
-      "id": "600f3a67d438750000d9b507",
-      "text": " [CodeWars]のRank上昇して難しくなった、詰んでる",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611610727,
-      "updated": 1611647163
-    },
-    {
-      "id": "600fc8bbd43875000090a84f",
-      "text": " \tKyuを簡単にしてやってる",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611647164,
-      "updated": 1611647173
-    },
-    {
-      "id": "600fc98cd4387500004e853b",
-      "text": " \tスライムばっか倒して満足してはいけない、とは思うが",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611647372,
-      "updated": 1611647396
-    },
-    {
-      "id": "600fcbafd43875000090a850",
-      "text": " \t忘れた問題を繰り返しできるの良い",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611647919,
-      "updated": 1611647934
-    },
-    {
-      "id": "600fcc17d43875000090a852",
-      "text": " \tためしに1kyuの問題を見る",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611648023,
-      "updated": 1611648035
-    },
-    {
-      "id": "600fcc23d43875000090a853",
-      "text": " \t [Sliding Puzzle Solver | Codewars https://www.codewars.com/kata/5a20eeccee1aae3cbc000090]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611648036,
-      "updated": 1611648036
-    },
-    {
-      "id": "600fcc24d43875000090a854",
-      "text": " \t  うわぁあ[16パズル]だ",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611648036,
-      "updated": 1611648048
     },
     {
       "id": "600f7540a3368200003bc593",

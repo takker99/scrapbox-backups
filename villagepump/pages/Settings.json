@@ -2,14 +2,14 @@
   "id": "5f39ec039a4e3d001e8529da",
   "title": "Settings",
   "created": 1597631493,
-  "updated": 1615971135,
+  "updated": 1632739186,
   "lines": [
     {
       "id": "5f39ec039a4e3d001e8529da",
       "text": "Settings",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1597631493,
-      "updated": 1597631493
+      "updated": 1622036380
     },
     {
       "id": "5f39ec041280f00000ca6c62",
@@ -24,6 +24,48 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1608725730,
       "updated": 1608725749
+    },
+    {
+      "id": "6151196e1280f0000087f3a2",
+      "text": "なんとなく追加",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704879,
+      "updated": 1632704879
+    },
+    {
+      "id": "615119711280f0000087f3b2",
+      "text": "code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704882,
+      "updated": 1632704882
+    },
+    {
+      "id": "615119711280f0000087f3b3",
+      "text": " @import url(\"https://fonts.googleapis.com/css?family=DotGothic16\");",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704882,
+      "updated": 1632704945
+    },
+    {
+      "id": "615119711280f0000087f3b4",
+      "text": " .stream {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704882,
+      "updated": 1632704945
+    },
+    {
+      "id": "615119711280f0000087f3b5",
+      "text": "  \tfont-family: 'DotGothic16', helvetica, arial, sans-serif;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704882,
+      "updated": 1632704976
+    },
+    {
+      "id": "615119711280f0000087f3b6",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704882,
+      "updated": 1632704945
     },
     {
       "id": "5fe334e1d43875000081d59e",
@@ -80,6 +122,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606642283,
       "updated": 1606642283
+    },
+    {
+      "id": "6151195f1280f0000087f399",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632704864,
+      "updated": 1632704864
     },
     {
       "id": "5fc36a6b1280f00000fcb5eb",
@@ -160,10 +209,10 @@
     },
     {
       "id": "5fc36a2e1280f00000fcb5e6",
-      "text": " \tbackground-image: url(https://3.bp.blogspot.com/-q9pRwIS-zV0/Wi4gJIXnjrI/AAAAAAABIt4/z7tw64y-7rUXgNjbjcVUnpB72juZmUuQgCLcBGAs/s400/ido.png);",
+      "text": " \tbackground-image: url(https://gyazo.com/a2112227fce484ff0f8d54cc65abec72/raw);",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606642223,
-      "updated": 1606642275
+      "updated": 1621041861
     },
     {
       "id": "5fc36a2e1280f00000fcb5e7",
@@ -222,11 +271,11 @@
       "updated": 1606642522
     },
     {
-      "id": "5fe9a23d1280f00000cf8ab8",
+      "id": "609f185355cbd3000052a22a",
       "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609146942,
-      "updated": 1609146942
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1621039187,
+      "updated": 1621039187
     },
     {
       "id": "5fe9a23e1280f00000cf8ab9",
@@ -530,11 +579,123 @@
       "updated": 1609466402
     },
     {
+      "id": "60e780045b98c20000fe3562",
+      "text": "　2021/07/09 07:50:21アイコン記法のAPIをつかって、画像を表示するテスト[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625784325,
+      "updated": 1625784622
+    },
+    {
+      "id": "60e7807b5b98c20000fe3565",
+      "text": "　　[- [Scrapbox Beaver]][- のページタイトル画像をプロジェクトホームに表示する ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784444,
+      "updated": 1632717015
+    },
+    {
+      "id": "615148d71280f00000c695f7",
+      "text": "　　[TODAY]にしてみた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632717016,
+      "updated": 1632717020
+    },
+    {
       "id": "5fee81f55b98c20000909d10",
-      "text": "",
+      "text": "code:style.css ",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1609466358,
-      "updated": 1609466358
+      "updated": 1625784631
+    },
+    {
+      "id": "60e77fc35b98c20000fe3549",
+      "text": " .quick-launch .project-home .title::after {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe3556",
+      "text": "   content: ''; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe3557",
+      "text": "   width: 1em; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe3558",
+      "text": "   height: 1em; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe3559",
+      "text": "   margin-left: 10px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe355a",
+      "text": "   padding: 10px 0px 0px 80px; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe355b",
+      "text": "   position: center bottom;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "615147bf1280f000000c860e",
+      "text": "   background-image: url('https://daiiz-apps.appspot.com/today/jp.svg');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632716736,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe355d",
+      "text": "   background-size: contain; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe355e",
+      "text": "   background-repeat: no-repeat; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe355f",
+      "text": "   /* border-radius: 10px; /* */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632717009
+    },
+    {
+      "id": "60e77fc35b98c20000fe3560",
+      "text": "  }",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625784260,
+      "updated": 1625784260
+    },
+    {
+      "id": "60e77fc35b98c20000fe3561",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625784260,
+      "updated": 1632716759
     },
     {
       "id": "5f39ec2b1280f00000ca6c6a",
@@ -566,17 +727,31 @@
     },
     {
       "id": "5fa5311e1280f00000410619",
-      "text": "    font-family:'FontAwesome';",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "    /* font-family:'FontAwesome'; */",
+      "userId": "5ad57975d54cd50014068484",
       "created": 1604661535,
-      "updated": 1604661535
+      "updated": 1625494346
+    },
+    {
+      "id": "60e313430684840000a7c769",
+      "text": "    font-family: 'Font Awesome 5 Free';",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625494340,
+      "updated": 1625494648
+    },
+    {
+      "id": "60e31ad80684840000743c64",
+      "text": "    font-weight: 900;",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625496280,
+      "updated": 1625496284
     },
     {
       "id": "5fa5311e1280f0000041061a",
-      "text": "    content: ' \\f08e';",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "    content: ' \\f35d';",
+      "userId": "5ad57975d54cd50014068484",
       "created": 1604661535,
-      "updated": 1604661535
+      "updated": 1625496279
     },
     {
       "id": "5fa5311e1280f0000041061b",
@@ -598,6 +773,90 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1597631581,
       "updated": 1597631581
+    },
+    {
+      "id": "60e31c430684840000743c66",
+      "text": "[http://abehiroshi.la.coocan.jp/ test]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625496643,
+      "updated": 1625496648
+    },
+    {
+      "id": "60e31c430684840000743c67",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625496644,
+      "updated": 1625496644
+    },
+    {
+      "id": "60e317ae0684840000f45144",
+      "text": "2021/7/5",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625495471,
+      "updated": 1625495472
+    },
+    {
+      "id": "60e317b10684840000f45146",
+      "text": "\t[FontAwesome]についてイマイチ良く分かっていないのですが、[Font Awesome 5 Free]からは`\\f08e`がPRO版じゃないと使えないっぽい？[imo.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625495473,
+      "updated": 1625515481
+    },
+    {
+      "id": "60e3185e0684840000f45148",
+      "text": "\t\tだとしたら適当に代わりのアイコンにするとかかしら",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625495646,
+      "updated": 1625495690
+    },
+    {
+      "id": "60e317ae0684840000f45145",
+      "text": "  [kamon] icon（nota製アイコン）の`link-on`など?[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625495471,
+      "updated": 1625495735
+    },
+    {
+      "id": "60e318a779e1130000016fac",
+      "text": "  （kamonをどう使うのかよく分かってない）",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625495719,
+      "updated": 1625495726
+    },
+    {
+      "id": "60e318c70684840000f45149",
+      "text": "  \tme too[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625495751,
+      "updated": 1625495753
+    },
+    {
+      "id": "60e318ca0684840000f4514a",
+      "text": "  \tちょい調べてみますが先に出来る方いらっしゃったらお願いいたします🙏",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625495754,
+      "updated": 1625495782
+    },
+    {
+      "id": "60e318fe79e1130000016fad",
+      "text": "  \t[/kembo/Scrapbox のアイコンを使い回す]など?",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625495807,
+      "updated": 1625495808
+    },
+    {
+      "id": "60e3189579e1130000016fa9",
+      "text": "\t\t`\\f35d`に`external-link-alt`とかいうのがあったのでとりあえずそいつを指定しました",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625495701,
+      "updated": 1625496544
+    },
+    {
+      "id": "60e31b930684840000743c65",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625496467,
+      "updated": 1625496467
     },
     {
       "id": "5f4790cf1280f00000ab8484",
@@ -706,10 +965,10 @@
     },
     {
       "id": "5f8a2e771280f000003b70b2",
-      "text": " .time-range .lines {",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " .time-range .lines,.project-events .lines {",
+      "userId": "6055950b87138f0022246f59",
       "created": 1602891382,
-      "updated": 1602891382
+      "updated": 1616839443
     },
     {
       "id": "5f8a2e771280f000003b70b3",
@@ -915,6 +1174,160 @@
       "updated": 1609370945
     },
     {
+      "id": "605e223c1280f00000c9f1a4",
+      "text": "動画の大きさを調節する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616781884,
+      "updated": 1616781893
+    },
+    {
+      "id": "605e22c31280f00000724556",
+      "text": " 実験",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782020,
+      "updated": 1616782022
+    },
+    {
+      "id": "605e22c61280f00000724557",
+      "text": " 画像のCSSと設定を揃えました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782022,
+      "updated": 1616782032
+    },
+    {
+      "id": "605e2361e5172d000069a521",
+      "text": "  デフォルトであるんですか？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616782178,
+      "updated": 1616782183
+    },
+    {
+      "id": "605e23891280f000004bab4d",
+      "text": "  画像のCSSに以下の記述があるので、それに合わせました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782218,
+      "updated": 1616782239
+    },
+    {
+      "id": "605e2571e5172d000069a522",
+      "text": "  　なるほどです",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616782706,
+      "updated": 1616782714
+    },
+    {
+      "id": "605e239f1280f000004bab4e",
+      "text": "   code:css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782239,
+      "updated": 1616782243
+    },
+    {
+      "id": "605e23a31280f000004bab4f",
+      "text": "    .line .image {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782243,
+      "updated": 1616782304
+    },
+    {
+      "id": "605e23e01280f000004bab50",
+      "text": "      margin:3px 0;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782304,
+      "updated": 1616782308
+    },
+    {
+      "id": "605e23e01280f000004bab51",
+      "text": "      max-width:100%;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782304,
+      "updated": 1616782308
+    },
+    {
+      "id": "605e23e01280f000004bab52",
+      "text": "      max-height:300px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782304,
+      "updated": 1616782308
+    },
+    {
+      "id": "605e23e01280f000004bab53",
+      "text": "      display:inline-block;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782304,
+      "updated": 1616782308
+    },
+    {
+      "id": "605e23e01280f000004bab54",
+      "text": "      vertical-align:middle",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782304,
+      "updated": 1616782308
+    },
+    {
+      "id": "605e23e01280f000004bab55",
+      "text": "    }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782304,
+      "updated": 1616782304
+    },
+    {
+      "id": "605e22451280f00000c9f1a6",
+      "text": "code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616781893,
+      "updated": 1616781897
+    },
+    {
+      "id": "605e22491280f00000c9f1a7",
+      "text": " .line .video-player video {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616781898,
+      "updated": 1616782549
+    },
+    {
+      "id": "605e22ee1280f0000072455c",
+      "text": "   max-height: 300px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782062,
+      "updated": 1616782067
+    },
+    {
+      "id": "605e22ee1280f0000072455d",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782062,
+      "updated": 1616782065
+    },
+    {
+      "id": "605e24e81280f0000061280a",
+      "text": " .line .level .video-player video {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782568,
+      "updated": 1616782573
+    },
+    {
+      "id": "605e24e91280f0000061280b",
+      "text": "   max-height: 85vh;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782569,
+      "updated": 1616782637
+    },
+    {
+      "id": "605e24e91280f0000061280c",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616782569,
+      "updated": 1616782569
+    },
+    {
+      "id": "605e223c1280f00000c9f1a3",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616781884,
+      "updated": 1616781884
+    },
+    {
       "id": "5f39ec5d1280f00000ca6c74",
       "text": "[/scrasobox/マーカー]",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -993,10 +1406,129 @@
     },
     {
       "id": "5f39ec661280f00000ca6c86",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "code:style.css",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1597631590,
-      "updated": 1597631591
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d3",
+      "text": " .line strong:not([class]):hover {",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d4",
+      "text": "    background: linear-gradient( to right,",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d5",
+      "text": "                                 transparent,",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d6",
+      "text": "                                 rgba(171, 255, 79, .6),",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570909
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d7",
+      "text": "                                 transparent 50%",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d8",
+      "text": "                               ) 0% center / 400% auto ; /* グラデーション */",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7d9",
+      "text": "    padding: 0.1em 0.2em 0.1em 0.2em;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7da",
+      "text": "    animation: marker 10s linear infinite;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7db",
+      "text": "    animation-direction: reverse;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7dc",
+      "text": " }",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570888
+    },
+    {
+      "id": "60e43e485b98c20000d5f7dd",
+      "text": " ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570888,
+      "updated": 1625570957
+    },
+    {
+      "id": "60e43e8c5b98c20000741e8f",
+      "text": " @keyframes marker {",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570957,
+      "updated": 1625570957
+    },
+    {
+      "id": "60e43e8c5b98c20000741e90",
+      "text": "   to { background-position-x: 400%; }",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570957,
+      "updated": 1625570957
+    },
+    {
+      "id": "60e43e8c5b98c20000741e91",
+      "text": " } ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570957,
+      "updated": 1625570957
+    },
+    {
+      "id": "60e43ef15b98c20000394d44",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625571059,
+      "updated": 1625571059
+    },
+    {
+      "id": "60e43eba5b98c20000394d42",
+      "text": "　hover時にアニメーションを追加してみました [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625571002,
+      "updated": 1625571050
+    },
+    {
+      "id": "60e43ec45b98c20000394d43",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625571013,
+      "updated": 1625571013
     },
     {
       "id": "5f39ec5e1280f00000ca6c7a",
@@ -1091,10 +1623,24 @@
     },
     {
       "id": "5f39ec5e1280f00000ca6c82",
-      "text": "   \tfont-family: 'FontAwesome';",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "   \t/* font-family: 'FontAwesome'; */",
+      "userId": "5ad57975d54cd50014068484",
       "created": 1597631582,
-      "updated": 1599041390
+      "updated": 1625494369
+    },
+    {
+      "id": "60e313660684840000a7c76a",
+      "text": "   \tfont-family: 'Font Awesome 5 Free';",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625494374,
+      "updated": 1625494380
+    },
+    {
+      "id": "60e31e97068484000067150c",
+      "text": "   \tfont-weight: 900;",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625497240,
+      "updated": 1625497244
     },
     {
       "id": "5f39ec5e1280f00000ca6c83",
@@ -1137,6 +1683,20 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1602046045,
       "updated": 1602046045
+    },
+    {
+      "id": "60e313a80684840000a7c76b",
+      "text": "[\" test]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625494440,
+      "updated": 1625494445
+    },
+    {
+      "id": "60e313a80684840000a7c76c",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625494440,
+      "updated": 1625494440
     },
     {
       "id": "5f3a4dc91280f0000061197d",
@@ -1662,6 +2222,104 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1610357106,
       "updated": 1610357106
+    },
+    {
+      "id": "60f9636e5b98c20000c0428e",
+      "text": "[七宝文様]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956655,
+      "updated": 1626956694
+    },
+    {
+      "id": "60f963975b98c20000c04290",
+      "text": "code:style.css",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956695,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04291",
+      "text": " body {",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04292",
+      "text": "   --A: var(--card-bg, #D8D8D8);",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1627011028
+    },
+    {
+      "id": "60f963ab5b98c20000c04293",
+      "text": "   --B: var(--body-bg, #E0E0E0);",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1627011035
+    },
+    {
+      "id": "60f963ab5b98c20000c04294",
+      "text": "   background-color: var(--A);",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04295",
+      "text": "   background-image:",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04296",
+      "text": "     radial-gradient(closest-side, transparent 98%, var(--B) 99%),",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04297",
+      "text": "     radial-gradient(closest-side, transparent 98%, var(--B) 99%);",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04298",
+      "text": "   background-size: 128px 128px;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c04299",
+      "text": "   background-position: 0 0, 64px 64px;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c0429a",
+      "text": " }",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f963ab5b98c20000c0429b",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956715,
+      "updated": 1626956715
+    },
+    {
+      "id": "60f9638e5b98c20000c0428f",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1626956687,
+      "updated": 1626956687
     },
     {
       "id": "5ffffe861280f0000054770b",
@@ -2301,11 +2959,39 @@
       "updated": 1613112346
     },
     {
-      "id": "5f7ffbbe1280f000001c53ff",
+      "id": "60e8abc2e5172d0000bfa64e",
+      "text": " [Streamだとindent情報が消える]みたい",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1625861059,
+      "updated": 1625861091
+    },
+    {
+      "id": "60e8effb1280f000006f2a79",
+      "text": "  2021-07-10 09:55:24 修正しました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878523,
+      "updated": 1625878533
+    },
+    {
+      "id": "60e827921280f00000eaf787",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625827219,
+      "updated": 1625827219
+    },
+    {
+      "id": "60e8eff71280f000006f2a78",
       "text": "2020-10-09 14:57:22 bulletの大きさを控えめにしました",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1602223038,
-      "updated": 1602223053
+      "created": 1625878519,
+      "updated": 1625878519
+    },
+    {
+      "id": "60e827831280f00000eaf785",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625827203,
+      "updated": 1625827203
     },
     {
       "id": "5f4e06595b98c2000082126e",
@@ -2386,73 +3072,10 @@
     },
     {
       "id": "5f4f5cb75b98c20000770d0e",
-      "text": "    ",
+      "text": "         ",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1599036599,
-      "updated": 1599036599
-    },
-    {
-      "id": "5f4e065a5b98c20000821276",
-      "text": "   \t/* content: '-'; /* ハイフン */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1598948955,
-      "updated": 1599036466
-    },
-    {
-      "id": "5f4e065a5b98c20000821277",
-      "text": "     content: '\\f068'; /* マイナス記号:通常 */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1598948955,
-      "updated": 1612522344
-    },
-    {
-      "id": "5f4f5c1a5b98c20000234db0",
-      "text": "     /* content: '\\f10c'; /* まる */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1599036443,
-      "updated": 1599036540
-    },
-    {
-      "id": "5f4f5c1a5b98c20000234db1",
-      "text": "     /* content: '\\f111'; /* まる */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1599036443,
-      "updated": 1599036668
-    },
-    {
-      "id": "5f4f5c1a5b98c20000234db2",
-      "text": "     /* content: '\\f0c8'; /* 四角 */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1599036443,
-      "updated": 1599036733
-    },
-    {
-      "id": "5f4f5c1a5b98c20000234db3",
-      "text": "     /* content: '\\f096'; /* 四角 */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1599036443,
-      "updated": 1599036456
-    },
-    {
-      "id": "5f4f5c1a5b98c20000234db4",
-      "text": "     /* content: '\\f005'; /* スター:クリスマス用 */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1599036443,
-      "updated": 1608935605
-    },
-    {
-      "id": "60189b435b98c20000e2e1aa",
-      "text": "     /* content: '\\f1b0'; /* 肉球:猫の日用 */",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1612225348,
-      "updated": 1612522339
-    },
-    {
-      "id": "60189b455b98c20000e2e1ab",
-      "text": "     ",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1612225349,
-      "updated": 1612225349
+      "updated": 1626034093
     },
     {
       "id": "5fe335441280f000003ef238",
@@ -2484,17 +3107,24 @@
     },
     {
       "id": "5fe32f4d1280f00000c7f263",
-      "text": "code:style.css",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "code:style.css   \t",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1608724301,
-      "updated": 1608724305
+      "updated": 1626034160
     },
     {
-      "id": "5f4e065a5b98c20000821278",
-      "text": "   \tfont-family: FontAwesome;",
+      "id": "60eb4fc25b98c2000038015f",
+      "text": "\t    /* font-family: FontAwesome; /* old */",
       "userId": "5b5e7121417cf700145b98c2",
-      "created": 1598948955,
-      "updated": 1599020092
+      "created": 1626034114,
+      "updated": 1626034143
+    },
+    {
+      "id": "60e311700684840000a7c75d",
+      "text": "   \tfont-family: 'Font Awesome 5 Free';",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625493872,
+      "updated": 1625493872
     },
     {
       "id": "5f4e065a5b98c20000821279",
@@ -2502,6 +3132,41 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1598948955,
       "updated": 1602223010
+    },
+    {
+      "id": "60e30f260684840000a7c757",
+      "text": "   \tcontent: '\\f068'; /* マイナス記号:通常 */",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625493286,
+      "updated": 1626034178
+    },
+    {
+      "id": "60e43c505b98c2000050ab61",
+      "text": "     /* content: '\\f005'; /* スター:クリスマス用 */",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570384,
+      "updated": 1625570639
+    },
+    {
+      "id": "60e43c505b98c2000050ab62",
+      "text": "     /* content: '\\f1b0'; /* 肉球:猫の日用 */",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570384,
+      "updated": 1625570684
+    },
+    {
+      "id": "60e43cba5b98c20000353d77",
+      "text": "     /* content: '\\f1fd'; /* バースデーケーキ */",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570491,
+      "updated": 1626034171
+    },
+    {
+      "id": "60e43da75b98c200006682c5",
+      "text": "   \tfont-weight: 900;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1625570727,
+      "updated": 1625570731
     },
     {
       "id": "5f4e065a5b98c2000082127a",
@@ -2520,9 +3185,317 @@
     {
       "id": "5fe32f481280f00000c7f262",
       "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "userId": "5ad57975d54cd50014068484",
       "created": 1608724296,
-      "updated": 1608724296
+      "updated": 1625493421
+    },
+    {
+      "id": "614ad5531280f000005e9692",
+      "text": "クリスマスに作った行だけ星にするテスト",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294226,
+      "updated": 1632294249
+    },
+    {
+      "id": "614ad56b1280f000005e96b7",
+      "text": " [/takker/クリスマスの日に作成した行のbulletを星にするUserCSS]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294250,
+      "updated": 1632294253
+    },
+    {
+      "id": "614ad6981280f000002ca0b1",
+      "text": " [2021/09/22#614ad5f41280f000002ca0af]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294551,
+      "updated": 1632294552
+    },
+    {
+      "id": "614ad5601280f000005e9693",
+      "text": "code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294249,
+      "updated": 1632294249
+    },
+    {
+      "id": "614ad5c61280f00000f47b6a",
+      "text": " div.line[id^=\"L5fe4ac\"]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294342,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b6b",
+      "text": "   :not([id^=\"L5fe4ac00\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b6c",
+      "text": "   :not([id^=\"L5fe4ac01\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b6d",
+      "text": "   :not([id^=\"L5fe4ac02\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b6e",
+      "text": "   :not([id^=\"L5fe4ac03\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b6f",
+      "text": "   :not([id^=\"L5fe4ac04\"]) .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b70",
+      "text": " div.line[id^=\"L5fe4ad\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b71",
+      "text": " div.line[id^=\"L5fe4ae\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b72",
+      "text": " div.line[id^=\"L5fe4af\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b73",
+      "text": " div.line[id^=\"L5fe4b\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b74",
+      "text": " div.line[id^=\"L5fe4c\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b75",
+      "text": " div.line[id^=\"L5fe4d\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b76",
+      "text": " div.line[id^=\"L5fe4e\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b77",
+      "text": " div.line[id^=\"L5fe4f\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b78",
+      "text": " div.line[id^=\"L5fe5\"]:not([id^=\"L5fe5f\"]) .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b79",
+      "text": " div.line[id^=\"L5fe5f\"]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b7a",
+      "text": "   :not([id^=\"L5fe5fd\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b7b",
+      "text": "   :not([id^=\"L5fe5fe\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b7c",
+      "text": "   :not([id^=\"L5fe5ff\"]) .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b7d",
+      "text": " div.line[id^=\"L5fe5fd\"]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b7e",
+      "text": "   :not([id^=\"L5fe5fd8\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b7f",
+      "text": "   :not([id^=\"L5fe5fd9\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b80",
+      "text": "   :not([id^=\"L5fe5fda\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b81",
+      "text": "   :not([id^=\"L5fe5fdb\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b82",
+      "text": "   :not([id^=\"L5fe5fdc\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b83",
+      "text": "   :not([id^=\"L5fe5fdd\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b84",
+      "text": "   :not([id^=\"L5fe5fde\"])",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b85",
+      "text": "   :not([id^=\"L5fe5fdf\"]) .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b86",
+      "text": " div.line[id^=\"L5fe5fd80\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b87",
+      "text": " div.line[id^=\"L5fe5fd81\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b88",
+      "text": " div.line[id^=\"L5fe5fd82\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b89",
+      "text": " div.line[id^=\"L5fe5fd83\"] .indent-mark .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b8a",
+      "text": " div.line[id^=\"L5fe5fd84\"] .indent-mark .dot::before {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b8b",
+      "text": "   content: '\\f005';",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5c71280f00000f47b8c",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294343,
+      "updated": 1632294343
+    },
+    {
+      "id": "614ad5521280f000005e9691",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632294225,
+      "updated": 1632294225
+    },
+    {
+      "id": "60e30fae0684840000a7c75a",
+      "text": "\t2021/7/5",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625493422,
+      "updated": 1625493425
+    },
+    {
+      "id": "60e30fb30684840000a7c75b",
+      "text": "\t\tなんかwindowsで見ると直ってるけどiphoneとmacで見ると直ってない…[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625493427,
+      "updated": 1625493591
+    },
+    {
+      "id": "60e319310684840000743c63",
+      "text": "\t\t\t自分の環境のwin、mac、iphoneで直りました[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625495857,
+      "updated": 1625495897
+    },
+    {
+      "id": "60e30fac0684840000a7c759",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1625493420,
+      "updated": 1625493420
     },
     {
       "id": "5f4f18e61280f0000093ed2a",
@@ -2581,6 +3554,13 @@
       "updated": 1599019085
     },
     {
+      "id": "60e8efd81280f000006f2a74",
+      "text": " .indent-mark[style*=\"width: 1.5em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878488,
+      "updated": 1625878489
+    },
+    {
       "id": "5f4f18461280f00000da51ab",
       "text": " .line .indent-mark .c-0 + .dot::before {",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -2600,6 +3580,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1599019085,
       "updated": 1599019085
+    },
+    {
+      "id": "60e8efe01280f000006f2a75",
+      "text": " .indent-mark[style*=\"width: 3em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878496,
+      "updated": 1625878497
     },
     {
       "id": "5f4f18461280f00000da51af",
@@ -2623,6 +3610,13 @@
       "updated": 1599019085
     },
     {
+      "id": "60e8efe81280f000006f2a76",
+      "text": " .indent-mark[style*=\"width: 4.5em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878503,
+      "updated": 1625878504
+    },
+    {
       "id": "5f4f18461280f00000da51b3",
       "text": " .line .indent-mark .c-2 + .dot::before {",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -2642,6 +3636,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1599019085,
       "updated": 1599019085
+    },
+    {
+      "id": "60e8efef1280f000006f2a77",
+      "text": " .indent-mark[style*=\"width: 6em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878511,
+      "updated": 1625878512
     },
     {
       "id": "5f4f18461280f00000da51b7",
@@ -2833,6 +3834,13 @@
       "updated": 1613626508
     },
     {
+      "id": "60e8efc81280f000006f2a73",
+      "text": " .indent-mark[style*=\"width: 1.5em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878472,
+      "updated": 1625878478
+    },
+    {
       "id": "602dfba01280f000009f03ad",
       "text": " .indent-mark .dot:nth-child(6n+2)::before {",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -2852,6 +3860,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1613626280,
       "updated": 1613626280
+    },
+    {
+      "id": "60e8efbc1280f000006f2a50",
+      "text": " .indent-mark[style*=\"width: 3em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878460,
+      "updated": 1625878460
     },
     {
       "id": "602dfba61280f000009f03b0",
@@ -2875,6 +3890,13 @@
       "updated": 1613626280
     },
     {
+      "id": "60e8efbe1280f000006f2a55",
+      "text": " .indent-mark[style*=\"width: 4.5em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878462,
+      "updated": 1625878462
+    },
+    {
       "id": "602dfba61280f000009f03b3",
       "text": " .indent-mark .dot:nth-child(6n+4)::before {",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -2894,6 +3916,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1613626280,
       "updated": 1613626280
+    },
+    {
+      "id": "60e8efc01280f000006f2a59",
+      "text": " .indent-mark[style*=\"width: 6em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878464,
+      "updated": 1625878464
     },
     {
       "id": "602dfba61280f000009f03b6",
@@ -2917,6 +3946,13 @@
       "updated": 1613626280
     },
     {
+      "id": "60e8efc11280f000006f2a5c",
+      "text": " .indent-mark[style*=\"width: 7.5em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878465,
+      "updated": 1625878465
+    },
+    {
       "id": "602dfba61280f000009f03b9",
       "text": " .indent-mark .dot:nth-child(6n+6)::before {",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -2936,6 +3972,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1613626446,
       "updated": 1613626446
+    },
+    {
+      "id": "60e8efc21280f000006f2a60",
+      "text": " .indent-mark[style*=\"width: 9em\"] .dot::before,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625878466,
+      "updated": 1625878466
     },
     {
       "id": "602dfc501280f0000052a6d9",
@@ -3225,6 +4268,13 @@
       "updated": 1599738629
     },
     {
+      "id": "60b607f91280f00000884647",
+      "text": "project titleの字体調節",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542329,
+      "updated": 1622542339
+    },
+    {
       "id": "5f5a0fd28a8c6a0000dbeb34",
       "text": "code:style.css",
       "userId": "5ef9a74506750300248a8c6a",
@@ -3246,46 +4296,298 @@
       "updated": 1609117533
     },
     {
-      "id": "5fe92f571280f00000661fad",
-      "text": "[/customize/ScrapboxのStreamページでの文字選択を可能にするUserCSS]",
+      "id": "60b608141280f00000884661",
+      "text": "[/takker/scrapboxのtitleをnav barに固定するUserCSS]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609117528,
-      "updated": 1609117530
+      "created": 1622542356,
+      "updated": 1622542357
     },
     {
-      "id": "5f675edbdd59fe000001c34f",
+      "id": "60b608151280f00000884662",
+      "text": " 気まぐれで入れてみた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542357,
+      "updated": 1622542361
+    },
+    {
+      "id": "60b608051280f00000884649",
       "text": "code:style.css",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1600610012,
-      "updated": 1601352193
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542341,
+      "updated": 1622542345
     },
     {
-      "id": "5f72b200dd59fe00002d9c53",
-      "text": " .related-page-list, .page-menu {",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1601352193,
-      "updated": 1601352193
+      "id": "60b608091280f0000088464a",
+      "text": " @media screen {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
     },
     {
-      "id": "5f72b200dd59fe00002d9c54",
-      "text": " \tuser-select: none;",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1601352193,
-      "updated": 1601352193
+      "id": "60b6080a1280f0000088464b",
+      "text": "   .quick-launch .project-home {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
     },
     {
-      "id": "5f72b200dd59fe00002d9c55",
-      "text": " \t-webkit-user-select: none;",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1601352193,
-      "updated": 1601352193
+      "id": "60b6080a1280f0000088464c",
+      "text": "     position: fixed;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
     },
     {
-      "id": "5f72b200dd59fe00002d9c56",
+      "id": "60b6080a1280f0000088464d",
+      "text": "     top: -2px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f0000088464e",
+      "text": "     left: 60px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542540
+    },
+    {
+      "id": "60b6080a1280f0000088464f",
+      "text": "     z-index: 1000;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884650",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884651",
       "text": " }",
-      "userId": "5f3cf18043ed94001edd59fe",
-      "created": 1601352193,
-      "updated": 1601352193
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884652",
+      "text": " @media screen and (min-width: 768px) and (max-width: 991px) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884653",
+      "text": "   .quick-launch .project-home {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884654",
+      "text": "     left: 75px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542537
+    },
+    {
+      "id": "60b6080a1280f00000884655",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884656",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884657",
+      "text": " @media screen and (min-width: 992px) and (max-width: 1260px) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884658",
+      "text": "   .quick-launch .project-home {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884659",
+      "text": "     left: 90px;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542535
+    },
+    {
+      "id": "60b6080a1280f0000088465a",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f0000088465b",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f0000088465c",
+      "text": " @media screen and (min-width: 1261px) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f0000088465d",
+      "text": "   .quick-launch .project-home {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f0000088465e",
+      "text": "     /* left: calc((100% - 1280px)/2 + 80px); */",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1622542345,
+      "updated": 1622544368
+    },
+    {
+      "id": "60b60ff20684840000e923db",
+      "text": "      left: calc((100% - 1280px)/2 + 100px); ",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1622544371,
+      "updated": 1622544378
+    },
+    {
+      "id": "60b6080a1280f0000088465f",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b6080a1280f00000884660",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622542345,
+      "updated": 1622542345
+    },
+    {
+      "id": "60b619814bb2e2000031bbec",
+      "text": " ",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622546810,
+      "updated": 1622546810
+    },
+    {
+      "id": "60b619824bb2e2000031bbed",
+      "text": " .quick-launch .project-home {",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622546811,
+      "updated": 1622546824
+    },
+    {
+      "id": "60b619914bb2e2000031bbef",
+      "text": "   --tool-text-color: white;",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622546826,
+      "updated": 1622546972
+    },
+    {
+      "id": "60b6198f4bb2e2000031bbee",
+      "text": " }",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622546824,
+      "updated": 1622546824
+    },
+    {
+      "id": "60b608041280f00000884648",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1622542340,
+      "updated": 1622544445
+    },
+    {
+      "id": "60b6103d0684840000b2c16e",
+      "text": "\tなんかズレてたのでちょっといじりましたが、また問題あれば適当に直してください[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1622544446,
+      "updated": 1622544499
+    },
+    {
+      "id": "60bdcad50684840000f83a77",
+      "text": "\t\tうーわマジで俺が馬鹿だ、ズレてたのは自分用のCSSを当ててたからでした…[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1623050966,
+      "updated": 1623050992
+    },
+    {
+      "id": "60bdcaef0684840000f83a78",
+      "text": "\t\tそこまで重要な問題ではなかったのですがこういうおせっかい的なやらかしは気を付けます…",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1623050992,
+      "updated": 1623051113
+    },
+    {
+      "id": "60be514b1280f000006aee3e",
+      "text": "\t\t きにせんでええんやで[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623085386,
+      "updated": 1623085390
+    },
+    {
+      "id": "60b618494bb2e2000031bbeb",
+      "text": "\t輝度的に見辛いのでフォントカラーも変えたほうがいいと思うんですがどうでしょうか[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622546498,
+      "updated": 1622546522
+    },
+    {
+      "id": "60b6103a0684840000b2c16d",
+      "text": "  変えたい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622544443,
+      "updated": 1622546893
+    },
+    {
+      "id": "60b61a354bb2e2000031bbf0",
+      "text": "  問題あれば戻せばいいや精神で白くしてみました[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622546990,
+      "updated": 1622547000
+    },
+    {
+      "id": "60b61a404bb2e2000031bbf1",
+      "text": "   もっといい色がいいとか元の状態がいいとかあったらいじってください",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1622547001,
+      "updated": 1622547026
+    },
+    {
+      "id": "60b639510684840000cc389f",
+      "text": "   見やすいです！👍[imo.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622554962,
+      "updated": 1622558795
+    },
+    {
+      "id": "60b648341280f00000c30f83",
+      "text": "   `serif`がない環境でもある環境でも十分見やすいです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622558773,
+      "updated": 1622558792
     },
     {
       "id": "5f818b421280f00000bedd49",
@@ -3337,11 +4639,32 @@
       "updated": 1602325315
     },
     {
+      "id": "605f4336e5172d000025343c",
+      "text": " 最後の2行を有効にした場合、通常ならエディタの横幅を超える複数の画像を1行に敷き詰めて表示すると、下に余白？ができてしまう問題",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616855863,
+      "updated": 1616857105
+    },
+    {
+      "id": "605f4813e5172d000025343d",
+      "text": "  [https://gyazo.com/95e93165eb8f0142722d360bbfd10b1c]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616857108,
+      "updated": 1616857108
+    },
+    {
+      "id": "605f4814e5172d000025343e",
+      "text": "  でも本家ではなっていなさそう、、なぜだろう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616857108,
+      "updated": 1616857129
+    },
+    {
       "id": "5f818b451280f00000bedd50",
       "text": "code:style.css",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1602325315,
-      "updated": 1602325315
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1616857105,
+      "updated": 1616857105
     },
     {
       "id": "5f818b451280f00000bedd51",
@@ -3632,10 +4955,10 @@
     },
     {
       "id": "5f8b9999ec4fce0000a747d7",
-      "text": "[** 愚痴記法]",
-      "userId": "5da3a9589b96b70017ec4fce",
+      "text": "[** [愚痴記法]]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1602984346,
-      "updated": 1608721798
+      "updated": 1620956494
     },
     {
       "id": "5fe32582d4387500003d5c32",
@@ -3652,6 +4975,20 @@
       "updated": 1608721794
     },
     {
+      "id": "60a4fe6e1280f0000020bb35",
+      "text": " .deco-\\&:not(:hover) a.page-link {color:transparent;}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1621425774,
+      "updated": 1621426043
+    },
+    {
+      "id": "610bf7441280f0000058d03c",
+      "text": " .deco-\\&:not(:hover) a.icon {visibility:hidden;}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628174148,
+      "updated": 1628174314
+    },
+    {
       "id": "5fe32582d4387500003d5c34",
       "text": " .deco-\\&:hover {color:white;opacity:1}",
       "userId": "5fa258bdb102120024d43875",
@@ -3666,11 +5003,18 @@
       "updated": 1611450897
     },
     {
-      "id": "600cca15d438750000b700e1",
+      "id": "610bf7481280f0000058d03d",
+      "text": "[& てすと[takker.icon]]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628174153,
+      "updated": 1628174198
+    },
+    {
+      "id": "610bf7a11280f000005c9e56",
       "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611450901,
-      "updated": 1611450901
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628174242,
+      "updated": 1628174242
     },
     {
       "id": "6016932ad4387500007799a9",
@@ -3685,6 +5029,20 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1612092194,
       "updated": 1612092197
+    },
+    {
+      "id": "609a16f8246f590000c0360c",
+      "text": " #L60925f6aff23a500238c845c,",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620711164,
+      "updated": 1620711172
+    },
+    {
+      "id": "607e9c26246f5900006eca64",
+      "text": " #L607e9b43246f5900006eca5e,",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618910247,
+      "updated": 1618910250
     },
     {
       "id": "601d8335d438750000cf91b5",
@@ -3706,6 +5064,349 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1612092197,
       "updated": 1612092201
+    },
+    {
+      "id": "60ef8344fa8faf0000478e4b",
+      "text": "code:style.css",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626309445,
+      "updated": 1626309449
+    },
+    {
+      "id": "60ef8347fa8faf0000478e4c",
+      "text": " #L60ef82d8fa8faf00007108d2 {color:#eb24f631}",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626309449,
+      "updated": 1626309461
+    },
+    {
+      "id": "60efebed1280f000008f261e",
+      "text": "特定の行でだけ使える文字装飾記法",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336237,
+      "updated": 1626336256
+    },
+    {
+      "id": "60efebff1280f000008f2620",
+      "text": " [/villagepump/恋は何色なのか歌で検証する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336256,
+      "updated": 1626336268
+    },
+    {
+      "id": "60efed581280f000008f2625",
+      "text": " 色は[原色大辞典]で検索した",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336600,
+      "updated": 1626337443
+    },
+    {
+      "id": "60efebed1280f000008f261f",
+      "text": " code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336237,
+      "updated": 1626336274
+    },
+    {
+      "id": "60efec121280f000008f2622",
+      "text": "  #L60ecd153fd049e0000f7c8d4 .deco-\\!,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336274,
+      "updated": 1626336426
+    },
+    {
+      "id": "60efeca81280f000008f2624",
+      "text": "  #L60ef8261fd049e000074e075 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336424,
+      "updated": 1626336745
+    },
+    {
+      "id": "60efeca71280f000008f2623",
+      "text": "  {background-color:#a9ceec;} /*水色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336423,
+      "updated": 1626336639
+    },
+    {
+      "id": "60efed701280f000008f2626",
+      "text": "  #L60ef7f3bfd049e000074e05e .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336624,
+      "updated": 1626336750
+    },
+    {
+      "id": "60efed771280f000008f2627",
+      "text": "  {background-color:#f09199;} /*桃色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336631,
+      "updated": 1626336655
+    },
+    {
+      "id": "60efeda21280f000008f2629",
+      "text": "  #L60ef81c4fa8faf0000bb55c5 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336674,
+      "updated": 1626336750
+    },
+    {
+      "id": "60efeda21280f000008f262a",
+      "text": "  {background-color:#ffdbed;} /*桜色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336674,
+      "updated": 1626336680
+    },
+    {
+      "id": "60efedb61280f000008f262b",
+      "text": "  #L60ef7f4dfd049e000074e060 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336694,
+      "updated": 1626336749
+    },
+    {
+      "id": "60efedb61280f000008f262c",
+      "text": "  {background-color:violet;}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336694,
+      "updated": 1626336851
+    },
+    {
+      "id": "60efee831280f000008f262d",
+      "text": "  #L60ecd14efd049e0000f7c8d3 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336899,
+      "updated": 1626336925
+    },
+    {
+      "id": "60efee831280f000008f262e",
+      "text": "  {background-color:#797979; color:#ccc;} /*ねずみ色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336899,
+      "updated": 1626337012
+    },
+    {
+      "id": "60efeefb1280f000008f262f",
+      "text": "  #L60ef7f95fd049e000074e069 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337019,
+      "updated": 1626337030
+    },
+    {
+      "id": "60efeefb1280f000008f2630",
+      "text": "  {background-color:#ea5549;} /*トマトレッド*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337019,
+      "updated": 1626337137
+    },
+    {
+      "id": "60efef6f1280f000008f2631",
+      "text": "  #L60ef81b4fa8faf0000bb55c3 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337135,
+      "updated": 1626337161
+    },
+    {
+      "id": "60efef6f1280f000008f2632",
+      "text": "  {background-color:#ffffd7;} /*淡米色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337135,
+      "updated": 1626337152
+    },
+    {
+      "id": "60efefbb1280f000008f2633",
+      "text": "  #L60ecd185fd049e0000f7c8d7 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337212,
+      "updated": 1626337228
+    },
+    {
+      "id": "60efefbb1280f000008f2634",
+      "text": "  {background-color:#e9546b;} /*薔薇色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337212,
+      "updated": 1626337237
+    },
+    {
+      "id": "60efefeb1280f000008f2636",
+      "text": "  #L60ef8213fa8faf0000bb55cc .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337259,
+      "updated": 1626337271
+    },
+    {
+      "id": "60efefeb1280f000008f2637",
+      "text": "  {background-color:gray; color:#ccc;}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337259,
+      "updated": 1626337292
+    },
+    {
+      "id": "60eff0381280f000008f2638",
+      "text": "  #L60ef7faffd049e000074e06c .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337337,
+      "updated": 1626337359
+    },
+    {
+      "id": "60eff0381280f000008f2639",
+      "text": "  {background-color:#890900; color:#58a370;} /*柘榴色 これだけ別サイトで調べた*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337337,
+      "updated": 1626337639
+    },
+    {
+      "id": "60eff0c51280f000008f263a",
+      "text": "  #L60ef82a7fd049e000074e077 .deco-\\!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337477,
+      "updated": 1626337488
+    },
+    {
+      "id": "60eff0c51280f000008f263b",
+      "text": "  {background-color:#7058a3; color:#8ba358;} /*菫色*/",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337477,
+      "updated": 1626337531
+    },
+    {
+      "id": "60efec0d1280f000008f2621",
+      "text": "行だけじゃなくページごとにもidかカスタムデータ属性を振ってほしいな～",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626336270,
+      "updated": 1626337775
+    },
+    {
+      "id": "60eff1ef1280f000008f263d",
+      "text": " ページごとにスタイルをガラリと変えられて面白そう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337775,
+      "updated": 1626337790
+    },
+    {
+      "id": "60eff1ba1280f000008f263c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626337722,
+      "updated": 1626337722
+    },
+    {
+      "id": "60eff84a1280f00000920258",
+      "text": "[Streamから特定のページの更新を除外する]実験",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626339402,
+      "updated": 1626339462
+    },
+    {
+      "id": "60fa3dd41280f000006b550f",
+      "text": " 2021-07-23 12:56:05 終了",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627012564,
+      "updated": 1627012567
+    },
+    {
+      "id": "60eff8491280f00000920257",
+      "text": "code:style.css.disabled(css)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626339401,
+      "updated": 1627012574
+    },
+    {
+      "id": "60eff8661280f0000092025a",
+      "text": " .stream .page[data-title*=\"Settings\"] {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626339430,
+      "updated": 1626339451
+    },
+    {
+      "id": "60eff87b1280f0000092025b",
+      "text": "   display: none;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626339451,
+      "updated": 1626339457
+    },
+    {
+      "id": "60eff87c1280f0000092025c",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626339452,
+      "updated": 1626339452
+    },
+    {
+      "id": "60eff85c1280f00000920259",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626339420,
+      "updated": 1626339420
+    },
+    {
+      "id": "613811f91280f0000049c5b1",
+      "text": "[Streamから特定のページの更新を除外する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064569,
+      "updated": 1631064570
+    },
+    {
+      "id": "613811fa1280f0000049c5b2",
+      "text": " ネタバレページを消す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064570,
+      "updated": 1631064575
+    },
+    {
+      "id": "613811fe1280f0000049c5b3",
+      "text": "code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064575,
+      "updated": 1631064579
+    },
+    {
+      "id": "613814f01280f0000049c5bb",
+      "text": " li.page-list-item.grid-style-item a[href*=\"(%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E6%B3%A8%E6%84%8F)\"] .description,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631065329,
+      "updated": 1631448327
+    },
+    {
+      "id": "613ded0b1280f000001dceb6",
+      "text": " li.page-list-item.grid-style-item a[href*=\"(%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E6%B3%A8%E6%84%8F)\"] .icon,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631448330,
+      "updated": 1631448334
+    },
+    {
+      "id": "613812091280f0000049c5b5",
+      "text": " .stream .page[data-title*=\"(ネタバレ注意)\"] {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064585,
+      "updated": 1631064592
+    },
+    {
+      "id": "613812091280f0000049c5b6",
+      "text": "   display: none;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064585,
+      "updated": 1631064585
+    },
+    {
+      "id": "613812091280f0000049c5b7",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064585,
+      "updated": 1631064585
+    },
+    {
+      "id": "613814f31280f0000049c5bc",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1631065332,
+      "updated": 1631110018
+    },
+    {
+      "id": "613811f71280f0000049c5b0",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631064568,
+      "updated": 1631064568
     },
     {
       "id": "5fe33bc7d4387500008c6e42",
@@ -3890,46 +5591,60 @@
       "updated": 1608727506
     },
     {
-      "id": "601d8636d43875000075d1cc",
-      "text": "ページ一覧 幅いっぱい",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612547638,
-      "updated": 1612547652
+      "id": "613feb1f1280f00000984855",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631578911,
+      "updated": 1631578911
+    },
+    {
+      "id": "613feb471280f00000984856",
+      "text": "[横幅いっぱいにカードを並べる]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631578951,
+      "updated": 1631578976
     },
     {
       "id": "5fe33bcfd4387500008c6e44",
-      "text": "code:style.css",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "code:style.css.disabled(css)",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608727505,
-      "updated": 1612547635
+      "updated": 1631578993
     },
     {
       "id": "601d8633d43875000075d1c9",
       "text": " .container {",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612547636,
-      "updated": 1612547636
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631578993,
+      "updated": 1631578993
     },
     {
       "id": "601d8634d43875000075d1ca",
       "text": "    max-width: none !important;",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612547636,
-      "updated": 1612547636
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631578993,
+      "updated": 1631578993
     },
     {
       "id": "601d8634d43875000075d1cb",
       "text": "  }",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612547636,
-      "updated": 1612547636
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631578993,
+      "updated": 1631578993
     },
     {
       "id": "601d8630d43875000075d1c8",
-      "text": "・スマホだと検索バーがずれる[yosider.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1612547633,
-      "updated": 1612628235
+      "updated": 1631579010
+    },
+    {
+      "id": "613feb7e1280f0000098485a",
+      "text": "スマホだと検索バーがずれる[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579007,
+      "updated": 1631579007
     },
     {
       "id": "601e78f9e5172d0000b2e9bd",
@@ -3940,10 +5655,10 @@
     },
     {
       "id": "601e79ade5172d0000b2e9be",
-      "text": "\t\tこのUserCSSは関係なくどのprojectでもこうなった",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t\t[横幅いっぱいにカードを並べる]は関係なくどのprojectでもこうなった",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1612609965,
-      "updated": 1612628232
+      "updated": 1631579015
     },
     {
       "id": "601e78d3e5172d0000b2e9bc",
@@ -3975,10 +5690,10 @@
     },
     {
       "id": "60462aee8ee92a0000997852",
-      "text": "  .deco-\\= {",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "  .deco-\\% {",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1615211246,
-      "updated": 1615211246
+      "updated": 1622036373
     },
     {
       "id": "60462aee8ee92a0000997853",
@@ -4011,9 +5726,100 @@
     {
       "id": "60462aee8ee92a0000997857",
       "text": "",
-      "userId": "566fa156776c9b11008ee92a",
+      "userId": "5d131fa66fe2890017055332",
       "created": 1615211246,
-      "updated": 1615211246
+      "updated": 1621868323
+    },
+    {
+      "id": "60abbf1b055332000070491a",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1621868316,
+      "updated": 1621868316
+    },
+    {
+      "id": "6086492ee5172d0000f5414b",
+      "text": "[/forum-jp/箇条書きの最初に数式がくると中黒が表示されない]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619413294,
+      "updated": 1619413295
+    },
+    {
+      "id": "6086492ee5172d0000f5414c",
+      "text": "code:style.css",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619413295,
+      "updated": 1619413295
+    },
+    {
+      "id": "6086492ee5172d0000f5414d",
+      "text": " .line.formula-line .dot { display: block }",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619413295,
+      "updated": 1619413295
+    },
+    {
+      "id": "6086492fe5172d0000f5414e",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619413296,
+      "updated": 1619413296
+    },
+    {
+      "id": "60f164c679e11300009efbe1",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c679e11300009efbe2",
+      "text": "code:style.css",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c779e11300009efbe3",
+      "text": " .deco-\\#{ /* 記法のキーとして#を使ったけど何でもいいと思う */",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c779e11300009efbe4",
+      "text": " \tbackground-color: var(--page-text-color, #4a4a4a); /* 背景色をテキスト色と同じにする */",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c779e11300009efbe5",
+      "text": " }",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c779e11300009efbe6",
+      "text": " .line.cursor-line .deco-\\#, .deco-\\#:hover { /* カーソルがある行とマウスホバー時だけ背景を戻す */",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c779e11300009efbe7",
+      "text": " \tbackground-color: inherit;",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
+    },
+    {
+      "id": "60f164c779e11300009efbe8",
+      "text": " }",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1626432711,
+      "updated": 1626432711
     }
   ]
 }

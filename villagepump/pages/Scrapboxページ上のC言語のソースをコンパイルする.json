@@ -1,0 +1,554 @@
+{
+  "id": "60c731c6d7533d001cfdf8bf",
+  "title": "Scrapboxページ上のC言語のソースをコンパイルする",
+  "created": 1623667145,
+  "updated": 1623673748,
+  "lines": [
+    {
+      "id": "60c731c6d7533d001cfdf8bf",
+      "text": "Scrapboxページ上のC言語のソースをコンパイルする",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667145,
+      "updated": 1623667145
+    },
+    {
+      "id": "60c731c85b98c20000b730ce",
+      "text": "　[コードブロック記法]でC言語の[ソースファイル]を[作成する]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667145,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730cf",
+      "text": " [cURL]でソースファイルにアクセスする",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d0",
+      "text": " 　`curl -s`でURL上のファイルを標準出力に出力する",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d1",
+      "text": "　[gcc] でコンパイルする",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d2",
+      "text": "  `-` オプションで、標準入力からの入力をソースコードとして受け取る",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d3",
+      "text": "  `-xc`オプションで、C言語のソースコードであると明示的に指定する",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d4",
+      "text": "  `-o ファイル名` 作成するプログラム名",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c746911280f0000005bfd7",
+      "text": " terminalを起動してgcc入れるのがめんどい……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623672467,
+      "updated": 1623672480
+    },
+    {
+      "id": "60c747071280f0000005bfd9",
+      "text": "  [/takker/scrapbox-wandbox-proxy]を使うとweb browserで完結させられる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623672585,
+      "updated": 1623673413
+    },
+    {
+      "id": "60c74a8f1280f00000dc47ef",
+      "text": "  code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673488,
+      "updated": 1623673491
+    },
+    {
+      "id": "60c74a921280f00000dc47f0",
+      "text": "   (async () => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673491,
+      "updated": 1623673519
+    },
+    {
+      "id": "60c74aae1280f00000dc47f1",
+      "text": "     const {runC} = await import('/api/code/villagepump/Scrapboxページ上のC言語のソースをコンパイルする/script.js');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673519,
+      "updated": 1623673548
+    },
+    {
+      "id": "60c74acd1280f00000dc47f4",
+      "text": "     console.log(await runC('https://scrapbox.io/api/code/villagepump/Scrapbox%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%8A%E3%81%AEC%E8%A8%80%E8%AA%9E%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%AB%E3%81%99%E3%82%8B/hello.c'));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673551,
+      "updated": 1623673583
+    },
+    {
+      "id": "60c74ab11280f00000dc47f2",
+      "text": "   })();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673523,
+      "updated": 1623673523
+    },
+    {
+      "id": "60c74a021280f00000dc47c4",
+      "text": "  code:script.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673348,
+      "updated": 1623673452
+    },
+    {
+      "id": "60c74a061280f00000dc47c5",
+      "text": "   export async function runC(url) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673351,
+      "updated": 1623673472
+    },
+    {
+      "id": "60c74a0b1280f00000dc47db",
+      "text": "     const res = await fetch(url);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673357,
+      "updated": 1623673478
+    },
+    {
+      "id": "60c74b7e1280f00000dc4806",
+      "text": "     const code = await res.text();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673728,
+      "updated": 1623673734
+    },
+    {
+      "id": "60c74a061280f00000dc47d2",
+      "text": "     return {code, ...(await fetchWandBox('/api/compile.json', {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673352,
+      "updated": 1623673738
+    },
+    {
+      "id": "60c74a061280f00000dc47d3",
+      "text": "       method: 'POST',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673352,
+      "updated": 1623673379
+    },
+    {
+      "id": "60c74a061280f00000dc47d4",
+      "text": "       body: JSON.stringify({",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673352,
+      "updated": 1623673379
+    },
+    {
+      "id": "60c74a181280f00000dc47dc",
+      "text": "         code,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673369,
+      "updated": 1623673748
+    },
+    {
+      "id": "60c74a181280f00000dc47dd",
+      "text": "         options: 'warning,gnu++1y',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673369,
+      "updated": 1623673393
+    },
+    {
+      "id": "60c74a181280f00000dc47de",
+      "text": "         compiler: 'gcc-head',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673369,
+      "updated": 1623673393
+    },
+    {
+      "id": "60c74a181280f00000dc47df",
+      "text": "         'compiler-option-raw': '-O3',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673369,
+      "updated": 1623673425
+    },
+    {
+      "id": "60c74a1f1280f00000dc47ee",
+      "text": "       }),",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673376,
+      "updated": 1623673379
+    },
+    {
+      "id": "60c74a061280f00000dc47d5",
+      "text": "     }))};",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673352,
+      "updated": 1623673744
+    },
+    {
+      "id": "60c74a061280f00000dc47d7",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673352,
+      "updated": 1623673486
+    },
+    {
+      "id": "60c731dd5b98c20000b730d5",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d6",
+      "text": "code:hello.c",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d7",
+      "text": " #include <stdio.h>",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d8",
+      "text": " int main(void)",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730d9",
+      "text": " {",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730da",
+      "text": "     printf(\"Hello, Scrapbox world!\\n\");",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730db",
+      "text": "     return 0;",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730dc",
+      "text": " }",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c731dd5b98c20000b730dd",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667165,
+      "updated": 1623667165
+    },
+    {
+      "id": "60c732b75b98c20000b730f3",
+      "text": "　コンパイル",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667383,
+      "updated": 1623667392
+    },
+    {
+      "id": "60c732ac5b98c20000b730f1",
+      "text": "  $ curl -s https://scrapbox.io/api/code/villagepump/Scrapbox%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%8A%E3%81%AEC%E8%A8%80%E8%AA%9E%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%AB%E3%81%99%E3%82%8B/hello.c | gcc -xc - -o hello",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667373,
+      "updated": 1623673596
+    },
+    {
+      "id": "60c732af5b98c20000b730f2",
+      "text": " 実行",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667376,
+      "updated": 1623673602
+    },
+    {
+      "id": "60c732db5b98c20000b730f5",
+      "text": "  $ ./hello",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667419,
+      "updated": 1623673602
+    },
+    {
+      "id": "60c732c45b98c20000b730f4",
+      "text": " onlineで実行",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667397,
+      "updated": 1623673609
+    },
+    {
+      "id": "60c74b081280f00000dc47f7",
+      "text": "  code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673609,
+      "updated": 1623673611
+    },
+    {
+      "id": "60c74b091280f00000dc47f8",
+      "text": "   (async () => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673611,
+      "updated": 1623673612
+    },
+    {
+      "id": "60c74b0a1280f00000dc47f9",
+      "text": "     const {runC} = await import('/api/code/villagepump/Scrapboxページ上のC言語のソースをコンパイルする/script.js');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673612,
+      "updated": 1623673612
+    },
+    {
+      "id": "60c74b0a1280f00000dc47fa",
+      "text": "     console.log(await runC('/api/code/villagepump/Scrapboxページ上のC言語のソースをコンパイルする/hello.c'));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673612,
+      "updated": 1623673623
+    },
+    {
+      "id": "60c74b0a1280f00000dc47fb",
+      "text": "   })();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673612,
+      "updated": 1623673612
+    },
+    {
+      "id": "60c74b031280f00000dc47f6",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673605,
+      "updated": 1623673605
+    },
+    {
+      "id": "60c731df5b98c20000b730de",
+      "text": " [/imasaraC]にサンプルがたくさんある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667168,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730df",
+      "text": "　[/imasaraC/Hello, world!]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e0",
+      "text": "　URLの「!」はエスケープする必要があるのね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e1",
+      "text": " $ curl -s https://scrapbox.io/api/code/imasaraC/Hello,_world\\!/hello.c | gcc -xc - -o hello",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e2",
+      "text": " $ ./hello",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e3",
+      "text": " $ curl -s https://scrapbox.io/api/code/imasaraC/Hello,_world\\!/hello2.c | gcc -xc - -o hello2",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e4",
+      "text": " $ ./hello2",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c74b1e1280f00000dc47fc",
+      "text": " code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673632,
+      "updated": 1623673635
+    },
+    {
+      "id": "60c74b211280f00000dc47fd",
+      "text": "  (async () => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673635,
+      "updated": 1623673636
+    },
+    {
+      "id": "60c74b221280f00000dc47fe",
+      "text": "    const {runC} = await import('/api/code/villagepump/Scrapboxページ上のC言語のソースをコンパイルする/script.js');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673636,
+      "updated": 1623673636
+    },
+    {
+      "id": "60c74b221280f00000dc47ff",
+      "text": "    console.log(await runC('/api/code/imasaraC/Hello,_world!/hello.c'));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673636,
+      "updated": 1623673654
+    },
+    {
+      "id": "60c74b221280f00000dc4800",
+      "text": "  })();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673636,
+      "updated": 1623673636
+    },
+    {
+      "id": "60c732055b98c20000b730e5",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e6",
+      "text": " [/imasaraC/簡単な計算]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e7",
+      "text": " $ curl -s https://scrapbox.io/api/code/imasaraC/%E7%B0%A1%E5%8D%98%E3%81%AA%E8%A8%88%E7%AE%97/keisan1.c | gcc -xc - -o keisan1",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c74b401280f00000dc4801",
+      "text": " code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673666,
+      "updated": 1623673668
+    },
+    {
+      "id": "60c74b421280f00000dc4802",
+      "text": "  (async () => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673668,
+      "updated": 1623673668
+    },
+    {
+      "id": "60c74b421280f00000dc4803",
+      "text": "    const {runC} = await import('/api/code/villagepump/Scrapboxページ上のC言語のソースをコンパイルする/script.js');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673668,
+      "updated": 1623673668
+    },
+    {
+      "id": "60c74b421280f00000dc4804",
+      "text": "    console.log(await runC('/api/code/imasaraC/簡単な計算/keisan1.c'));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673668,
+      "updated": 1623673688
+    },
+    {
+      "id": "60c74b421280f00000dc4805",
+      "text": "  })();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623673668,
+      "updated": 1623673668
+    },
+    {
+      "id": "60c732055b98c20000b730e8",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730e9",
+      "text": " [/imasaraC/数値入力]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730ea",
+      "text": " $ curl -s https://scrapbox.io/api/code/imasaraC/%E6%95%B0%E5%80%A4%E5%85%A5%E5%8A%9B/105.c | gcc -xc - -o 105",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730eb",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730ec",
+      "text": " [/imasaraC/文字列入力]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730ed",
+      "text": " $ curl -s https://scrapbox.io/api/code/imasaraC/%E6%96%87%E5%AD%97%E5%88%97%E5%85%A5%E5%8A%9B/name.c | gcc -xc - -o name",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623667205,
+      "updated": 1623673599
+    },
+    {
+      "id": "60c732055b98c20000b730ee",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667205,
+      "updated": 1623667205
+    },
+    {
+      "id": "60c732165b98c20000b730ef",
+      "text": "#C言語",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667223,
+      "updated": 1623667230
+    },
+    {
+      "id": "60c732185b98c20000b730f0",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1623667224,
+      "updated": 1623667224
+    }
+  ]
+}

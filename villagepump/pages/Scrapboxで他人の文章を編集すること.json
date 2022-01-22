@@ -2,7 +2,7 @@
   "id": "5f95a03a608dc3002441b040",
   "title": "Scrapboxで他人の文章を編集すること",
   "created": 1603641404,
-  "updated": 1614575834,
+  "updated": 1629120900,
   "lines": [
     {
       "id": "5f95a03a608dc3002441b040",
@@ -152,6 +152,20 @@
       "updated": 1603643929
     },
     {
+      "id": "611a695aaff09e000055b8a9",
+      "text": "\t\t\t　[nishio.icon]元の記事を残せばいいのでは？",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629120858,
+      "updated": 1629120870
+    },
+    {
+      "id": "611a6966aff09e000055b8aa",
+      "text": "\t\t\t　　[塩澤ゼミの消さないルール]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1629120870,
+      "updated": 1629120900
+    },
+    {
       "id": "5f95a9cf4daa920000c4e643",
       "text": "\t\t\t基本的に文の構造を変えるのは避けたほうがよさそう？",
       "userId": "5bc5772df30ff700134daa92",
@@ -234,6 +248,27 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1610276513,
       "updated": 1610276513
+    },
+    {
+      "id": "6117f5b91280f0000086871f",
+      "text": "Related to",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628960183,
+      "updated": 1628960187
+    },
+    {
+      "id": "6117f5bc1280f00000868721",
+      "text": " [/unnamedcamp/共同編集プロジェクトでのリファクタリング]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628960187,
+      "updated": 1628960187
+    },
+    {
+      "id": "6117f5ba1280f00000868720",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628960184,
+      "updated": 1628960184
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "601c6ff93a1a510022d7902e",
   "title": "2021/02/06",
   "created": 1612476410,
-  "updated": 1616066833,
+  "updated": 1626676017,
   "lines": [
     {
       "id": "601c6ff93a1a510022d7902e",
@@ -104,10 +104,10 @@
     },
     {
       "id": "601ea9e11280f00000f4297e",
-      "text": "　[/programming-notes/WebWorker用asearch]のテストコードを使って、適当な語句で曖昧[プロジェクト横断検索]をやってた",
+      "text": "　[/programming-notes/WebWorker用asearch]のテストコードを使って、適当な語句で曖昧[project横断検索]をやってた",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1612622305,
-      "updated": 1612622347
+      "updated": 1624578577
     },
     {
       "id": "601eaa2a1280f00000f42981",
@@ -336,100 +336,9 @@
     {
       "id": "601e32a9d43875000074aae5",
       "text": "　昼寝は良い",
-      "userId": "5fa258bdb102120024d43875",
+      "userId": "60f3a5d03a31ac001cd9875a",
       "created": 1612591785,
-      "updated": 1612591785
-    },
-    {
-      "id": "601e4fe8d438750000bbf672",
-      "text": "[有り金を公開するページ https://idobata-diary.herokuapp.com/IcyyB9nfhawXE8uD4vWv7nca]を作った",
-      "userId": "6044910bc9a74e001eb19cc3",
-      "created": 1612599273,
-      "updated": 1616066833
-    },
-    {
-      "id": "601e519cd4387500006e7281",
-      "text": "　現金用のシンプルなviewが欲しかった",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599709,
-      "updated": 1612599728
-    },
-    {
-      "id": "601e514ed4387500006e7280",
-      "text": " [スプレッドシート]だるい",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599631,
-      "updated": 1612602168
-    },
-    {
-      "id": "601e5b33d43875000042d6b6",
-      "text": " 専用のサービスを使いたくnai",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612602164,
-      "updated": 1612602174
-    },
-    {
-      "id": "601e5009d438750000bbf673",
-      "text": " データはScrapbox上のtable",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599306,
-      "updated": 1612599318
-    },
-    {
-      "id": "601e5016d438750000bbf674",
-      "text": " DB建てなくていいのは楽",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599318,
-      "updated": 1612599324
-    },
-    {
-      "id": "601e5267d4387500006e7285",
-      "text": "使ってないスマホを壁に貼った",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599912,
-      "updated": 1612599919
-    },
-    {
-      "id": "601e526ed4387500006e7286",
-      "text": "　[ストレッチエクササイズ]アプリしか開かない",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599919,
-      "updated": 1612602161
-    },
-    {
-      "id": "601e527ed4387500006e7287",
-      "text": "　なんか調子悪いなぁと思ったら",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612599935,
-      "updated": 1612602145
-    },
-    {
-      "id": "601e5b20d43875000042d6b4",
-      "text": "　 すぐそこに移動すれば",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612602145,
-      "updated": 1612602148
-    },
-    {
-      "id": "601e5b23d43875000042d6b5",
-      "text": "　 ストレッチが始まる",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612602148,
-      "updated": 1612602148
-    },
-    {
-      "id": "601e7048d43875000078e3cf",
-      "text": "[Jupyter Notebook]導入した",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612607561,
-      "updated": 1612607566
-    },
-    {
-      "id": "601e704ed43875000078e3d0",
-      "text": "　bpythonで試すより全然良い",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1612607566,
-      "updated": 1612607585
+      "updated": 1626676017
     },
     {
       "id": "601e0fd94bb2e20000b47d25",

@@ -2,7 +2,7 @@
   "id": "5ffad47673fac2001cb69f23",
   "title": "リスト内包表記",
   "created": 1610273914,
-  "updated": 1610274127,
+  "updated": 1620542851,
   "lines": [
     {
       "id": "5ffad47673fac2001cb69f23",
@@ -45,13 +45,6 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1610273922,
       "updated": 1613112363
-    },
-    {
-      "id": "5ffad48ed43875000029d4b1",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1610273935,
-      "updated": 1610273935
     }
   ]
 }

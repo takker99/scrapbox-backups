@@ -1,0 +1,232 @@
+{
+  "id": "613fee71b1d841001d6e88e4",
+  "title": "新規作成ボタンは必要か",
+  "created": 1631579762,
+  "updated": 1631619177,
+  "lines": [
+    {
+      "id": "613fee71b1d841001d6e88e4",
+      "text": "新規作成ボタンは必要か",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579762,
+      "updated": 1631579762
+    },
+    {
+      "id": "613fee711280f0000078e442",
+      "text": "from [Scrapboxページのデザイン]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579762,
+      "updated": 1631579762
+    },
+    {
+      "id": "613fee931280f0000078e458",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579795,
+      "updated": 1631579795
+    },
+    {
+      "id": "613feeca1280f0000078e460",
+      "text": "Nota内では「[新規作成ボタン]要るだろ!」と言われているらしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579850,
+      "updated": 1631579872
+    },
+    {
+      "id": "613feec91280f0000078e45f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579850,
+      "updated": 1631579850
+    },
+    {
+      "id": "613fee9b1280f0000078e45b",
+      "text": "不要",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579804,
+      "updated": 1631579804
+    },
+    {
+      "id": "613fee9c1280f0000078e45c",
+      "text": " [/masui/Scrapboxは検索アイコンも新規作成アイコンも不要]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579804,
+      "updated": 1631579804
+    },
+    {
+      "id": "613fee931280f0000078e459",
+      "text": "必要",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579795,
+      "updated": 1631579796
+    },
+    {
+      "id": "613fee7f1280f0000078e44f",
+      "text": " 新規作成は、Twitter のツイートボタンくらい重要だと思います[hata6502.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "613fee7f1280f0000078e450",
+      "text": " \t[floating action button] っぽい。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "613fee7f1280f0000078e451",
+      "text": " 具体的タイトルがわからない状態で書き出すことが多いので、必要だと思ってます[bluemountain.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "613fee7f1280f0000078e452",
+      "text": " プラスボタン押して新規ページ作る流れには違和感ないです[kidooom.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631579776,
+      "updated": 1631610411
+    },
+    {
+      "id": "613fee9e1280f0000078e45d",
+      "text": "\t\t新規ページつくるときは「リンククリックして新しいページ見るとき」と同じ感覚がある（上手く言えない）[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631579806,
+      "updated": 1631610562
+    },
+    {
+      "id": "6140668f79d3a9000085d044",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631610512,
+      "updated": 1631610512
+    },
+    {
+      "id": "613fee7f1280f0000078e453",
+      "text": " 検索アイコンは消してる[dnin.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1631579776,
+      "updated": 1631619177
+    },
+    {
+      "id": "61408639cc60860000b94409",
+      "text": "  新規作成のURLをホームページにしている[dnin.icon]",
+      "userId": "6127807d271b6b001dcc6086",
+      "created": 1631618618,
+      "updated": 1631618626
+    },
+    {
+      "id": "613fee7f1280f0000078e454",
+      "text": " 検索枠でリターン押すと新規作成するようにしてたりします [増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "613fee7f1280f0000078e455",
+      "text": "  UserScriptが要りますが",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "613feea61280f0000078e45e",
+      "text": "  mobileから新規作成できなくなりませんか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579814,
+      "updated": 1631579829
+    },
+    {
+      "id": "61407c768ee92a0000b8c75b",
+      "text": "  検索したら作成できません? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631616119,
+      "updated": 1631616127
+    },
+    {
+      "id": "613fee7f1280f0000078e456",
+      "text": " 新規作成ボタンを[椎茸]にしています[suto3.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "613fee7f1280f0000078e457",
+      "text": " \tｗ[sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631579776,
+      "updated": 1631579779
+    },
+    {
+      "id": "6140397e385a92000010d9fb",
+      "text": "　消したい人が消せば良さそう[miyamonz.icon][bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1631598974,
+      "updated": 1631616789
+    },
+    {
+      "id": "6140398e385a92000010d9fd",
+      "text": "　　初めて使う人にはボタンのアイコンがあったほうが良さそう",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631598991,
+      "updated": 1631599005
+    },
+    {
+      "id": "614039a2385a92000010d9fe",
+      "text": "　　ただ、これも正しいかどうか疑問はあって、ただEnter押せば新規作成できるということを学習するだけのことで",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631599010,
+      "updated": 1631599035
+    },
+    {
+      "id": "614039bb385a92000010d9ff",
+      "text": "　　　大した学習コストではない",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631599035,
+      "updated": 1631599043
+    },
+    {
+      "id": "614039c3385a92000010da00",
+      "text": "　　　新参者にめちゃくちゃ親切にするためにはあったほうがいいというだけ",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631599043,
+      "updated": 1631599072
+    },
+    {
+      "id": "614039e0385a92000010da01",
+      "text": "　　　[ホッチキス]とかに「握ると針がさせます」とかいちいち書いてないし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631599072,
+      "updated": 1631616086
+    },
+    {
+      "id": "6140397e385a92000010d9fc",
+      "text": "  簡単に消せるなら良いと思ってます [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1631598974,
+      "updated": 1631616100
+    },
+    {
+      "id": "61407c5b8ee92a0000b8c75a",
+      "text": "\tパソコンなら日付のページに適当に書いてから範囲選択[New Page (Scrapbox)]にするから新規作成をあまり使っていない[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1631616091,
+      "updated": 1631616637
+    },
+    {
+      "id": "61407e61a3368200003cdbb3",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1631616610,
+      "updated": 1631616616
+    },
+    {
+      "id": "61407e41a3368200003cdbb2",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1631616578,
+      "updated": 1631616578
+    }
+  ]
+}

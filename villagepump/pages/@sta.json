@@ -2,7 +2,7 @@
   "id": "5ff525a88b85ab001c5a4eca",
   "title": "@sta",
   "created": 1609901482,
-  "updated": 1616326129,
+  "updated": 1632998257,
   "lines": [
     {
       "id": "5ff525a88b85ab001c5a4eca",
@@ -10,6 +10,4115 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609901482,
       "updated": 1609901483
+    },
+    {
+      "id": "614c5df61280f00000a6712a",
+      "text": "[/sta/私はテレワークに向いていませんでした、という話#606aef0979d3a90000228e1d]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632394743,
+      "updated": 1632394753
+    },
+    {
+      "id": "614c5df81280f00000a6712b",
+      "text": " [奇妙な街の鳥たち]で丁度この話が出てました。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632394745,
+      "updated": 1632394753
+    },
+    {
+      "id": "614c5df81280f00000a6712c",
+      "text": "  おすすめの漫画です。気が向いたら読んでみてください[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632394745,
+      "updated": 1632394761
+    },
+    {
+      "id": "614c5e051280f00000a6712d",
+      "text": "\t\tありがとうございます。気が向いたら（見た感じ、今の自分の性癖に刺さらないのでたぶん向かない気がしつつ。。。）読んでみます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632394757,
+      "updated": 1632820320
+    },
+    {
+      "id": "6152dc9579d3a900001246de",
+      "text": "\t\t\tいや、無料だからDLはしてみる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632820374,
+      "updated": 1632820379
+    },
+    {
+      "id": "6152dc4279d3a900001246dc",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632820290,
+      "updated": 1632820290
+    },
+    {
+      "id": "6147f8661280f0000027d2d4",
+      "text": "[/sta/takker#6147da1379d3a90000732b92]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632106599,
+      "updated": 1632106601
+    },
+    {
+      "id": "6147f86a1280f0000027d2d6",
+      "text": " RSSではなく、独自のアプリでSlackに流しています[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632106603,
+      "updated": 1632106643
+    },
+    {
+      "id": "6147f8931280f0000027d2d8",
+      "text": "  [/programming-notes/1日ごとにscrapboxの更新を通知するbot]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632106644,
+      "updated": 1632106684
+    },
+    {
+      "id": "6147f8be1280f0000027d2d9",
+      "text": "   使い勝手が今一つなので直したいところ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632106686,
+      "updated": 1632106745
+    },
+    {
+      "id": "6147f8f51280f0000027d2da",
+      "text": "  最初はRSSを用いていたのですが、通知頻度が多すぎる点と更新箇所が読みづらい点が不便に感じたので、自分でbotを作った次第です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632106742,
+      "updated": 1632106849
+    },
+    {
+      "id": "61481f6179d3a90000dd5600",
+      "text": "  そうか、Twitterみたいに「新しいツイートが来たら」「それを表示」という単純な世界ではないがゆえの苦労があるんですね。。[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632116579,
+      "updated": 1632116657
+    },
+    {
+      "id": "614826c41280f0000025bf2d",
+      "text": "   更新確認頻度を増やせば擬似的には可能ですが、serverに負担がかかってしまいますね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632118467,
+      "updated": 1632118507
+    },
+    {
+      "id": "6147f8671280f0000027d2d5",
+      "text": "\t\t\tモラルが問われる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632106599,
+      "updated": 1632301681
+    },
+    {
+      "id": "614af26b79d3a90000a894b8",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1632301678,
+      "updated": 1632301678
+    },
+    {
+      "id": "6140844a1280f00000966a15",
+      "text": "[/sta/恣意・否定・断定日記]に[推論の梯子]を組み合わせたら、より興味深い分析が得られるのではないかと思いました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631618123,
+      "updated": 1631618243
+    },
+    {
+      "id": "614084c21280f00000966a18",
+      "text": " 推論の梯子はたとえば[問題解決大全]などで詳しく解説されています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631618243,
+      "updated": 1631618391
+    },
+    {
+      "id": "6140844b1280f00000966a16",
+      "text": "\t分析方法、ちょうど困ってたんですよね[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631618124,
+      "updated": 1631655327
+    },
+    {
+      "id": "6141159e79d3a90000cd9578",
+      "text": "\t\tそのうち調べてみたいと思います",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631655327,
+      "updated": 1631655335
+    },
+    {
+      "id": "614115a579d3a90000cd9579",
+      "text": "\t\t独学大全かと思いましたが、問題解決大全ってのもあるんですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631655335,
+      "updated": 1631655352
+    },
+    {
+      "id": "6141158a79d3a90000cd9577",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631655307,
+      "updated": 1631655307
+    },
+    {
+      "id": "613d8dac1280f00000276175",
+      "text": "[/sta/UserScriptの配布方法を考える#613d7e9d79d3a90000b8ab49]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631423915,
+      "updated": 1631424018
+    },
+    {
+      "id": "613d8d801280f00000276172",
+      "text": " それが[UserScriptをbundleするDeno script]です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631423872,
+      "updated": 1631423961
+    },
+    {
+      "id": "613d8dfa1280f0000061a2b5",
+      "text": "  要Deno",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631423993,
+      "updated": 1631423999
+    },
+    {
+      "id": "613d8dda1280f0000061a2b4",
+      "text": "   web browserで完結させる方法もあるのですが、未実装です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631423961,
+      "updated": 1631424000
+    },
+    {
+      "id": "613d8dd71280f0000061a2b3",
+      "text": " 最近はGitHubでbuild用scriptごと管理する方法に移行しています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631423958,
+      "updated": 1631424074
+    },
+    {
+      "id": "613d8e4e1280f0000061a2b7",
+      "text": "  例：[/takker/@takker/ScrapJupyter]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631424077,
+      "updated": 1631424103
+    },
+    {
+      "id": "613d8e791280f0000061a2b9",
+      "text": "  [/icons/github.icon][https://github.com/mizdra/scrapbox-userscript-icon-suggestion mizdra/scrapbox-userscript-icon-suggestion]を参考にしています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631424121,
+      "updated": 1631424130
+    },
+    {
+      "id": "613d8e691280f0000061a2b8",
+      "text": "\tあざっす。やっぱり既に取り組みあるみたいですね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631424105,
+      "updated": 1631424494
+    },
+    {
+      "id": "613d8fe479d3a90000e773c2",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631424485,
+      "updated": 1631424485
+    },
+    {
+      "id": "6135d42c1280f00000af6d7a",
+      "text": "[/sta/HotStringでScrapboxのicon記法を素早く打つ#6117a66d79d3a90000fb195b]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917676,
+      "updated": 1630917679
+    },
+    {
+      "id": "6135d42f1280f00000af6d7c",
+      "text": " はい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917679,
+      "updated": 1630918152
+    },
+    {
+      "id": "6135d4311280f00000af6d7d",
+      "text": "  code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917681,
+      "updated": 1630917684
+    },
+    {
+      "id": "6135d4341280f00000af6d7e",
+      "text": "   const textInput = document.getElementById(\"text-input\");",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917684,
+      "updated": 1630917832
+    },
+    {
+      "id": "6135d4c81280f00000af6d7f",
+      "text": "   textInput.addEventListener(\"keydown\", e => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917832
+    },
+    {
+      "id": "6135d4c81280f00000af6d80",
+      "text": "     if (e.key !== \"j\" || !e.ctrlKey) return;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917832
+    },
+    {
+      "id": "6135d4c81280f00000af6d81",
+      "text": "   ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917832
+    },
+    {
+      "id": "6135d4c81280f00000af6d82",
+      "text": "     e.preventDefault();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917832
+    },
+    {
+      "id": "6135d4c81280f00000af6d83",
+      "text": "     e.stopPropagation();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917832
+    },
+    {
+      "id": "6135d4c81280f00000af6d84",
+      "text": "     textInput.value = scrapbox.Project.name === \"sta\" ?",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917873
+    },
+    {
+      "id": "6135d4f11280f00000af6d89",
+      "text": "       \"[y1.icon]\" :",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917873,
+      "updated": 1630917889
+    },
+    {
+      "id": "6135d5021280f00000af6d8a",
+      "text": "       \"[/sta/y1.icon]\";",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917889,
+      "updated": 1630917943
+    },
+    {
+      "id": "6135d4c81280f00000af6d85",
+      "text": "     const uiEvent = document.createEvent(\"UIEvent\");",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917849
+    },
+    {
+      "id": "6135d4c81280f00000af6d86",
+      "text": "     uiEvent.initEvent(\"input\", true, false);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917854
+    },
+    {
+      "id": "6135d4c81280f00000af6d87",
+      "text": "     textInput.dispatchEvent(uiEvent);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917859
+    },
+    {
+      "id": "6135d4c81280f00000af6d88",
+      "text": "   });",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630917832,
+      "updated": 1630917838
+    },
+    {
+      "id": "6135d42c1280f00000af6d7b",
+      "text": "\t\tおおおお[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630917676,
+      "updated": 1630921427
+    },
+    {
+      "id": "6135e2d379d3a90000203955",
+      "text": "\t\tあとで試してみます！",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630921428,
+      "updated": 1630921432
+    },
+    {
+      "id": "61375b035b98c20000731967",
+      "text": "\t\t （なぜか）うちでも採用させていただきました [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631017731,
+      "updated": 1631017773
+    },
+    {
+      "id": "61375b2f5b98c20000731968",
+      "text": "\t\t  [/suto3/UserScript:haku]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631017776,
+      "updated": 1631017795
+    },
+    {
+      "id": "61375b485b98c20000731969",
+      "text": "\t\t  こんな感じ → [[/suto3/haku.icon]][{ にゃーん　]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1631017800,
+      "updated": 1631017824
+    },
+    {
+      "id": "6138851c79d3a90000a70eef",
+      "text": "\t\t\t\tブラケット重ねてでかくするのいいですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631094045,
+      "updated": 1631094060
+    },
+    {
+      "id": "6135e2f979d3a90000203956",
+      "text": "\t\t[- アイラも喜ぶと思う]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630921466,
+      "updated": 1631015005
+    },
+    {
+      "id": "6137505c1280f00000c4bb4d",
+      "text": "\t\t[/sta/icon-of-アウラ#61373fa679d3a900000c4ce1]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631015005,
+      "updated": 1631015007
+    },
+    {
+      "id": "6137505f1280f00000c4bb4e",
+      "text": "\t\t s/AltKey/altKey",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1631015008,
+      "updated": 1631015016
+    },
+    {
+      "id": "613884f179d3a90000a70eee",
+      "text": "\t\t ありがとうございます。。。（こんなん絶対気づくの無理ですね（苦手ジャンル[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1631094002,
+      "updated": 1631094019
+    },
+    {
+      "id": "6135e2d079d3a90000203954",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630921424,
+      "updated": 1630921424
+    },
+    {
+      "id": "612c9c4f79d3a9000086380b",
+      "text": " [localhostとCORS]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630313552,
+      "updated": 1630313565
+    },
+    {
+      "id": "612c51761280f00000594ff3",
+      "text": " [/sta/ScrapboxのCORS#612c026179d3a900005f6342]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630294390,
+      "updated": 1630313563
+    },
+    {
+      "id": "612c55c81280f00000e59337",
+      "text": "  引用文冒頭から`\\``が脱落しています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630295497,
+      "updated": 1630295520
+    },
+    {
+      "id": "612c98a479d3a900001ff0e2",
+      "text": "  あざっす（なんかおかしいなとは思ってましたがそういうことか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630312613,
+      "updated": 1630312621
+    },
+    {
+      "id": "612c51761280f00000594ff4",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630294390,
+      "updated": 1630294390
+    },
+    {
+      "id": "612a1c281280f000005cb9bb",
+      "text": "[/sta/はてなブログProとお名前.comをどうするか迷う]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149673,
+      "updated": 1630149675
+    },
+    {
+      "id": "612a1c2a1280f000005cb9bc",
+      "text": " まず個人的な一般論から[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149675,
+      "updated": 1630149682
+    },
+    {
+      "id": "612a1c321280f000005cb9bd",
+      "text": "  一度web上に公開したページは、炎上や削除申請でもない限り残してほしいと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149682,
+      "updated": 1630149723
+    },
+    {
+      "id": "612a1c5a1280f000005cb9be",
+      "text": "  　誰かが参照していた場合、[リンク切れ]になると情報を参照できなくてとても困ります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149723,
+      "updated": 1630149786
+    },
+    {
+      "id": "612a1cd31280f000005cb9c2",
+      "text": "  　 昔よく読んでいた物理系のサイトや講義ノートPDFがリンク切れになって読めなくなってしまったことがある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149844,
+      "updated": 1630149960
+    },
+    {
+      "id": "612a1ddd1280f000005cb9c6",
+      "text": "  　　今回は関係ないですが、アニメの感想・考察を書いていたサイトが閉鎖してしまい、殆どの考察を読めなくなったのは非常に悲しかったです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150110,
+      "updated": 1630150215
+    },
+    {
+      "id": "612a1f8d79d3a900003793e2",
+      "text": "  　　\tとあるのアレですね（何度か推してたの見たことある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630150542,
+      "updated": 1630150553
+    },
+    {
+      "id": "612a1e751280f000005cb9c8",
+      "text": "  　　 です。[トリガーハッピーエンド]です……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150262,
+      "updated": 1630150562
+    },
+    {
+      "id": "612a1f941280f000005cb9d0",
+      "text": "  　　とにかくリンク切れは個人的にトラウマ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150550,
+      "updated": 1630150550
+    },
+    {
+      "id": "612a1c991280f000005cb9c0",
+      "text": "  　もちろん参照している人がlocalにデータをコピーしておけば解決するのですが、普通はそこまでしないでしょう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149786,
+      "updated": 1630149842
+    },
+    {
+      "id": "612a1cd11280f000005cb9c1",
+      "text": "　ただ、今回の場合はサイトの維持自体にお金がかかっているとのことなので、確かにずっと残しておくわけにもいかないでしょう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630149842,
+      "updated": 1630150049
+    },
+    {
+      "id": "612a1da01280f000005cb9c4",
+      "text": "　　アクセスが定期的にあるとはいえ、自身が殆ど使っていないサイトに年1万円も払うのは、流石にコストが高すぎる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150049,
+      "updated": 1630150095
+    },
+    {
+      "id": "612a1dce1280f000005cb9c5",
+      "text": "　せめて全部消す前に、[Internet Archive]などに魚拓を残してほしいです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150095,
+      "updated": 1630150336
+    },
+    {
+      "id": "612a1ec01280f000005cb9c9",
+      "text": "　　リンク切れになっても魚拓さえあればなんとかなるので",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150338,
+      "updated": 1630150351
+    },
+    {
+      "id": "612a1ece1280f000005cb9ca",
+      "text": "　いろいろ書き散らしましたが、もちろん[sta.icon]さんの納得のいく方法を採るのが一番だと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150351,
+      "updated": 1630150415
+    },
+    {
+      "id": "612a1f0e1280f000005cb9cc",
+      "text": "　　サイト訪問者から見てリンク切れはそこそこ困るという視点を書きたかっただけなので",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150415,
+      "updated": 1630150487
+    },
+    {
+      "id": "612a1bff1280f000005cb9ba",
+      "text": "\t↑ 本当にそれなんですよね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630149632,
+      "updated": 1630150532
+    },
+    {
+      "id": "612a1f5179d3a900003793df",
+      "text": "\t\tThe Internetの住人の一人として、情報はできるだけ残したい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630150482,
+      "updated": 1630150500
+    },
+    {
+      "id": "612a1f6379d3a900003793e0",
+      "text": "\t\tが、そのための努力も面倒でもういいかなって自分もいたりして",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630150500,
+      "updated": 1630150512
+    },
+    {
+      "id": "612a1fab1280f000005cb9d1",
+      "text": "\t\t [/icons/わかる.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150572,
+      "updated": 1630150578
+    },
+    {
+      "id": "612a1f8d1280f000005cb9ce",
+      "text": "   自動て任意のドメイン下の全てのページを勝手にクロールして魚拓してくれるサービスとかないですかね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150542,
+      "updated": 1630150543
+    },
+    {
+      "id": "612a1f8e1280f000005cb9cf",
+      "text": "   探したらありそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150543,
+      "updated": 1630150546
+    },
+    {
+      "id": "612a1f721280f000005cb9cd",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630150515,
+      "updated": 1630150515
+    },
+    {
+      "id": "6128d7b01280f00000e855a4",
+      "text": "[/sta/Scrapbox上でルームツアーやってみる Ver5.0#6128bf1479d3a900000ac565]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630066608,
+      "updated": 1630066610
+    },
+    {
+      "id": "6128d7a71280f00000e855a3",
+      "text": " >我のスクボは日々ここで生産されている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630066599,
+      "updated": 1630066602
+    },
+    {
+      "id": "6128d7821280f00000e855a1",
+      "text": " セリフが[- 中2病っぽくて]かっこいい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630066563,
+      "updated": 1630066598
+    },
+    {
+      "id": "6128d7b41280f00000e855a5",
+      "text": "  小説に出てきそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630066613,
+      "updated": 1630066625
+    },
+    {
+      "id": "6129972679d3a90000d50c46",
+      "text": "  ここは一番かっこつけたところですねｗ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630115624,
+      "updated": 1630115637
+    },
+    {
+      "id": "6128d81e1280f00000e855a6",
+      "text": " [/sta/Scrapbox上でルームツアーやってみる Ver5.0#6128c15a79d3a900000ac588]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630066719,
+      "updated": 1630066720
+    },
+    {
+      "id": "6128d8211280f00000e855a7",
+      "text": "  s/どんどん探すので/どんどん下がるので",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630066721,
+      "updated": 1630066740
+    },
+    {
+      "id": "6129731be5172d00001b4850",
+      "text": " 自宅公開ってすごい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630106396,
+      "updated": 1630106403
+    },
+    {
+      "id": "61297324e5172d00001b4851",
+      "text": " 　読むの楽しすぎた",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630106404,
+      "updated": 1630106409
+    },
+    {
+      "id": "6128d7831280f00000e855a2",
+      "text": "\t\t公開作業（写真撮って紹介考えてうんぬん）も楽しい[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630066564,
+      "updated": 1630115606
+    },
+    {
+      "id": "6129971579d3a90000d50c45",
+      "text": "\t\t\tが、うっかりやばい個人情報晒さないよう注意は要る",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630115607,
+      "updated": 1630115614
+    },
+    {
+      "id": "612996fe79d3a90000d50c44",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630115584,
+      "updated": 1630115584
+    },
+    {
+      "id": "6125a92f1280f0000015f7e8",
+      "text": "[/sta/vim-jp#612577d179d3a900003e73c3]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629858095,
+      "updated": 1629858108
+    },
+    {
+      "id": "6125a9321280f0000015f7ea",
+      "text": " ほとんどのメンバーがROM専なのでへーきへーき[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629858100,
+      "updated": 1629858132
+    },
+    {
+      "id": "6125a9551280f0000015f7ec",
+      "text": "  メンバーの絶対数が多すぎてアクティブユーザーしかいないように錯覚していしまいますが、ROM専が圧倒的に多いです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629858133,
+      "updated": 1629858173
+    },
+    {
+      "id": "6125a92f1280f0000015f7e9",
+      "text": " なにか投稿すると大体[kuuote.icon]さんが光の速さでリプかリアクションしてくれる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629858095,
+      "updated": 1629858221
+    },
+    {
+      "id": "61275e5379d3a90000a6eb68",
+      "text": " 気が向いたら参加してみようと思います[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629970004,
+      "updated": 1629970015
+    },
+    {
+      "id": "61275e5979d3a90000a6eb69",
+      "text": " \t[いつかやるリスト]に入れておく",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629970009,
+      "updated": 1629970013
+    },
+    {
+      "id": "6125a9851280f0000015f7ed",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629858181,
+      "updated": 1629858181
+    },
+    {
+      "id": "6123aa0b1280f00000a532c9",
+      "text": "[/sta/VTuber]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727244,
+      "updated": 1629727285
+    },
+    {
+      "id": "6123aa351280f00000a532cb",
+      "text": " こちらをどうぞ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727285,
+      "updated": 1629727290
+    },
+    {
+      "id": "6123aa3a1280f00000a532cc",
+      "text": "  [/vtuber]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727290,
+      "updated": 1629727296
+    },
+    {
+      "id": "6123aa411280f00000a532cd",
+      "text": "  [/motoso/VTuber]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727297,
+      "updated": 1629727463
+    },
+    {
+      "id": "6123ab441280f000007620bf",
+      "text": "   [/motoso/初心者向け「バーチャルYouTuber」という現象の説明]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727557,
+      "updated": 1629727558
+    },
+    {
+      "id": "6123aae71280f000007620bd",
+      "text": "   [/motoso/創作にSNSを組み込んでリアリティを出す]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727463,
+      "updated": 1629727468
+    },
+    {
+      "id": "6123ab0c1280f000007620be",
+      "text": "   [/motoso/自分がVTuberに抱いている幻想]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629727501,
+      "updated": 1629727502
+    },
+    {
+      "id": "6123aa0b1280f00000a532ca",
+      "text": "\t\tおお、さすがmotosoさん、あとで[- 明後日見るか]漁ってみるか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629727244,
+      "updated": 1629757279
+    },
+    {
+      "id": "61241ed179d3a900004270fc",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629757138,
+      "updated": 1629757138
+    },
+    {
+      "id": "611e694c1280f000003f7e16",
+      "text": "[/sta/俺は結構ミーハーなのかもしれん]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629382989,
+      "updated": 1629382991
+    },
+    {
+      "id": "611e694e1280f000003f7e18",
+      "text": " 全然違うっぽい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629382991,
+      "updated": 1629382996
+    },
+    {
+      "id": "611e69541280f000003f7e19",
+      "text": "  >[ミーハー]は、日本語の俗語で、世の中の流行や話題となった人物・事物の動静に、もともと興味がなかったにもかかわらず、にわかに熱中する者（にわかファン）に対しての蔑称である。ひらがなでみいはあとも12。 ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629382996,
+      "updated": 1629383007
+    },
+    {
+      "id": "611e69601280f000003f7e1a",
+      "text": "  from [https://ja.wikipedia.org/wiki/ミーハー ミーハー - Wikipedia]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629383009,
+      "updated": 1629383021
+    },
+    {
+      "id": "611e694c1280f000003f7e17",
+      "text": "\t\tそうなんですよねー",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629382989,
+      "updated": 1629409408
+    },
+    {
+      "id": "611ed03d79d3a90000893491",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629409343,
+      "updated": 1629409343
+    },
+    {
+      "id": "611123441280f000002413f6",
+      "text": "[/sta/シングルタスク脳#610f183e79d3a9000012a04a]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628513094,
+      "updated": 1628513109
+    },
+    {
+      "id": "611123551280f000002413f7",
+      "text": " [\" 机を散らかさないタイプ]というのが[/nishio/ものを元の位置に戻す人と見えるところに置く人]の話に通じるかなと感じたのですが、ちょっと違うかも[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1628513110,
+      "updated": 1628554968
+    },
+    {
+      "id": "611123571280f000002413f8",
+      "text": "\t\tあざっす。読んでみます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628513113,
+      "updated": 1628588003
+    },
+    {
+      "id": "6112475979d3a9000014add6",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628587866,
+      "updated": 1628587866
+    },
+    {
+      "id": "6109196d1280f000009e1b9d",
+      "text": "どうでもいいことですが[/sta/謙虚な俺TUEEEE]を「『謙虚な俺』TUEEEE」と読んでしまった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627986285,
+      "updated": 1627986314
+    },
+    {
+      "id": "6109196e1280f000009e1b9e",
+      "text": "\tその発想はなかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627986285,
+      "updated": 1627991875
+    },
+    {
+      "id": "61092f4779d3a90000abf3b6",
+      "text": "\t\tが、面白いと思います",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627991880,
+      "updated": 1627991889
+    },
+    {
+      "id": "61092f6279d3a90000abf3b7",
+      "text": "\t\t謙虚は強さなり",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627991907,
+      "updated": 1627991913
+    },
+    {
+      "id": "61092f6979d3a90000abf3b8",
+      "text": "\t\tでも強さを「俺TUEEEE！」と顕示することははたして謙虚と言えるのか。否、言えぬ。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627991913,
+      "updated": 1627991947
+    },
+    {
+      "id": "61092f8a79d3a90000abf3b9",
+      "text": "\t\tゆえに「\"謙虚な俺\"TUEEEE」は矛盾な存在である",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627991947,
+      "updated": 1627991975
+    },
+    {
+      "id": "61092fa679d3a90000abf3bb",
+      "text": "\t\tよくわからん言葉遊び[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627991975,
+      "updated": 1627992023
+    },
+    {
+      "id": "61092f3d79d3a90000abf3b5",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627991870,
+      "updated": 1627991870
+    },
+    {
+      "id": "6104f7301280f000009e4447",
+      "text": "[/sta/Scrapbox As A Diary#60fc916f79d3a90000d85afd]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627715378,
+      "updated": 1627715394
+    },
+    {
+      "id": "6104f7421280f000009e4449",
+      "text": " 意外とあります。[/takker/日記・日報系scrapbox]にいくつかまとめてあるので、気が向いたら覗いてみて下さい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627715396,
+      "updated": 1627715512
+    },
+    {
+      "id": "61052fa679d3a90000a20867",
+      "text": "\t\tありがとうございます",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627729831,
+      "updated": 1627729833
+    },
+    {
+      "id": "6104f7311280f000009e4448",
+      "text": "\t\tみたいですね（実はそのページ、2,3回くらい読んでました（けどなぜか捉えてなかったな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627715378,
+      "updated": 1627729858
+    },
+    {
+      "id": "61052f9c79d3a90000a20866",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627729821,
+      "updated": 1627729821
+    },
+    {
+      "id": "610288ff1280f00000a72e12",
+      "text": "[/sta/やっと自殺できたのに異世界転生で防御力∞とか舐めてんのか？]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627556095,
+      "updated": 1627556097
+    },
+    {
+      "id": "610289021280f00000a72e14",
+      "text": " GitHubで推敲の過程や設定の作成過程を読めるのは新鮮な体験ですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627556097,
+      "updated": 1627556128
+    },
+    {
+      "id": "610398df79d3a900001862dd",
+      "text": "\t\t今回はあえてなるべく出してみることにしました",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627625695,
+      "updated": 1627625702
+    },
+    {
+      "id": "610398e579d3a900001862de",
+      "text": "\t\t\t普段から外に出しながら作業するマンなのであまり苦労はない（置く場所変えるのと気持ち表現を気をつけるくらい）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627625702,
+      "updated": 1627625728
+    },
+    {
+      "id": "6103988d79d3a900001862d6",
+      "text": " repoに`novel`, `light-novel`というタグを設定しておくとよさそうです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627625614,
+      "updated": 1627625688
+    },
+    {
+      "id": "610398b579d3a900001862da",
+      "text": " \tあざっす",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627625653,
+      "updated": 1627625655
+    },
+    {
+      "id": "610398b779d3a900001862db",
+      "text": " \tこれは設定しておこう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627625655,
+      "updated": 1627625658
+    },
+    {
+      "id": "610289001280f00000a72e13",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627556095,
+      "updated": 1627556095
+    },
+    {
+      "id": "6101b2b01280f000000ee058",
+      "text": "[/sta/Waifu Labsで俺の嫁をつくってみた]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627501233,
+      "updated": 1627501235
+    },
+    {
+      "id": "6101b2b41280f000000ee05a",
+      "text": " [/icons/かわいい.icon][/Icons2/すばら.icon][/icons/いいぞ！.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627501237,
+      "updated": 1627501354
+    },
+    {
+      "id": "6101cf7879d3a900006b4798",
+      "text": " [- 性癖はバレるかもしれない]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627508602,
+      "updated": 1627508621
+    },
+    {
+      "id": "6101b2b01280f000000ee059",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1627501233,
+      "updated": 1627501352
+    },
+    {
+      "id": "60ed4a0b1280f00000dcfcc4",
+      "text": "[/sta/階段を使った方が速いのになぜ人の多いエスカレーターを使うのだろう]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626163737,
+      "updated": 1626163738
+    },
+    {
+      "id": "60ed4a0e1280f00000dcfcc6",
+      "text": " 汗を掻きたくないから、というのもあると思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626163739,
+      "updated": 1626163753
+    },
+    {
+      "id": "60ed4a1c1280f00000dcfcc7",
+      "text": "  汗をかくとそれだけ汗臭くなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626163753,
+      "updated": 1626163767
+    },
+    {
+      "id": "60ed4a2b1280f00000dcfcc8",
+      "text": "  　人と会う上で汗臭いのはよくない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626163768,
+      "updated": 1626185898
+    },
+    {
+      "id": "60ed4a401280f00000dcfcc9",
+      "text": "  　飲食店や格式の高い場所で汗臭さを放つのも失礼にあたる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626163789,
+      "updated": 1626185898
+    },
+    {
+      "id": "60eda0ade5172d00002b1127",
+      "text": "  単にベトベトして気持ち悪く感じる人もいる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626185901,
+      "updated": 1626185924
+    },
+    {
+      "id": "60ed4a0c1280f00000dcfcc5",
+      "text": "\t\tたしかに！[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626163737,
+      "updated": 1626212460
+    },
+    {
+      "id": "60ee086a79d3a9000087e232",
+      "text": "\t\t\tかくいう僕自身も、オフィス（高層ビル）の非常階段で遊ぶのを諦めた覚えがあります",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626212460,
+      "updated": 1626212488
+    },
+    {
+      "id": "60ef87a91280f00000b61bcf",
+      "text": "\t\t\t 非常階段で遊んでいたのか……(困惑)[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1626310569,
+      "updated": 1626310584
+    },
+    {
+      "id": "60f02cc779d3a90000d727b0",
+      "text": "\t\t\t こんなこと考えちゃうタイプです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626352841,
+      "updated": 1626352852
+    },
+    {
+      "id": "60f02cd279d3a90000d727b1",
+      "text": "\t\t\t \t[/sta/リズム階段]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626352852,
+      "updated": 1626352852
+    },
+    {
+      "id": "60f02cd579d3a90000d727b2",
+      "text": "\t\t\t熱こもって熱すぎて地獄。。。（汗もエグい）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626352854,
+      "updated": 1626352880
+    },
+    {
+      "id": "60ee086279d3a9000087e231",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626212452,
+      "updated": 1626212452
+    },
+    {
+      "id": "60e82f481280f00000086d4b",
+      "text": "[微分積分の入門書以前を探したい]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625829193,
+      "updated": 1625968305
+    },
+    {
+      "id": "60e82d1f1280f00000086d31",
+      "text": " 次、もっと学びたくなったら参考にしそう[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625828639,
+      "updated": 1625968321
+    },
+    {
+      "id": "60ea4ec179d3a900001bd879",
+      "text": " \t自己解決したのでたぶん直近はこれ以上学ばない気がする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625968322,
+      "updated": 1625968332
+    },
+    {
+      "id": "60ea4ef079d3a900001bd87a",
+      "text": " 予備校のノリの人のは以前見た覚えがある（全然覚えてない）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625968369,
+      "updated": 1625968379
+    },
+    {
+      "id": "60ea4efa79d3a900001bd87b",
+      "text": " \t[中学数学からはじめる微分積分 - YouTube https://www.youtube.com/watch?v=4p1rwfXbCoY]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625968379,
+      "updated": 1625968380
+    },
+    {
+      "id": "60e82d1f1280f00000086d32",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625828639,
+      "updated": 1625828639
+    },
+    {
+      "id": "60dfc84d1280f000009ecd7a",
+      "text": "[/sta/Scrapbox As A Q&A]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625278542,
+      "updated": 1625278543
+    },
+    {
+      "id": "60dfc84f1280f000009ecd7c",
+      "text": " [scrapbox.io/q-a]とかそうかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625278544,
+      "updated": 1625278615
+    },
+    {
+      "id": "60e231d579d3a900003457d7",
+      "text": " おお、既にあったんですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625436630,
+      "updated": 1625436634
+    },
+    {
+      "id": "60e231d879d3a900003457d8",
+      "text": " \tあとで見てみよう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625436634,
+      "updated": 1625436637
+    },
+    {
+      "id": "60dfc84d1280f000009ecd7b",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625278542,
+      "updated": 1625278542
+    },
+    {
+      "id": "60d969c11280f00000866884",
+      "text": "[/sta/他人のコンテキストをインプットするのはしんどい#60c8862c79d3a90000286d7e]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861121,
+      "updated": 1624861123
+    },
+    {
+      "id": "60d969c31280f00000866887",
+      "text": " この選択肢を「とれない」ものとして切り捨ててしまっていますが、十分可能性のある選択肢たと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861123,
+      "updated": 1629346025
+    },
+    {
+      "id": "60d96afe1280f00000866888",
+      "text": "  本人は暗黙の前提だと思い込んでいる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861437,
+      "updated": 1624861468
+    },
+    {
+      "id": "60d96b1c1280f00000866889",
+      "text": "  外部から問いかけて、[知識を明文化]するのはとても有意義",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861468,
+      "updated": 1624861499
+    },
+    {
+      "id": "60d96b6a1280f0000086688a",
+      "text": " それに質問されて嫌がる人ばかりでもないでしょう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861546,
+      "updated": 1624861608
+    },
+    {
+      "id": "60d96ba71280f0000086688c",
+      "text": "  [takker.icon]だったら、自分が気づかなかった部分に気づかせてくれるのでそういう質問はとてもありがたいと思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861608,
+      "updated": 1624861627
+    },
+    {
+      "id": "60da797679d3a9000065254c",
+      "text": "  ありがとうございます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930680,
+      "updated": 1624930723
+    },
+    {
+      "id": "60da797879d3a9000065254d",
+      "text": "  \t被害妄想強いからか、嫌がる人しかいないと思い込んでるところありました",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930682,
+      "updated": 1624930702
+    },
+    {
+      "id": "60da79b579d3a9000065254f",
+      "text": "  \t場所が場所ってのもある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930743,
+      "updated": 1624930761
+    },
+    {
+      "id": "60da79c779d3a90000652550",
+      "text": "  \t\t「平社員のくせに何ほざいてんだ」",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930761,
+      "updated": 1624930768
+    },
+    {
+      "id": "611dd91c1280f0000045f25f",
+      "text": "  \t\t こういうことを言う人が本当にいるのかが疑問です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629346076,
+      "updated": 1629346101
+    },
+    {
+      "id": "611dd9291280f0000045f260",
+      "text": "   \t\t 会社の規約で決められている平社員の権限を超えた要求に対する返答ならともかく",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629346089,
+      "updated": 1629346141
+    },
+    {
+      "id": "611dd95d1280f0000045f261",
+      "text": "   \t\t 単なる質問に対して、さも「身分に応じて質問できる範囲が決められている」ことを前提とした返しをするのはおかしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629346142,
+      "updated": 1629346213
+    },
+    {
+      "id": "60da79cf79d3a90000652551",
+      "text": "  \t\t「言われたことやってればいいんだよ」",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930769,
+      "updated": 1624930783
+    },
+    {
+      "id": "611dd9df1280f0000045f263",
+      "text": "  \t\t　創造性を求めない、機械的な作業しかしない工場のような会社ならありえる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629346272,
+      "updated": 1629346309
+    },
+    {
+      "id": "611dda041280f0000045f264",
+      "text": "  \t\t　ですが、[/sta]さんの勤めている会社は([/sta]に書かれていることから推測して)そういう会社ではなさそうに思えます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629346309,
+      "updated": 1629346351
+    },
+    {
+      "id": "611e353d79d3a90000d5ed09",
+      "text": "  \t\t　正確な割合は計測してない（しようがない）ですが、割といますね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629369662,
+      "updated": 1629369778
+    },
+    {
+      "id": "611e357979d3a90000d5ed0a",
+      "text": "  \t\t　\t議論や対話が込み入ってきたり感情が乱れるレベルにまで盛り上がったりすると、このような本音が出てくる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629369722,
+      "updated": 1629369730
+    },
+    {
+      "id": "611e358d79d3a90000d5ed0c",
+      "text": "  \t\t　\t最近は知らないですが、飲み会してた頃は酔った勢いで出てたりもしてましたね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629369742,
+      "updated": 1629369755
+    },
+    {
+      "id": "611e358879d3a90000d5ed0b",
+      "text": "  \t\t　\tさすがにシラフや冷静なときにこういう台詞吐いてくるケースは出会ったことないです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629369737,
+      "updated": 1629369774
+    },
+    {
+      "id": "60da79da79d3a90000652552",
+      "text": "  \t\t「真面目すぎるだろ。面倒くせえ」",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930783,
+      "updated": 1624930785
+    },
+    {
+      "id": "611dd9a81280f0000045f262",
+      "text": "  \t\t 相手が忙しくてストレス溜まっているときに色々聞かれたら、たしかに苛立ってこういう返しをしてしまう人は珍しくないと思う[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1629346216,
+      "updated": 1629346256
+    },
+    {
+      "id": "61241f9579d3a900004270fd",
+      "text": "  \t\t 常に忙しくてあっぷあっぷなのがデフォルト、ってところがまた厄介。。。[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629757335,
+      "updated": 1629757386
+    },
+    {
+      "id": "61241fca79d3a900004270fe",
+      "text": "  \t\t \t僕のように器用に交わさないと、平気で仕事や責務や会議がどんどんどんどん積まれる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1629757388,
+      "updated": 1629757409
+    },
+    {
+      "id": "60da7a4479d3a90000652558",
+      "text": "  \t\t↑ こういう人が多い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930886,
+      "updated": 1624930889
+    },
+    {
+      "id": "60da79df79d3a90000652553",
+      "text": "  \t\tさすがに口や態度で出してくるほどブラックではないが、こういう価値観の人が多いのでそもそも問いかけたところでのれんに腕押しになることが多い(n敗)",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930785,
+      "updated": 1624930878
+    },
+    {
+      "id": "60da7a1d79d3a90000652555",
+      "text": "  \t\t\tしかし内心では面倒くさい奴と判断されている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930846,
+      "updated": 1624930856
+    },
+    {
+      "id": "60da7a2779d3a90000652556",
+      "text": "  \t\t\t蓄積されるとヘイトに繋がっていく",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930857,
+      "updated": 1624930863
+    },
+    {
+      "id": "60da7a3179d3a90000652557",
+      "text": "  \t\t\t何か言ってもスルーされるのがデフォになったり",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930866,
+      "updated": 1624930873
+    },
+    {
+      "id": "60da7a9b79d3a9000065255a",
+      "text": "  \t\t\t面倒臭いやつを排除したくて異動を仕込もうとする奴もいる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930973,
+      "updated": 1624930990
+    },
+    {
+      "id": "60da7ac579d3a9000065255b",
+      "text": "  \t\t出世競争じゃないですが、そういうピラミッドでヒエラルキーなしょーもない世界に毒された人たち",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931015,
+      "updated": 1624931038
+    },
+    {
+      "id": "60da798c79d3a9000065254e",
+      "text": "  \tもうちょっと頑張って（迫る機会を増やして）みようかな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930702,
+      "updated": 1624930719
+    },
+    {
+      "id": "60da7a4f79d3a90000652559",
+      "text": "  \t\t上述した通じない人はさておき、そうじゃない人もいるのでその人達に",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930897,
+      "updated": 1624930955
+    },
+    {
+      "id": "60da7af079d3a9000065255c",
+      "text": "  \t\t後者の人に問いかけて発展していける、という経験を増やしていく",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931060,
+      "updated": 1624931075
+    },
+    {
+      "id": "60d969c11280f00000866885",
+      "text": " [/tkgshn/対話によって認知できていないことを認知する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861121,
+      "updated": 1624861649
+    },
+    {
+      "id": "60d969c11280f00000866886",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624861121,
+      "updated": 1624861121
+    },
+    {
+      "id": "60d8672b1280f00000fc1dce",
+      "text": "[/sta/進路責任。何から何まで全部なくして欲しいです。オートロックをお願い申し上げます。]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624794923,
+      "updated": 1624794930
+    },
+    {
+      "id": "60d867331280f00000fc1dd1",
+      "text": " 十中八九[スパム]ですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624794931,
+      "updated": 1624794950
+    },
+    {
+      "id": "60d8675b1280f00000fc1dd2",
+      "text": " 無視して問題ないと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624794972,
+      "updated": 1624794978
+    },
+    {
+      "id": "60da78d479d3a900006f6a3a",
+      "text": " \t他の読者も混乱しそうなので消しました[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930520,
+      "updated": 1624931083
+    },
+    {
+      "id": "60d8672b1280f00000fc1dcf",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624794923,
+      "updated": 1624794923
+    },
+    {
+      "id": "60d8672c1280f00000fc1dd0",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624794923,
+      "updated": 1624794923
+    },
+    {
+      "id": "60cde51f1280f00000f98fb2",
+      "text": "[/sta/素早くスクショ撮ってScrapboxに記録する最速の方法#60cd136079d3a90000f81423]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624106273,
+      "updated": 1624106274
+    },
+    {
+      "id": "60cde5211280f00000f98fb4",
+      "text": " [PrintScreen]キーで[Gyazo]を起動するように設定すると便利です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624106274,
+      "updated": 1624106292
+    },
+    {
+      "id": "60cde5331280f00000f98fb5",
+      "text": "  [https://gyazo.com/56ac6ae9d82a21f78adc3fe9cae18799]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624106292,
+      "updated": 1624106309
+    },
+    {
+      "id": "60cde5441280f00000f98fb6",
+      "text": " (Windows only)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624106309,
+      "updated": 1624106318
+    },
+    {
+      "id": "60da78ed79d3a90000652549",
+      "text": " あざっす",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930543,
+      "updated": 1624930549
+    },
+    {
+      "id": "60da78f079d3a9000065254a",
+      "text": " \tそういえば[WinShot]でもPrintScreen充ててましたわ（どうして応用できなかったのか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624930549,
+      "updated": 1624930582
+    },
+    {
+      "id": "60da7b1d79d3a9000065255d",
+      "text": " Gyazo乗り換えるか迷うなぁ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931105,
+      "updated": 1624931111
+    },
+    {
+      "id": "60da7b2479d3a9000065255e",
+      "text": " \t会社で使えない＆キャプチャ操作の7割は会社なので、Gyazo使うと操作観が鈍る",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931111,
+      "updated": 1624931148
+    },
+    {
+      "id": "60da7b6279d3a90000652560",
+      "text": " \t\t会社でやってるやり方を私生活でも採用することで操作の感覚を鈍らせない、ってのは僕の戦略でもある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931172,
+      "updated": 1624931192
+    },
+    {
+      "id": "60da7b7679d3a90000652561",
+      "text": " \t\tなんかアスリートみたい（苦笑）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931192,
+      "updated": 1624931243
+    },
+    {
+      "id": "60da7b4979d3a9000065255f",
+      "text": " \tが、「私生活においてはGyazoの便宜を得る」ことを優先するならアリ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624931148,
+      "updated": 1624931163
+    },
+    {
+      "id": "60dfcda88ee92a0000ac7549",
+      "text": " \t会社で使えないのは何故ですかね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1625279913,
+      "updated": 1625279924
+    },
+    {
+      "id": "60dfcdb48ee92a0000ac754a",
+      "text": " \t 会社用のGyazoもあります",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1625279924,
+      "updated": 1625279933
+    },
+    {
+      "id": "60dfd4f91280f0000051b9bd",
+      "text": " \t 会社が契約していないとか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625281786,
+      "updated": 1625281792
+    },
+    {
+      "id": "6101dadf79d3a90000366fa6",
+      "text": " \t 両方ですね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627511522,
+      "updated": 1627511578
+    },
+    {
+      "id": "60cde5201280f00000f98fb3",
+      "text": "\t\t\t\tセキュリティの関係でscrapboxとgyazoの[CORS]が通らない（scrapboxから画像をアップロードできない）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624106273,
+      "updated": 1627511640
+    },
+    {
+      "id": "6101db5079d3a90000366fa9",
+      "text": "\t\t\t\t会社としても契約はしてないです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627511633,
+      "updated": 1627511704
+    },
+    {
+      "id": "6101db9879d3a90000366fab",
+      "text": "\t\t\t\t\t試せる機会を手に入れた僕が個人レベルで（scrapboxのbusinessプランを）試したみただけ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627511705,
+      "updated": 1627511739
+    },
+    {
+      "id": "6101db6f79d3a90000366faa",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1627511665,
+      "updated": 1627511693
+    },
+    {
+      "id": "60c6230b1280f00000ec4c1d",
+      "text": "[/sta/Scrapboxer + ライター]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597836,
+      "updated": 1623597883
+    },
+    {
+      "id": "60c6230c1280f00000ec4c1f",
+      "text": " [/motoso/時給を払って専門家にScrapboxを書いてもらいたい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597837,
+      "updated": 1623597884
+    },
+    {
+      "id": "60c6230b1280f00000ec4c1e",
+      "text": "\tthk!",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623597836,
+      "updated": 1623725080
+    },
+    {
+      "id": "60c8146479d3a9000052951a",
+      "text": "\tあと[yuiseki]さんでしたっけ、既に取り組まれていたような",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725156,
+      "updated": 1623725186
+    },
+    {
+      "id": "60c8148179d3a9000052951b",
+      "text": "\t\tニートというキーワードが思い浮かんでいる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725186,
+      "updated": 1623725193
+    },
+    {
+      "id": "60c8148979d3a9000052951c",
+      "text": "\t\t[- 気が向いたらあとで探す]断念",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725193,
+      "updated": 1623752959
+    },
+    {
+      "id": "60c885ede5172d000046f218",
+      "text": "\t\t[/neet]ですかね[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1623754222,
+      "updated": 1623754225
+    },
+    {
+      "id": "60c9ce4b79d3a9000065ac81",
+      "text": "\t\t\tそれです！（projectまんまだったか……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623838285,
+      "updated": 1623838298
+    },
+    {
+      "id": "60c8141679d3a90000529516",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725079,
+      "updated": 1623725079
+    },
+    {
+      "id": "60c622381280f00000ec4c17",
+      "text": "[/sta/takker#60b9fc6379d3a90000388b78]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597625,
+      "updated": 1623597626
+    },
+    {
+      "id": "60c6223a1280f00000ec4c19",
+      "text": " [考えたことなかった][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597627,
+      "updated": 1623597635
+    },
+    {
+      "id": "60c622431280f00000ec4c1a",
+      "text": " う～ん、小文字にしたいですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597635,
+      "updated": 1623597701
+    },
+    {
+      "id": "60c622511280f00000ec4c1b",
+      "text": "  usernameのイメージが有る",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597650,
+      "updated": 1623597656
+    },
+    {
+      "id": "60c622581280f00000ec4c1c",
+      "text": "  でもって、usernameは全部小文字+`_`で書くイメージがある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597656,
+      "updated": 1623597683
+    },
+    {
+      "id": "60c8142279d3a90000529517",
+      "text": " 大文字下手に混ぜると迷うので小文字が良いと[ワイトもそう思います]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725090,
+      "updated": 1623725102
+    },
+    {
+      "id": "60c8143279d3a90000529518",
+      "text": " \twindowsだと大文字小文字区別されないが、linuxやmacだとされる、みたいなややこい事情もある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725106,
+      "updated": 1623725123
+    },
+    {
+      "id": "60c8144479d3a90000529519",
+      "text": " \t\tScrapboxで大文字小文字が統一されないなんてことが起きたりする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623725125,
+      "updated": 1623725141
+    },
+    {
+      "id": "60c622381280f00000ec4c18",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623597625,
+      "updated": 1623597625
+    },
+    {
+      "id": "60c356e01280f00000536a8b",
+      "text": "[/sta/いいねを再考する#60a9da4379d3a900001a6ab3]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623414497,
+      "updated": 1623414600
+    },
+    {
+      "id": "60c356e11280f00000536a8c",
+      "text": " [/shokai/GitHubのthumbdownをthumbupにするCSS]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623414497,
+      "updated": 1623414601
+    },
+    {
+      "id": "60c357491280f00000536a8d",
+      "text": "\tthk! それです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623414602,
+      "updated": 1623449025
+    },
+    {
+      "id": "60c3ddbe79d3a9000084707b",
+      "text": "\tそういえば会社で（他部署の）部長のメッセージにthumbdownして「喧嘩売ってる？」と言われたことある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623449022,
+      "updated": 1623598052
+    },
+    {
+      "id": "60c40b9de5172d00000f6425",
+      "text": "\t　たのしそう()[yosider.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623460766,
+      "updated": 1623598060
+    },
+    {
+      "id": "60c55ee979d3a90000523265",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623547627,
+      "updated": 1623547627
+    },
+    {
+      "id": "60b728611280f00000402eb6",
+      "text": "[/staus/list-pages-with-specific-tag#603a25de79d3a90000492cbf]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622616161,
+      "updated": 1622616163
+    },
+    {
+      "id": "60b728631280f00000402eb8",
+      "text": " page titleは`scrapbox.Page.title`から取得できます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622616164,
+      "updated": 1622616183
+    },
+    {
+      "id": "60b765ef79d3a90000568a2b",
+      "text": " \tthk!",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622631920,
+      "updated": 1622631922
+    },
+    {
+      "id": "60b980591280f00000366ba8",
+      "text": " 同じ指摘を[@sta#603c7f611280f0000021af50]でしていたことに気づいた……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622769754,
+      "updated": 1622769762
+    },
+    {
+      "id": "60bc0d9c79d3a900004f73ef",
+      "text": " \t本当ですねｗ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622936991,
+      "updated": 1622936995
+    },
+    {
+      "id": "60bc0da079d3a900004f73f0",
+      "text": " \t僕も普通に気づきませんでした",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622936995,
+      "updated": 1622937000
+    },
+    {
+      "id": "60bc0dad79d3a900004f73f1",
+      "text": " \t\t書かないとこれ忘れるパターン",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622937008,
+      "updated": 1622937012
+    },
+    {
+      "id": "60bc0db179d3a900004f73f2",
+      "text": " \t\tdone",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622937012,
+      "updated": 1622937044
+    },
+    {
+      "id": "60bc0dd179d3a900004f73f3",
+      "text": " \t\t[https://gyazo.com/5a8e217a38757a65be7bdb501615a1be]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622937044,
+      "updated": 1622937045
+    },
+    {
+      "id": "60bc0dd279d3a900004f73f4",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622937045,
+      "updated": 1622937045
+    },
+    {
+      "id": "60b728611280f00000402eb7",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622616161,
+      "updated": 1622616161
+    },
+    {
+      "id": "60b335db1280f000007eb7af",
+      "text": "[/sta/yosider#60b2ee7079d3a900009a099a]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622357469,
+      "updated": 1622357470
+    },
+    {
+      "id": "60b335eb1280f000007eb7b3",
+      "text": " その読み方は思いつかなかった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622357484,
+      "updated": 1622357490
+    },
+    {
+      "id": "60b335dd1280f000007eb7b1",
+      "text": "  「よしだー」って読んでました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622357470,
+      "updated": 1622357495
+    },
+    {
+      "id": "60b335e71280f000007eb7b2",
+      "text": "  本当はなんて読むんだろうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622357480,
+      "updated": 1622357512
+    },
+    {
+      "id": "60b34419fd049e0000a5215f",
+      "text": "  \t[自分のハンドルネームの由来を書いてけ#60029443e5172d00004d6996]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1622361113,
+      "updated": 1622361114
+    },
+    {
+      "id": "60b3b8f41280f0000078fc18",
+      "text": "  \tそうだったここに書いてありましたね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622391029,
+      "updated": 1622391043
+    },
+    {
+      "id": "60b3b9021280f0000078fc19",
+      "text": "  \t　すっかりわすれてた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622391043,
+      "updated": 1622391048
+    },
+    {
+      "id": "60b4bf4079d3a90000eebdd3",
+      "text": "\t\t読み方って意外と人それぞれな気がしてきた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622458176,
+      "updated": 1622550251
+    },
+    {
+      "id": "60b626ea79d3a9000056755c",
+      "text": "\t\t\tみんなの読み方も知りたさある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622550251,
+      "updated": 1622550255
+    },
+    {
+      "id": "60b626fd79d3a9000056755f",
+      "text": "\t\t\t一つつくってたな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622550270,
+      "updated": 1622550273
+    },
+    {
+      "id": "60b626f579d3a9000056755e",
+      "text": "\t\t\t\t[IFTTTをどう読んでいたか正直に]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622550261,
+      "updated": 1622550274
+    },
+    {
+      "id": "60b6271579d3a90000567560",
+      "text": "\t\t\t[どう読む？]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622550294,
+      "updated": 1622550299
+    },
+    {
+      "id": "60b626d279d3a9000056755b",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622550227,
+      "updated": 1622550227
+    },
+    {
+      "id": "60b072bbe5172d0000db9080",
+      "text": "[/sta/Scrapboxさん、もしかして引用記法中で改行したときに引用が継続されなくなってる？]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1622176444,
+      "updated": 1622176444
+    },
+    {
+      "id": "60b072bce5172d0000db9081",
+      "text": " Shift+Enterだと継続されますね[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1622176444,
+      "updated": 1622176524
+    },
+    {
+      "id": "60b072d8e5172d0000db9083",
+      "text": " 　Enterだけだとどうだったかは覚えてない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1622176472,
+      "updated": 1622176528
+    },
+    {
+      "id": "60b1617d79d3a90000a848eb",
+      "text": " 　\t僕も自信ないんですけど、Enterだけでも継続されてたと思うんですよね（でないとこうして違和感感じてページつくらないはず。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622237566,
+      "updated": 1622237597
+    },
+    {
+      "id": "60b1615179d3a90000a848e9",
+      "text": "\t おおー、僕もされました on Win10+Firefox、ありがとうございます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622237522,
+      "updated": 1622237544
+    },
+    {
+      "id": "60b072bde5172d0000db9082",
+      "text": "\t\t\tひとまずは何とかなりそうか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622176445,
+      "updated": 1622237555
+    },
+    {
+      "id": "60b1616879d3a90000a848ea",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622237544,
+      "updated": 1622237544
+    },
+    {
+      "id": "60a4b7941280f00000344b47",
+      "text": "[/sta/虫歯]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1621407636,
+      "updated": 1621407638
+    },
+    {
+      "id": "60a4b7971280f00000344b49",
+      "text": " 悪いこと言わないからさっさと歯医者に行ってくれ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1621407639,
+      "updated": 1621407669
+    },
+    {
+      "id": "60a5894b79d3a90000bbb141",
+      "text": "  ぐー、わかってはいるんですが……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1621461327,
+      "updated": 1621461335
+    },
+    {
+      "id": "60a4b7941280f00000344b48",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1621407636,
+      "updated": 1621407636
+    },
+    {
+      "id": "6092580c1280f0000031213e",
+      "text": "[/sta/ガード節#6072c94379d3a900007bd601]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203532,
+      "updated": 1620203536
+    },
+    {
+      "id": "609258021280f0000031213a",
+      "text": " 解決例",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203522,
+      "updated": 1620203657
+    },
+    {
+      "id": "609258081280f0000031213c",
+      "text": "  code:py",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203527,
+      "updated": 1620203657
+    },
+    {
+      "id": "6092580a1280f0000031213d",
+      "text": "   def func(params):",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203530,
+      "updated": 1620203657
+    },
+    {
+      "id": "6092581e1280f0000031213f",
+      "text": "       if condition1(params):",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203550,
+      "updated": 1620203657
+    },
+    {
+      "id": "609258371280f00000312140",
+      "text": "           return",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203575,
+      "updated": 1620203668
+    },
+    {
+      "id": "609258021280f0000031213b",
+      "text": "       if condition2(params):",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203522,
+      "updated": 1620203657
+    },
+    {
+      "id": "6092583d1280f00000312142",
+      "text": "           return",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203581,
+      "updated": 1620203669
+    },
+    {
+      "id": "6092583e1280f00000312143",
+      "text": "       if condition3(params):",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203581,
+      "updated": 1620203657
+    },
+    {
+      "id": "6092583e1280f00000312144",
+      "text": "           return",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203582,
+      "updated": 1620203669
+    },
+    {
+      "id": "6092583f1280f00000312145",
+      "text": "       if condition4(params):",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203582,
+      "updated": 1620203657
+    },
+    {
+      "id": "6092583f1280f00000312146",
+      "text": "           return",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203583,
+      "updated": 1620203670
+    },
+    {
+      "id": "609258521280f00000312147",
+      "text": "       # 条件満たしたときの処理",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203602,
+      "updated": 1620203657
+    },
+    {
+      "id": "609258901280f0000031214b",
+      "text": "       do_something()",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203664,
+      "updated": 1620203666
+    },
+    {
+      "id": "609258601280f00000312148",
+      "text": "   ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203615,
+      "updated": 1620203657
+    },
+    {
+      "id": "609258611280f00000312149",
+      "text": "   func(a, b, c, ...)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203617,
+      "updated": 1620203657
+    },
+    {
+      "id": "609258801280f0000031214a",
+      "text": "   procedure()",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203648,
+      "updated": 1620203657
+    },
+    {
+      "id": "6092583c1280f00000312141",
+      "text": "\t\tなるほど！[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620203580,
+      "updated": 1620203865
+    },
+    {
+      "id": "6092595479d3a900004af094",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620203862,
+      "updated": 1620203862
+    },
+    {
+      "id": "608f84ba1280f00000dd0fb4",
+      "text": "[好きな小説#608f84fa1280f00000dd0fb8]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620018362,
+      "updated": 1620018495
+    },
+    {
+      "id": "608f89e679d3a90000f81a92",
+      "text": " 新約なぁ……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019686,
+      "updated": 1620019690
+    },
+    {
+      "id": "608f89ea79d3a90000f81a93",
+      "text": " [GTD]の[いつかやるリスト]にも入れてて、見る度に「はやく僕を読んでよぅ」という圧を受けるのだが、手に取るにはまだちょっと",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019690,
+      "updated": 1620019720
+    },
+    {
+      "id": "608f8a0979d3a90000f81a94",
+      "text": " \t無印読み直してリハビリから始めると良いかもしれない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019721,
+      "updated": 1620019751
+    },
+    {
+      "id": "608f84ba1280f00000dd0fb5",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620018362,
+      "updated": 1620018362
+    },
+    {
+      "id": "608bfab11280f000009abaf4",
+      "text": "[/sta/Giant Escape R3#607b802879d3a90000c66cea]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786417,
+      "updated": 1619845209
+    },
+    {
+      "id": "608ce0591280f00000e44086",
+      "text": " [スポーク]ってそんなに頻繁に折れるものなのですか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619845209,
+      "updated": 1619845228
+    },
+    {
+      "id": "608ce0571280f00000e44085",
+      "text": "  [takker.icon]のクロスバイクは雑に[パニアバッグ]を載せてガタガタの道を何度も走っても折れたことがないです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619845207,
+      "updated": 1619845289
+    },
+    {
+      "id": "608ce0a91280f00000e44088",
+      "text": "  どういう状況だと折れやすいのでしょうか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619845289,
+      "updated": 1619845301
+    },
+    {
+      "id": "608d103d79d3a900003513ef",
+      "text": "  折れる状況について正直よくわかりません[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857469,
+      "updated": 1619857479
+    },
+    {
+      "id": "608d104779d3a900003513f0",
+      "text": "  個人的な想像では",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857479,
+      "updated": 1619857487
+    },
+    {
+      "id": "608d101079d3a900003513ed",
+      "text": "\t\t\t純粋に使用時間が長い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857424,
+      "updated": 1619857524
+    },
+    {
+      "id": "608d107479d3a900003513f2",
+      "text": "\t\t\t\t通勤で毎日 + 趣味でウン十kmが数日に一回",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857524,
+      "updated": 1619857548
+    },
+    {
+      "id": "608d108b79d3a900003513f3",
+      "text": "\t\t\t\t標高600m、全長10kmくらいの山のアップダウンも何回も走ってた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857548,
+      "updated": 1619857565
+    },
+    {
+      "id": "608d12261280f00000463ff4",
+      "text": "\t\t\t\tこれが可能性高そうですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619857958,
+      "updated": 1619857973
+    },
+    {
+      "id": "608d109d79d3a900003513f4",
+      "text": "\t\t\t街は割と歩道を通ってた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857565,
+      "updated": 1619857579
+    },
+    {
+      "id": "608d10aa79d3a900003513f5",
+      "text": "\t\t\t\t段差も乗り越えたり下りたり",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857579,
+      "updated": 1619857588
+    },
+    {
+      "id": "608d12361280f00000463ff5",
+      "text": "\t\t\t\tこれはあまり影響ないと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619857975,
+      "updated": 1619857999
+    },
+    {
+      "id": "608d124f1280f00000463ff7",
+      "text": "\t\t\t\t 道路と道路の段差ぐらいの凸凹がある道を1年以上通っているけど、今の所なんとも無い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619857999,
+      "updated": 1619858070
+    },
+    {
+      "id": "608d10b379d3a900003513f6",
+      "text": "\t\t\t一度折れた後、すぐに修理しなかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857588,
+      "updated": 1619857650
+    },
+    {
+      "id": "608d10f279d3a900003513f7",
+      "text": "\t\t\t\t折れたまま乗って自転車屋に行ったりとか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857650,
+      "updated": 1619857665
+    },
+    {
+      "id": "608d12471280f00000463ff6",
+      "text": "\t\t\t\tいかんでしょ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619857992,
+      "updated": 1619857995
+    },
+    {
+      "id": "608f89c679d3a90000f81a91",
+      "text": "\t\t\t\tですよねー",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019654,
+      "updated": 1620019656
+    },
+    {
+      "id": "608d110e79d3a900003513f9",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857678,
+      "updated": 1619857678
+    },
+    {
+      "id": "608bf91b1280f000009abaee",
+      "text": "[/sta/Gyazo埋め込みの画像を表示する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786012,
+      "updated": 1619786013
+    },
+    {
+      "id": "608bf9811280f000009abaef",
+      "text": " [Scrapbox上でGyazo画像をクリックしたときの表示を大きく]する方法を使えば、ファイル形式がわからなくても画像を取得できそうです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786114,
+      "updated": 1619786150
+    },
+    {
+      "id": "608bf9871280f000009abaf0",
+      "text": " 関連：[/programming-notes/他のプロジェクトにページを送るUserScript#5fca5f24e5172d000089a3cf]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786119,
+      "updated": 1619786190
+    },
+    {
+      "id": "608cb3f379d3a900000f2c88",
+      "text": " ありがとうございます！これは助かります[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619833846,
+      "updated": 1619833856
+    },
+    {
+      "id": "608d113979d3a900003513fa",
+      "text": " \t早速実装してめっちゃ助かった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619857722,
+      "updated": 1619857729
+    },
+    {
+      "id": "608bfabc1280f000009abafa",
+      "text": "ちなみにご存知かもしれませんが、[/sta/Scrapbox to Markdown]の類似appとして[Scrapbox Reader]があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786429,
+      "updated": 1619786446
+    },
+    {
+      "id": "608bface1280f000009abafb",
+      "text": " PythonベースとTSベースとで違いがある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786446,
+      "updated": 1619786471
+    },
+    {
+      "id": "608bfafb1280f000009abafc",
+      "text": " このPythonで書いた[scrapbox記法]のparserは何かmodule化して切り出したいですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619786491,
+      "updated": 1619786528
+    },
+    {
+      "id": "608cb40479d3a900000f2c8a",
+      "text": " \t余力があれば……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619833862,
+      "updated": 1619833868
+    },
+    {
+      "id": "608bf98b1280f000009abaf1",
+      "text": "\t名前くらいしか知らなかったので参考にしてみたいです[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619786124,
+      "updated": 1619833902
+    },
+    {
+      "id": "608cb86c79d3a900000f2c90",
+      "text": "\t\t[/sta/Scrapbox Reader]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619834990,
+      "updated": 1619834991
+    },
+    {
+      "id": "608cb86979d3a900000f2c8f",
+      "text": "\t\tめっちゃ勉强になりそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619834987,
+      "updated": 1619834990
+    },
+    {
+      "id": "608cb42179d3a900000f2c8b",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619833891,
+      "updated": 1619833891
+    },
+    {
+      "id": "6087c88c1280f00000eb9fb1",
+      "text": "[/sta/強い人は喋れる？#60868f1779d3a9000068d0b1]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511437,
+      "updated": 1619511451
+    },
+    {
+      "id": "6087c89b1280f00000eb9fb5",
+      "text": "　(個別ページに切り出したいところですがタイトル思いつかなかったのでここに書きます)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511451,
+      "updated": 1619511470
+    },
+    {
+      "id": "6087c88f1280f00000eb9fb3",
+      "text": " 多分いくつか要素があります[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511439,
+      "updated": 1619511523
+    },
+    {
+      "id": "6087c8c81280f00000eb9fb8",
+      "text": "  人に話す機会が多い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511497,
+      "updated": 1619511510
+    },
+    {
+      "id": "6087c9d61280f00000eb9fc4",
+      "text": "   数撃ちゃうまくなるの法則です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511767,
+      "updated": 1619511781
+    },
+    {
+      "id": "6087c9e51280f00000eb9fc5",
+      "text": "    逆に言うと、しばらく人と喋ったり説明をする機会がなくなると、話せなくなってしまいます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511781,
+      "updated": 1619511918
+    },
+    {
+      "id": "6087ce8d1280f000000700a9",
+      "text": "     今そんな感じなのでちょい焦ってる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619512974,
+      "updated": 1619512993
+    },
+    {
+      "id": "6087c9f11280f00000eb9fc7",
+      "text": "   これに加えて↓も必要だと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511793,
+      "updated": 1619511802
+    },
+    {
+      "id": "6087c8d51280f00000eb9fba",
+      "text": "  その場で話す内容を組み立てられる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511510,
+      "updated": 1619511786
+    },
+    {
+      "id": "6087c9771280f00000eb9fc1",
+      "text": "   これをするには以下ができている必要があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511672,
+      "updated": 1619512187
+    },
+    {
+      "id": "6087c8fc1280f00000eb9fbd",
+      "text": "    言いたいこと(主張)→補足説明の順に話すよう意識する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511549,
+      "updated": 1619511710
+    },
+    {
+      "id": "6087cb7c1280f00000eb9fcd",
+      "text": "     [現代文]や[論文]でよくある構造",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619512190,
+      "updated": 1619512219
+    },
+    {
+      "id": "6087c92d1280f00000eb9fbe",
+      "text": "    話の流れに沿わない事は削ぎ落とす",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511597,
+      "updated": 1619512173
+    },
+    {
+      "id": "6087c93e1280f00000eb9fbf",
+      "text": "     これ結構難しいです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511615,
+      "updated": 1619512177
+    },
+    {
+      "id": "6087c9471280f00000eb9fc0",
+      "text": "      話す方に熱が入っちゃって、相手がそれを聞きたいかどうかも考えずにたくさん喋っちゃう時がある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511624,
+      "updated": 1619512177
+    },
+    {
+      "id": "6087c8fa1280f00000eb9fbc",
+      "text": "    対象について繰り返し考察してきている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511546,
+      "updated": 1619511713
+    },
+    {
+      "id": "6087c9a41280f00000eb9fc2",
+      "text": "     興味のある分野はずっと意識を向け続けているから、説明も容易だよね、というやつです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511717,
+      "updated": 1619511762
+    },
+    {
+      "id": "6087ca7b1280f00000eb9fc9",
+      "text": "     ま、正確に言うと興味だけでは無理です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511931,
+      "updated": 1619512039
+    },
+    {
+      "id": "6087caa51280f00000eb9fca",
+      "text": "      誰もが好きなアニメのあらすじと登場人物紹介をできるわけではない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511974,
+      "updated": 1619512003
+    },
+    {
+      "id": "6087cac31280f00000eb9fcb",
+      "text": "     どう説明すればわかりやすくなるかまで、何度も考える必要があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619512003,
+      "updated": 1619512246
+    },
+    {
+      "id": "6087cb211280f00000eb9fcc",
+      "text": "      脳内[VOICEROID解説動画]を作るレベルなら十分",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619512099,
+      "updated": 1619512136
+    },
+    {
+      "id": "608cb35b79d3a900000f2c87",
+      "text": "  なるほど、機会の多さという着眼点は普通に気づけませんでした[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619833694,
+      "updated": 1619833730
+    },
+    {
+      "id": "608cb49879d3a900000f2c8c",
+      "text": "  \tそういえば僕も大学時代（接客アルバイトでめっちゃ喋ってた）はしゃべるの抵抗なかったなぁ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619834010,
+      "updated": 1619834033
+    },
+    {
+      "id": "608cb4af79d3a900000f2c8d",
+      "text": "  \tでも（事務的な用事ではなく雑談として）自分から話しかけるのは相変わらず苦手だった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619834033,
+      "updated": 1619834066
+    },
+    {
+      "id": "608cb4bd79d3a900000f2c8e",
+      "text": "  \t\tたしかに別の問題だ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619834048,
+      "updated": 1619834054
+    },
+    {
+      "id": "6087c9d21280f00000eb9fc3",
+      "text": " 一応補足しますが、あくまで喋れるかどうかだけの話です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511763,
+      "updated": 1619511870
+    },
+    {
+      "id": "6087ca3e1280f00000eb9fc8",
+      "text": "  人に話しかけるとかコミュニケーションをとるとかは別の問題になります。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619511870,
+      "updated": 1619511870
+    },
+    {
+      "id": "6087cc641280f0000007009c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619512420,
+      "updated": 1619512420
+    },
+    {
+      "id": "60821aaa1280f00000d1d114",
+      "text": "[/sta/sta#6080a36b79d3a900009e981a]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139242,
+      "updated": 1619139244
+    },
+    {
+      "id": "60821aac1280f00000d1d116",
+      "text": " 要りません",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139244,
+      "updated": 1619139251
+    },
+    {
+      "id": "60821ab41280f00000d1d117",
+      "text": " `import 'filepath'`とすれば、`filepath`に書き込まれた文を実行することが出来ます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139252,
+      "updated": 1619139337
+    },
+    {
+      "id": "60821aef1280f00000d1d119",
+      "text": "  cf. [https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/import#import_a_module_for_its_side_effects_only 副作用のためだけにモジュールをインポートする | import - JavaScript | MDN]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139311,
+      "updated": 1619139311
+    },
+    {
+      "id": "60821c511280f00000d1d11e",
+      "text": " 今回の場合であれば、",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139664,
+      "updated": 1619139670
+    },
+    {
+      "id": "60821c561280f00000d1d11f",
+      "text": "  code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139670,
+      "updated": 1619139673
+    },
+    {
+      "id": "60821c591280f00000d1d120",
+      "text": "   import '/api/code/sta/strike-multiple-lines/script.js';",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139673,
+      "updated": 1619139677
+    },
+    {
+      "id": "60821c5f1280f00000d1d121",
+      "text": "  と書き込めば[https://scrapbox.io/api/code/sta/strike-multiple-lines/script.js script.js]のコードを取り込むことが出来ます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139678,
+      "updated": 1619139746
+    },
+    {
+      "id": "60821c9b1280f00000d1d122",
+      "text": "  ちなみに相対パスを使って`import '../strike-multiple-lines/script.js';`と書くことも可能です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139740,
+      "updated": 1619139789
+    },
+    {
+      "id": "60821ccd1280f00000d1d123",
+      "text": "   自分のページにある`script.js`のパスが`https://scrapbox.io/api/code/project/username/script.js`なので、`../`で`https://scrapbox.io/api/code/project/`に戻ることができる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139789,
+      "updated": 1619139905
+    },
+    {
+      "id": "60821b0b1280f00000d1d11a",
+      "text": " 自分のページによく`import '/api/code/project/page/script.js'`と書いているuserがいますが、それはこの機能を利用してjavascriptを取り込んでいます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139339,
+      "updated": 1619139390
+    },
+    {
+      "id": "60821bb21280f00000d1d11b",
+      "text": "[/sta/sta#6080a18179d3a90000e2c517]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139506,
+      "updated": 1619139513
+    },
+    {
+      "id": "60821bba1280f00000d1d11c",
+      "text": " 行頭で`@import`を使うとうまくいく可能性があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619139514,
+      "updated": 1619139526
+    },
+    {
+      "id": "6082a63be5172d00000c196e",
+      "text": " 　[@import]って[なぜか][style.css]の先頭に書かないと動かないよねー[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619174972,
+      "updated": 1619175025
+    },
+    {
+      "id": "60821aaa1280f00000d1d115",
+      "text": "\tあざます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619139242,
+      "updated": 1619325692
+    },
+    {
+      "id": "6084f2fa79d3a900004df3b6",
+      "text": "\t\tあとで確認してみます",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619325692,
+      "updated": 1619325699
+    },
+    {
+      "id": "6084f31479d3a900004df3b7",
+      "text": "\t\t副作用目的のimportってできたんだ……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619325718,
+      "updated": 1619325775
+    },
+    {
+      "id": "6084f31d79d3a900004df3b8",
+      "text": "\t\t\t昔試したときはああ、ダメなんだってなって、import {dummy} マンになった覚えがあるんですが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619325726,
+      "updated": 1619325744
+    },
+    {
+      "id": "6084f33e79d3a900004df3b9",
+      "text": "\t\t\tちゃんと確認しないとダメですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619325760,
+      "updated": 1619325766
+    },
+    {
+      "id": "60c201db79d3a900004aa872",
+      "text": "\t\t\tこれまだ試してないな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1623327197,
+      "updated": 1623327200
+    },
+    {
+      "id": "6084f2f579d3a900004df3b5",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1619325686,
+      "updated": 1619325686
+    },
+    {
+      "id": "6077fd7f1280f0000056edc4",
+      "text": "[/sta/風呂の前後でScrapboxをこねる]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618476415,
+      "updated": 1618476417
+    },
+    {
+      "id": "6077fd811280f0000056edc6",
+      "text": " [風呂]に入っている最中に思いついたアイデアを声に出して[録音]するという手もあり",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618476417,
+      "updated": 1618847108
+    },
+    {
+      "id": "6077fd981280f0000056edc7",
+      "text": " と思いましたけど、たしかスマホを持っていらっしゃらないんでしたっけ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618476440,
+      "updated": 1618476461
+    },
+    {
+      "id": "6077fdc61280f0000056edc9",
+      "text": "  スマホを使えないと録音が難しい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618476486,
+      "updated": 1618476503
+    },
+    {
+      "id": "6077fdad1280f0000056edc8",
+      "text": " 　ボイスレコーダーを代わりに使えばいいかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618476461,
+      "updated": 1618476478
+    },
+    {
+      "id": "607d581b79d3a900009f7b35",
+      "text": " 　\tやるとしたらこっちですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827292,
+      "updated": 1618827297
+    },
+    {
+      "id": "607d598f246f59000089c8db",
+      "text": " 　\t[ガラケー]に音声メモがあったような？",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618827663,
+      "updated": 1618878793
+    },
+    {
+      "id": "607d599d246f59000089c8dd",
+      "text": "  　\t防水だったらメモ機能とか、メールの下書きを使うとか",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618827678,
+      "updated": 1618827705
+    },
+    {
+      "id": "607dfcf779d3a900003ee674",
+      "text": "  　\t[/icons/あざっす.icon]ありました！[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618869497,
+      "updated": 1618869510
+    },
+    {
+      "id": "607e2171246f5900004aa620",
+      "text": "  　\t　カレンダーに1予定1アイデア書くという方法もある",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618878835,
+      "updated": 1618878844
+    },
+    {
+      "id": "607e217a246f5900004aa621",
+      "text": "  　\t　　SDカードに.icsファイルとしてexportできる",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618878844,
+      "updated": 1618878871
+    },
+    {
+      "id": "607e2fcd79d3a90000c3d086",
+      "text": "  　\t　　たしかに",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618882512,
+      "updated": 1618882513
+    },
+    {
+      "id": "607e2fcf79d3a90000c3d087",
+      "text": "  　\t　　\t[ポメラ]のカレンダーもメモ欄として使ってたことがある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618882513,
+      "updated": 1618882529
+    },
+    {
+      "id": "607d578a79d3a900009f7b2d",
+      "text": " 　持ってないですねー（が、年内で3G終わるので一年以内には強制的に替わる予定）[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827147,
+      "updated": 1618827326
+    },
+    {
+      "id": "607d57a179d3a900009f7b2e",
+      "text": " \tあと声に出す、は自分にとってはあまり役に立たないかもしれません",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827170,
+      "updated": 1618827205
+    },
+    {
+      "id": "607d57c479d3a900009f7b30",
+      "text": " \t\t文章に起こすのと声に出すのとは全然違うといいますか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827205,
+      "updated": 1618827215
+    },
+    {
+      "id": "607d57cf79d3a900009f7b31",
+      "text": " \t\t声に出すために使う労力の分で、考えている部分が軽視されて、",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827215,
+      "updated": 1618827334
+    },
+    {
+      "id": "607d58f879d3a900009f7b3a",
+      "text": " \t\t\t",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827514,
+      "updated": 1618827518
+    },
+    {
+      "id": "607d57e879d3a900009f7b32",
+      "text": " \t\tうまく言えない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827241,
+      "updated": 1618827247
+    },
+    {
+      "id": "607d57f079d3a900009f7b33",
+      "text": " \t\t（単に音声メモ慣れてないだけ説もありそう）",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1618827249,
+      "updated": 1618833342
+    },
+    {
+      "id": "607d580179d3a900009f7b34",
+      "text": " \t\t（あとはなるべく喋らないという謎のこだわりがあるので意固地張っているか）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827266,
+      "updated": 1618827284
+    },
+    {
+      "id": "607d58bc79d3a900009f7b38",
+      "text": "\t \t\t自分の声を聞くと（低くて汚いし滑舌悪いしで）死にたくなる ← そうだ、これがあったんだｗｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827452,
+      "updated": 1618827481
+    },
+    {
+      "id": "607d58d879d3a900009f7b39",
+      "text": "\t \t\t一時期はYouTuberしてたのにな……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827481,
+      "updated": 1618827499
+    },
+    {
+      "id": "607d584a246f59000089c8d8",
+      "text": " \t風呂場なら紙と鉛筆で大丈夫そうな気が[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618827339,
+      "updated": 1618827359
+    },
+    {
+      "id": "607d5889246f59000089c8d9",
+      "text": " \t　　鉛筆なら湿気強くてもけっこういける",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618827403,
+      "updated": 1618827415
+    },
+    {
+      "id": "607d5e0c1280f0000054dcdf",
+      "text": " \t　　鉛筆はともかく紙が破れませんか……？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618828812,
+      "updated": 1618828830
+    },
+    {
+      "id": "607d5e1e1280f0000054dce0",
+      "text": " \t　　　あと結構文字滲みますよ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618828830,
+      "updated": 1618828837
+    },
+    {
+      "id": "607d5edb246f59000089c8f0",
+      "text": " \t　　　　インクよりはマシな気が[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618829019,
+      "updated": 1618829023
+    },
+    {
+      "id": "607d5eeb246f59000089c8f1",
+      "text": " \t　　　　[お風呂用のメモパッド]もあるし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618829036,
+      "updated": 1618864844
+    },
+    {
+      "id": "607deabf1280f000009b205c",
+      "text": " \t　　　　 [/icons2/へえ〜.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618864831,
+      "updated": 1618864836
+    },
+    {
+      "id": "6077fd7f1280f0000056edc5",
+      "text": "\t\t\t字書くの苦手なので厳しそうです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618476415,
+      "updated": 1618827376
+    },
+    {
+      "id": "607d587a79d3a900009f7b37",
+      "text": "\t\t\tが、図も描けるし汎用性は高そう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827387,
+      "updated": 1618827398
+    },
+    {
+      "id": "607da573e5172d00003b1eac",
+      "text": "\t風呂でアイデア浮かぶのわかる[yosider.icon][takker.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618847091,
+      "updated": 1618869479
+    },
+    {
+      "id": "607d586479d3a900009f7b36",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618827365,
+      "updated": 1618827365
+    },
+    {
+      "id": "60707f061280f000003900b7",
+      "text": "[/sta/UserScriptを自然に引っ張ってくる方法#60703ef679d3a900005977a8]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985284,
+      "updated": 1617985284
+    },
+    {
+      "id": "60707f061280f000003900b8",
+      "text": " これが出来てしまうと、そのファイルにあるobjectを全て使用できてしまいます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985284,
+      "updated": 1617985333
+    },
+    {
+      "id": "6070cb1479d3a900000bffcb",
+      "text": " \tそうでしたね。jsはglobalゲーなのでこういう公開範囲制御が必須ですよね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618004758,
+      "updated": 1618004820
+    },
+    {
+      "id": "6070cb6d79d3a900000bffcc",
+      "text": " \tというよりmoduleの一般論の話か（Pythonも import * は非推奨ですし）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618004846,
+      "updated": 1618004888
+    },
+    {
+      "id": "6070f7c71280f000008f8b2b",
+      "text": " \tそういえばPythonはexportキーワードありませんでしたね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618016201,
+      "updated": 1618016289
+    },
+    {
+      "id": "6070f8211280f000008f8b2c",
+      "text": " \t だとすると、公開範囲を制御できなくても不自然ではない、のか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618016291,
+      "updated": 1618016364
+    },
+    {
+      "id": "6070f86a1280f000008f8b2d",
+      "text": " \t Pythonはprivateの概念がない（確かそうでしたよね？）ので例外見なした方がいいか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618016364,
+      "updated": 1618016510
+    },
+    {
+      "id": "6071789e79d3a9000076f221",
+      "text": " \t \tPythonの設計思想まではわからないのですが、privateの概念はなかったと思います[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049183,
+      "updated": 1618049197
+    },
+    {
+      "id": "607179ece5172d000080f4c7",
+      "text": " \t \tクラスのメンバ変数名にアンダースコアを2つつけると一応参照できなくなる[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618049516,
+      "updated": 1618049593
+    },
+    {
+      "id": "60717a1fe5172d000080f4c8",
+      "text": " \t \t\t`self.__var = 1`とか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618049568,
+      "updated": 1618049600
+    },
+    {
+      "id": "60717a501280f00000d04e9e",
+      "text": " \t \t\tこれ確か色々やれば参照できてしまいますよね？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618049616,
+      "updated": 1618049669
+    },
+    {
+      "id": "60717a841280f00000d04e9f",
+      "text": " \t \t\t　`__`がついた変数は参照してはいけないというマナーを守るしか無いとかなんとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618049669,
+      "updated": 1618049706
+    },
+    {
+      "id": "60717aace5172d000080f4c9",
+      "text": " \t \t\t　クラス名を`Test`、インスタンス名を`test`とすると、`test._Test__var`で参照できるらしい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618049708,
+      "updated": 1618049776
+    },
+    {
+      "id": "60717ad5e5172d000080f4ca",
+      "text": " \t \t\t　　[https://naruport.com/blog/2019/8/26/python-tutorial-class-private-variable/#%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E5%A4%89%E6%95%B0%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9 【Python】クラスのプライベート変数の書き方。戦乱の世から臣下を守る【入門第34回】 - narupoのブログ]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618049749,
+      "updated": 1618049751
+    },
+    {
+      "id": "60717af51280f00000d04ea0",
+      "text": "\t \t\t　　 やっぱり[takker.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049782,
+      "updated": 1618049839
+    },
+    {
+      "id": "60717b0f79d3a9000040c27c",
+      "text": " `export`を明示するのは、外部への公開範囲を制御するためです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049807,
+      "updated": 1618049840
+    },
+    {
+      "id": "6070803d1280f000003900c7",
+      "text": "  [カプセル化]とかprivate変数とかそういうやつと同じ役目をします",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985595,
+      "updated": 1617985628
+    },
+    {
+      "id": "60707fc61280f000003900c1",
+      "text": " e.g. ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985476,
+      "updated": 1617985477
+    },
+    {
+      "id": "6070805f1280f000003900c8",
+      "text": "  例がひどいですが違いはわかると思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985629,
+      "updated": 1617985673
+    },
+    {
+      "id": "60707f371280f000003900ba",
+      "text": "  code:module.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985333,
+      "updated": 1617985338
+    },
+    {
+      "id": "60707f3b1280f000003900bb",
+      "text": "   export const public_function = () => ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985338,
+      "updated": 1617985412
+    },
+    {
+      "id": "60707f811280f000003900be",
+      "text": "     console.log(`My password length is ${private_function().length}.`);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985407,
+      "updated": 1617985692
+    },
+    {
+      "id": "60707fa51280f000003900bf",
+      "text": "   const private_function = () => 'fbUfek\"(6f';",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985443,
+      "updated": 1617985469
+    },
+    {
+      "id": "60707fc31280f000003900c0",
+      "text": "  code:sample.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985473,
+      "updated": 1617985503
+    },
+    {
+      "id": "60707fcc1280f000003900c2",
+      "text": "   import {public_function} from './module.js';",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985481,
+      "updated": 1617985499
+    },
+    {
+      "id": "60707ff41280f000003900c4",
+      "text": "   //import {private_function} from './module.js'; // NG",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985522,
+      "updated": 1617986215
+    },
+    {
+      "id": "6070800d1280f000003900c6",
+      "text": "   ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985547,
+      "updated": 1617985547
+    },
+    {
+      "id": "60707fed1280f000003900c3",
+      "text": "   public_function(); // OK",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985515,
+      "updated": 1617985525
+    },
+    {
+      "id": "60707ff81280f000003900c5",
+      "text": "   //console.log(private_function()); // NG ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985526,
+      "updated": 1617985545
+    },
+    {
+      "id": "60707f081280f000003900b9",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617985286,
+      "updated": 1617985286
+    },
+    {
+      "id": "606fd59a1280f00000df8c5a",
+      "text": "[/sta/複数行に一気に打ち消し線を引けるようにしたいです]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617941918,
+      "updated": 1617941920
+    },
+    {
+      "id": "606fd59c1280f00000df8c5c",
+      "text": " ほい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617941920,
+      "updated": 1617941950
+    },
+    {
+      "id": "606fd5ba1280f00000df8c5d",
+      "text": " 　[/takker/複数行に打ち消し線を引くPopup Menu]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617941950,
+      "updated": 1617941951
+    },
+    {
+      "id": "606fd5bb1280f00000df8c5e",
+      "text": " 　`-`のショートカットに割り当てて使っています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617941952,
+      "updated": 1617941970
+    },
+    {
+      "id": "606fd5c71280f00000df8c5f",
+      "text": " 　とても便利です(自画自賛)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617941963,
+      "updated": 1617941979
+    },
+    {
+      "id": "607dfd1879d3a900003ee675",
+      "text": " 　これマジで便利で助かってます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618869530,
+      "updated": 1618869544
+    },
+    {
+      "id": "60703b0379d3a9000011239c",
+      "text": "　おおおおおおおありがとうございます[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617967876,
+      "updated": 1617967885
+    },
+    {
+      "id": "6070cb0079d3a900000bffca",
+      "text": "　\t本当にすごい[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618004737,
+      "updated": 1618004739
+    },
+    {
+      "id": "607043df03b21000007e6df1",
+      "text": "　 すげ[U.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617970144,
+      "updated": 1617970156
+    },
+    {
+      "id": "607068ed1280f00000308e7e",
+      "text": "　 　underlineも作ってほしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979627,
+      "updated": 1617979652
+    },
+    {
+      "id": "6070689b1280f00000308e69",
+      "text": "　 　ほい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979545,
+      "updated": 1617979647
+    },
+    {
+      "id": "6070689d1280f00000308e6a",
+      "text": "　 　 code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979546,
+      "updated": 1617979548
+    },
+    {
+      "id": "6070689e1280f00000308e6b",
+      "text": "　 　  scrapbox.PopupMenu.addButton({",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979548,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e6c",
+      "text": "       title: '\\uf0cd',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617980032
+    },
+    {
+      "id": "6070689f1280f00000308e6d",
+      "text": "       onClick: text => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e6e",
+      "text": "         const result = text.split(/\\n/)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e6f",
+      "text": "           .map(line => line",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e70",
+      "text": "             .replace(/\\[_([\\[!\"#%&'()\\*\\+,\\.\\/\\{\\|\\}<>\\-~]*?)\\s(.*?)\\]/ug,",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979605
+    },
+    {
+      "id": "6070689f1280f00000308e71",
+      "text": "               (_,p1,p2)=> !!p1 ? `[${p1} ${p2}]` : p2)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e72",
+      "text": "             .replace(/(^\\s+)|([^`]+)|(`[^`]*`)/ug,(_,p1,p2,p3)=>{",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e73",
+      "text": "               if (p1) return p1;          // インデント文字列",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e74",
+      "text": "               if (p3) return p3;          // インラインコード記法",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e75",
+      "text": "               if (p2) return `[_ ${p2}]`; // それ以外",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979590
+    },
+    {
+      "id": "6070689f1280f00000308e76",
+      "text": "               throw Error('正規表現で捕捉できていないよ！')",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e77",
+      "text": "             })",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e78",
+      "text": "           ).join('\\n');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e79",
+      "text": "         // テロメアが無駄に更新されるのを防ぐ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e7a",
+      "text": "         if(text == result) return;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e7b",
+      "text": "         return result;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e7c",
+      "text": "       }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "6070689f1280f00000308e7d",
+      "text": "     });",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979549,
+      "updated": 1617979549
+    },
+    {
+      "id": "60706d0e03b21000005a89b2",
+      "text": "    やば！さすが！！[U.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617980687,
+      "updated": 1617980832
+    },
+    {
+      "id": "607069071280f00000308e85",
+      "text": "   `-`を`_`に変えるだけの簡単なお仕事でした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979654,
+      "updated": 1617979675
+    },
+    {
+      "id": "6070691d1280f00000308e86",
+      "text": "   しかしコードを見直してみると、よくわからないことしている部分があるな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979675,
+      "updated": 1617979698
+    },
+    {
+      "id": "607069341280f00000308e87",
+      "text": "   　`replace`を２つ使っているところ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979698,
+      "updated": 1617979708
+    },
+    {
+      "id": "6070693e1280f00000308e88",
+      "text": "   　正規表現が複雑過ぎる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979708,
+      "updated": 1617979718
+    },
+    {
+      "id": "60707db01280f000003900b3",
+      "text": "   　 [\" リーダブルなコードに書き換えながらやらないと]読めない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617984942,
+      "updated": 1617984995
+    },
+    {
+      "id": "60707dc51280f000003900b4",
+      "text": "  　  [/sta/strike-multiple-lines#607041d879d3a9000075155a]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617984963,
+      "updated": 1617984975
+    },
+    {
+      "id": "607069481280f00000308e89",
+      "text": "   　コード直すか。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617979718,
+      "updated": 1617979726
+    },
+    {
+      "id": "60707d101280f000003900af",
+      "text": "   　2021-04-10 01:13:07 直した",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617984782,
+      "updated": 1617984787
+    },
+    {
+      "id": "60707d151280f000003900b0",
+      "text": "   　　[/takker/複数行に打ち消し線を引くPopup Menu その2]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617984787,
+      "updated": 1617984788
+    },
+    {
+      "id": "60707d161280f000003900b1",
+      "text": "   　　簡単になるかと思ったがそんなことはなかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617984788,
+      "updated": 1617984803
+    },
+    {
+      "id": "6070caac79d3a900000bffc7",
+      "text": "   　　[/icons/あざっす.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618004654,
+      "updated": 1618004661
+    },
+    {
+      "id": "6070cab679d3a900000bffc8",
+      "text": "   　　表現わかりやすくするの難しいですよね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618004664,
+      "updated": 1618004688
+    },
+    {
+      "id": "60703b0979d3a9000011239d",
+      "text": " 　しかし同じこと考える人がいるものですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617967881,
+      "updated": 1617967890
+    },
+    {
+      "id": "60703b1179d3a9000011239e",
+      "text": " 　[自分程度が思い付くものは既にこの世にありそう]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617967890,
+      "updated": 1617967903
+    },
+    {
+      "id": "606fd59a1280f00000df8c5b",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617941918,
+      "updated": 1617941918
+    },
+    {
+      "id": "606b4ebc1280f000009a97fe",
+      "text": "[/sta/scrapbox-shuffler]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645245,
+      "updated": 1617645246
+    },
+    {
+      "id": "606b4ebe1280f000009a9801",
+      "text": " 多分結構簡単に作れます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645247,
+      "updated": 1617645265
+    },
+    {
+      "id": "606b4ed11280f000009a9802",
+      "text": "  [api/pages/:projectname/:pageid/accessed]をPOSTすると、そのページへアクセスしたことをscrapbox.ioに知らせる事ができます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645265,
+      "updated": 1617645517
+    },
+    {
+      "id": "606da53b79d3a900002b4967",
+      "text": "  \t[/icons/あざっす.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798460,
+      "updated": 1617798527
+    },
+    {
+      "id": "606da57e79d3a900002b496a",
+      "text": "  \tうおお、そんなAPIがあるんですね[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798527,
+      "updated": 1617798527
+    },
+    {
+      "id": "606b4f1a1280f000009a9803",
+      "text": "  このAPIを定期的にランダムに叩けば、[Date last visited]をshuffleできると思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645338,
+      "updated": 1617645529
+    },
+    {
+      "id": "606b4f4c1280f000009a9804",
+      "text": "  ……これ悪用したら、他人のprojectのDate last visitedも滅茶苦茶にできますね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645388,
+      "updated": 1617645534
+    },
+    {
+      "id": "606b4f721280f000009a9805",
+      "text": "  　ある意味[セキュリティーホール]かも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645426,
+      "updated": 1617645462
+    },
+    {
+      "id": "606da55379d3a900002b4968",
+      "text": "  　ですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798485,
+      "updated": 1617798489
+    },
+    {
+      "id": "606da58779d3a900002b496b",
+      "text": "  　創作ネタとしては使えそうだ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798536,
+      "updated": 1617798539
+    },
+    {
+      "id": "606da59779d3a900002b496c",
+      "text": "  あと使いすぎてサーバーに負担かけてしまわないかが心配",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798551,
+      "updated": 1617798573
+    },
+    {
+      "id": "606b4ebc1280f000009a9800",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617645245,
+      "updated": 1617645245
+    },
+    {
+      "id": "606ae0ea1280f00000ac73c0",
+      "text": "[/sta/そろそろペインでもタブでもない新しいUIが欲しい#5fddaf0079d3a900003db7e9]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617617130,
+      "updated": 1617617189
+    },
+    {
+      "id": "606ae0ec1280f00000ac73c1",
+      "text": " windowを横に並べるだけでは解決しないのでしょうか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617617133,
+      "updated": 1617617165
+    },
+    {
+      "id": "606ae1251280f00000ac73c4",
+      "text": "  同時に複数のコンテンツを閲覧することが出来ます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617617190,
+      "updated": 1617617201
+    },
+    {
+      "id": "606ae10d1280f00000ac73c3",
+      "text": " 　というか横に並べる方法に言及していないのが気になった",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617617165,
+      "updated": 1617798690
+    },
+    {
+      "id": "606da622246f590000a2f608",
+      "text": " 　　[- 無限に右にカラムが追加されて、左を見るにはスクロール...じゃだめなのか[dnin.icon]]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617798691,
+      "updated": 1617798785
+    },
+    {
+      "id": "606da3d279d3a900002b4959",
+      "text": " 　ウィンドウだと[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798098,
+      "updated": 1617798305
+    },
+    {
+      "id": "606da4a079d3a900002b4960",
+      "text": " 　\t表示がでかすぎてダメですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798305,
+      "updated": 1617798330
+    },
+    {
+      "id": "606da3d979d3a900002b495a",
+      "text": "  　\tでかいディスプレイやn枚ディスプレイがあるなら少しはマシになりそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798106,
+      "updated": 1617798307
+    },
+    {
+      "id": "606da43a79d3a900002b495d",
+      "text": "  　\tでもウィンドウ自体がでかいので視界に入り切らない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798203,
+      "updated": 1617798307
+    },
+    {
+      "id": "606da6e9246f590000a2f60e",
+      "text": "  　\t　よく小窓化して使う[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617798889,
+      "updated": 1617798898
+    },
+    {
+      "id": "606da7a4246f590000a2f611",
+      "text": "  　\t　　[https://i.imgur.com/zOmRAI3.png]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617799077,
+      "updated": 1617799077
+    },
+    {
+      "id": "606da7d979d3a90000213bf0",
+      "text": "  　\t　　この中途半端に重なってる感じが、なんか受け付けないんですよね……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799129,
+      "updated": 1617799147
+    },
+    {
+      "id": "606da7eb79d3a90000213bf1",
+      "text": "  　\t　　あと隠れてる部分を見ようと背面をアクティブにすると、小窓が見えなくなって、また小窓を表示するためには……みたいな感じになるといいますか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799148,
+      "updated": 1617799180
+    },
+    {
+      "id": "606dd0b2e5172d00003c7cc8",
+      "text": "  　\t　　　わかる[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617809586,
+      "updated": 1617809588
+    },
+    {
+      "id": "606da3f379d3a900002b495b",
+      "text": "   \t　　\t行を割って小窓が入ると良い?[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617798132,
+      "updated": 1617799190
+    },
+    {
+      "id": "606da82179d3a90000213bf2",
+      "text": "   \t　　\t です？[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799202,
+      "updated": 1617836055
+    },
+    {
+      "id": "606da864246f590000a2f616",
+      "text": "   \t　　\t 頑張ってJS書けば行けそうな気はする(ブラウザの中ではね)",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617799269,
+      "updated": 1617799285
+    },
+    {
+      "id": "607deb011280f000009b205d",
+      "text": "   \t　　\t [scrapbox-text-bubble]を行と行の間に挟み込むUIを思いついた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618864897,
+      "updated": 1618864926
+    },
+    {
+      "id": "607deb1e1280f000009b205e",
+      "text": "   \t　　\t 　うまく行けば[箇条書きの折りたたみ]機能としても機能するかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618864927,
+      "updated": 1618864947
+    },
+    {
+      "id": "606da829246f590000a2f614",
+      "text": "   \t　　\tWordやPagesとかで、画像を入れると文字が回り込むやつはあるよね[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617799209,
+      "updated": 1617799238
+    },
+    {
+      "id": "606da846246f590000a2f615",
+      "text": "   \t　　\t\tそういうのがブラウザやエディタにもあったら楽そう",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617799238,
+      "updated": 1617799249
+    },
+    {
+      "id": "606da94c79d3a90000213c04",
+      "text": "   \t　　\tCSSのfloatを思い出した",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799501,
+      "updated": 1617799505
+    },
+    {
+      "id": "606da809246f590000a2f613",
+      "text": "   \tなんといいますか、「タイトル」レベルの小さい要約を並べたいというか",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617799177,
+      "updated": 1617799177
+    },
+    {
+      "id": "606da6b4246f590000a2f60d",
+      "text": "  　\t現状、Scrapboxの一覧ページも正直ちょっと苦しいくらいですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798837,
+      "updated": 1617799207
+    },
+    {
+      "id": "606da47279d3a900002b495f",
+      "text": "\t\t\t操作コストも地味につらいです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798258,
+      "updated": 1617798360
+    },
+    {
+      "id": "606da4bd79d3a900002b4963",
+      "text": "\t\t\t\tウィンドウAからウィンドウBに切り替える操作が必要",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798334,
+      "updated": 1617798354
+    },
+    {
+      "id": "606da91179d3a90000213c01",
+      "text": "\t\t\t\t新しくウィンドウをつくるコスト",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799442,
+      "updated": 1617799450
+    },
+    {
+      "id": "606da91979d3a90000213c02",
+      "text": "\t\t\t\t\tどの範囲をどのサイズと位置に切り出そうか、とか考えたりする必要性",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799450,
+      "updated": 1617799463
+    },
+    {
+      "id": "606da4d179d3a900002b4964",
+      "text": "\t\t\tウィンドウの細かい大きさや位置関係が気になる症候群",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798354,
+      "updated": 1617798396
+    },
+    {
+      "id": "606da4f179d3a900002b4966",
+      "text": "\t\t\t\tしかしタイルのように並べると、それはそれで「大きさが気に食わない」になる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798386,
+      "updated": 1617798412
+    },
+    {
+      "id": "606da4a579d3a900002b4961",
+      "text": " 　\tあまり上手く言語化できてないですすいません",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617798310,
+      "updated": 1617799009
+    },
+    {
+      "id": "606da82d79d3a90000213bf3",
+      "text": " 　\tあ、少し見えたかも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799214,
+      "updated": 1617799220
+    },
+    {
+      "id": "606da83479d3a90000213bf4",
+      "text": " 　\t\t僕は頭で覚えずに、とにかく見ながら処理をする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799221,
+      "updated": 1617799243
+    },
+    {
+      "id": "606da84d79d3a90000213bf5",
+      "text": " 　\t\t何度も何度も読み返す、行き来する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799246,
+      "updated": 1617799251
+    },
+    {
+      "id": "606da85979d3a90000213bf6",
+      "text": " 　\t\t0.5秒でも遅れがあるともうストレスになるというか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799257,
+      "updated": 1617799270
+    },
+    {
+      "id": "606da86579d3a90000213bf7",
+      "text": " 　\t\t……いや、ちょっと違う？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799270,
+      "updated": 1617799282
+    },
+    {
+      "id": "606da87279d3a90000213bf9",
+      "text": " 　\t\t「自分にとって最適な見え方」があって、それが阻害されるとストレスになる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799282,
+      "updated": 1617799304
+    },
+    {
+      "id": "606da88a79d3a90000213bfa",
+      "text": " 　\t\t\tウィンドウは阻害する側に入ってしまう……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799307,
+      "updated": 1617799312
+    },
+    {
+      "id": "606da93479d3a90000213c03",
+      "text": " 　\t\t\tウィンドウが苦手？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799477,
+      "updated": 1617799479
+    },
+    {
+      "id": "606da8af79d3a90000213bfc",
+      "text": " 　\t\tちゃんと整理したい[sta.icon*3]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799343,
+      "updated": 1617799473
+    },
+    {
+      "id": "606da8bd79d3a90000213bfd",
+      "text": " 　\tウィンドウとも向き合いたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799357,
+      "updated": 1617799367
+    },
+    {
+      "id": "606da8c779d3a90000213bfe",
+      "text": " 　\t\t[タイル型ウィンドウマネージャ]のような、ウィンドウの並べ方をごにょごにょする世界もある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799367,
+      "updated": 1617799397
+    },
+    {
+      "id": "606da8e479d3a90000213bff",
+      "text": " 　\t\t一時期ウィンドウユーティリティ系のフリーソフトつくってたし",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799397,
+      "updated": 1617799406
+    },
+    {
+      "id": "606da89079d3a90000213bfb",
+      "text": "  ペインはPaneですね。痛くないほうです[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617799312,
+      "updated": 1617799605
+    },
+    {
+      "id": "606da7c279d3a90000213bef",
+      "text": "  \t今気づきました。ありがとうございます（よくある。。。[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617799106,
+      "updated": 1617799121
+    },
+    {
+      "id": "60cc0ec91280f00000904196",
+      "text": " [/forum-jp/他のページを埋め込みたい]と問題意識が似ていそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623985865,
+      "updated": 1623985880
+    },
+    {
+      "id": "60cd49bd79d3a9000022a7d9",
+      "text": " \t興味深いですねこれ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624066494,
+      "updated": 1624066498
+    },
+    {
+      "id": "60cd49c179d3a9000022a7da",
+      "text": " \t[デュアルモニタ]と[仮想デスクトップ]の違いにも似ている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624066498,
+      "updated": 1624066524
+    },
+    {
+      "id": "60cd49d679d3a9000022a7db",
+      "text": " \t\t情報Aを見ている時に、Aと関連のあるBをいかに素早く見るか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624066519,
+      "updated": 1624066555
+    },
+    {
+      "id": "60cd4a0179d3a9000022a7dc",
+      "text": " \t\t頭が弱ければ弱いほど、より素早く見れるようにお膳立てしないと苦しい（何回もAとBを行き来してしまう）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624066562,
+      "updated": 1624066623
+    },
+    {
+      "id": "60cd4a2f79d3a9000022a7dd",
+      "text": " \t\tお膳立てすればするほど、システム側の実装量が増える＆表示領域が圧迫される",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624066608,
+      "updated": 1624066647
+    },
+    {
+      "id": "60cd4a8879d3a9000022a7df",
+      "text": " \t[/sta/俯瞰効率を構成する5つの要素]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624066698,
+      "updated": 1624066700
+    },
+    {
+      "id": "60cd683d1280f00000c97f96",
+      "text": " \t [/sta/俯瞰効率を構成する5つの要素#60b875a579d3a90000cb1681]で[プロ棋士は複雑なものを複雑なまま処理]する話を思い出した[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624074300,
+      "updated": 1624074454
+    },
+    {
+      "id": "606da4d879d3a900002b4965",
+      "text": "\t\t\t\tやっぱり脳の地力に任せれば任せるほど強い感じなのか……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798361,
+      "updated": 1624098194
+    },
+    {
+      "id": "60cdc56d79d3a90000a1235a",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1624098158,
+      "updated": 1624098158
+    },
+    {
+      "id": "6061eef31280f000005056a7",
+      "text": "[/sta/GoogleからのSMSが届かなくてScrapboxにログインできない]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617030899,
+      "updated": 1617030900
+    },
+    {
+      "id": "6061eef51280f000005056a9",
+      "text": " [バックアップコード]を取っておくのがbestです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617030901,
+      "updated": 1617030911
+    },
+    {
+      "id": "6062edc079d3a9000090ab5a",
+      "text": " ちょっと調べてみます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617096129,
+      "updated": 1617096139
+    },
+    {
+      "id": "6062ee2d246f59000053d0c2",
+      "text": " T[OTP](Google認証システムのやつ)をフォールバック用に設定しておくのも良いかも",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617096236,
+      "updated": 1617835760
+    },
+    {
+      "id": "6061eef31280f000005056a8",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617030899,
+      "updated": 1617030899
+    },
+    {
+      "id": "6061eff21280f000005056af",
+      "text": "[/sta/ステップアップ妨害因子#6061a1b179d3a900002ad8f5]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617031154,
+      "updated": 1617031155
+    },
+    {
+      "id": "6061eff31280f000005056b0",
+      "text": " あんまり気にしなくていいと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617031155,
+      "updated": 1617031251
+    },
+    {
+      "id": "6061effc1280f000005056b1",
+      "text": " というのも、そういうネタをガッツリ絡ませているにも関わらず、ランキング1位を維持し続けた小説があるので",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617031163,
+      "updated": 1617031242
+    },
+    {
+      "id": "6061f0211280f000005056b2",
+      "text": "  e.g. [無職転生 ～異世界行ったら本気だす～]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617031201,
+      "updated": 1617031206
+    },
+    {
+      "id": "6062eda279d3a9000090ab58",
+      "text": "  ありがとうございます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617096099,
+      "updated": 1617096110
+    },
+    {
+      "id": "6062edad79d3a9000090ab59",
+      "text": "  \tまだ読んだことないのでそのうち。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617096110,
+      "updated": 1617096118
+    },
+    {
+      "id": "6061eff21280f000005056ae",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617031153,
+      "updated": 1617031153
     },
     {
       "id": "6051c5541280f000004dfdda",
@@ -185,6 +4294,13 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1614586908,
       "updated": 1614586966
+    },
+    {
+      "id": "60b1620079d3a90000a848ec",
+      "text": " \tちょっと良さがわかってきたかもしれない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1622237696,
+      "updated": 1622237703
     },
     {
       "id": "603c93d11280f000002b4c5c",
@@ -993,10 +5109,10 @@
     },
     {
       "id": "5ff690611280f00000c4f40c",
-      "text": "  `export`は無理ですが`import`なら[動的import]という方法があります",
+      "text": "  `export`は無理ですが`import`なら[dynamic import]という方法があります",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609994337,
-      "updated": 1609994363
+      "updated": 1617067025
     },
     {
       "id": "5ff690171280f00000c4f408",

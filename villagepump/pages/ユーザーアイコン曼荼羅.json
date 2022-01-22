@@ -2,7 +2,7 @@
   "id": "601bc059f6fbd5001cf887ae",
   "title": "ユーザーアイコン曼荼羅",
   "created": 1612431455,
-  "updated": 1612431597,
+  "updated": 1617557948,
   "lines": [
     {
       "id": "601bc059f6fbd5001cf887ae",
@@ -47,6 +47,20 @@
       "updated": 1612431522
     },
     {
+      "id": "6069cf04246f5900001e0e11",
+      "text": " [https://gyazo.com/ed6faf0bc72a40830daf6eb3b651f82e]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617547012,
+      "updated": 1617547078
+    },
+    {
+      "id": "6069cf46246f5900001e0e12",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617547078,
+      "updated": 1617547078
+    },
+    {
       "id": "601bc096d43875000012a566",
       "text": " 新規ユーザーのためにサービスの使い方がぎっしり書かれている",
       "userId": "5fa258bdb102120024d43875",
@@ -59,6 +73,41 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1612431527,
       "updated": 1612431527
+    },
+    {
+      "id": "6069f98de5172d00008c43ac",
+      "text": "　「[ごちゃごちゃしたのが好き]」とも関係ありそう[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617557901,
+      "updated": 1617557919
+    },
+    {
+      "id": "6069f98de5172d00008c43ad",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617557901,
+      "updated": 1617557901
+    },
+    {
+      "id": "6069f9b7e5172d00008c43b0",
+      "text": "#曼荼羅",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617557944,
+      "updated": 1617557948
+    },
+    {
+      "id": "6069f9b1e5172d00008c43ae",
+      "text": "#アイコン",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617557937,
+      "updated": 1617557941
+    },
+    {
+      "id": "6069f9b1e5172d00008c43af",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1617557938,
+      "updated": 1617557938
     }
   ]
 }

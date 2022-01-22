@@ -2,7 +2,7 @@
   "id": "5fa07715ee56ba0021a18991",
   "title": "Scrapboxでリンクを使うとき",
   "created": 1604351786,
-  "updated": 1605482402,
+  "updated": 1619263467,
   "lines": [
     {
       "id": "5fa07715ee56ba0021a18991",
@@ -17,6 +17,13 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1604352185,
       "updated": 1605482114
+    },
+    {
+      "id": "6082eb10e5172d0000ea44b7",
+      "text": "　[Scrapboxのリンクの役割]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619192592,
+      "updated": 1619192601
     },
     {
       "id": "5fa078b94daa920000718899",
@@ -34,10 +41,10 @@
     },
     {
       "id": "5fa0778d4daa920000718892",
-      "text": "\t辞書的な使い方",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "\t辞書的な使い方：[辞書的なリンク]",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1604351885,
-      "updated": 1604355270
+      "updated": 1619192032
     },
     {
       "id": "5fa079924daa92000071889f",
@@ -82,6 +89,13 @@
       "updated": 1604888792
     },
     {
+      "id": "6082eab1e5172d0000ea44b5",
+      "text": "\t暫定的な名前をつけたとき、リンクしておくことで後から[update links]で一括置換できる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619192498,
+      "updated": 1619192570
+    },
+    {
       "id": "5fa0773a4daa920000718891",
       "text": "",
       "userId": "5bc5772df30ff700134daa92",
@@ -94,6 +108,13 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1604353453,
       "updated": 1604353662
+    },
+    {
+      "id": "6082e8f1e5172d0000ea44b1",
+      "text": "　[内容を結びつけるリンク]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619192050,
+      "updated": 1619192057
     },
     {
       "id": "5fa07dcd4daa92000027b096",
@@ -131,11 +152,25 @@
       "updated": 1604355407
     },
     {
+      "id": "6082e9fbe5172d0000ea44b4",
+      "text": "\t[DRY原則]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619192315,
+      "updated": 1619192315
+    },
+    {
       "id": "5fa098a44daa920000942a4e",
-      "text": "\t重複を避ける、[DRY原則]",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "\t\t[重複]を避ける",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1604360356,
-      "updated": 1604360368
+      "updated": 1619192320
+    },
+    {
+      "id": "6082e9cee5172d0000ea44b2",
+      "text": "\t　[情報の再利用]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1619192271,
+      "updated": 1619192274
     },
     {
       "id": "5fa085644daa9200008630b8",
@@ -360,6 +395,20 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1604354759,
       "updated": 1604354759
+    },
+    {
+      "id": "6083ffea1280f00000271691",
+      "text": "[/yosider/リンクの役割が衝突]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619263466,
+      "updated": 1619263467
+    },
+    {
+      "id": "6083ffeb1280f00000271692",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1619263467,
+      "updated": 1619263467
     }
   ]
 }

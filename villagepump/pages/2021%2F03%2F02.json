@@ -2,7 +2,7 @@
   "id": "603d01f405814c001df108ee",
   "title": "2021/03/02",
   "created": 1614610934,
-  "updated": 1615257837,
+  "updated": 1626675083,
   "lines": [
     {
       "id": "603d01f405814c001df108ee",
@@ -61,27 +61,6 @@
       "updated": 1614639325
     },
     {
-      "id": "603d70dc7589210000894a94",
-      "text": " [PySimpleGUI]のドキュメントがとても親切",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614639325,
-      "updated": 1614639773
-    },
-    {
-      "id": "603d70ed7589210000894a96",
-      "text": "  https://pysimplegui.readthedocs.io/en/latest/",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614639342,
-      "updated": 1614639344
-    },
-    {
-      "id": "603d72927589210000522ea3",
-      "text": "  >It WILL be required, at times, for you to read or search this document in order to be successful.",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614639763,
-      "updated": 1614639849
-    },
-    {
       "id": "603d01f37589210000fea65b",
       "text": " 温湿度計の快適ゲージが朝からFullになってて最高",
       "userId": "60226bcd2fbabe0022758921",
@@ -122,48 +101,6 @@
       "userId": "60226bcd2fbabe0022758921",
       "created": 1614665974,
       "updated": 1614665994
-    },
-    {
-      "id": "603e07737589210000257e0b",
-      "text": " うわーーーモニターが壊れた",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614677875,
-      "updated": 1614677882
-    },
-    {
-      "id": "603e07797589210000257e0c",
-      "text": " 　バックライト異常だ",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614677882,
-      "updated": 1614677890
-    },
-    {
-      "id": "603e07817589210000257e0d",
-      "text": " 　左がとても暗い",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614677890,
-      "updated": 1614677895
-    },
-    {
-      "id": "603e07877589210000257e0e",
-      "text": " 　保証書捨てちまった、購入履歴もない、カードの請求履歴だけ有る",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614677895,
-      "updated": 1614681388
-    },
-    {
-      "id": "603e0be77589210000b0648c",
-      "text": " 　[https://www.iodata.jp/support/after/repair/index.htm 修理について | IODATA アイ・オー・データ機器]",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614679015,
-      "updated": 1614679039
-    },
-    {
-      "id": "603e0c007589210000a1d8b0",
-      "text": " 　箱捨てちゃったし、梱包が超だるい",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614679040,
-      "updated": 1614679192
     },
     {
       "id": "603e3845758921000059c1f3",

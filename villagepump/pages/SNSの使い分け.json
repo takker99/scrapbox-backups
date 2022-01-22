@@ -2,7 +2,7 @@
   "id": "5f17b7cc69389f002486ab6e",
   "title": "SNSの使い分け",
   "created": 1595389906,
-  "updated": 1609161667,
+  "updated": 1618139920,
   "lines": [
     {
       "id": "5f17b7cc69389f002486ab6e",
@@ -486,6 +486,181 @@
       "userId": "5ef9a74506750300248a8c6a",
       "created": 1600257952,
       "updated": 1600257952
+    },
+    {
+      "id": "6072bdad79d3a9000072bb9f",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132397,
+      "updated": 1618132399
+    },
+    {
+      "id": "6072bdae79d3a9000072bba0",
+      "text": " 今はScrapboxほぼ一本に落ち着いている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132399,
+      "updated": 1618132411
+    },
+    {
+      "id": "6072bdbb79d3a9000072bba1",
+      "text": " \t一番向いている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132411,
+      "updated": 1618132414
+    },
+    {
+      "id": "6072be5779d3a9000072bbad",
+      "text": " \t\tぼくは自分が書きたいことをとことん書きたいんだ。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132567,
+      "updated": 1618132568
+    },
+    {
+      "id": "6072be5979d3a9000072bbb1",
+      "text": " \t\tScrapboxと出会えたのは本当にありがたかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132569,
+      "updated": 1618132571
+    },
+    {
+      "id": "6072be5c79d3a9000072bbb2",
+      "text": " \t\tこれ以外にも発信はブログとか静的サイトとかwikiとか色々試した",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132573,
+      "updated": 1618132584
+    },
+    {
+      "id": "6072be6a79d3a9000072bbb3",
+      "text": " \t\t\tSNSというより発信か",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132588,
+      "updated": 1618132591
+    },
+    {
+      "id": "6072bdbd79d3a9000072bba2",
+      "text": " \t[Twitter]はスピード感と情報量と書く時の窮屈さがしんどい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132414,
+      "updated": 1618132694
+    },
+    {
+      "id": "6072be2479d3a9000072bba7",
+      "text": " \t\t疲れる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132516,
+      "updated": 1618132518
+    },
+    {
+      "id": "6072beda79d3a9000072bbba",
+      "text": " \t\tノイズが多い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132699,
+      "updated": 1618132703
+    },
+    {
+      "id": "6072bede79d3a9000072bbbb",
+      "text": " \t\t表示が重い（ので貧弱な自宅ネット環境だとろくにサーフィンできない）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132703,
+      "updated": 1618132716
+    },
+    {
+      "id": "6072be2579d3a9000072bba8",
+      "text": " \t[Facebook]はきらきら着飾る世界観がだめだった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132518,
+      "updated": 1618132693
+    },
+    {
+      "id": "6072be3779d3a9000072bba9",
+      "text": " \t[Quora]はモデレーターが辛いのでだめ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132535,
+      "updated": 1618132691
+    },
+    {
+      "id": "6072be7c79d3a9000072bbb4",
+      "text": " \t\tクオリティ高い（？）回答じゃないと無効化される",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132604,
+      "updated": 1618132615
+    },
+    {
+      "id": "6072bea779d3a9000072bbb6",
+      "text": " \t\t\tたとえばタスク管理の質問に対して持論語ったら無効化された",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132647,
+      "updated": 1618132658
+    },
+    {
+      "id": "6072beb279d3a9000072bbb7",
+      "text": "  \t\t\tエビデンスが必要ってことだろうか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132658,
+      "updated": 1618132671
+    },
+    {
+      "id": "6072beb679d3a9000072bbb8",
+      "text": "  \t\t\tそういうのない界隈なんだけども",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132663,
+      "updated": 1618132671
+    },
+    {
+      "id": "6072be8879d3a9000072bbb5",
+      "text": "\t \t\t書いた回答片っ端から無効化されたので、もういいやとなった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132617,
+      "updated": 1618132677
+    },
+    {
+      "id": "6072bec579d3a9000072bbb9",
+      "text": "\t \t\t発信メインのSNSとしては楽しかったのだが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132677,
+      "updated": 1618132686
+    },
+    {
+      "id": "6072bde079d3a9000072bba5",
+      "text": "\t [LINE]は家族と旧友程度",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132448,
+      "updated": 1618132565
+    },
+    {
+      "id": "6072bdf979d3a9000072bba6",
+      "text": " \t\tだがPCサポートが2021年5月で終わるので、おしまいかな。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132474,
+      "updated": 1618132565
+    },
+    {
+      "id": "6072da79dd60be0000b5446d",
+      "text": " \t\t\t「PC版での電話番号によるログイン」ができなくなるだけなので、期限後もメアドかQRコードによるログインなら通常通り使えます[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1618139769,
+      "updated": 1618139920
+    },
+    {
+      "id": "6072bfc703b2100000ccec7b",
+      "text": " \t\tそうなの！？",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1618132935,
+      "updated": 1618132943
+    },
+    {
+      "id": "6072d599246f590000626b3c",
+      "text": " \t\t[Chrome拡張版 https://chrome.google.com/webstore/detail/line/ophjlpahpchlmihnnnihgmmeilfjmjjc?hl=ja]は終わらないでしょ？",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618138521,
+      "updated": 1618138553
+    },
+    {
+      "id": "6072bdad79d3a9000072bb9e",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618132397,
+      "updated": 1618132397
     },
     {
       "id": "5fc6c2810553320000bde074",

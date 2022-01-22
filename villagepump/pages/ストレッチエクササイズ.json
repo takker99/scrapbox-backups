@@ -2,7 +2,7 @@
   "id": "5fdac0c09f7c52001e523cce",
   "title": "ストレッチエクササイズ",
   "created": 1608171713,
-  "updated": 1613118656,
+  "updated": 1620896524,
   "lines": [
     {
       "id": "5fdac0c09f7c52001e523cce",
@@ -55,10 +55,10 @@
     },
     {
       "id": "601e56b1e5172d00003d015e",
-      "text": "\t[/icons/よさそう.icon][yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t[/icons/よさそう.icon][yosider.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1612601008,
-      "updated": 1612601015
+      "updated": 1620896524
     }
   ]
 }

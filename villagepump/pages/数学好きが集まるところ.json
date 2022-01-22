@@ -2,7 +2,7 @@
   "id": "5faa7a4feca9e4001eda7184",
   "title": "数学好きが集まるところ",
   "created": 1605007953,
-  "updated": 1614765194,
+  "updated": 1625149524,
   "lines": [
     {
       "id": "5faa7a4feca9e4001eda7184",
@@ -461,10 +461,17 @@
     },
     {
       "id": "5faa856c1280f00000ea6059",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "　[/icons/わかる.icon][bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
       "created": 1605010781,
-      "updated": 1605010781
+      "updated": 1625128431
+    },
+    {
+      "id": "60dd7ddf79e1130000d26e40",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625128416,
+      "updated": 1625128416
     },
     {
       "id": "5faa84cc1280f00000ea6050",
@@ -502,13 +509,6 @@
       "updated": 1608902025
     },
     {
-      "id": "5fe5e58fd438750000dcc284",
-      "text": "　　　そん時のiPodは落として手放した",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1608902031,
-      "updated": 1608902048
-    },
-    {
       "id": "5fe5e60cd438750000dcc285",
       "text": "[数学ガール]！！！",
       "userId": "5fa258bdb102120024d43875",
@@ -542,6 +542,48 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1608900423,
       "updated": 1608900423
+    },
+    {
+      "id": "60dd83c91280f0000014ba84",
+      "text": "programmerは全員数学できるという謎の[先入観]がある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625129930,
+      "updated": 1625129949
+    },
+    {
+      "id": "60dd83dd1280f0000014ba86",
+      "text": " 数学より[数理論理学]と言ったほうがよさそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625129949,
+      "updated": 1625129974
+    },
+    {
+      "id": "60dd84281280f0000014ba88",
+      "text": " 共通点がたくさんある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625130024,
+      "updated": 1625130029
+    },
+    {
+      "id": "60dd83f61280f0000014ba87",
+      "text": "  束縛変数と自由変数の考え方なんて変数のscope、カプセル化の考え方と全く同じだし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625129975,
+      "updated": 1625130030
+    },
+    {
+      "id": "60ddd002e5172d0000325508",
+      "text": " [抽象的な思考]ができるかどうかが数学でもprogrammingでも壁になりそう[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1625149443,
+      "updated": 1625149524
+    },
+    {
+      "id": "60dd83cc1280f0000014ba85",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625129933,
+      "updated": 1625129933
     }
   ]
 }

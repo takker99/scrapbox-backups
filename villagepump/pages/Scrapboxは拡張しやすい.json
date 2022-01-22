@@ -2,7 +2,7 @@
   "id": "5fcfa8c0d8652a0041f1aea1",
   "title": "Scrapboxは拡張しやすい",
   "created": 1607444678,
-  "updated": 1607655941,
+  "updated": 1618540004,
   "lines": [
     {
       "id": "5fcfa8c0d8652a0041f1aea1",
@@ -31,6 +31,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607444732,
       "updated": 1607444764
+    },
+    {
+      "id": "60783265246f590000fb9814",
+      "text": "　　　[思考を練るツール]としてコードを書くのもある",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618489958,
+      "updated": 1618489970
     },
     {
       "id": "5fcfa8cd1280f00000d3f604",
@@ -80,6 +87,13 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1607445025,
       "updated": 1607445040
+    },
+    {
+      "id": "6078328b246f590000fb9815",
+      "text": "　 　わかる[dnin.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618489996,
+      "updated": 1618540004
     },
     {
       "id": "5fcfa9411280f00000d3f608",

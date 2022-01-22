@@ -2,7 +2,7 @@
   "id": "5f64989aba0908001f97879f",
   "title": "Aviutlの設定",
   "created": 1600428190,
-  "updated": 1606547716,
+  "updated": 1625398571,
   "lines": [
     {
       "id": "5f64989aba0908001f97879f",
@@ -234,6 +234,20 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1601001420,
       "updated": 1601001420
+    },
+    {
+      "id": "60e19ce31280f0000010ca9e",
+      "text": "↓切り出したいのだがいいタイトルが思いつかない……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625398501,
+      "updated": 1625398513
+    },
+    {
+      "id": "60e19ce11280f0000010ca9d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625398499,
+      "updated": 1625398499
     },
     {
       "id": "5f6d3ec91280f00000b10401",
@@ -514,6 +528,41 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601598143,
       "updated": 1601598178
+    },
+    {
+      "id": "60e181c779e1130000c39339",
+      "text": "  　今年度の[未踏ジュニア]で映像編集ソフトのフレームワークを作るというプロジェクトがあるはず（公開情報）[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625391560,
+      "updated": 1625391562
+    },
+    {
+      "id": "60e181c779e1130000c3933a",
+      "text": "  　 >動画編集ソフトウェアを誰でも簡単に作れるようにしたい！という目標のもと、フレームワークを開発していきます。https://note.com/momeemt/n/n7ebfc7792788",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625391560,
+      "updated": 1625391562
+    },
+    {
+      "id": "60e181c779e1130000c3933b",
+      "text": "  　 [/momeemt/動画編集project fileの共通規格]とかで[takker.icon]のページ等言及されてる",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625391560,
+      "updated": 1625391627
+    },
+    {
+      "id": "60e19b651280f0000010ca99",
+      "text": "  　 マジだ全然気づかなかった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625398119,
+      "updated": 1625398128
+    },
+    {
+      "id": "60e19b6e1280f0000010ca9a",
+      "text": "  　  方向性が被るなら[/momeemt/momeemt.icon]さんのprojectにcontributeしたいな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625398128,
+      "updated": 1625398571
     },
     {
       "id": "5f6d3ecb1280f00000b10402",
@@ -1062,11 +1111,11 @@
       "updated": 1600999654
     },
     {
-      "id": "5f6d49554daa920000f4e5db",
+      "id": "60e1813779e1130000c39333",
       "text": "",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1600997717,
-      "updated": 1600997717
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1625391416,
+      "updated": 1625391416
     }
   ]
 }

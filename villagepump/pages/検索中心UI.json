@@ -2,7 +2,7 @@
   "id": "5f7c35ce590f96001e214bd0",
   "title": "検索中心UI",
   "created": 1601975774,
-  "updated": 1611133308,
+  "updated": 1628345845,
   "lines": [
     {
       "id": "5f7c35ce590f96001e214bd0",
@@ -87,6 +87,34 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1604890570,
       "updated": 1604890570
+    },
+    {
+      "id": "60916bf08ee92a0000e70999",
+      "text": " この写真に似てて気になる [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620143089,
+      "updated": 1620143096
+    },
+    {
+      "id": "60916c088ee92a0000e7099b",
+      "text": "  これは[鎌倉]の[釈迦堂切通し]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620143113,
+      "updated": 1620143130
+    },
+    {
+      "id": "60916bed8ee92a0000e70996",
+      "text": "  [https://gyazo.com/243d7eb85c40e0f85cbdf69ecc371738]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620143085,
+      "updated": 1620143097
+    },
+    {
+      "id": "60916bfc8ee92a0000e7099a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620143100,
+      "updated": 1620143100
     },
     {
       "id": "5f7c3ab4dd59fe00001ef9ca",
@@ -199,6 +227,34 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1601975830,
       "updated": 1601975837
+    },
+    {
+      "id": "610e95acdd60be00004af57d",
+      "text": " ホームボタン長押し",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1628345772,
+      "updated": 1628345790
+    },
+    {
+      "id": "610e95bedd60be00004af57e",
+      "text": " ホームボタンを掴んで上にスワイプ",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1628345790,
+      "updated": 1628345791
+    },
+    {
+      "id": "610e95dadd60be00004af580",
+      "text": " 電源ボタンを少し長押し",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1628345818,
+      "updated": 1628345823
+    },
+    {
+      "id": "610e95c0dd60be00004af57f",
+      "text": " 音声入力（OK Google）物理キー　など",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1628345791,
+      "updated": 1628345845
     },
     {
       "id": "5f7c35d9dd59fe00001ef9c1",
@@ -528,6 +584,90 @@
       "userId": "5da3a9589b96b70017ec4fce",
       "created": 1606910239,
       "updated": 1606910239
+    },
+    {
+      "id": "60a34bf88ee92a00005fa0d9",
+      "text": "[増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314553,
+      "updated": 1621314556
+    },
+    {
+      "id": "60a34bf98ee92a00005fa0da",
+      "text": " [GUI]の部品はほとんどが検索のためのものです",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314556,
+      "updated": 1621314569
+    },
+    {
+      "id": "60a34c098ee92a00005fa0dc",
+      "text": "  アイコン: ファイルやアプリを捜す",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314569,
+      "updated": 1621314582
+    },
+    {
+      "id": "60a34c168ee92a00005fa0dd",
+      "text": "  メニュー: 機能を捜す",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314583,
+      "updated": 1621314592
+    },
+    {
+      "id": "60a34c208ee92a00005fa0de",
+      "text": "  スクロールバー: 見たい情報を捜す",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314592,
+      "updated": 1621314604
+    },
+    {
+      "id": "60a34c618ee92a00005fa0e0",
+      "text": " コマンドも同様",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314657,
+      "updated": 1621314662
+    },
+    {
+      "id": "60a34c668ee92a00005fa0e1",
+      "text": "  `ls`, `find`: ファイルを捜す",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314662,
+      "updated": 1621314673
+    },
+    {
+      "id": "60a34c758ee92a00005fa0e2",
+      "text": "  `grep`: 行を捜す",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314678,
+      "updated": 1621314687
+    },
+    {
+      "id": "60a34c858ee92a00005fa0e3",
+      "text": "  `cd`: フォルダを捜して移動",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314694,
+      "updated": 1621314709
+    },
+    {
+      "id": "60a34ca38ee92a00005fa0e4",
+      "text": " これらの場合、何かを捜してるという意識は消えてるが、実際は何かを捜している",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314724,
+      "updated": 1621314761
+    },
+    {
+      "id": "60a34c3b8ee92a00005fa0df",
+      "text": " UIはだいたい検索中心だと思って良いでしょう",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314620,
+      "updated": 1621314656
+    },
+    {
+      "id": "60a34bf98ee92a00005fa0db",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621314557,
+      "updated": 1621314557
     }
   ]
 }

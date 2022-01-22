@@ -2,7 +2,7 @@
   "id": "602aacb5273e28001c5c2e44",
   "title": "クヌースのgif部屋",
   "created": 1613409463,
-  "updated": 1613409525,
+  "updated": 1622158123,
   "lines": [
     {
       "id": "602aacb5273e28001c5c2e44",
@@ -24,6 +24,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613409465,
       "updated": 1613409471
+    },
+    {
+      "id": "60b02b238ee92a000036a4c6",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622158115,
+      "updated": 1622158115
+    },
+    {
+      "id": "60b02b238ee92a000036a4c7",
+      "text": "なんか辛いのが多いな... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622158115,
+      "updated": 1622158123
     },
     {
       "id": "602aacc1e5172d00002a8ceb",

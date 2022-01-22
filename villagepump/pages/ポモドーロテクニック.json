@@ -2,7 +2,7 @@
   "id": "600012a0008c52001ccd1629",
   "title": "ポモドーロテクニック",
   "created": 1610617506,
-  "updated": 1614863720,
+  "updated": 1620025339,
   "lines": [
     {
       "id": "600012a0008c52001ccd1629",
@@ -96,6 +96,20 @@
       "updated": 1610633898
     },
     {
+      "id": "608f896179d3a90000f81a8d",
+      "text": "\t \t破っていいって記述をどっかで見て「へぇ」と納得して以来、破っていい派になっている[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019553,
+      "updated": 1620019613
+    },
+    {
+      "id": "608f897979d3a90000f81a8e",
+      "text": "\t \tソースは不明",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019577,
+      "updated": 1620019581
+    },
+    {
       "id": "600024d05b98c20000e4bdfb",
       "text": " 25分の集中する時間を1ポモドーロという単位で表す",
       "userId": "5b5e7121417cf700145b98c2",
@@ -117,6 +131,27 @@
       "updated": 1613904085
     },
     {
+      "id": "608f898579d3a90000f81a90",
+      "text": " ポモドーロテクニックのオリジナルってどこだろ……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019589,
+      "updated": 1620019598
+    },
+    {
+      "id": "608f90c95b98c20000128c0d",
+      "text": "  [https://francescocirillo.com/pages/pomodoro-technique The Pomodoro Technique® - proudly developed by Francesco Cirillo | Cirillo Consulting GmbH]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1620021450,
+      "updated": 1620021452
+    },
+    {
+      "id": "608f898479d3a90000f81a8f",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1620019588,
+      "updated": 1620019588
+    },
+    {
       "id": "603238d58ee92a00004a9468",
       "text": " こんなん無理やわー [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
@@ -129,6 +164,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614863719,
       "updated": 1614863719
+    },
+    {
+      "id": "608f9ff755cbd3000058ddfc",
+      "text": "5分休憩に何する？",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620025335,
+      "updated": 1620025339
+    },
+    {
+      "id": "608f9ff655cbd3000058ddfb",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620025334,
+      "updated": 1620025334
     },
     {
       "id": "6040dd69e5172d000057f02e",
@@ -167,10 +216,10 @@
     },
     {
       "id": "600026365b98c20000e4bdff",
-      "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "[https://gyazo.com/c6d1e8367ec50fdc3591c790a53c1890]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1610622518,
-      "updated": 1610622518
+      "updated": 1619082040
     }
   ]
 }

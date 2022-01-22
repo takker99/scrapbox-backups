@@ -2,7 +2,7 @@
   "id": "5fd3af68e8b6e2001f85f7e9",
   "title": "自分程度が思い付くものは既にこの世にありそう",
   "created": 1607708531,
-  "updated": 1616104767,
+  "updated": 1623152434,
   "lines": [
     {
       "id": "5fd3af68e8b6e2001f85f7e9",
@@ -131,11 +131,60 @@
       "updated": 1616085086
     },
     {
+      "id": "60bf570379e1130000943239",
+      "text": "\tふと[東海オンエア]の[この動画 https://www.youtube.com/watch?v=g_UOx5EF_YI]を思い出した[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1623152387,
+      "updated": 1623152434
+    },
+    {
+      "id": "60bf571e79e113000094323b",
+      "text": "\t　[PPAP]が流行って数年経った後の動画",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1623152415,
+      "updated": 1623152431
+    },
+    {
       "id": "6053805b06848400000a800a",
       "text": "",
       "userId": "5ad57975d54cd50014068484",
       "created": 1616085084,
       "updated": 1616085084
+    },
+    {
+      "id": "60befe9c8ee92a0000f0a993",
+      "text": "何度も再発明されてるものはありますね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1623129757,
+      "updated": 1623129768
+    },
+    {
+      "id": "60befea88ee92a0000f0a995",
+      "text": " [Treemap]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1623129769,
+      "updated": 1623129777
+    },
+    {
+      "id": "60befeab8ee92a0000f0a996",
+      "text": " [Marking menu]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1623129771,
+      "updated": 1623129778
+    },
+    {
+      "id": "60befe9e8ee92a0000f0a994",
+      "text": "発明されてから20年ぐらいたってあまり流行してない場合、別の人がそれを知らずに再発明することがあるかんじ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1623129759,
+      "updated": 1623129839
+    },
+    {
+      "id": "60befeca8ee92a0000f0a997",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1623129802,
+      "updated": 1623129802
     }
   ]
 }

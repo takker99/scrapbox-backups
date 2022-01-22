@@ -2,7 +2,7 @@
   "id": "5f479d5c46f7d5001efb26cb",
   "title": "公衆電話",
   "created": 1598528861,
-  "updated": 1603341433,
+  "updated": 1630153489,
   "lines": [
     {
       "id": "5f479d5c46f7d5001efb26cb",
@@ -80,6 +80,90 @@
       "userId": "5ef9a74506750300248a8c6a",
       "created": 1600257809,
       "updated": 1600257809
+    },
+    {
+      "id": "60881a50fd049e0000d6df13",
+      "text": "公衆電話の数が４分の１程度に削減されるらしい",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532369,
+      "updated": 1619532444
+    },
+    {
+      "id": "60881a73fd049e0000d6df15",
+      "text": "\t[https://www.sankeibiz.jp/macro/news/210427/mca2104270600002-n1.htm#:~:text=%E7%B7%8F%E5%8B%99%E7%9C%81%E3%81%AF%EF%BC%92%EF%BC%96%E6%97%A5,%E7%A8%8B%E5%BA%A6%E3%81%AB%E5%89%8A%E6%B8%9B%E3%81%95%E3%82%8C%E3%82%8B%E3%80%82 公衆電話4分の1に削減　総務省、設置基準を緩和 - SankeiBiz（サンケイビズ）：自分を磨く経済情報サイト]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532404,
+      "updated": 1619532420
+    },
+    {
+      "id": "60881b66fd049e0000d6df16",
+      "text": "\t\tユニバーサルサービス料が減るのかな？([総務省の基準に基づき設置される公衆電話  https://www.soumu.go.jp/main_sosiki/joho_tsusin/universalservice/kousyu.html]から想起)",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532647,
+      "updated": 1619532694
+    },
+    {
+      "id": "60881c40fd049e0000d6df17",
+      "text": "\t\t[総務省｜「社会経済環境の変化に対応した公衆電話の在り方」に関する情報通信審議会への諮問 https://www.soumu.go.jp/menu_news/s-news/01kiban03_02000688.html]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532864,
+      "updated": 1619532886
+    },
+    {
+      "id": "60881c77fd049e0000d6df19",
+      "text": "\t下記が元ネタなのかな？（わかりにくい）",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532920,
+      "updated": 1619532938
+    },
+    {
+      "id": "60881a53fd049e0000d6df14",
+      "text": "\t\t[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/usf_seisaku/02kiban03_04000690.html 総務省｜情報通信審議会　電気通信事業政策部会　ユニバーサルサービス政策委員会（第22回）配布資料・議事概要（2021年4月26日開催）｜情報通信審議会　電気通信事業政策部会　ユニバーサルサービス政策委員会（第22回）配布資料・議事概要]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532371,
+      "updated": 1619532907
+    },
+    {
+      "id": "60881c61fd049e0000d6df18",
+      "text": "",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1619532897,
+      "updated": 1619532897
+    },
+    {
+      "id": "612a2ab379e11300005ebd8f",
+      "text": " 電源はあるんだろうから、充電スポットに変わらないかなーと思っている[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1630153396,
+      "updated": 1630153422
+    },
+    {
+      "id": "612a2ac779e11300005ebd91",
+      "text": " 　公衆電話使いたい状況、大体携帯の電源切れた場合な気がする?",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1630153415,
+      "updated": 1630153443
+    },
+    {
+      "id": "612a2ae379e11300005ebd92",
+      "text": " 　災害時とかもあるか",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1630153444,
+      "updated": 1630153455
+    },
+    {
+      "id": "612a2b05d0ca1c0000d00e7e",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630153477,
+      "updated": 1630153477
+    },
+    {
+      "id": "612a2b11d0ca1c0000d00e7f",
+      "text": "　グレーの公衆電話はインターネット接続ができた",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1630153489,
+      "updated": 1630153489
     }
   ]
 }

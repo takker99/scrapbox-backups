@@ -1,0 +1,246 @@
+{
+  "id": "60ea5375ff0fcd0022908fa3",
+  "title": "昼寝できます？",
+  "created": 1625969527,
+  "updated": 1626384581,
+  "lines": [
+    {
+      "id": "60ea5375ff0fcd0022908fa3",
+      "text": "昼寝できます？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969527,
+      "updated": 1625969530
+    },
+    {
+      "id": "60ea538079d3a90000ba2be3",
+      "text": "一時間の昼休憩があると想定する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969537,
+      "updated": 1625969544
+    },
+    {
+      "id": "60ea539079d3a90000ba2be5",
+      "text": "何をもって「できる」とするかはいったん定義しない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969553,
+      "updated": 1625969560
+    },
+    {
+      "id": "60ea538079d3a90000ba2be4",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969537,
+      "updated": 1625969537
+    },
+    {
+      "id": "60ea537979d3a90000ba2bdd",
+      "text": "できる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969530,
+      "updated": 1625969531
+    },
+    {
+      "id": "60ea537a79d3a90000ba2bdf",
+      "text": "できない[sta.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1625969531,
+      "updated": 1626023481
+    },
+    {
+      "id": "60eafb26e5172d00006374d2",
+      "text": "　外ではできないかも[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626012455,
+      "updated": 1626012459
+    },
+    {
+      "id": "60ea537c79d3a90000ba2be0",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969533,
+      "updated": 1625969533
+    },
+    {
+      "id": "60ea537c79d3a90000ba2be1",
+      "text": "普段の睡眠でも意識落ちるまでに優に1h以上はかかるので[昼寝]は[特殊能力]だと思ってる（がどうなんだろうと思って興味本位で[書いてけ]してみる！）[sta.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1625969533,
+      "updated": 1625983360
+    },
+    {
+      "id": "60ea53c079d3a90000ba2be6",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625969601,
+      "updated": 1625969601
+    },
+    {
+      "id": "60ea90551280f0000028fd3e",
+      "text": "眠いときは寝れる。眠れないときは寝れない[takker.icon][yosider.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625985108,
+      "updated": 1626039452
+    },
+    {
+      "id": "60ea90681280f0000028fd40",
+      "text": " [- 身も蓋もない]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625985128,
+      "updated": 1625985135
+    },
+    {
+      "id": "60eafb37e5172d00006374d3",
+      "text": " [徹夜]してれば余裕[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626012472,
+      "updated": 1626012485
+    },
+    {
+      "id": "60ea905b1280f0000028fd3f",
+      "text": " 自分は「眠いとき」がないのが問題なのかもしれないなと思った[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1625985115,
+      "updated": 1626039823
+    },
+    {
+      "id": "60eb660879d3a90000dc81b6",
+      "text": " \tいつも21:30～22:30の間で床につくが、別に眠くない（頭は疲れてるけど）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626039818,
+      "updated": 1626039852
+    },
+    {
+      "id": "60eb662b79d3a90000dc81b7",
+      "text": " \tもっと雑に(?)生きた方がいいのかもしれないな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626039852,
+      "updated": 1626040101
+    },
+    {
+      "id": "60eb664679d3a90000dc81b8",
+      "text": " \tが、朝の[ゴールデンタイム]が好きすぎて合わせてしまう（今は必ず朝6時に起きる）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626039879,
+      "updated": 1626040114
+    },
+    {
+      "id": "60eb8e67e5172d00004dc068",
+      "text": " \t　そのほうが良いと思う、うらやましい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626050152,
+      "updated": 1626050181
+    },
+    {
+      "id": "60eb65fe79d3a90000dc81b5",
+      "text": "\t\t\t[隣の芝生は青い]のか、あるいはバランスなのかも[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626039807,
+      "updated": 1626212969
+    },
+    {
+      "id": "60ee0a5979d3a90000416fde",
+      "text": "\t\t\t\t床についてn時間意識があるってのがとにかく辛い。退屈で退屈で。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626212955,
+      "updated": 1626213076
+    },
+    {
+      "id": "60eeac09e5172d0000de0185",
+      "text": "\t\t\t\t 床につくのをn時間分遅らせたらどうなんでしょう？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626254327,
+      "updated": 1626254344
+    },
+    {
+      "id": "60eeac1be5172d0000de0186",
+      "text": "\t\t\t\t 　眠るのもその分遅くなるだけ？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1626254345,
+      "updated": 1626254364
+    },
+    {
+      "id": "60f0a88679d3a900001eb9df",
+      "text": "\t\t\t\t 　\tですね。。[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626384520,
+      "updated": 1626384530
+    },
+    {
+      "id": "60f0a89f79d3a900001eb9e0",
+      "text": "\t\t\t\t 　\tあと「床についたのが遅い」という罪悪感？不甲斐なさ？みたいなのを感じてストレスが増える感じもありますｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626384545,
+      "updated": 1626384581
+    },
+    {
+      "id": "60ee0adc79d3a90000416fe1",
+      "text": "\t\t\t\t機械みたいにスイッチオフで一瞬で寝たいｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626213086,
+      "updated": 1626213100
+    },
+    {
+      "id": "60ee0ac279d3a90000416fe0",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626213060,
+      "updated": 1626213060
+    },
+    {
+      "id": "60ebbfb1385a920000fdc59e",
+      "text": "15分が良いらしい[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626062770,
+      "updated": 1626062782
+    },
+    {
+      "id": "60ebbfbe385a920000fdc5a0",
+      "text": "　ガチ寝せず、休める量",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626062782,
+      "updated": 1626062800
+    },
+    {
+      "id": "60ebbfd0385a920000fdc5a1",
+      "text": "　眠らなくても目を閉じるだけでも体に良い、みたいなのをどっかで聞いた",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626062800,
+      "updated": 1626062818
+    },
+    {
+      "id": "60ee0a8779d3a90000416fdf",
+      "text": "　\tこれはあるかも（リモートワークになってから、10分くらい寝転んで疲れ取るってのを使ってる）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1626213001,
+      "updated": 1626213041
+    },
+    {
+      "id": "60ebbfb2385a920000fdc59f",
+      "text": "",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1626062771,
+      "updated": 1626062771
+    },
+    {
+      "id": "60ee9d8afa8faf0000389feb",
+      "text": "仕事してた頃、昼休みは食事以外睡眠に充ててた[dnin.icon]",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626250635,
+      "updated": 1626250661
+    },
+    {
+      "id": "60ee9d95fa8faf0000389fec",
+      "text": "　マッサージ機やベンチが設置されている部屋で寝てる人、いつも大体同じ人だった",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626250646,
+      "updated": 1626250712
+    },
+    {
+      "id": "60ee9dbcfa8faf0000389fed",
+      "text": "",
+      "userId": "60e9e764c588100023fa8faf",
+      "created": 1626250684,
+      "updated": 1626250684
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "6033a945e0ce9e00222afdcb",
   "title": "今サービス終了したら本気で困るサービス",
   "created": 1613998411,
-  "updated": 1616379786,
+  "updated": 1632488202,
   "lines": [
     {
       "id": "6033a945e0ce9e00222afdcb",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6033a950758921000018c4fe",
-      "text": " Scrapbox[p5w.icon*10][U.icon][yosider.icon][air34n.icon][takker.icon][kuuote.icon][増井俊之.icon][erniogi.icon][yanma.icon][sta.icon][mtane0412.icon][udonn.icon]",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": " Scrapbox[p5w.icon*10][U.icon][yosider.icon][air34n.icon][takker.icon][kuuote.icon][増井俊之.icon][erniogi.icon][yanma.icon][sta.icon][mtane0412.icon][udonn.icon][kidooom.icon][45Nuyagawa.icon][tkgshn.icon]",
+      "userId": "5b9f8ea76ffa88001309c5f2",
       "created": 1613998418,
-      "updated": 1616343744
+      "updated": 1632457017
     },
     {
       "id": "6033bab1e5172d00005cb795",
@@ -83,10 +83,10 @@
     },
     {
       "id": "6033e7204bb2e200000718d0",
-      "text": "   考えてみると、人類の叡智をあれほど抱えているのはすごいことだし強みだよな[kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "   考えてみると、[人類の叡智]をあれほど抱えているのはすごいことだし強みだよな[kuuote.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1614014241,
-      "updated": 1614014279
+      "updated": 1632488111
     },
     {
       "id": "6033d4e81280f0000027c100",
@@ -111,10 +111,10 @@
     },
     {
       "id": "6033e9aae5172d00007fad70",
-      "text": "  \t[Project Hosting Service]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "  \t[Project Hosting Service][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1614014889,
-      "updated": 1614014894
+      "updated": 1632311589
     },
     {
       "id": "6033a950758921000018c4ff",
@@ -146,10 +146,10 @@
     },
     {
       "id": "6033d40e1d860a0000734da9",
-      "text": " インターネット回線[takker.icon][air34n.icon][kuuote.icon][yosider.icon][erniogi.icon][yanma.icon][mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
+      "text": " インターネット回線[takker.icon][air34n.icon][kuuote.icon][yosider.icon][erniogi.icon][yanma.icon][mtane0412.icon][hata6502.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1614009360,
-      "updated": 1616325334
+      "updated": 1632327790
     },
     {
       "id": "6033d4aa1280f0000027c0fd",
@@ -194,11 +194,25 @@
       "updated": 1614015014
     },
     {
+      "id": "605dfa511280f00000cd18a5",
+      "text": "　　 [社会基盤]と呼んだほうが正確かな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771666,
+      "updated": 1616771703
+    },
+    {
+      "id": "605dfa7d1280f00000cd18a6",
+      "text": "　　 まあでも行政サービスもこのページに有るし、まあいいでしょう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771709,
+      "updated": 1616771719
+    },
+    {
       "id": "6033f8c78ee92a00009348ee",
-      "text": "　Google検索とGoogleMaps [増井俊之.icon][sta.icon][mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
+      "text": "　Google検索と[GoogleMaps] [増井俊之.icon][sta.icon][mtane0412.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614018760,
-      "updated": 1616325337
+      "updated": 1617548272
     },
     {
       "id": "6033d5021d860a0000734dac",
@@ -215,6 +229,20 @@
       "updated": 1614064953
     },
     {
+      "id": "614dcabe1280f00000fc6706",
+      "text": "  地図は地理院地図を読み取ればまあ何とかなる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488126,
+      "updated": 1632488173
+    },
+    {
+      "id": "614dcaf11280f00000fc6707",
+      "text": "   え？店の検索？知らんがな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632488177,
+      "updated": 1632488202
+    },
+    {
       "id": "6033f8d08ee92a00009348ef",
       "text": "\tApple(Mac)[erniogi.icon]",
       "userId": "566fa156776c9b11008ee92a",
@@ -222,11 +250,18 @@
       "updated": 1614046265
     },
     {
+      "id": "614a97be8ee92a000047a077",
+      "text": "\t Appleの製品とサービスは今すぐ全部無くなっても困らないなぁ [増井俊之.icon][kuuote.icon][hata6502.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1632278462,
+      "updated": 1632327761
+    },
+    {
       "id": "60346429a3368200001b3a96",
-      "text": "\tComp[erniogi.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "\t[Comp][erniogi.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614046250,
-      "updated": 1614050553
+      "updated": 1617548278
     },
     {
       "id": "603464d6a3368200001b3a97",
@@ -234,6 +269,48 @@
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1614046423,
       "updated": 1614051503
+    },
+    {
+      "id": "605dfa8c1280f00000cd18a7",
+      "text": " 水道[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771725,
+      "updated": 1616771729
+    },
+    {
+      "id": "605dfa8d1280f00000cd18a8",
+      "text": " 電気[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771726,
+      "updated": 1616771731
+    },
+    {
+      "id": "605dfa8f1280f00000cd18a9",
+      "text": " ガス",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771727,
+      "updated": 1616771728
+    },
+    {
+      "id": "605dfa931280f00000cd18aa",
+      "text": "  IHでなんとか出来ないこともない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771732,
+      "updated": 1616771739
+    },
+    {
+      "id": "605dfa9d1280f00000cd18ab",
+      "text": "  停電したときのバックアップとして有効？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771741,
+      "updated": 1616771754
+    },
+    {
+      "id": "605dfaaa1280f00000cd18ac",
+      "text": "   仕組みをよく知らないのでわからない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616771755,
+      "updated": 1616771765
     },
     {
       "id": "603478aa758921000070e8cd",
@@ -265,10 +342,24 @@
     },
     {
       "id": "6034ad8879d3a90000dbb867",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "\t心臓[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1614065033,
-      "updated": 1614065033
+      "updated": 1632328600
+    },
+    {
+      "id": "614b5b98d1a02f00003870b1",
+      "text": "\t\tレギュレーション違反かな？",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632328600,
+      "updated": 1632328618
+    },
+    {
+      "id": "614b5b96d1a02f00003870b0",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1632328598,
+      "updated": 1632328598
     }
   ]
 }

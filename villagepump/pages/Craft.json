@@ -1,0 +1,43 @@
+{
+  "id": "6097aa862328e7001c6ad6c8",
+  "title": "Craft",
+  "created": 1620552328,
+  "updated": 1620552434,
+  "lines": [
+    {
+      "id": "6097aa862328e7001c6ad6c8",
+      "text": "Craft",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620552328,
+      "updated": 1620552329
+    },
+    {
+      "id": "6097aab079e1130000d64208",
+      "text": "https://www.craft.do/",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620552368,
+      "updated": 1620552368
+    },
+    {
+      "id": "6097aa8979e1130000d64204",
+      "text": " [Notion]と[Scrapbox]の中間みたいなサービス",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620552329,
+      "updated": 1620552434
+    },
+    {
+      "id": "6097aabb79e1130000d64209",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620552380,
+      "updated": 1620552384
+    },
+    {
+      "id": "6097aabb79e1130000d6420a",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1620552380,
+      "updated": 1620552380
+    }
+  ]
+}

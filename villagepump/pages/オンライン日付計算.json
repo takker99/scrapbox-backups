@@ -2,7 +2,7 @@
   "id": "6055e1fdf7d2ce001cfc44bd",
   "title": "オンライン日付計算",
   "created": 1616241150,
-  "updated": 1616424461,
+  "updated": 1618640918,
   "lines": [
     {
       "id": "6055e1fdf7d2ce001cfc44bd",
@@ -13,38 +13,17 @@
     },
     {
       "id": "6055e1fe246f590000f9145a",
-      "text": "https://idobata-diary.herokuapp.com/dc/2042/4/1",
+      "text": "https://idy.herokuapp.com/dc/2042/4/1",
       "userId": "6055950b87138f0022246f59",
       "created": 1616241150,
-      "updated": 1616424455
+      "updated": 1618640918
     },
     {
-      "id": "6055e1fe246f590000f9145b",
-      "text": "https://idobata-diary.herokuapp.com/dc/1958/3/17",
+      "id": "60791675246f5900007c8bce",
+      "text": "[日付計算SVG]もあるヨ",
       "userId": "6055950b87138f0022246f59",
-      "created": 1616241151,
-      "updated": 1616424461
-    },
-    {
-      "id": "6055e211246f590000f9145c",
-      "text": "[https://i.imgur.com/LScKkdk.png]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616241170,
-      "updated": 1616241249
-    },
-    {
-      "id": "6055e261246f590000f9145e",
-      "text": "　これを[svg]にできると良さそう",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1616241249,
-      "updated": 1616241260
-    },
-    {
-      "id": "60565dba8ee92a000078b980",
-      "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1616272826,
-      "updated": 1616272829
+      "created": 1618548342,
+      "updated": 1618548373
     },
     {
       "id": "60565d998ee92a000078b97e",

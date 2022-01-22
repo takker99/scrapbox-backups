@@ -1,0 +1,50 @@
+{
+  "id": "608e5094a6274c001c2056bf",
+  "title": "トラッカーズヒッチ",
+  "created": 1619939480,
+  "updated": 1619941457,
+  "lines": [
+    {
+      "id": "608e5094a6274c001c2056bf",
+      "text": "トラッカーズヒッチ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1619939480,
+      "updated": 1619939480
+    },
+    {
+      "id": "608e50975b98c200009811b6",
+      "text": "[トラック]の荷台などに荷物を固定する縛り方",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619939480,
+      "updated": 1619941441
+    },
+    {
+      "id": "608e50c15b98c200009811b8",
+      "text": "[https://en.wikipedia.org/wiki/Trucker%27s_hitch Trucker's hitch - Wikipedia]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1619939522,
+      "updated": 1619939543
+    },
+    {
+      "id": "608e50d65b98c200009811b9",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1619939543,
+      "updated": 1619939543
+    },
+    {
+      "id": "608e58438ee92a0000cda810",
+      "text": " 荷物運ぶとき便利 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619941443,
+      "updated": 1619941457
+    },
+    {
+      "id": "608e58458ee92a0000cda811",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1619941446,
+      "updated": 1619941446
+    }
+  ]
+}

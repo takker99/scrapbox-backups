@@ -2,7 +2,7 @@
   "id": "5ffac9107d8467001c63d09b",
   "title": "使っているキーボード",
   "created": 1610270996,
-  "updated": 1610339008,
+  "updated": 1617122583,
   "lines": [
     {
       "id": "5ffac9107d8467001c63d09b",
@@ -68,13 +68,6 @@
       "updated": 1610295453
     },
     {
-      "id": "5ffac92679d3a9000001c971",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1610271014,
-      "updated": 1610271014
-    },
-    {
       "id": "5ffac92679d3a9000001c972",
       "text": " [Majestouch テンキーレス https://www.diatec.co.jp/products/det.php?prod_c=2637][p5w.icon]",
       "userId": "5a4873ab2e26fb001479d3a9",
@@ -87,6 +80,41 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1610323061,
       "updated": 1610323134
+    },
+    {
+      "id": "606166451280f00000d8d378",
+      "text": " そのへんにあったキーボード[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616995910,
+      "updated": 1616995919
+    },
+    {
+      "id": "606166521280f00000d8d37a",
+      "text": "  なぜか知らないけどたくさん転がっている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616995923,
+      "updated": 1616995931
+    },
+    {
+      "id": "606166851280f00000d8d37b",
+      "text": "  DELLとGatewayがほとんど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616995974,
+      "updated": 1616995980
+    },
+    {
+      "id": "6061668b1280f00000d8d37c",
+      "text": "   すごく黄ばんでいたり汚れがこびりついていたりする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616995980,
+      "updated": 1616995998
+    },
+    {
+      "id": "606166461280f00000d8d379",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616995911,
+      "updated": 1616995911
     },
     {
       "id": "5ffac92779d3a9000001c973",
@@ -104,10 +132,24 @@
     },
     {
       "id": "5ffac94679d3a9000001c976",
-      "text": "\t MBAは普通に内臓キーボード使ってるが……",
+      "text": "\t MBAは普通に[- 内臓]内蔵キーボード使ってるが……",
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1610271045,
-      "updated": 1610271058
+      "updated": 1617096476
+    },
+    {
+      "id": "6062ef1c79d3a90000a65be2",
+      "text": "\t \t内臓キーボードｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617096477,
+      "updated": 1617096507
+    },
+    {
+      "id": "6062fcef246f5900001db310",
+      "text": "\t \t[- キーボード沼になるとCTスキャンにも映るのか]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617100014,
+      "updated": 1617100037
     },
     {
       "id": "5ffaca2779d3a90000af42a7",
@@ -119,9 +161,9 @@
     {
       "id": "5ffac9f74bb2e200009c4692",
       "text": "[kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1610271158,
-      "updated": 1610271158
+      "updated": 1617096505
     },
     {
       "id": "5ffac9f84bb2e200009c4693",
@@ -166,6 +208,34 @@
       "updated": 1610339008
     },
     {
+      "id": "606128a28ee92a00002b0a5a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1616980130,
+      "updated": 1616980130
+    },
+    {
+      "id": "606128a28ee92a00002b0a5b",
+      "text": "[増井俊之.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1616980130,
+      "updated": 1616994165
+    },
+    {
+      "id": "606128a38ee92a00002b0a5c",
+      "text": " US配列のノートパソコンのキーボード",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1616980132,
+      "updated": 1616980139
+    },
+    {
+      "id": "606128ae8ee92a00002b0a5d",
+      "text": " 少し前のMacBookのは最悪だったけど最近のは大丈夫 (2021春)",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1616980143,
+      "updated": 1616980166
+    },
+    {
       "id": "5ffac9f84bb2e200009c4694",
       "text": "",
       "userId": "5e8944948a182900174bb2e2",
@@ -185,6 +255,216 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1610326310,
       "updated": 1610326310
+    },
+    {
+      "id": "6061f5cadb62ad0000db4533",
+      "text": "[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032650,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4534",
+      "text": "[Macally Small Wireless Keyboard and Mouse Combo https://www.amazon.com/dp/B081549BN2]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4535",
+      "text": "　このキーボードの良いところ",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f703db62ad0000db4545",
+      "text": "　　無線",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032963,
+      "updated": 1617032965
+    },
+    {
+      "id": "6061f705db62ad0000db4546",
+      "text": "　　安い",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032965,
+      "updated": 1617032966
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4536",
+      "text": "　　軽くて小さい",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4537",
+      "text": " 　標準的なUS配列",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4538",
+      "text": " 　Function Keyが12まで揃っていてFn修飾不要",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4539",
+      "text": " 　\tChromeの開発者ツールとかVSCodeの関数ジャンプにすぐアクセスしたい",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db453a",
+      "text": " 　Insert, PrtScn, ScrLkがFn修飾すれば使える",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db453b",
+      "text": " 　　PrtScnは普通によく使う",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db453c",
+      "text": " 　\tなにかの拍子にScrLkやInsertに入ってしまい抜けるのに苦労することがない([yanma.icon]はなぜかこれがよくある…)",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db453d",
+      "text": " 　電池式",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db453e",
+      "text": " 　\tWirelessなのにWiredで充電したくない",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db453f",
+      "text": " 　\tエネループを使っている",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4540",
+      "text": " 　ドングル式",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4541",
+      "text": " 　\t組み込み屋さんなのでよく分からない組み込みOSやBIOSでも使えるのは結構重要",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4542",
+      "text": " 　1個のドングルでマウスとキーボードを両方使える",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4543",
+      "text": "　日本のマーケットにこれを全部満たす製品が意外になくて、3台ぐらい輸入して取ってある(壊れたら買い足す予定)",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "6061f5cbdb62ad0000db4544",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1617032651,
+      "updated": 1617032651
+    },
+    {
+      "id": "606293f6068484000099acec",
+      "text": "[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617073143,
+      "updated": 1617073143
+    },
+    {
+      "id": "606293f7068484000099aced",
+      "text": "[https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard Keychron K2の赤軸]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617073144,
+      "updated": 1617073169
+    },
+    {
+      "id": "60629403068484000099acee",
+      "text": "\tbluetoothキーボードが欲しかったが接続不良が怖くて有線との両対応のが欲しかった",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617073155,
+      "updated": 1617073224
+    },
+    {
+      "id": "60629457068484000099acf0",
+      "text": " \tbluetoothの接続自体に問題は無かったけど結局有線で使ってる…",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617073240,
+      "updated": 1617073371
+    },
+    {
+      "id": "60629469068484000099acf1",
+      "text": "\t省サイズなので横にペンタブ（[https://store.wacom.jp/products/detail.php?product_id=3513 Intuos Pro Medium]）を置ける、便利",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1617073258,
+      "updated": 1617073474
+    },
+    {
+      "id": "606354dae35cab00007a4381",
+      "text": "",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122519,
+      "updated": 1617122552
+    },
+    {
+      "id": "606354dbe35cab00007a4382",
+      "text": "[ErgoDash][asaka_s.icon]",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122520,
+      "updated": 1617122583
+    },
+    {
+      "id": "606354e2e35cab00007a4384",
+      "text": "\t自作キーボード民",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122527,
+      "updated": 1617122567
+    },
+    {
+      "id": "6063550be35cab00007a4385",
+      "text": "\tスプリットこそ至高…",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122568,
+      "updated": 1617122580
+    },
+    {
+      "id": "606354e1e35cab00007a4383",
+      "text": "",
+      "userId": "60634fe5518d3b0023e35cab",
+      "created": 1617122526,
+      "updated": 1617122526
     }
   ]
 }

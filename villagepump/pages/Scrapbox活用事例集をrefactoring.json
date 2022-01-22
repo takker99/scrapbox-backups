@@ -2,7 +2,7 @@
   "id": "603a247b40407e001cc32ca5",
   "title": "Scrapbox活用事例集をrefactoring",
   "created": 1614423167,
-  "updated": 1614582255,
+  "updated": 1629223153,
   "lines": [
     {
       "id": "603a247b40407e001cc32ca5",
@@ -255,6 +255,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614423350,
       "updated": 1614423967
+    },
+    {
+      "id": "60711f6e8ee92a0000b1a022",
+      "text": " 　\t大規模修正してもらって大丈夫ですよ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1618026351,
+      "updated": 1618026363
     },
     {
       "id": "603a25791280f00000922097",
@@ -822,6 +829,97 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1614429790,
       "updated": 1614429790
+    },
+    {
+      "id": "6071798379d3a90000b8de0d",
+      "text": "紹介ページを機械的につくってしまうというアイデアをこねている（こねていた）[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049411,
+      "updated": 1618049619
+    },
+    {
+      "id": "6071798c79d3a90000b8de0e",
+      "text": " [/sta/Scrapbox活用事例集の別アイデア]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049421,
+      "updated": 1618049421
+    },
+    {
+      "id": "6071798279d3a90000b8de0c",
+      "text": "\t\t＜サムネにアイコン出て恥ずかしいので削除ｗ＞",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049411,
+      "updated": 1618049880
+    },
+    {
+      "id": "607183a11280f00000d04ea2",
+      "text": "\t\t 草",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618052002,
+      "updated": 1618052005
+    },
+    {
+      "id": "607179a679d3a90000b8de10",
+      "text": "\t\t（たとえば）project情報とmain page",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049446,
+      "updated": 1618049635
+    },
+    {
+      "id": "607179b579d3a90000b8de11",
+      "text": "\t\tmain pageは何するか迷うが、とりあえずmost linkedの上位nとか？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049461,
+      "updated": 1618049641
+    },
+    {
+      "id": "60717a0b79d3a90000b8de14",
+      "text": "\t\t\tmain pageを全部リンクにすれば、キーワードレベルでどんどん他のページと繋がっていく（かもしれない）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049548,
+      "updated": 1618049572
+    },
+    {
+      "id": "607179a379d3a90000b8de0f",
+      "text": "  面白そう[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1618049443,
+      "updated": 1618051787
+    },
+    {
+      "id": "60717ab079d3a90000b8de18",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1618049713,
+      "updated": 1618049713
+    },
+    {
+      "id": "611bf8bf385a920000a3ac7f",
+      "text": "　projectでreadmeとか自己紹介があるなら[引用]して[ブラケティング]すると良さそ[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629223102,
+      "updated": 1629223128
+    },
+    {
+      "id": "611bf8be385a920000a3ac7e",
+      "text": "",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629223101,
+      "updated": 1629223101
+    },
+    {
+      "id": "611bf8e5385a920000a3ac81",
+      "text": "　ココが面白かったです、とか勝手にページリンク貼って感想書くとか[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629223140,
+      "updated": 1629223153
+    },
+    {
+      "id": "611bf8e4385a920000a3ac80",
+      "text": "",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1629223139,
+      "updated": 1629223139
     },
     {
       "id": "603c7e5f1280f000000bd310",

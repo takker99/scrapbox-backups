@@ -2,7 +2,7 @@
   "id": "6003abc1bc11c20037941e9a",
   "title": "yanma",
   "created": 1610853313,
-  "updated": 1615823017,
+  "updated": 1617810920,
   "lines": [
     {
       "id": "6003abc1bc11c20037941e9a",
@@ -68,18 +68,18 @@
       "updated": 1610853378
     },
     {
-      "id": "6003ac00db62ad00009696d0",
-      "text": " [yanma (@yanma) / Twitter https://twitter.com/yanma]",
+      "id": "606dd5dedb62ad00004a9124",
+      "text": "　[@yanma / Twitter https://twitter.com/yanma]",
       "userId": "5b8d55ab7d11180014db62ad",
-      "created": 1610853378,
-      "updated": 1610853381
+      "created": 1617810910,
+      "updated": 1617810920
     },
     {
-      "id": "604f80a9db62ad000007ede2",
+      "id": "6003ac00db62ad00009696d0",
       "text": " [/yanma]",
       "userId": "5b8d55ab7d11180014db62ad",
-      "created": 1615823017,
-      "updated": 1615823017
+      "created": 1610853378,
+      "updated": 1616919051
     },
     {
       "id": "6003ac04db62ad00009696d2",

@@ -2,7 +2,7 @@
   "id": "60079a427ea9fd0022140b43",
   "title": "2021/01/21",
   "created": 1611110981,
-  "updated": 1614270137,
+  "updated": 1632914927,
   "lines": [
     {
       "id": "60079a427ea9fd0022140b43",
@@ -334,6 +334,13 @@
       "updated": 1611283856
     },
     {
+      "id": "60627b181280f000001a6678",
+      "text": "   [DocumentOrShadowRoot.elementsFromPoint()]ならいけそうです！[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617066778,
+      "updated": 1617066804
+    },
+    {
       "id": "600bf44c4bb2e20000cff288",
       "text": "  文字を総舐めして計算をするという手を思い付いた、こっそりリバースしてもそんな感じになっているのでこの方針でいくことにした",
       "userId": "5e8944948a182900174bb2e2",
@@ -342,10 +349,10 @@
     },
     {
       "id": "600974d14bb2e20000e0df4d",
-      "text": "",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "[https://gyazo.com/2d174f927cdda751511d391d8bef26d3]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1611232364,
-      "updated": 1611232364
+      "updated": 1621570733
     },
     {
       "id": "6008d157d438750000e578da",
@@ -454,10 +461,10 @@
     },
     {
       "id": "6008e99ca3368200009562ea",
-      "text": "\t今までAdblockerを入れたSafari(検索は[DuckDuckGo])をMacのbrowserとして使っていたけれどBrave(engine:duckduckgo)にした",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "\t今までAdblockerを入れたSafari(検索は[DuckDuckGo])をMacのbrowserとして使っていたけれど[Brave](engine:duckduckgo)にした",
+      "userId": "6055950b87138f0022246f59",
       "created": 1611196829,
-      "updated": 1611202447
+      "updated": 1621570755
     },
     {
       "id": "6008eb62a3368200009562f2",
@@ -636,10 +643,10 @@
     },
     {
       "id": "600965b51280f00000dbd852",
-      "text": " \t　  [/icons2/deno.icon]の[TextDecoder]に[Shift-JIS]を変換するコードが実装されていない",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " \t　  [/icons2/deno.icon]の[TextDecoder]に[ShiftJIS]を変換するコードが実装されていない",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611228597,
-      "updated": 1612625293
+      "updated": 1632914927
     },
     {
       "id": "600965eb1280f00000dbd853",

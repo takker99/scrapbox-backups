@@ -2,7 +2,7 @@
   "id": "5ff9827f3f0fe6001cde72f1",
   "title": "Microsoft 365",
   "created": 1610187393,
-  "updated": 1611725631,
+  "updated": 1617376511,
   "lines": [
     {
       "id": "5ff9827f3f0fe6001cde72f1",
@@ -59,6 +59,13 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1611725618,
       "updated": 1611725631
+    },
+    {
+      "id": "606734d5ba282000006e28b0",
+      "text": " \t　というか、劣化Wiki",
+      "userId": "5ba2d60734d3b00013ba2820",
+      "created": 1617376469,
+      "updated": 1617376511
     },
     {
       "id": "6010faf80553320000d5b90b",

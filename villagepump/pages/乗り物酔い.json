@@ -1,0 +1,190 @@
+{
+  "id": "6128efa5dd3b3e0023b02914",
+  "title": "乗り物酔い",
+  "created": 1630072744,
+  "updated": 1630141044,
+  "lines": [
+    {
+      "id": "6128efa5dd3b3e0023b02914",
+      "text": "乗り物酔い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072744,
+      "updated": 1630072747
+    },
+    {
+      "id": "6128efab1280f00000fddb3c",
+      "text": " する[takker.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630072747,
+      "updated": 1630110807
+    },
+    {
+      "id": "6128efd31280f00000fddb44",
+      "text": " しない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072787,
+      "updated": 1630072790
+    },
+    {
+      "id": "6128f5c38ee92a00002e03bd",
+      "text": " することもある [増井俊之.icon][yosider.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630074308,
+      "updated": 1630115545
+    },
+    {
+      "id": "6128f5c88ee92a00002e03be",
+      "text": "  変な船に乗ると大変 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630074312,
+      "updated": 1630074321
+    },
+    {
+      "id": "612996d879d3a90000fdf722",
+      "text": "  本読んだりとかしてるとなる[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1630115546,
+      "updated": 1630115551
+    },
+    {
+      "id": "6128efd21280f00000fddb43",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072785,
+      "updated": 1630072785
+    },
+    {
+      "id": "6128efac1280f00000fddb3d",
+      "text": "乗り物によって言い方が変わる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072747,
+      "updated": 1630072761
+    },
+    {
+      "id": "6128efb91280f00000fddb3f",
+      "text": " [車酔い]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072761,
+      "updated": 1630072764
+    },
+    {
+      "id": "6128efbe1280f00000fddb40",
+      "text": " [船酔い]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072766,
+      "updated": 1630072768
+    },
+    {
+      "id": "6128efc11280f00000fddb41",
+      "text": " [電車酔い]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072769,
+      "updated": 1630072778
+    },
+    {
+      "id": "6128efcb1280f00000fddb42",
+      "text": " [飛行機酔い]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072779,
+      "updated": 1630072783
+    },
+    {
+      "id": "6128efad1280f00000fddb3e",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072748,
+      "updated": 1630072748
+    },
+    {
+      "id": "6128efdc1280f00000fddb45",
+      "text": "車を運転すると車酔いしないと聞くが、本当なのだろうか[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072796,
+      "updated": 1630072811
+    },
+    {
+      "id": "6128efec1280f00000fddb47",
+      "text": " まあ本当だとは思うけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072812,
+      "updated": 1630072818
+    },
+    {
+      "id": "6128eff21280f00000fddb48",
+      "text": "  どんなに荒れた道でも自転車酔いしないことから推測した",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1630072818,
+      "updated": 1630072863
+    },
+    {
+      "id": "6128f5db8ee92a00002e03bf",
+      "text": " 車を運転しながら酔う奴は見たことあります [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630074331,
+      "updated": 1630074350
+    },
+    {
+      "id": "6128efdf1280f00000fddb46",
+      "text": "  珍しいけどね",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630072799,
+      "updated": 1630074356
+    },
+    {
+      "id": "6128fb181280f0000096c141",
+      "text": "  [/icons2/まじか.icon][takker.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630075672,
+      "updated": 1630104716
+    },
+    {
+      "id": "6129c0fe8ee92a00002e040d",
+      "text": "  その人物は郵便配達やってたのだけど、自転車でも酔うのだと言ってた [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630126334,
+      "updated": 1630126364
+    },
+    {
+      "id": "6129c1288ee92a00002e040e",
+      "text": "   どうやって仕事してたのかフシギだ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1630126377,
+      "updated": 1630126385
+    },
+    {
+      "id": "6128f5ef8ee92a00002e03c0",
+      "text": "　助手席でも後ろの席より酔いにくいと思う[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1630074352,
+      "updated": 1630104707
+    },
+    {
+      "id": "61298461a19e4000006e5f85",
+      "text": "　運転する時は酔わなかった[kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1630110818,
+      "updated": 1630110831
+    },
+    {
+      "id": "61296c69e5172d000044747b",
+      "text": " 運転するようになってから酔わなくなった[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1630104681,
+      "updated": 1630140986
+    },
+    {
+      "id": "6129fa3d5b98c2000067c5e0",
+      "text": "  あと、高級車はサスペンションが良いせいか酔いにくいようだ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1630140989,
+      "updated": 1630141044
+    },
+    {
+      "id": "6129fa255b98c2000067c5df",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1630140965,
+      "updated": 1630140965
+    }
+  ]
+}

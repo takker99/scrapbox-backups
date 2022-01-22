@@ -1,0 +1,29 @@
+{
+  "id": "60af5b5346e44700227eaec7",
+  "title": "ふくろうカフェ",
+  "created": 1622104917,
+  "updated": 1622104922,
+  "lines": [
+    {
+      "id": "60af5b5346e44700227eaec7",
+      "text": "ふくろうカフェ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622104917,
+      "updated": 1622104917
+    },
+    {
+      "id": "60af5b541280f000002716ed",
+      "text": "そんなのあるの！？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622104917,
+      "updated": 1622104922
+    },
+    {
+      "id": "60af5b581280f000002716ee",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1622104920,
+      "updated": 1622104920
+    }
+  ]
+}

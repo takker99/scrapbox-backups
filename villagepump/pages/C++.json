@@ -2,7 +2,7 @@
   "id": "5f84455f069d9e0038799ae0",
   "title": "C++",
   "created": 1602504034,
-  "updated": 1610326360,
+  "updated": 1617411072,
   "lines": [
     {
       "id": "5f84455f069d9e0038799ae0",
@@ -17,6 +17,13 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1602504034,
       "updated": 1602504121
+    },
+    {
+      "id": "6067a18e8ee92a000072d180",
+      "text": "[https://ja.wikipedia.org/wiki/C%2B%2B C++ - Wikipedia]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617404302,
+      "updated": 1617404302
     },
     {
       "id": "5f8445625b98c20000150731",
@@ -45,6 +52,13 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1602516071,
       "updated": 1602516071
+    },
+    {
+      "id": "6067bbcb03b2100000a5383c",
+      "text": " 　頭ヾ(・ω・*) 触りたい",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1617411017,
+      "updated": 1617411072
     },
     {
       "id": "5f847466dd59fe00005ff23c",
@@ -82,18 +96,32 @@
       "updated": 1602504167
     },
     {
-      "id": "5f84462d5b98c20000150735",
-      "text": "[https://ja.wikipedia.org/wiki/C%2B%2B C++ - Wikipedia]",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1602504237,
-      "updated": 1602504257
+      "id": "6067a1928ee92a000072d181",
+      "text": " 1982ごろは「C with classes」という名前だった [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617404306,
+      "updated": 1617404335
     },
     {
       "id": "5f8446415b98c20000150736",
-      "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "  `cfront`というプリプロセッサでコードをCに変換する仕組みだった",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1602504257,
-      "updated": 1602504257
+      "updated": 1617404360
+    },
+    {
+      "id": "6067a1d58ee92a000072d183",
+      "text": "  便利なトコもあるのかな、という印象だったが利用するのに挫折した ⇒ 現在に至る [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617404374,
+      "updated": 1617404425
+    },
+    {
+      "id": "6067a1b28ee92a000072d182",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617404339,
+      "updated": 1617404339
     }
   ]
 }

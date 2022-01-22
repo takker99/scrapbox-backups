@@ -2,7 +2,7 @@
   "id": "603be81aee8b6f001cc2c3c4",
   "title": "OSD",
   "created": 1614538781,
-  "updated": 1614552304,
+  "updated": 1619930196,
   "lines": [
     {
       "id": "603be81aee8b6f001cc2c3c4",
@@ -12,25 +12,18 @@
       "updated": 1614538781
     },
     {
+      "id": "608e2c50246f590000c7968a",
+      "text": "　On Screen Display",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1619930192,
+      "updated": 1619930196
+    },
+    {
       "id": "603be81e75892100006c1cd7",
-      "text": "親が",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": " 親が 死んだら どうしよう の[略]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1614538781,
-      "updated": 1614538784
-    },
-    {
-      "id": "603be82175892100006c1cd9",
-      "text": "死んだら",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614538784,
-      "updated": 1614538786
-    },
-    {
-      "id": "603be82375892100006c1cda",
-      "text": "どうしよう の[略]",
-      "userId": "60226bcd2fbabe0022758921",
-      "created": 1614538786,
-      "updated": 1614552304
+      "updated": 1619930191
     },
     {
       "id": "603be82175892100006c1cd8",

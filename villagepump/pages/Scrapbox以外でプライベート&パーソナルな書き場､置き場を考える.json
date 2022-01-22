@@ -2,7 +2,7 @@
   "id": "5f9e0f690cbfc7001e21c226",
   "title": "Scrapbox以外でプライベート&パーソナルな書き場､置き場を考える",
   "created": 1604194159,
-  "updated": 1607396717,
+  "updated": 1617881239,
   "lines": [
     {
       "id": "5f9e0f690cbfc7001e21c226",
@@ -68,27 +68,6 @@
       "updated": 1604196239
     },
     {
-      "id": "5f9e12021280f00000a3589b",
-      "text": " 　　BIUってなんぞ？",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1604194818,
-      "updated": 1604196255
-    },
-    {
-      "id": "5f9e179fa9f4740000d650d8",
-      "text": " 　　 [* ボールド]､[/ イタリック]､[_ アンダーライン]",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604196255,
-      "updated": 1604196276
-    },
-    {
-      "id": "5f9e12081280f00000a3589c",
-      "text": " 　　調べても出てこなかった",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1604194824,
-      "updated": 1604194828
-    },
-    {
       "id": "5f9e10b9a9f4740000b83b44",
       "text": " カスタマイズが増えていくのは､何かが間違っていると考えてしまう",
       "userId": "5f7bafa76f34a0001ea9f474",
@@ -97,10 +76,10 @@
     },
     {
       "id": "5f9e10dca9f4740000b83b46",
-      "text": " 　UserCSSやUserScript便利だけど､それはそれでフレーミングしていると思う",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "  　UserCSSやUserScript便利だけど､それはそれでflamingしていると思う",
+      "userId": "6055950b87138f0022246f59",
       "created": 1604194524,
-      "updated": 1604194553
+      "updated": 1617881227
     },
     {
       "id": "5f9e10f9a9f4740000b83b48",
@@ -108,20 +87,6 @@
       "userId": "5f7bafa76f34a0001ea9f474",
       "created": 1604194553,
       "updated": 1604194570
-    },
-    {
-      "id": "5f9e123d1280f00000a3589e",
-      "text": " 　 フレーミング=[framing]?",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1604194877,
-      "updated": 1604196220
-    },
-    {
-      "id": "5f9e177ca9f4740000d650d6",
-      "text": " 　  そう",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604196220,
-      "updated": 1604196221
     },
     {
       "id": "5f9e100ba9f4740000b83b39",
@@ -216,52 +181,10 @@
     },
     {
       "id": "5f9e0f86a9f4740000b83b30",
-      "text": "　プレーンテキストで管理",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "　[プレーンテキスト]で管理",
+      "userId": "6055950b87138f0022246f59",
       "created": 1604194182,
-      "updated": 1604214245
-    },
-    {
-      "id": "5f9e5e1ea9f4740000fea663",
-      "text": "　　[UserLocalのツール https://textmining.userlocal.jp/]にペッと貼るだけで[ワードクラウド]を作ってくれる",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604214303,
-      "updated": 1604214515
-    },
-    {
-      "id": "5f9e5e37a9f4740000fea664",
-      "text": " 　　例:今日の[dnin.icon]のなぐり書き",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604214327,
-      "updated": 1613112352
-    },
-    {
-      "id": "5f9e5e3fa9f4740000fea665",
-      "text": " 　　[https://i.imgur.com/BO3cWFS.png]",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604214335,
-      "updated": 1604214567
-    },
-    {
-      "id": "5f9e5ebba9f47400003c7c65",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604214459,
-      "updated": 1604214459
-    },
-    {
-      "id": "5f9e0f8ea9f4740000b83b32",
-      "text": "   [https://i.imgur.com/iJLnBqk.png]",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604194190,
-      "updated": 1604214567
-    },
-    {
-      "id": "5f9e5f09a9f47400003c7c67",
-      "text": "    ああ､偽らざる自分って感じ",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604214537,
-      "updated": 1604214567
+      "updated": 1617881206
     },
     {
       "id": "5f9e5f06a9f47400003c7c66",
@@ -321,10 +244,10 @@
     },
     {
       "id": "5f9e10ba1280f00000c940fa",
-      "text": "　 デメリットは[Scrapboxに向いてない人]や[Scrapboxの未解決問題]を見るとわかるかもしれない",
+      "text": "　 デメリットは[Scrapboxが合わない人]や[Scrapboxの未解決問題]を見るとわかるかもしれない",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1604194491,
-      "updated": 1604194511
+      "updated": 1629725888
     },
     {
       "id": "5f9e0f85a9f4740000b83b2e",

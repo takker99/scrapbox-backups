@@ -2,7 +2,7 @@
   "id": "60483c41337978001c342cc2",
   "title": "Page MenuからScrapCalcを動かす",
   "created": 1615346755,
-  "updated": 1615559385,
+  "updated": 1627798763,
   "lines": [
     {
       "id": "60483c41337978001c342cc2",
@@ -174,24 +174,24 @@
     },
     {
       "id": "60483c438ee92a000025ff27",
-      "text": " [= a = 10] [= b = 20]",
+      "text": " [% a = 10] [% b = 20]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615346755,
-      "updated": 1615346755
+      "updated": 1627798708
     },
     {
       "id": "60483c438ee92a000025ff28",
-      "text": "  a × b = [= a * b ]",
+      "text": "  a × b = [% a * b ]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615346755,
-      "updated": 1615424220
+      "updated": 1627798710
     },
     {
       "id": "60486a9c8ee92a0000de1f9e",
-      "text": " 東京オリンピックまで [= Math.floor((new Date(2021,7,23) - Date.now()) / (24 * 60 * 60 * 1000))] 日",
+      "text": " 東京オリンピックまで [% Math.floor((new Date(2021,7,23) - Date.now()) / (24 * 60 * 60 * 1000))] 日",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615358621,
-      "updated": 1615358623
+      "updated": 1627798719
     },
     {
       "id": "60496aae8ee92a0000dcc93c",
@@ -202,10 +202,10 @@
     },
     {
       "id": "60496fa38ee92a0000f38508",
-      "text": "  東京オリンピックまで [= Math.floor((new Date(2021,6,23) - Date.now()) / (24 * 60 * 60 * 1000))] 日 が正しいようだ",
+      "text": "  東京オリンピックまで [% Math.floor((new Date(2021,6,23) - Date.now()) / (24 * 60 * 60 * 1000))] 日 が正しいようだ",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615425444,
-      "updated": 1615425470
+      "updated": 1627798731
     },
     {
       "id": "604b7ab4e5172d00004fb219",
@@ -244,24 +244,24 @@
     },
     {
       "id": "6048d8178ee92a00000febb7",
-      "text": "  [$ \\sqrt{2}] = [= Math.sqrt(2)]",
+      "text": "  [$ \\sqrt{2}] = [% Math.sqrt(2)]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615386648,
-      "updated": 1615386691
+      "updated": 1627798744
     },
     {
       "id": "6048d81c8ee92a00000febb8",
-      "text": "  今日の日付 = [= Date()]",
+      "text": "  今日の日付 = [% Date()]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615386652,
-      "updated": 1615386704
+      "updated": 1627798746
     },
     {
       "id": "604842ed8ee92a0000facd77",
-      "text": "  PI = [= Math.atan(1) * 4]",
+      "text": "  PI = [% Math.atan(1) * 4]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615348462,
-      "updated": 1615355875
+      "updated": 1627798749
     },
     {
       "id": "604875441280f000008a4a40",
@@ -370,10 +370,10 @@
     },
     {
       "id": "60483c438ee92a000025ff31",
-      "text": "`[= 数式 = 0]` ⇒ [= 数式 = 0]",
+      "text": "`[% 数式 = 0]` ⇒ [% 数式 = 0]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615346755,
-      "updated": 1615436477
+      "updated": 1627798763
     },
     {
       "id": "60483c438ee92a000025ff32",

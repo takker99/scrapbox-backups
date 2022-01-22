@@ -1,0 +1,36 @@
+{
+  "id": "612998fd99acc8001d7ccafe",
+  "title": "ディザリング",
+  "created": 1630116115,
+  "updated": 1630116132,
+  "lines": [
+    {
+      "id": "612998fd99acc8001d7ccafe",
+      "text": "ディザリング",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630116115,
+      "updated": 1630116115
+    },
+    {
+      "id": "61299912d1a02f0000a9fc87",
+      "text": "[https://ja.wikipedia.org/wiki/ディザ#デジタル画像とイメージ処理 ディザ - Wikipedia]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630116115,
+      "updated": 1630116117
+    },
+    {
+      "id": "61299913d1a02f0000a9fc88",
+      "text": "> ディザリングは、コンピュータグラフィックスで使われる場合には、制限された色数でそれ以上の色調を表現する技法として使われる。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630116115,
+      "updated": 1630116132
+    },
+    {
+      "id": "61299917d1a02f0000a9fc8a",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630116119,
+      "updated": 1630116119
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "5fdeacec3d5067001cc19cc6",
   "title": "CodeWars",
   "created": 1608428783,
-  "updated": 1611703340,
+  "updated": 1620180325,
   "lines": [
     {
       "id": "5fdeacec3d5067001cc19cc6",
@@ -34,10 +34,17 @@
     },
     {
       "id": "5fdeacefd43875000016b26b",
-      "text": "[https://i.imgur.com/5qI3BxP.png]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[https://gyazo.com/07fa48f292d150a780ef765c405ca359]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1608428783,
-      "updated": 1611703340
+      "updated": 1620180325
+    },
+    {
+      "id": "6091fd65246f590000fed85d",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620180325,
+      "updated": 1620180325
     },
     {
       "id": "6010a42bd438750000d16262",

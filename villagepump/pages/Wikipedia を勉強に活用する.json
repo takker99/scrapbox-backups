@@ -2,7 +2,7 @@
   "id": "5f7be025943be2001e25ae1c",
   "title": "Wikipedia を勉強に活用する",
   "created": 1601953833,
-  "updated": 1613128117,
+  "updated": 1628508229,
   "lines": [
     {
       "id": "5f7be025943be2001e25ae1c",
@@ -31,6 +31,13 @@
       "userId": "5ee76ce85f51de0023482754",
       "created": 1601954118,
       "updated": 1601954178
+    },
+    {
+      "id": "6110e445385a920000ec45b0",
+      "text": " 　 結構この差を感じるので、英語版あるなら積極的に見に行くようにしてますね[miyamonz.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628496968,
+      "updated": 1628508020
     },
     {
       "id": "5f7be18648275400007de6a8",
@@ -173,6 +180,20 @@
       "updated": 1601953835
     },
     {
+      "id": "6110e50a385a92000073ce92",
+      "text": "https://ja.wikipedia.org/wiki/Wikipedia:多数の言語版にあるが日本語版にない記事",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1628497165,
+      "updated": 1628497166
+    },
+    {
+      "id": "6110e50c385a92000073ce93",
+      "text": "　こんな記事もあります",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1628497167,
+      "updated": 1628497170
+    },
+    {
       "id": "5f7be02a48275400007de688",
       "text": "",
       "userId": "5ee76ce85f51de0023482754",
@@ -255,6 +276,20 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1613128083,
       "updated": 1613128101
+    },
+    {
+      "id": "611098d28ee92a00008ba102",
+      "text": "  選択部分を翻訳する拡張機能もある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628477650,
+      "updated": 1628477665
+    },
+    {
+      "id": "6110992d8ee92a00008ba103",
+      "text": "   [ImTranslator https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh?hl=ja]とか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628477741,
+      "updated": 1628477750
     },
     {
       "id": "5f7be02a48275400007de692",
@@ -349,10 +384,73 @@
     },
     {
       "id": "5f7be02a48275400007de69d",
-      "text": "",
-      "userId": "5ee76ce85f51de0023482754",
+      "text": " わかる[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1601953835,
-      "updated": 1601953835
+      "updated": 1628508089
+    },
+    {
+      "id": "61110fb879d3a90000c91fb3",
+      "text": " \tTOEIC500くらいだけど、単語も文法も歯が立たない or めっちゃ時間かかる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508090,
+      "updated": 1628508156
+    },
+    {
+      "id": "61110fc679d3a90000c91fb4",
+      "text": " \tStack OverflowやMSDNはまあまあ読めるけど、「文章」が書かれてるWikipediaは本当にきつい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508104,
+      "updated": 1628508222
+    },
+    {
+      "id": "6111103f79d3a90000c91fba",
+      "text": " \t\tRFCを彷彿とさせる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508225,
+      "updated": 1628508229
+    },
+    {
+      "id": "61110fb479d3a90000c91fb2",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508085,
+      "updated": 1628508085
+    },
+    {
+      "id": "6111100e79d3a90000c91fb6",
+      "text": "ぐぐったら英語版ページだけあって日本語版がない、というケースもちょいちょいある[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508176,
+      "updated": 1628508189
+    },
+    {
+      "id": "6111100e79d3a90000c91fb5",
+      "text": " 逆に日本語版があって英語版がない、は見たことない（たぶん）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508175,
+      "updated": 1628508206
+    },
+    {
+      "id": "6111102e79d3a90000c91fb8",
+      "text": " \tありそうだが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508207,
+      "updated": 1628508209
+    },
+    {
+      "id": "6111102079d3a90000c91fb7",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508193,
+      "updated": 1628508211
+    },
+    {
+      "id": "6111103079d3a90000c91fb9",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1628508210,
+      "updated": 1628508210
     },
     {
       "id": "5f7be02a48275400007de69e",

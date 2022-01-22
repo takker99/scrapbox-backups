@@ -2,7 +2,7 @@
   "id": "6002ab969fe7f3002318ef85",
   "title": "update links",
   "created": 1610787740,
-  "updated": 1610788072,
+  "updated": 1620541686,
   "lines": [
     {
       "id": "6002ab969fe7f3002318ef85",
@@ -26,81 +26,11 @@
       "updated": 1613112365
     },
     {
-      "id": "6002ac4be5172d00002ca3aa",
-      "text": "\tリンクの置換をしたいときに、タイトルだけの（まだ無い）ページに行ってタイトルを変更してupdate linksしたら、タイトルだけのページが生成されてしまう（そして消す）[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787914,
-      "updated": 1610787931
-    },
-    {
-      "id": "6002ac65e5172d00002ca3b2",
-      "text": "\t\tfrom [2020/12/14]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787939,
-      "updated": 1610787948
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3ab",
-      "text": "\t\tめんどくさい",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1610787919
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3ac",
-      "text": "\t [/icons/わかる.icon][kuuote.icon][dnin.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1613112365
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3ad",
-      "text": "\t あんまりめんどくさいと感じなかったりする[takker.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1610787919
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3ae",
-      "text": "\t  頻繁にやる動作ではないのでそんなに感じない説ある[kuuote.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1610787919
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3af",
-      "text": "\t  自分の場合だと余計な工程が挟まる時点で「めんどくさっ」とか感じてしまうやつでやってる段階ではそうでもない",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1610787919
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3b0",
-      "text": "\t 一括でupdate linksできるところはありがたいけどページを消すところがめんどくさい[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1610787919
-    },
-    {
-      "id": "6002ac4ee5172d00002ca3b1",
-      "text": "\t \tタイトル変えただけではページを生成しないというのは難しいんだろうか...？",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787916,
-      "updated": 1610787919
-    },
-    {
-      "id": "6002ac78e5172d00002ca3b3",
-      "text": "   update linksをしたあとにページ削除dialogを出すようにscriptを組めば楽になりそう[takker.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1610787958,
-      "updated": 1610788072
-    },
-    {
-      "id": "6002acca1280f00000c93ada",
-      "text": "    誤動作防止のため、本文が空白のページでのみ実行できるようにする",
+      "id": "609780d91280f000009e936a",
+      "text": "\t[空リンクの置換がめんどくさい]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1610788042,
-      "updated": 1610788069
+      "created": 1620541657,
+      "updated": 1620541686
     },
     {
       "id": "6002acaa1280f00000c93ad9",

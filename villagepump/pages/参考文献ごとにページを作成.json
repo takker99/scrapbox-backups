@@ -2,7 +2,7 @@
   "id": "6003d61d2076c70036c79f4f",
   "title": "参考文献ごとにページを作成",
   "created": 1610864159,
-  "updated": 1613647178,
+  "updated": 1623444439,
   "lines": [
     {
       "id": "6003d61d2076c70036c79f4f",
@@ -110,6 +110,13 @@
       "updated": 1613387392
     },
     {
+      "id": "60c3c716e5172d0000e7ca47",
+      "text": "\t[参考文献ページのタイトルに著者の名前を含める]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1623443222,
+      "updated": 1623443293
+    },
+    {
       "id": "602a54ffe5172d0000a2e224",
       "text": "",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -173,6 +180,13 @@
       "updated": 1613388033
     },
     {
+      "id": "60c3cbad1280f000005a7b22",
+      "text": "　　[目次にリンクを貼]るだけでもかなり使い勝手が良くなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623444397,
+      "updated": 1623444439
+    },
+    {
       "id": "602a54ffe5172d0000a2e229",
       "text": "cons",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -185,6 +199,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613387006,
       "updated": 1613387006
+    },
+    {
+      "id": "60c3cb681280f000005a7b21",
+      "text": "　 [ScrapBubble]を使うならほとんど手間にならない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623444329,
+      "updated": 1623444360
     },
     {
       "id": "602a54ffe5172d0000a2e22b",
@@ -202,38 +223,10 @@
     },
     {
       "id": "602a56aee5172d0000a2e251",
-      "text": "\t[shokai: 頭にスッと入ってくる箇条書きの構成方法]",
+      "text": "\t[頭にスッと入ってくる箇条書きの構成方法]",
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613387438,
-      "updated": 1613387446
-    },
-    {
-      "id": "602a56b8e5172d0000a2e253",
-      "text": "\t\tページタイトルに名前を含めるべきなのか",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1613387448,
-      "updated": 1613387474
-    },
-    {
-      "id": "602a56d4e5172d0000a2e254",
-      "text": "\t\t\t名前がないと、参考文献のwrapが主目的のページなのか、自分の思考ベースのページなのかわからない気がする[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1613387475,
-      "updated": 1613410867
-    },
-    {
-      "id": "602a56afe5172d0000a2e252",
-      "text": "　　名前 = 参考文献の著者？[takker.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1613387439,
-      "updated": 1613410750
-    },
-    {
-      "id": "602ab1d9e5172d0000a0dfa1",
-      "text": "　　\tyes[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1613410776,
-      "updated": 1613410778
+      "updated": 1621482803
     },
     {
       "id": "602ab1ad1280f000000f47bd",

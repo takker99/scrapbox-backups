@@ -2,7 +2,7 @@
   "id": "60447d4831e88a001cd87c50",
   "title": "mtane0412",
   "created": 1615101258,
-  "updated": 1615634748,
+  "updated": 1620209103,
   "lines": [
     {
       "id": "60447d4831e88a001cd87c50",
@@ -27,10 +27,10 @@
     },
     {
       "id": "60447d4e55cbd300008377cd",
-      "text": "マイメロが好きすぎてマイメロになってしまった悲しいおじさん",
+      "text": "[マイメロ]が好きすぎてマイメロになってしまった悲しいおじさん",
       "userId": "5ae7fecf7766b7001455cbd3",
       "created": 1615101262,
-      "updated": 1615101271
+      "updated": 1620208986
     },
     {
       "id": "60447d4e55cbd300008377ce",
@@ -52,6 +52,62 @@
       "userId": "6044910bc9a74e001eb19cc3",
       "created": 1615106735,
       "updated": 1615106735
+    },
+    {
+      "id": "60926d4655cbd30000fcc287",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208966,
+      "updated": 1620209001
+    },
+    {
+      "id": "60926d3b55cbd30000fcc286",
+      "text": "個人プロジェクトに投稿する[/villagepump/2021/05/01#608ce31c55cbd30000df0499]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208955,
+      "updated": 1620208964
+    },
+    {
+      "id": "60926d0855cbd3000028c63f",
+      "text": "code: script.js",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208904,
+      "updated": 1620208904
+    },
+    {
+      "id": "60926d1755cbd3000028c645",
+      "text": " scrapbox.PageMenu.addMenu({",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208919,
+      "updated": 1620208919
+    },
+    {
+      "id": "60926d1755cbd3000028c646",
+      "text": "   title: '便所に流す',",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208919,
+      "updated": 1620209103
+    },
+    {
+      "id": "60926d1755cbd3000028c647",
+      "text": "   image: '/api/pages/villagepump/mtane0412/icon',",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208919,
+      "updated": 1620208931
+    },
+    {
+      "id": "60926d1755cbd3000028c648",
+      "text": "   onClick: () => window.open(`https://scrapbox.io/mtane0412/${scrapbox.Page.title}?body=${encodeURIComponent(scrapbox.Page.lines.slice(1).map(line => line.text).join('\\n'))}`)",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208919,
+      "updated": 1620208937
+    },
+    {
+      "id": "60926d1755cbd3000028c649",
+      "text": " });",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1620208919,
+      "updated": 1620208919
     }
   ]
 }

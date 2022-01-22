@@ -2,14 +2,14 @@
   "id": "5fcf71241e5081001c360429",
   "title": "String.prototype.padStart()",
   "created": 1607430441,
-  "updated": 1607430441,
+  "updated": 1619930889,
   "lines": [
     {
       "id": "5fcf71241e5081001c360429",
       "text": "String.prototype.padStart()",
-      "userId": "5fa258bdb102120024d43875",
+      "userId": "6055950b87138f0022246f59",
       "created": 1607430441,
-      "updated": 1607430441
+      "updated": 1619930889
     },
     {
       "id": "5fcf7128d438750000265f2c",

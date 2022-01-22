@@ -1,0 +1,85 @@
+{
+  "id": "613d8385d3ac5e0023f46b02",
+  "title": "Scrapbox で下書きする",
+  "created": 1631421318,
+  "updated": 1631628459,
+  "lines": [
+    {
+      "id": "613d8385d3ac5e0023f46b02",
+      "text": "Scrapbox で下書きする",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631421318,
+      "updated": 1631421318
+    },
+    {
+      "id": "613d8386d1a02f00003e058e",
+      "text": "[hata6502.icon] 意味不明な感じの [UserScript] ができた。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631421318,
+      "updated": 1631421318
+    },
+    {
+      "id": "613d8386d1a02f00003e058f",
+      "text": "[/hata6502/scrapbox-draft]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631421318,
+      "updated": 1631421318
+    },
+    {
+      "id": "613d8386d1a02f00003e0590",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631421318,
+      "updated": 1631421318
+    },
+    {
+      "id": "613de305385a9200009798e7",
+      "text": "なるほど[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631445765,
+      "updated": 1631445767
+    },
+    {
+      "id": "613de308385a9200009798e9",
+      "text": "　下書きの範囲が分かるcssもあると便利そう",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1631445768,
+      "updated": 1631445790
+    },
+    {
+      "id": "613de307385a9200009798e8",
+      "text": "\t\t現状だとごちゃごちゃしていて、下書きの部分と区別がつきにくいですよね。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631445767,
+      "updated": 1631458973
+    },
+    {
+      "id": "613e1665d1a02f00001f9cba",
+      "text": "\t\tUserScript で動的に下書きの範囲を探索して、CSS を当てればいけるかもしれない。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631458917,
+      "updated": 1631459015
+    },
+    {
+      "id": "613f7bddd1a02f0000df8150",
+      "text": "\t\t\tできた！[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631550429,
+      "updated": 1631550518
+    },
+    {
+      "id": "613e1636d1a02f00001f9cb9",
+      "text": "\t\t\t[https://gyazo.com/a0edb1c89f3e88a0dba6012e14c4ac62]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631458871,
+      "updated": 1631550502
+    },
+    {
+      "id": "6140a980d1a02f00009a12dd",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1631627648,
+      "updated": 1631627648
+    }
+  ]
+}

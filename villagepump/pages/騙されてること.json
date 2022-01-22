@@ -2,7 +2,7 @@
   "id": "5fe2abcc3e0918001f3436f9",
   "title": "騙されてること",
   "created": 1608690638,
-  "updated": 1615036830,
+  "updated": 1630853750,
   "lines": [
     {
       "id": "5fe2abcc3e0918001f3436f9",
@@ -90,10 +90,10 @@
     },
     {
       "id": "5fe2abd48ee92a0000a78f58",
-      "text": " gitサイコー ⇒ 謎が大杉",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [git]サイコー ⇒ 謎が大杉",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1608690645,
-      "updated": 1608690645
+      "updated": 1630835756
     },
     {
       "id": "5fe2b8435b98c2000091169e",
@@ -104,31 +104,31 @@
     },
     {
       "id": "5fe2b8615b98c2000091169f",
-      "text": "  Subversionサイコー",
+      "text": "  [Subversion]サイコー",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1608693858,
-      "updated": 1608693971
+      "updated": 1630835762
     },
     {
       "id": "5fe2b8d45b98c200009116a0",
-      "text": "   CVSサイコー",
+      "text": "   [CVS]サイコー",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1608693972,
-      "updated": 1608693990
+      "updated": 1630835766
     },
     {
       "id": "5fe2b8e65b98c200009116a1",
-      "text": "    RCSサイコー",
+      "text": "    [RCS]サイコー",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1608693991,
-      "updated": 1608694006
+      "updated": 1630835769
     },
     {
       "id": "5fe2d8ae8ee92a0000a78f84",
-      "text": "     SCCSサイコー",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "     [SCCS]サイコー",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1608702127,
-      "updated": 1608702130
+      "updated": 1630835773
     },
     {
       "id": "5fe2b8fa5b98c200009116a2",
@@ -146,10 +146,10 @@
     },
     {
       "id": "5fe2abd48ee92a0000a78f59",
-      "text": " GitHubサイコー ⇒ issueが[/icons/わからん.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [GitHub]サイコー ⇒ issueが[/icons/わからん.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1608690645,
-      "updated": 1608690645
+      "updated": 1630835786
     },
     {
       "id": "5fe2abd48ee92a0000a78f5a",
@@ -475,10 +475,17 @@
     },
     {
       "id": "5fe2abd48ee92a0000a78f6f",
-      "text": " 機能が多い物が良い[/shokai/shokai.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " 機能が多い物が良い[/shokai/shokai.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1608690645,
-      "updated": 1608690690
+      "updated": 1630850651
+    },
+    {
+      "id": "613494b7d1a02f0000fd3a35",
+      "text": " \tたしかに[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1630835896,
+      "updated": 1630835900
     },
     {
       "id": "5fe2abd48ee92a0000a78f70",
@@ -619,6 +626,13 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1610270394,
       "updated": 1615036830
+    },
+    {
+      "id": "6134da719a43520000bf1d6e",
+      "text": " 渡る世間に鬼はいない[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1630853745,
+      "updated": 1630853750
     },
     {
       "id": "5fe2abd48ee92a0000a78f81",

@@ -1,0 +1,204 @@
+{
+  "id": "60bf6a88dce4a200228bb076",
+  "title": "目Grep絶対許さないマン",
+  "created": 1623157386,
+  "updated": 1623163475,
+  "lines": [
+    {
+      "id": "60bf6a88dce4a200228bb076",
+      "text": "目Grep絶対許さないマン",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157386,
+      "updated": 1623157386
+    },
+    {
+      "id": "60bf6ab0a3368200006a05c0",
+      "text": "初自作[UserCSS][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157425,
+      "updated": 1623157445
+    },
+    {
+      "id": "60bf7ad41280f00000be7f7e",
+      "text": " [/emoji/tada.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623161556,
+      "updated": 1623161570
+    },
+    {
+      "id": "60bf6a99a3368200006a05ba",
+      "text": "[https://i.gyazo.com/96a714bc779e90616dbd3f2353bc1de0.png]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157401,
+      "updated": 1623157418
+    },
+    {
+      "id": "60bf6b0fa3368200006a05c5",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157519,
+      "updated": 1623157519
+    },
+    {
+      "id": "60bf6b11a3368200006a05c7",
+      "text": "[トップページ]以外はちゃんと見れる",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157521,
+      "updated": 1623157540
+    },
+    {
+      "id": "60bf6b24a3368200006a05c8",
+      "text": "[https://gyazo.com/b0811872673342c90fe3bf69020fd59c]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157541,
+      "updated": 1623157578
+    },
+    {
+      "id": "60bf6f81a3368200006a05d1",
+      "text": "\tここも消した超硬派仕様 : [Page Listを使わない運用]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623158657,
+      "updated": 1623158721
+    },
+    {
+      "id": "60bf6aa9a3368200006a05bf",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157418,
+      "updated": 1623157418
+    },
+    {
+      "id": "60bf6a8aa3368200006a05b2",
+      "text": "code:style.css",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157386,
+      "updated": 1623157398
+    },
+    {
+      "id": "60bf6a95a3368200006a05b6",
+      "text": " /* カードを消す */",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157398,
+      "updated": 1623157398
+    },
+    {
+      "id": "60bf6a95a3368200006a05b7",
+      "text": " .page-list .grid li{",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157398,
+      "updated": 1623157398
+    },
+    {
+      "id": "60bf6a95a3368200006a05b8",
+      "text": "   display: none;",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157398,
+      "updated": 1623157398
+    },
+    {
+      "id": "60bf6a95a3368200006a05b9",
+      "text": " }",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157398,
+      "updated": 1623157398
+    },
+    {
+      "id": "60bf6acaa3368200006a05c2",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157450,
+      "updated": 1623157451
+    },
+    {
+      "id": "60bf6acba3368200006a05c3",
+      "text": "事実上の[非公開]にできる!!",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623157451,
+      "updated": 1623157515
+    },
+    {
+      "id": "60bf6f7aa3368200006a05d0",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623158650,
+      "updated": 1623158650
+    },
+    {
+      "id": "60bf6b25246f590000354d7e",
+      "text": "関連",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623157541,
+      "updated": 1623157542
+    },
+    {
+      "id": "60bf6b26246f590000354d7f",
+      "text": "　[Page Listを使わない運用]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623157542,
+      "updated": 1623157550
+    },
+    {
+      "id": "60bf6b23246f590000354d7d",
+      "text": " [/customize/pin留めしたページ以外を見えなくするUserCSS]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623157541,
+      "updated": 1623158744
+    },
+    {
+      "id": "60bf6fd81280f0000056671b",
+      "text": "  [Pin留めページ]だけ残すやつ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623158744,
+      "updated": 1623158753
+    },
+    {
+      "id": "60bf700ca3368200006a05d2",
+      "text": "  \tこれ完全に上位互換じゃん.....[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623158796,
+      "updated": 1623158820
+    },
+    {
+      "id": "60bf748b1280f00000acfb96",
+      "text": "  \t すまぬ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623159948,
+      "updated": 1623159950
+    },
+    {
+      "id": "60bf8206246f5900000b424f",
+      "text": "  \t  今日念じてたら[takker.icon]がこれ書いてた。[井戸端マジック]だ！[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1623163399,
+      "updated": 1623163475
+    },
+    {
+      "id": "60bf6f541280f0000056671a",
+      "text": "\t\t\tまた何かしょうもないUserCSS書きます",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623158612,
+      "updated": 1623158846
+    },
+    {
+      "id": "60bf75831280f00000785e9a",
+      "text": "\t\t\tいっそのことPin留めだけにしたtop pageをHome pageっぽく改造しちゃうのもよさそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623160195,
+      "updated": 1623160222
+    },
+    {
+      "id": "60bf759d1280f00000785e9b",
+      "text": "\t\t\t [/katolab]な感じに",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1623160222,
+      "updated": 1623160225
+    },
+    {
+      "id": "60bf702aa3368200006a05d3",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1623158826,
+      "updated": 1623158826
+    }
+  ]
+}

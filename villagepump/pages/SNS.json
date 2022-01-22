@@ -2,7 +2,7 @@
   "id": "5f45943da563fc00235be480",
   "title": "SNS",
   "created": 1598395458,
-  "updated": 1605745807,
+  "updated": 1632028410,
   "lines": [
     {
       "id": "5f45943da563fc00235be480",
@@ -108,6 +108,34 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1598528693,
       "updated": 1598528693
+    },
+    {
+      "id": "6146c6e01280f00000de4491",
+      "text": "SNSは日本語圏だけの言葉[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632028384,
+      "updated": 1632028405
+    },
+    {
+      "id": "6146c6f51280f00000de4494",
+      "text": "  だったはずだが",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632028405,
+      "updated": 1632028410
+    },
+    {
+      "id": "6146c6f21280f00000de4493",
+      "text": " 英語では[social media]と呼ばれている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632028403,
+      "updated": 1632028403
+    },
+    {
+      "id": "6146c6e01280f00000de4492",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632028385,
+      "updated": 1632028385
     }
   ]
 }

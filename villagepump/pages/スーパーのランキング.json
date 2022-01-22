@@ -2,7 +2,7 @@
   "id": "5fdf1af4c8ee20001e1bd4e4",
   "title": "スーパーのランキング",
   "created": 1608456950,
-  "updated": 1615217586,
+  "updated": 1626341294,
   "lines": [
     {
       "id": "5fdf1af4c8ee20001e1bd4e4",
@@ -83,10 +83,10 @@
     },
     {
       "id": "5fdfdcb6d438750000bb733c",
-      "text": " [成城石井 http://www.seijoishii.co.jp/] [増井俊之.icon][dnin.icon][takker.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [成城石井 http://www.seijoishii.co.jp/] [増井俊之.icon][dnin.icon][takker.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1608506551,
-      "updated": 1613112361
+      "updated": 1622911933
     },
     {
       "id": "5fe027838ee92a00006acff8",
@@ -96,11 +96,18 @@
       "updated": 1608525707
     },
     {
+      "id": "609e5c8e0553320000efe08c",
+      "text": "  [ワサビ鉄火]がおいてあるから好き",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1620991118,
+      "updated": 1620991131
+    },
+    {
       "id": "5fdfdcb9d438750000bb733d",
-      "text": " [北野エース https://www.ace-group.co.jp/] (全国) [dnin.icon][増井俊之.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [北野エース https://www.ace-group.co.jp/] (全国) [dnin.icon][増井俊之.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1608506554,
-      "updated": 1614915874
+      "updated": 1622911943
     },
     {
       "id": "5fdfdcdbd438750000bb733f",
@@ -118,17 +125,24 @@
     },
     {
       "id": "6041a9258ee92a0000224a60",
-      "text": " \t品揃えがすごい [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " \t品揃えがすごい [増井俊之.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1614915877,
-      "updated": 1614915882
+      "updated": 1622911977
     },
     {
       "id": "604371ff8ee92a0000e95c9e",
-      "text": " \t 厚揚げが20種類ぐらいあった (川崎ラゾーナ店)",
+      "text": " \t 厚揚げが20種類ぐらいあった ([川崎ラゾーナ]店)",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615032832,
-      "updated": 1615032845
+      "updated": 1616764162
+    },
+    {
+      "id": "60bbabcaa336820000a9b363",
+      "text": "  \tレトルトが沢山ある（調布パルコ店）",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1622911947,
+      "updated": 1622911980
     },
     {
       "id": "5fdfdcf5d438750000bb7342",
@@ -328,17 +342,52 @@
     },
     {
       "id": "5fdf1bbf8ee92a00006285bc",
-      "text": " [ヨークマート https://www.york-inc.com/] (首都圏)",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [ヨークマート https://www.york-inc.com/] (首都圏)[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608457152,
-      "updated": 1608521090
+      "updated": 1625461082
+    },
+    {
+      "id": "60bc06118ee92a0000cac70d",
+      "text": "  ヨークフーズになったらしい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622935058,
+      "updated": 1622935140
+    },
+    {
+      "id": "60bc064a8ee92a0000cac70e",
+      "text": "   [https://www.ssnp.co.jp/news/distribution/2020/05/2020-0514-1553-15.html セブン＆アイHD「ヨークフーズ」誕生で食品スーパー再成長へ、ヨークマート・食品館・コンフォートマーケットを集約]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622935114,
+      "updated": 1622935176
+    },
+    {
+      "id": "60bc06898ee92a0000cac710",
+      "text": "  何が変わったのかよくわからん [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622935177,
+      "updated": 1622935186
+    },
+    {
+      "id": "60e2915e1280f00000e5eefc",
+      "text": "  安かったりする[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625461086,
+      "updated": 1625461095
     },
     {
       "id": "5fdf1bbc8ee92a00006285bb",
-      "text": " [やまか http://www.smyamaka.co.jp/](藤沢/鎌倉/茅ヶ崎)",
+      "text": " [やまか http://www.smyamaka.co.jp/]([藤沢]/[鎌倉]/[茅ヶ崎])",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608457150,
-      "updated": 1608512483
+      "updated": 1618372476
+    },
+    {
+      "id": "609db1418ee92a00004759a2",
+      "text": "  藤沢のやまかが[業務スーパー]になった (2021/5)",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1620947265,
+      "updated": 1620947286
     },
     {
       "id": "5fdf1d408ee92a00006285c6",
@@ -384,10 +433,10 @@
     },
     {
       "id": "5fdf208c8ee92a00006285d8",
-      "text": " [イオン https://www.aeonretail.jp/]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [イオン https://www.aeonretail.jp/][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1608458381,
-      "updated": 1608508169
+      "updated": 1616825284
     },
     {
       "id": "5fdf1c1d8ee92a00006285bf",
@@ -432,11 +481,18 @@
       "updated": 1608508204
     },
     {
-      "id": "5fdf1bb48ee92a00006285b9",
-      "text": " [OKストア https://ok-corporation.jp/] (首都圏) [増井俊之.icon][dnin.icon]",
+      "id": "60ea81148ee92a0000ddfbca",
+      "text": "  いろんな挑戦をトライするからTRIALというらしい",
       "userId": "566fa156776c9b11008ee92a",
+      "created": 1625981205,
+      "updated": 1625981219
+    },
+    {
+      "id": "5fdf1bb48ee92a00006285b9",
+      "text": " [OKストア https://ok-corporation.jp/] (首都圏) [増井俊之.icon][dnin.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1608457141,
-      "updated": 1613112361
+      "updated": 1625455266
     },
     {
       "id": "5fdf279dd4387500005bbd68",
@@ -454,10 +510,10 @@
     },
     {
       "id": "5fdf1eb58ee92a00006285ce",
-      "text": " [業務スーパー https://www.gyomusuper.jp/] (全国) [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [業務スーパー https://www.gyomusuper.jp/] (全国) [増井俊之.icon][p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
       "created": 1608457909,
-      "updated": 1608520916
+      "updated": 1626341268
     },
     {
       "id": "5fe799898ee92a000043ee8e",
@@ -472,6 +528,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1609013652,
       "updated": 1609013674
+    },
+    {
+      "id": "60efff9605533200005171f9",
+      "text": "  即席ラーメンの種類がレアなものを売っている（関東なのにスガキヤの味噌煮込みうどんとか）",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1626341270,
+      "updated": 1626341294
     },
     {
       "id": "5fdf1ba58ee92a00006285b8",
@@ -545,10 +608,10 @@
     },
     {
       "id": "5fdf26a1d4387500005bbd62",
-      "text": " [オリンピック https://www.olympic-corp.co.jp/]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [オリンピック https://www.olympic-corp.co.jp/][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1608459937,
-      "updated": 1608508536
+      "updated": 1616825204
     },
     {
       "id": "5fdf26b1d4387500005bbd63",
@@ -594,10 +657,10 @@
     },
     {
       "id": "5fdf274dd4387500005bbd67",
-      "text": " [ベイシア https://www.beisia.co.jp/]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [ベイシア https://www.beisia.co.jp/][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608460109,
-      "updated": 1608508959
+      "updated": 1625461131
     },
     {
       "id": "604643a655cbd30000ebf679",
@@ -605,6 +668,13 @@
       "userId": "5ae7fecf7766b7001455cbd3",
       "created": 1615217575,
       "updated": 1615217586
+    },
+    {
+      "id": "60e2918d1280f00000e5eefd",
+      "text": " \t [/icons/知らんかった.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625461133,
+      "updated": 1625461148
     },
     {
       "id": "5fe94969d438750000a57b04",
@@ -649,6 +719,20 @@
       "updated": 1609142008
     },
     {
+      "id": "60b029268ee92a000036a4c0",
+      "text": "　[https://www.dkt-s.com/bland.html?id=1 LAMU] (西日本)",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622157606,
+      "updated": 1622157689
+    },
+    {
+      "id": "60b029368ee92a000036a4c1",
+      "text": "　 すごく安くて良いらしい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622157622,
+      "updated": 1622157630
+    },
+    {
       "id": "5fe94989d438750000a57b06",
       "text": "",
       "userId": "5fa258bdb102120024d43875",
@@ -664,10 +748,10 @@
     },
     {
       "id": "5fe016278ee92a00006acfdf",
-      "text": " Trader Joe's (シリコンバレーとか) [増井俊之.icon]",
+      "text": " [Trader Joe's] (シリコンバレーとか) [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608521257,
-      "updated": 1608521324
+      "updated": 1622905469
     },
     {
       "id": "5fe990528ee92a0000758b03",
@@ -678,10 +762,10 @@
     },
     {
       "id": "5fe990b98ee92a0000758b05",
-      "text": "  トレジョブランドの缶詰が優秀",
+      "text": "  トレジョブランドの瓶詰/缶詰が優秀",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1609142458,
-      "updated": 1609142470
+      "updated": 1622935267
     },
     {
       "id": "5fe990c48ee92a0000758b06",
@@ -699,10 +783,10 @@
     },
     {
       "id": "5fe0162d8ee92a00006acfe0",
-      "text": " Whole Foods (米国)",
+      "text": " [Whole Foods] (米国)",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608521263,
-      "updated": 1608521312
+      "updated": 1625981162
     },
     {
       "id": "5fe0165f8ee92a00006acfe2",
@@ -726,11 +810,18 @@
       "updated": 1609142581
     },
     {
+      "id": "60bb92648ee92a0000c04b45",
+      "text": "  何故日本に無いんだろう?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622905444,
+      "updated": 1622905452
+    },
+    {
       "id": "5fe016338ee92a00006acfe1",
-      "text": " TESCO (英国)",
+      "text": " [TESCO] (英国)",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608521269,
-      "updated": 1608521280
+      "updated": 1625981173
     },
     {
       "id": "5fe016648ee92a00006acfe3",
@@ -773,6 +864,34 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608473163,
       "updated": 1608473163
+    },
+    {
+      "id": "60afc5fdfd049e0000872514",
+      "text": "関連の話題",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1622132222,
+      "updated": 1622132224
+    },
+    {
+      "id": "60afc600fd049e0000872515",
+      "text": "\t[https://togetter.com/li/1718558 関西のスーパーを分類した表、改訂版が登場「サンディの安さはホンマに異常」「ikariで2万円のオリーブオイルが売ってた」 - Togetter]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1622132225,
+      "updated": 1622132237
+    },
+    {
+      "id": "60afc62afd049e0000872517",
+      "text": " \t[[https://pbs.twimg.com/media/E1444G4VkAYgirp.jpg]]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1622132267,
+      "updated": 1622132298
+    },
+    {
+      "id": "60afc60cfd049e0000872516",
+      "text": "",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1622132237,
+      "updated": 1622132237
     },
     {
       "id": "5fdf1c6d8ee92a00006285c3",

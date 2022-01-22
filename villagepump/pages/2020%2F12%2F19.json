@@ -2,7 +2,7 @@
   "id": "5fdcd4959e71cb00362fd4f7",
   "title": "2020/12/19",
   "created": 1608307865,
-  "updated": 1609220301,
+  "updated": 1626681196,
   "lines": [
     {
       "id": "5fdcd4959e71cb00362fd4f7",
@@ -104,10 +104,10 @@
     },
     {
       "id": "5fdd873cd4387500002a92d7",
-      "text": " 人生初、Googleのチュートリアルに[issue https://github.com/google-developer-training/android-basics-kotlin-tip-calculator-app-solution/issues/54]提出",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "[-  人生初、Googleのチュートリアルに[issue https://github.com/google-developer-training/android-basics-kotlin-tip-calculator-app-solution/issues/54]提出]",
+      "userId": "60f3a5d03a31ac001cd9875a",
       "created": 1608354461,
-      "updated": 1608354466
+      "updated": 1626681196
     },
     {
       "id": "5fdcd49d1280f00000628a80",

@@ -1,0 +1,57 @@
+{
+  "id": "606805ab4b034a002268f530",
+  "title": "サクラエディタ",
+  "created": 1617429943,
+  "updated": 1617430048,
+  "lines": [
+    {
+      "id": "606805ab4b034a002268f530",
+      "text": "サクラエディタ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617429943,
+      "updated": 1617429943
+    },
+    {
+      "id": "606805b65b98c20000c93c03",
+      "text": "ごく普通のWindows用 [テキストエディタ]。",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617429943,
+      "updated": 1617430048
+    },
+    {
+      "id": "606805dc5b98c20000c93c06",
+      "text": "フリーソフトウェア。",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617429980,
+      "updated": 1617429980
+    },
+    {
+      "id": "606805dc5b98c20000c93c07",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617429980,
+      "updated": 1617429980
+    },
+    {
+      "id": "606805b75b98c20000c93c04",
+      "text": "[https://sakura-editor.github.io/ サクラエディタ]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617429944,
+      "updated": 1617429945
+    },
+    {
+      "id": "606805b85b98c20000c93c05",
+      "text": "[https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF サクラエディタ - Wikipedia]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617429945,
+      "updated": 1617430031
+    },
+    {
+      "id": "6068060e5b98c20000c93c08",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1617430031,
+      "updated": 1617430031
+    }
+  ]
+}

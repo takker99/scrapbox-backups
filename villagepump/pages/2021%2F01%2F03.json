@@ -2,7 +2,7 @@
   "id": "5ff033c22e80b4001ca029d9",
   "title": "2021/01/03",
   "created": 1609577415,
-  "updated": 1609685358,
+  "updated": 1626677957,
   "lines": [
     {
       "id": "5ff033c22e80b4001ca029d9",
@@ -209,10 +209,10 @@
     },
     {
       "id": "5ff1d1f81280f000008eca89",
-      "text": "\t　 ただ切り出さないと[タイトルから中身を推測できない]んですよね……[takker.icon]",
+      "text": "\t　 ただ切り出さないと[タイトルから中身を推測できな]いんですよね……[takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609683448,
-      "updated": 1609683476
+      "updated": 1620962651
     },
     {
       "id": "5ff1d250e5172d00003241a5",
@@ -234,6 +234,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1609683868,
       "updated": 1609683896
+    },
+    {
+      "id": "609dfd1fe5172d000017e0d6",
+      "text": "\t　 \t　\t[全文検索や関連ページリストからページを開いたとき、該当語句の行まで飛ぶ機能]で解決した？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620966687,
+      "updated": 1620966703
+    },
+    {
+      "id": "609e0c1c1280f00000946ebc",
+      "text": "\t　 \t　\tかも[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620970523,
+      "updated": 1620970526
     },
     {
       "id": "5ff1d3001280f00000280686",
@@ -272,10 +286,10 @@
     },
     {
       "id": "5ff108211280f00000b11f8a",
-      "text": "UserScriptをOFFにしてScrapboxを開く機能を作った",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "[UserScriptをOFFにしてScrapboxを開く]機能を作った",
+      "userId": "60f3a5d03a31ac001cd9875a",
       "created": 1609631777,
-      "updated": 1609631862
+      "updated": 1626677957
     },
     {
       "id": "5ff10a4c1280f00000b11f8f",

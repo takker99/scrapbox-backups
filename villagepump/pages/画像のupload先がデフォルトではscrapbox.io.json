@@ -2,7 +2,7 @@
   "id": "604081ab304c5e001cda926b",
   "title": "画像のupload先がデフォルトではscrapbox.io",
   "created": 1614840236,
-  "updated": 1614840518,
+  "updated": 1617887199,
   "lines": [
     {
       "id": "604081ab304c5e001cda926b",
@@ -61,6 +61,20 @@
       "updated": 1614840243
     },
     {
+      "id": "606eff5b246f590000cd3e7b",
+      "text": "\t　[/forum-jp/画像貼り付け時、Gyazoにログインしていないことを示すメッセージも同時に貼り付けられるようになった]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617887067,
+      "updated": 1617887165
+    },
+    {
+      "id": "606effbf246f590000cd3e7c",
+      "text": "\t　 CGSに保存することで、Scrapbox上で削除できるようにした感じか",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1617887167,
+      "updated": 1617887199
+    },
+    {
       "id": "604081afe5172d0000040e08",
       "text": "\tセキュリティ的にscrapboxのほうが安全？",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -76,10 +90,10 @@
     },
     {
       "id": "604081afe5172d0000040e0a",
-      "text": "\t\t[Google Photo]みたいに",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t\t[Google Photos]みたいに",
+      "userId": "5ae7fecf7766b7001455cbd3",
       "created": 1614840236,
-      "updated": 1614840243
+      "updated": 1621230319
     },
     {
       "id": "604081afe5172d0000040e0b",

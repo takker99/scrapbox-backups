@@ -2,7 +2,7 @@
   "id": "5f6be3d2614b7b00206c0bc6",
   "title": "自分の箇条書きの書き方を書いてけ",
   "created": 1600906197,
-  "updated": 1613763441,
+  "updated": 1632395698,
   "lines": [
     {
       "id": "5f6be3d2614b7b00206c0bc6",
@@ -83,10 +83,10 @@
     },
     {
       "id": "5f6bf6eb1280f00000dd3d9d",
-      "text": "\t\t[shokai: 頭にスッと入ってくる箇条書きの構成方法]ですね",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "\t\t[頭にスッと入ってくる箇条書きの構成方法]ですね",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1600911084,
-      "updated": 1611036303
+      "updated": 1621482803
     },
     {
       "id": "5f6bf6fa1280f00000dd3d9e",
@@ -258,10 +258,10 @@
     },
     {
       "id": "5f6d643f4daa9200000766d9",
-      "text": " [何でもかんでもリンクすること]も使い方によればうまくいく？",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": " [何でもかんでもリンク]にするのも使い方によればうまくいく？",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601004607,
-      "updated": 1601004623
+      "updated": 1624857214
     },
     {
       "id": "5f6d644f4daa9200000766da",
@@ -278,53 +278,67 @@
       "updated": 1601005107
     },
     {
+      "id": "60d95a851280f00000924a42",
+      "text": " \t メリット",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624857221,
+      "updated": 1624857223
+    },
+    {
       "id": "5f6d66385b98c2000059edff",
-      "text": " 　\tキーワードの説明を外出しできるので、記述をシンプルにできるのがメリット",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "  　\tキーワードの説明を外出しできるので、記述をシンプルにできるの",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601005113,
-      "updated": 1601005194
+      "updated": 1624857226
+    },
+    {
+      "id": "60d95a8b1280f00000924a43",
+      "text": "  　デメリット",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624857227,
+      "updated": 1624857229
     },
     {
       "id": "5f6d66945b98c2000059ee00",
-      "text": " 　\tデメリットとしては、無駄にページが増える",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": " 　\t 無駄にページが増える",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601005205,
-      "updated": 1601005249
+      "updated": 1624857234
     },
     {
       "id": "5f6d66f84daa9200001270bf",
-      "text": " 　\t 別にページが増えること自体は大したデメリットではないのでは？[yuta0801.icon]",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "  　\t 別にページが増えること自体は大したデメリットではないのでは？[yuta0801.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601005307,
-      "updated": 1601005343
+      "updated": 1624857239
     },
     {
       "id": "5f6d67635b98c2000059ee02",
-      "text": " 　\t　 被リンク数が増えると 2 hop link が効かなくなったりするよ",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "  　\t　 被リンク数が増えると 2 hop link が効かなくなったりするよ",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601005412,
-      "updated": 1601005479
+      "updated": 1624857239
     },
     {
       "id": "5f6d680a5b98c2000059ee03",
-      "text": " 　\t　 [- 全文検索が最大30件までなんで、検索条件を絞って再検索することが増えるよ]",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "  　\t　 [- 全文検索が最大30件までなんで、検索条件を絞って再検索することが増えるよ]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601005578,
-      "updated": 1609925859
+      "updated": 1624857239
     },
     {
       "id": "5ff584e45b98c20000bd3612",
-      "text": " 　\t　  最大 100件まで増えた",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "  　\t　  最大 100件まで増えた",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609925861,
-      "updated": 1609925886
+      "updated": 1624857239
     },
     {
       "id": "5f6d66cf5b98c2000059ee01",
-      "text": " 　　\t個人プロジェクトでは割り切って運用しています",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "　　\t個人プロジェクト[/suto3]では割り切って運用しています",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1601005263,
-      "updated": 1601005310
+      "updated": 1624857247
     },
     {
       "id": "5f6caa3c5b98c20000823c0d",
@@ -339,6 +353,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1600906391,
       "updated": 1609881238
+    },
+    {
+      "id": "614c5fac1280f00000a67139",
+      "text": " まさに[頭にスッと入ってくる箇条書き]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632395180,
+      "updated": 1632395189
     },
     {
       "id": "5f6be4c41280f00000a6c817",
@@ -419,10 +440,10 @@
     },
     {
       "id": "5f6bf8331280f00000dd3db3",
-      "text": "      王者は昔から何回も滅んできたぞ",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "     王者は昔から何回も滅んできたぞ",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1600911412,
-      "updated": 1600911444
+      "updated": 1617612054
     },
     {
       "id": "5f6be52d1280f00000a6c81f",
@@ -495,6 +516,13 @@
       "updated": 1600906691
     },
     {
+      "id": "606adb9979d3a900008a5e0d",
+      "text": "\t\t[Start presentation]でちゃんとプレビューされる書き方？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617615770,
+      "updated": 1617615781
+    },
+    {
       "id": "5f6be69a1280f00000a6c839",
       "text": "　開けずに詰めて書く",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -517,164 +545,10 @@
     },
     {
       "id": "5f6be56f1280f00000a6c829",
-      "text": "アイコンを付ける位置",
+      "text": "[アイコン記法を付ける位置]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1600906607,
-      "updated": 1600906698
-    },
-    {
-      "id": "5f6be5c91280f00000a6c830",
-      "text": "\t文末につける[takker.icon][sta.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600906698,
-      "updated": 1609881927
-    },
-    {
-      "id": "5ff525171280f000006f722d",
-      "text": "\t [複数人Project]の場合はこっちが推奨されると思う",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609901336,
-      "updated": 1609901358
-    },
-    {
-      "id": "5ff5252e1280f000006f722f",
-      "text": "\t 同じ意見だということを表しやすい",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609901358,
-      "updated": 1609938869
-    },
-    {
-      "id": "5ff5253e1280f000006f7230",
-      "text": "\t  e.g. [/forum-jp]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1609901375,
-      "updated": 1609901380
-    },
-    {
-      "id": "5ff5a35b79d3a900003d0f93",
-      "text": "\t  たしかに[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1609933654,
-      "updated": 1609933657
-    },
-    {
-      "id": "5f6be5cd1280f00000a6c831",
-      "text": "\t文頭につける[sta.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600906702,
-      "updated": 1609933687
-    },
-    {
-      "id": "5f6bef874daa9200003c8649",
-      "text": "\t\tトップレベルの箇条書きでブロックをまるごと宣言するような書き方をたまに見たりする[sta.icon]",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1600909191,
-      "updated": 1609881924
-    },
-    {
-      "id": "5f6bf7da1280f00000dd3da6",
-      "text": "\t\tcode:top-level1.sb",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911323,
-      "updated": 1600911336
-    },
-    {
-      "id": "5f6bf7e81280f00000dd3da7",
-      "text": "\t\t [takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911337,
-      "updated": 1602044649
-    },
-    {
-      "id": "5f6bf7e91280f00000dd3da8",
-      "text": "   トップレベルにアイコンを置いたときは、空行を挟むまで全部takkerの意見",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911337,
-      "updated": 1600911341
-    },
-    {
-      "id": "5f6bf7e91280f00000dd3da9",
-      "text": "    takkerの意見",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911337,
-      "updated": 1600911345
-    },
-    {
-      "id": "5f6bf7e91280f00000dd3daa",
-      "text": "    otherの意見[other.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911337,
-      "updated": 1600911346
-    },
-    {
-      "id": "5f6bf7e91280f00000dd3dab",
-      "text": "   これもtakkerの意見",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911337,
-      "updated": 1600911348
-    },
-    {
-      "id": "5f6bf7f81280f00000dd3daf",
-      "text": "   ",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911352,
-      "updated": 1600911352
-    },
-    {
-      "id": "5f6bf7e91280f00000dd3dad",
-      "text": "   これは別の人の意見",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911337,
-      "updated": 1600911350
-    },
-    {
-      "id": "5f6bf7fa1280f00000dd3db0",
-      "text": "   ",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600911354,
-      "updated": 1600911354
-    },
-    {
-      "id": "5f6be5c71280f00000a6c82f",
-      "text": "\tprojectに合わせるところがあるかも",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1600906696,
-      "updated": 1609881957
-    },
-    {
-      "id": "5ff4d96979d3a9000044c67c",
-      "text": "\t\t[sta.icon]自分用だとこっち",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1609881957,
-      "updated": 1609881962
-    },
-    {
-      "id": "5ff4d96e79d3a9000044c67d",
-      "text": "\t\tここではこっち[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1609881962,
-      "updated": 1609881966
-    },
-    {
-      "id": "5ff4d97579d3a9000044c67e",
-      "text": "\t\t[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1609881969,
-      "updated": 1609881970
-    },
-    {
-      "id": "5ff4d97679d3a9000044c67f",
-      "text": "\t\t\tいずれにせよ持論が長くなりそうなときは",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1609881970,
-      "updated": 1609881985
-    },
-    {
-      "id": "5ff4d98679d3a9000044c681",
-      "text": "\t\t\tこうやってブロック化することも",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1609881985,
-      "updated": 1609881992
+      "updated": 1632395338
     },
     {
       "id": "5ff4d96179d3a9000044c67b",
@@ -902,10 +776,10 @@
     },
     {
       "id": "5ff4d5cce5172d0000125b5a",
-      "text": "\t\t \t\t[/icons/わかる.icon][yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t\t \t\t[/icons/わかる.icon][yosider.icon][matobaa.icon]",
+      "userId": "582f164a11c0590011bb1b99",
       "created": 1609881036,
-      "updated": 1609881173
+      "updated": 1632388209
     },
     {
       "id": "5f9b456c1280f00000d62bf3",
@@ -1179,6 +1053,111 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1609901398,
       "updated": 1609933714
+    },
+    {
+      "id": "6090047ee5172d00001a76bc",
+      "text": "ときどき下の行より1つ深いインデントの箇条書きを挿入する書き方を見かけるけど、意図が気になる[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620051071,
+      "updated": 1620051136
+    },
+    {
+      "id": "609004c0e5172d00001a76be",
+      "text": "　あいうえお",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620051136,
+      "updated": 1620051156
+    },
+    {
+      "id": "609004d9e5172d00001a76c0",
+      "text": "　　　hogefuga",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620051162,
+      "updated": 1620051176
+    },
+    {
+      "id": "609004d5e5172d00001a76bf",
+      "text": "　　かきくけこ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620051157,
+      "updated": 1620051161
+    },
+    {
+      "id": "60900507e5172d00001a76c1",
+      "text": "　　...",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620051208,
+      "updated": 1620051215
+    },
+    {
+      "id": "60900481e5172d00001a76bd",
+      "text": " あとで書く[dnin.icon]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620051073,
+      "updated": 1620053501
+    },
+    {
+      "id": "60d97cd4e5172d00007209ec",
+      "text": " 　あとで書くというのが回答なのか自分に対するリマインダなのかどっちなんだろうと思っている[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624866005,
+      "updated": 1624866047
+    },
+    {
+      "id": "614c61a81280f000006a0770",
+      "text": " 　リマインダな気がする[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1632395688,
+      "updated": 1632395698
+    },
+    {
+      "id": "60900df7246f590000dcb737",
+      "text": " `hogefuga`が`あいうえお`に対する言及かつ`かきくけこ`以下の箇条書きと並列関係にない時に使っています[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620053498,
+      "updated": 1624857340
+    },
+    {
+      "id": "60d97c94e5172d00007209eb",
+      "text": "  なるほど[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624865940,
+      "updated": 1624865945
+    },
+    {
+      "id": "60d97d28e5172d00007209ee",
+      "text": "  他にも方法ありそう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624866088,
+      "updated": 1624866092
+    },
+    {
+      "id": "60d97d2de5172d00007209ef",
+      "text": "  　1行空ける",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624866093,
+      "updated": 1624866102
+    },
+    {
+      "id": "60d97d36e5172d00007209f0",
+      "text": "  　並列関係にある部分に見出しをつけて1段階下げる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624866102,
+      "updated": 1624866128
+    },
+    {
+      "id": "60d97d58e5172d00007209f1",
+      "text": "  　　テロメアをたくさん更新することになりがち",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1624866137,
+      "updated": 1624866149
+    },
+    {
+      "id": "60d95ab71280f00000924a44",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1624857270,
+      "updated": 1624857270
     }
   ]
 }

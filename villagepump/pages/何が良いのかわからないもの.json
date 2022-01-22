@@ -2,14 +2,14 @@
   "id": "603ce912da2557002019ed8c",
   "title": "何が良いのかわからないもの",
   "created": 1614604565,
-  "updated": 1616308852,
+  "updated": 1629862501,
   "lines": [
     {
       "id": "603ce912da2557002019ed8c",
       "text": "何が良いのかわからないもの",
-      "userId": "566fa156776c9b11008ee92a",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1614604565,
-      "updated": 1614604565
+      "updated": 1617163672
     },
     {
       "id": "604876741280f000008a4a42",
@@ -34,10 +34,10 @@
     },
     {
       "id": "603ce91b8ee92a000014ab08",
-      "text": " 551蓬莱の豚まん [増井俊之.icon]",
+      "text": " [551蓬莱]の[豚まん] [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1614921085,
-      "updated": 1614921088
+      "updated": 1627823817
     },
     {
       "id": "603ce9168ee92a000014ab07",
@@ -69,24 +69,31 @@
     },
     {
       "id": "6041879a8ee92a0000224a5f",
-      "text": "　鳩サブレー[dnin.icon][増井俊之.icon]",
+      "text": "　[鳩サブレー] [dnin.icon][増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1614907290,
-      "updated": 1614921081
+      "updated": 1618913304
+    },
+    {
+      "id": "607eaa5d1280f00000861525",
+      "text": "　 丁度昨日食べてたとこだ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618913885,
+      "updated": 1618913895
     },
     {
       "id": "6041bda18ee92a0000224a61",
-      "text": "　さぬきうどん [増井俊之.icon]",
+      "text": "　[さぬきうどん] [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1614921121,
-      "updated": 1614921125
+      "updated": 1618913308
     },
     {
       "id": "6043791f8ee92a00005fcb04",
-      "text": "　 うどんは嫌いじゃないが、良いうどんとダメなうどんの違いがよくわからない [増井俊之.icon]",
+      "text": "　 [うどん]は嫌いじゃないが、良いうどんとダメなうどんの違いがよくわからない [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615034655,
-      "updated": 1615034684
+      "updated": 1618913311
     },
     {
       "id": "60437f0d8ee92a00005fcb1a",
@@ -164,6 +171,27 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1616104814,
       "updated": 1616104839
+    },
+    {
+      "id": "61069ee18ee92a0000609512",
+      "text": "　 最近(2021)文春が好きになってきた [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627823842,
+      "updated": 1627823852
+    },
+    {
+      "id": "61069eec8ee92a0000609513",
+      "text": "　  スクープが多いので",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627823853,
+      "updated": 1627823858
+    },
+    {
+      "id": "6107eb70a3368200003a0c94",
+      "text": "　  [Apple Dairy]にますます近くなってきたように感じます[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1627908978,
+      "updated": 1627909011
     },
     {
       "id": "6045cface5172d0000fb0d20",
@@ -482,10 +510,10 @@
     },
     {
       "id": "6045ccf8e5172d0000a68ca7",
-      "text": " [Facebook][yosider.icon][kuuote.icon][takker.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": " [Facebook][yosider.icon][kuuote.icon][takker.icon][air34n.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1615187190,
-      "updated": 1615361503
+      "updated": 1628320679
     },
     {
       "id": "6043809d8ee92a00005fcb27",
@@ -545,24 +573,24 @@
     },
     {
       "id": "60433a3c1280f000007e740d",
-      "text": " ウィスキーの水割り [増井俊之.icon][erniogi.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " [ウィスキー]の水割り [増井俊之.icon][erniogi.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1615018556,
-      "updated": 1615904982
+      "updated": 1618913337
     },
     {
       "id": "604452288ee92a0000647add",
-      "text": " ハイボール [増井俊之.icon][erniogi.icon]",
+      "text": " [ハイボール] [増井俊之.icon][erniogi.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615090216,
-      "updated": 1615904984
+      "updated": 1618913341
     },
     {
       "id": "604448d48ee92a00005fcb4d",
-      "text": " 高級車 [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " 高級車 [増井俊之.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1615087829,
-      "updated": 1615087833
+      "updated": 1617190325
     },
     {
       "id": "6044945cb19cc30000c2f444",
@@ -594,10 +622,10 @@
     },
     {
       "id": "60452c928ee92a0000647aeb",
-      "text": " 冠詞 [増井俊之.icon][erniogi.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " 冠詞 [増井俊之.icon][erniogi.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1615146131,
-      "updated": 1615904978
+      "updated": 1617190355
     },
     {
       "id": "60452c998ee92a0000647aec",
@@ -636,10 +664,10 @@
     },
     {
       "id": "60452cc88ee92a0000647aee",
-      "text": " [Clubhouse][kuuote.icon][takker.icon][erniogi.icon][yosider.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [Clubhouse][kuuote.icon][takker.icon][erniogi.icon][yosider.icon][増井俊之.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1615146184,
-      "updated": 1615921708
+      "updated": 1628312576
     },
     {
       "id": "6047423e4bb2e20000615470",
@@ -685,10 +713,10 @@
     },
     {
       "id": "6053abc71280f000007f4f0e",
-      "text": " [酒][takker.icon][mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
+      "text": " [酒][takker.icon][mtane0412.icon][sta.icon][kuuote.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1616096198,
-      "updated": 1616204263
+      "updated": 1628312566
     },
     {
       "id": "605551e755cbd30000cf20f5",
@@ -741,10 +769,10 @@
     },
     {
       "id": "6045cb73e5172d0000a68ca0",
-      "text": " タバコ [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [タバコ] [増井俊之.icon][kuuote.icon][takker.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1615186802,
-      "updated": 1616206927
+      "updated": 1628312569
     },
     {
       "id": "60555c4b8ee92a00004f5855",
@@ -754,18 +782,291 @@
       "updated": 1616206961
     },
     {
+      "id": "606467504bb2e20000ded2ee",
+      "text": "  吸ってる人馬鹿なんかなって思っていた時期もあった[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617192733,
+      "updated": 1617192745
+    },
+    {
+      "id": "6064675c4bb2e20000ded2ef",
+      "text": "   薬物なので基本自分の意思ではやめられないと思います",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617192745,
+      "updated": 1617192755
+    },
+    {
+      "id": "610e0b171d860a0000e0f240",
+      "text": "   　以前吸ってました。やめることができました[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1628310296,
+      "updated": 1628310331
+    },
+    {
       "id": "6056ad3a8ee92a000074d305",
-      "text": " サザエさん [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [サザエさん] [増井俊之.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1616293178,
-      "updated": 1616293182
+      "updated": 1617191777
+    },
+    {
+      "id": "60645de679d3a90000f5341a",
+      "text": " [テレビ] [sta.icon][kuuote.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617190375,
+      "updated": 1618913376
+    },
+    {
+      "id": "60645ded79d3a90000f5341b",
+      "text": " \t自分のペースで送れないしコンテンツも偏っている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617190382,
+      "updated": 1617190404
+    },
+    {
+      "id": "606463ce4bb2e20000ded2ec",
+      "text": " \t家族がテレビを見ているが、自発的に見ることがない[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617191835,
+      "updated": 1617191857
+    },
+    {
+      "id": "606463e44bb2e20000ded2ed",
+      "text": " \t 現時点で好きな番組、ピタゴラスイッチくらい",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1617191857,
+      "updated": 1617191869
+    },
+    {
+      "id": "6107d7d4dd60be00003b03ba",
+      "text": "  \t [クインテット]帰ってきて欲しい[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1627903957,
+      "updated": 1627903970
     },
     {
       "id": "60555c678ee92a00004f5856",
-      "text": "",
+      "text": " [わさび] [sta.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1616206951,
-      "updated": 1616206951
+      "updated": 1618913383
+    },
+    {
+      "id": "60645e4479d3a90000f5341d",
+      "text": " \tツンとして自分を痛めつけたいマゾなのだろうかなどと思ったりする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617190469,
+      "updated": 1617190481
+    },
+    {
+      "id": "60645e5b1280f000002a0b5e",
+      "text": " \tそんなこと言ったら辛いもの好きは全員マゾになっちゃうゾ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1617190491,
+      "updated": 1620203171
+    },
+    {
+      "id": "60645e4179d3a90000f5341c",
+      "text": "\t\t\t羨ましいの裏返しなのかもしれない[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617190466,
+      "updated": 1617190542
+    },
+    {
+      "id": "606da71f79d3a90000213bed",
+      "text": "\t\tこれはただの食べ物の好き嫌いなのでちょっと毛色違いそうか[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617798943,
+      "updated": 1617798954
+    },
+    {
+      "id": "6067d71b8ee92a0000cd6057",
+      "text": "\tキクイモ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1617418012,
+      "updated": 1617418016
+    },
+    {
+      "id": "60645e9079d3a90000f5341f",
+      "text": " 縦書き[sta.icon][air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1617190544,
+      "updated": 1628310413
+    },
+    {
+      "id": "606e314079d3a90000c7a4fe",
+      "text": "\t\tただの慣れの問題で、縦書きが横書きよりも本質的に読みやすいなんてことはない（と思ってる）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1617834306,
+      "updated": 1617835330
+    },
+    {
+      "id": "6092566e1280f000003d987e",
+      "text": "\t\t「縦書きが横書きよりも本質的に読みやすい」と主張している言説なんてあるんですか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203118,
+      "updated": 1620203144
+    },
+    {
+      "id": "609256801280f000003d987f",
+      "text": "\t\t　聞いたことないのでソースが気になった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1620203135,
+      "updated": 1620203142
+    },
+    {
+      "id": "60a8f2cd79d3a9000049147f",
+      "text": "\t\t　ソースはパッとは浮かばないですねー。。[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1621684942,
+      "updated": 1621685061
+    },
+    {
+      "id": "60a8f35c79d3a90000491485",
+      "text": "\t\t　\tもしかしたら縦書きが多い現状から[sta.icon]が勝手に「現代人は日本語は縦書きの方が読みやすいと思っている」と曲解しているかも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1621685085,
+      "updated": 1621685119
+    },
+    {
+      "id": "60ab0bde8ee92a00007ab723",
+      "text": "\t\t　縦書きの方が読みやすいことが多いと思ってるし、同様の人は多そう [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621822430,
+      "updated": 1621822462
+    },
+    {
+      "id": "60a8f30279d3a90000491482",
+      "text": "　[シャイニング][dnin.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1621684995,
+      "updated": 1621685058
+    },
+    {
+      "id": "607ea045246f590000c7525f",
+      "text": "　　ちょっとよく分からなかったのであとでもう一回観たい",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1618911301,
+      "updated": 1618911313
+    },
+    {
+      "id": "607ea045246f590000c75260",
+      "text": " [クリスチャンラッセン]の絵[dnin.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1618911301,
+      "updated": 1627916587
+    },
+    {
+      "id": "60a7be328ee92a0000b48140",
+      "text": " ベルセルク [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621605938,
+      "updated": 1621605942
+    },
+    {
+      "id": "60a7be578ee92a0000b48142",
+      "text": " 山口瞳の本 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621605975,
+      "updated": 1621605982
+    },
+    {
+      "id": "60ab0c178ee92a00007ab724",
+      "text": " かっこ良いだけの広告 [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621822488,
+      "updated": 1621822494
+    },
+    {
+      "id": "60ace2268ee92a0000735f55",
+      "text": " [エヴァンゲリオン] [増井俊之.icon][air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1621942823,
+      "updated": 1628310435
+    },
+    {
+      "id": "610e0ba31d860a0000e0f241",
+      "text": " 　殺戮シーンで発作が出そうになる[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1628310437,
+      "updated": 1628310459
+    },
+    {
+      "id": "60b0e64d8ee92a0000d52df3",
+      "text": " [すしざんまい] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622206029,
+      "updated": 1627823907
+    },
+    {
+      "id": "610e0bc51d860a0000e0f242",
+      "text": " かっぱ寿司[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1628310470,
+      "updated": 1628310481
+    },
+    {
+      "id": "60b458568ee92a000029d605",
+      "text": " 新宿のベルク [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1622431831,
+      "updated": 1622431836
+    },
+    {
+      "id": "61069f058ee92a0000609514",
+      "text": " TV版の[孤独のグルメ] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627823878,
+      "updated": 1627823916
+    },
+    {
+      "id": "60a7be368ee92a0000b48141",
+      "text": "  漫画は好きなのだけど",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1621605943,
+      "updated": 1627823899
+    },
+    {
+      "id": "610809041280f000000cf086",
+      "text": "  TV版めっちゃみてる[takker.icon][air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1627916549,
+      "updated": 1628310489
+    },
+    {
+      "id": "6108090f1280f000000cf087",
+      "text": "  　今ニコニコ動画で過去作含めて配信している",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1627916559,
+      "updated": 1628126384
+    },
+    {
+      "id": "610ddd438ee92a00000fbeaa",
+      "text": " [ベーグル] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1628298564,
+      "updated": 1628298571
+    },
+    {
+      "id": "61234e0b8ee92a0000880495",
+      "text": " [オリンピック] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629703692,
+      "updated": 1629703699
+    },
+    {
+      "id": "6125ba5d8ee92a00007aa56a",
+      "text": " [ココイチ] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1629862493,
+      "updated": 1629862501
+    },
+    {
+      "id": "61069f148ee92a0000609515",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1627823892,
+      "updated": 1627823892
     },
     {
       "id": "6045cbc3e5172d0000a68ca3",

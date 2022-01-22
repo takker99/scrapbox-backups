@@ -2,7 +2,7 @@
   "id": "5f4b287c8927f6001ec39fb9",
   "title": "ユーザ生成コンテンツ",
   "created": 1598761086,
-  "updated": 1600894799,
+  "updated": 1620544828,
   "lines": [
     {
       "id": "5f4b287c8927f6001ec39fb9",
@@ -68,6 +68,13 @@
       "updated": 1598876989
     },
     {
+      "id": "60901145e5172d00000e5628",
+      "text": " 面倒くさければ別にURLだけで良いと思う[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1620054342,
+      "updated": 1620054367
+    },
+    {
       "id": "5f4ce7ff5b98c200004e8f40",
       "text": "",
       "userId": "5b5e7121417cf700145b98c2",
@@ -94,6 +101,13 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1598875701,
       "updated": 1598875701
+    },
+    {
+      "id": "60978d27246f590000dea1e9",
+      "text": "[CGM] : Consumer Generated Media",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1620544811,
+      "updated": 1620544828
     },
     {
       "id": "5f4ce8355b98c200004e8f44",
@@ -202,10 +216,10 @@
     },
     {
       "id": "5f4d66f2b3e7ed000054b589",
-      "text": "\tインターネットコンテンツの本質のようなものを感じた[udonn.icon]",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": "\t[インターネットコンテンツの本質]のようなものを感じた[udonn.icon]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1598908145,
-      "updated": 1598908160
+      "updated": 1620054254
     },
     {
       "id": "5f4d66f7b3e7ed000054b58a",

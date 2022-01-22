@@ -2,7 +2,7 @@
   "id": "5f5d1512b39ab9001e04f86a",
   "title": "Qutebrowser関連のpackage更新でコケた",
   "created": 1599935763,
-  "updated": 1604901884,
+  "updated": 1618833970,
   "lines": [
     {
       "id": "5f5d1512b39ab9001e04f86a",
@@ -146,10 +146,10 @@
     },
     {
       "id": "5f5d15128a8c6a0000db89d6",
-      "text": "   pipパッケージの更新とか全然してなかった→[コレで一括更新 https://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-with-pip]",
-      "userId": "5ef9a74506750300248a8c6a",
+      "text": "  [pipパッケージの更新]とか全然してなかった→[コレで一括更新 https://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-with-pip]",
+      "userId": "6055950b87138f0022246f59",
       "created": 1599935763,
-      "updated": 1599935763
+      "updated": 1618833970
     },
     {
       "id": "5f5d15128a8c6a0000db89d7",

@@ -2,7 +2,7 @@
   "id": "5fdf4d02a99c93001c42e9d1",
   "title": "10億円が当たったら",
   "created": 1608469797,
-  "updated": 1613051707,
+  "updated": 1619767047,
   "lines": [
     {
       "id": "5fdf4d02a99c93001c42e9d1",
@@ -216,17 +216,52 @@
     },
     {
       "id": "6025372be5172d00002058a0",
-      "text": " 仕事を遊びにしたい…[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": " 仕事を遊びにしたい…[yosider.icon][sta.icon][U.icon]",
+      "userId": "5f16f6af405d31002403b210",
       "created": 1613051692,
-      "updated": 1613051707
+      "updated": 1619758404
     },
     {
-      "id": "6024e8dd79d3a900009dcfc8",
+      "id": "608b8d4b03b21000003d8f4b",
+      "text": "　仕事は引き続きやるがロータスエリーゼで出勤する[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1619758411,
+      "updated": 1619763285
+    },
+    {
+      "id": "608baec8dd60be0000eab414",
       "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1613031646,
-      "updated": 1613031695
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1619766983,
+      "updated": 1619766984
+    },
+    {
+      "id": "608baec8dd60be0000eab415",
+      "text": "楽器を買う[45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1619766984,
+      "updated": 1619766990
+    },
+    {
+      "id": "608baee0dd60be0000eab41a",
+      "text": "\tおうちにCFX（ヤマハの最高峰ピアノ、2,000万円）置きたい",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1619767008,
+      "updated": 1619767038
+    },
+    {
+      "id": "608baefedd60be0000eab41c",
+      "text": "\t\tそれに付随して家やら防音室やらも整備したい",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1619767038,
+      "updated": 1619767047
+    },
+    {
+      "id": "608ba0251d860a0000ddc0f8",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1619763238,
+      "updated": 1619763238
     }
   ]
 }

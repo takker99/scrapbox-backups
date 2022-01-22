@@ -2,7 +2,7 @@
   "id": "5fce08624d414f001c38a166",
   "title": "yosider",
   "created": 1607338082,
-  "updated": 1614438819,
+  "updated": 1622221713,
   "lines": [
     {
       "id": "5fce08624d414f001c38a166",
@@ -65,7 +65,7 @@
       "text": "code:style.css",
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614333055,
-      "updated": 1614333055
+      "updated": 1622020597
     },
     {
       "id": "6038c482e5172d0000be362f",
@@ -93,28 +93,21 @@
       "text": "code:script.js",
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614333055,
-      "updated": 1614333055
-    },
-    {
-      "id": "6038c482e5172d0000be3632",
-      "text": "\timport '/api/code/yosider-scripts/SharedUserScripts/script.js';",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1614333055,
-      "updated": 1614333055
+      "updated": 1622221709
     },
     {
       "id": "6038c482e5172d0000be3633",
-      "text": "\timport '/api/code/yosider-scripts/for-villagepump/script.js';",
+      "text": "\timport '/api/code/yosider-scripts/for-villagepump-min/script.js';",
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614333055,
-      "updated": 1614333055
+      "updated": 1622221706
     },
     {
-      "id": "6038c482e5172d0000be3634",
+      "id": "60ae0df9e5172d00007a8736",
       "text": "",
       "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1614333055,
-      "updated": 1614333055
+      "created": 1622019578,
+      "updated": 1622019578
     },
     {
       "id": "6038c482e5172d0000be3635",

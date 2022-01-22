@@ -2,7 +2,7 @@
   "id": "5f9f95c7eac2f9001e207418",
   "title": "実名",
   "created": 1604294088,
-  "updated": 1606137881,
+  "updated": 1632304711,
   "lines": [
     {
       "id": "5f9f95c7eac2f9001e207418",
@@ -17,6 +17,20 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1604294088,
       "updated": 1604294097
+    },
+    {
+      "id": "614afdcf5b98c2000058c84c",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632304591,
+      "updated": 1632304591
+    },
+    {
+      "id": "614afdd15b98c2000058c84d",
+      "text": "どこの誰と正確に特定できるのであれば、国の認可とかは関係ないんじゃないかな[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1632304593,
+      "updated": 1632304711
     },
     {
       "id": "5fbbb78cdd59fe00004f0467",
