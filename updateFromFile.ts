@@ -30,6 +30,8 @@ for await (const { name, isFile } of Deno.readDir(dir)) {
   oldTitles.push(title);
 }
 
+let added = 0;
+let updated = 0;
 const results = pooledMap(
   10,
   pages,
@@ -42,8 +44,10 @@ const results = pooledMap(
         const text = await Deno.readTextFile(url);
         const json = JSON.parse(text) as ExportedPage<true>;
         if (page.updated === json.updated) return;
+        updated++;
       } catch (e: unknown) {
         if (!(e instanceof Deno.errors.NotFound)) throw e;
+        added++;
       }
       await Deno.writeTextFile(
         toPageURL(title),
@@ -69,4 +73,6 @@ await Deno.writeTextFile(
   new URL(`../project.json`, dir),
   JSON.stringify({ name, displayName }, null, 2),
 );
-console.log(`Finish updating: ${count} Updated, ${count2} Removed`);
+console.log(
+  `Finish updating: ${added} Created, ${updated} Updated, ${count2} Removed`,
+);
