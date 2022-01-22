@@ -2,7 +2,7 @@
   "id": "5ea48ef7ebbc9a001753d2cd",
   "title": "scrapbox projectの使い分け",
   "created": 1587842811,
-  "updated": 1622770041,
+  "updated": 1638669934,
   "lines": [
     {
       "id": "5ea48ef7ebbc9a001753d2cd",
@@ -812,9 +812,9 @@
     {
       "id": "5fa9681c0553320000f279f9",
       "text": "\t\t\t\t　[https://gyazo.com/6ee80fd34ca67ac762cd0e672e7c2867]",
-      "userId": "5d131fa66fe2890017055332",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1604937756,
-      "updated": 1604937775
+      "updated": 1634858253
     },
     {
       "id": "5fa9682f0553320000f279fa",
@@ -1231,10 +1231,10 @@
     },
     {
       "id": "6003c707a3368200005e52df",
-      "text": "\t\t[/erniogi]",
+      "text": "\t\t[/erniogi-memex]",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1610860295,
-      "updated": 1610860302
+      "updated": 1635035667
     },
     {
       "id": "6003c72fa3368200005e52e1",
@@ -1251,25 +1251,11 @@
       "updated": 1610860664
     },
     {
-      "id": "6003c70fa3368200005e52e0",
-      "text": "\t\t[/erniogi-private]",
-      "userId": "5e5b870dd7f3000017a33682",
-      "created": 1610860304,
-      "updated": 1610860412
-    },
-    {
-      "id": "6003c77ca3368200005e52e4",
-      "text": "\t\t\t日記，KaggleやAtcoderなんかを一時的に置く場所でもある",
-      "userId": "5e5b870dd7f3000017a33682",
-      "created": 1610860413,
-      "updated": 1610860667
-    },
-    {
-      "id": "6003c7cba3368200005e52e8",
-      "text": "\t\t\t契約してる有料subscriptionやcredit card，銀行口座も書いてる",
-      "userId": "5e5b870dd7f3000017a33682",
-      "created": 1610860491,
-      "updated": 1610860671
+      "id": "6174174e1280f00000500c5e",
+      "text": "\t\t\t[- ここ最近変わったっぽい][takker.icon]修正done",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634998095,
+      "updated": 1635050847
     },
     {
       "id": "6003c700a3368200005e52de",
@@ -1361,6 +1347,328 @@
       "userId": "5953adab7aa58a0011385a92",
       "created": 1618980713,
       "updated": 1618980713
+    },
+    {
+      "id": "6171792b7c8c6d000054851e",
+      "text": "[teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826540,
+      "updated": 1634826550
+    },
+    {
+      "id": "61ac1d757c8c6d0000192a11",
+      "text": "\t非公開個人project",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669685,
+      "updated": 1638669699
+    },
+    {
+      "id": "61ac1d847c8c6d0000192a12",
+      "text": "\t\tメイン",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669700,
+      "updated": 1638669706
+    },
+    {
+      "id": "61ac1d967c8c6d0000192a14",
+      "text": "\t\tなんでも突っ込む",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669718,
+      "updated": 1638669722
+    },
+    {
+      "id": "617179377c8c6d000054851f",
+      "text": "　公開個人project",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826551,
+      "updated": 1638669683
+    },
+    {
+      "id": "61ac1da77c8c6d0000192a16",
+      "text": "　\t[/teyolifelog]",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669736,
+      "updated": 1638669770
+    },
+    {
+      "id": "61ac1ddf7c8c6d0000192a18",
+      "text": "　\t\tメインから共有できるページを公開",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669792,
+      "updated": 1638669845
+    },
+    {
+      "id": "617179727c8c6d0000548522",
+      "text": " 　プレゼン用",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826611,
+      "updated": 1638669881
+    },
+    {
+      "id": "617179877c8c6d0000548523",
+      "text": " 　　discordでのイベント用に使ってます",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826631,
+      "updated": 1638669877
+    },
+    {
+      "id": "617179a27c8c6d0000548524",
+      "text": " 　　プレゼンテーションモードを共有するために公開してる",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826658,
+      "updated": 1638669878
+    },
+    {
+      "id": "61ac1e417c8c6d0000192a19",
+      "text": " 非公開共有project",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669889,
+      "updated": 1638669912
+    },
+    {
+      "id": "61ac1e657c8c6d0000192a1b",
+      "text": " \t青空文庫の輪読",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669925,
+      "updated": 1638669934
+    },
+    {
+      "id": "61ac1e587c8c6d0000192a1a",
+      "text": " \t美術史",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1638669913,
+      "updated": 1638669921
+    },
+    {
+      "id": "617179c67c8c6d0000548525",
+      "text": "　その他",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826694,
+      "updated": 1634826698
+    },
+    {
+      "id": "6171793a7c8c6d0000548520",
+      "text": "　　その時々で生えたりしてますが結局メインのプロジェクトに収束する",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826555,
+      "updated": 1634826740
+    },
+    {
+      "id": "617179d47c8c6d0000548526",
+      "text": "　　ポートフォリオサイトは作りたいと思っている",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826708,
+      "updated": 1634826765
+    },
+    {
+      "id": "617179ff7c8c6d0000548527",
+      "text": "",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1634826751,
+      "updated": 1634826751
+    },
+    {
+      "id": "6171d213e5172d0000b99747",
+      "text": "[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849300,
+      "updated": 1634849301
+    },
+    {
+      "id": "6171d215e5172d0000b99748",
+      "text": " 非公開個人project",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849301,
+      "updated": 1634849380
+    },
+    {
+      "id": "6171d258e5172d0000b9974a",
+      "text": "  何でも書くやつ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849369,
+      "updated": 1634849374
+    },
+    {
+      "id": "6171d366e5172d0000b99756",
+      "text": "  メインで使っている",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849639,
+      "updated": 1634849643
+    },
+    {
+      "id": "6171d29ce5172d0000b9974e",
+      "text": " 公開個人project",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849437,
+      "updated": 1634849442
+    },
+    {
+      "id": "6171d2a2e5172d0000b9974f",
+      "text": "  [/yosider]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849442,
+      "updated": 1634849447
+    },
+    {
+      "id": "6171d2a7e5172d0000b99750",
+      "text": "  　[scrapbox-sync]で[非公開projectの一部だけ公開]する用",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849447,
+      "updated": 1634849607
+    },
+    {
+      "id": "6171d348e5172d0000b99754",
+      "text": "  [/yosider-scripts]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849608,
+      "updated": 1634849613
+    },
+    {
+      "id": "6171d34ee5172d0000b99755",
+      "text": "   UserScript/UserCSS管理用",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849614,
+      "updated": 1634849627
+    },
+    {
+      "id": "6171d3e1e5172d0000b99758",
+      "text": " 非公開複数人project",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849761,
+      "updated": 1634849761
+    },
+    {
+      "id": "6171d3e3e5172d0000b99759",
+      "text": " 　研究のノートとして使っている",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849763,
+      "updated": 1634849810
+    },
+    {
+      "id": "6171d411e5172d0000b9975a",
+      "text": " 　メンバーは学生の自分と指導してくれている人1人だけで、実質書いているのは自分のみ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849810,
+      "updated": 1634849892
+    },
+    {
+      "id": "6171d265e5172d0000b9974b",
+      "text": " 公開複数人project",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849382,
+      "updated": 1634849420
+    },
+    {
+      "id": "6171d28ce5172d0000b9974c",
+      "text": "  [/AGI]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849420,
+      "updated": 1634849424
+    },
+    {
+      "id": "6171d290e5172d0000b9974d",
+      "text": "  [/programming-notes]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849425,
+      "updated": 1634849429
+    },
+    {
+      "id": "6171d2dae5172d0000b99751",
+      "text": "  その他、招待リンクを公開しているが自分しかメンバーがいないものがいくつか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849498,
+      "updated": 1634850138
+    },
+    {
+      "id": "6171d399e5172d0000b99757",
+      "text": " [/yosider/Scrapboxプロジェクトはメンバーに応じて分ける]方針",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849689,
+      "updated": 1634850095
+    },
+    {
+      "id": "6171d216e5172d0000b99749",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1634849302,
+      "updated": 1634849302
+    },
+    {
+      "id": "61a5b7cac3f2c700003391c7",
+      "text": "[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250441,
+      "updated": 1638250443
+    },
+    {
+      "id": "61a5b7ccc3f2c700003391c8",
+      "text": "　共有private project",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250444,
+      "updated": 1638250793
+    },
+    {
+      "id": "61a5b7f2c3f2c700003391ca",
+      "text": "　 メイン。思いついたことを何でも放り込む",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250481,
+      "updated": 1638250618
+    },
+    {
+      "id": "61a5b82fc3f2c700003391cb",
+      "text": "　 友人との思い出や、仕事の予定もここ",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250542,
+      "updated": 1638251202
+    },
+    {
+      "id": "61a5ba1bc3f2c700003391d1",
+      "text": "　 脳の外付けハードディスクみたいなもの",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638251034,
+      "updated": 1638251057
+    },
+    {
+      "id": "61a5b881c3f2c700003391cc",
+      "text": "　個人public project　[/maichan2]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250624,
+      "updated": 1638250987
+    },
+    {
+      "id": "61a5b890c3f2c700003391cd",
+      "text": "　 メインから公開しても問題ないものをミラーリング",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250640,
+      "updated": 1638250678
+    },
+    {
+      "id": "61a5b8ccc3f2c700003391ce",
+      "text": "　英語学習用private project",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250699,
+      "updated": 1638251159
+    },
+    {
+      "id": "61a5b952c3f2c700003391cf",
+      "text": "　Python学習用private project",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250833,
+      "updated": 1638251161
+    },
+    {
+      "id": "61a5b965c3f2c700003391d0",
+      "text": "　 勉強に集中できるようにメインから切り離した",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250852,
+      "updated": 1638250953
+    },
+    {
+      "id": "61a5b7cdc3f2c700003391c9",
+      "text": "",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1638250444,
+      "updated": 1638250444
     }
   ]
 }

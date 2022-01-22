@@ -2,7 +2,7 @@
   "id": "5f17b7cc69389f002486ab6e",
   "title": "SNSの使い分け",
   "created": 1595389906,
-  "updated": 1618139920,
+  "updated": 1633530706,
   "lines": [
     {
       "id": "5f17b7cc69389f002486ab6e",
@@ -38,6 +38,13 @@
       "userId": "5da3a9589b96b70017ec4fce",
       "created": 1606905994,
       "updated": 1606906032
+    },
+    {
+      "id": "615db3428ee92a00006a3ebe",
+      "text": "　　そもそもScrapboxはSNSではありません [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1633530691,
+      "updated": 1633530706
     },
     {
       "id": "5f1835e1ec4fce0000677126",

@@ -2,7 +2,7 @@
   "id": "5fb5e3b6aa40df0024e21e89",
   "title": "嫌いな言葉",
   "created": 1605755833,
-  "updated": 1632659278,
+  "updated": 1639843019,
   "lines": [
     {
       "id": "5fb5e3b6aa40df0024e21e89",
@@ -13,10 +13,10 @@
     },
     {
       "id": "60f193169a4352000035219c",
-      "text": "論破[rickshinmi.icon][erniogi.icon][kidooom.icon][takker.icon][hata6502.icon]",
-      "userId": "5ff4fb2169e764001cd1a02f",
+      "text": "論破[rickshinmi.icon][erniogi.icon][kidooom.icon][takker.icon][hata6502.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1626444567,
-      "updated": 1628340364
+      "updated": 1633528290
     },
     {
       "id": "5fb5e3d6d438750000aa3566",
@@ -66,6 +66,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1626361231,
       "updated": 1626361239
+    },
+    {
+      "id": "618eea8de5172d00004ae727",
+      "text": " [変な話]って何、といつも思う[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636756110,
+      "updated": 1636756163
     },
     {
       "id": "5fb5e3c1d438750000aa3564",
@@ -265,10 +272,10 @@
     },
     {
       "id": "5fc1c5e5d43875000080f70b",
-      "text": "〇〇の末路[dnin.icon][takker.icon][増井俊之.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "〇〇の末路[dnin.icon][takker.icon][増井俊之.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1606534630,
-      "updated": 1613112354
+      "updated": 1633526376
     },
     {
       "id": "60128c441280f00000a9c77c",
@@ -894,6 +901,13 @@
       "updated": 1611586721
     },
     {
+      "id": "615dc1dc774b170000eb7428",
+      "text": " teamにjoin! [基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1633534429,
+      "updated": 1633534436
+    },
+    {
       "id": "5fc1cc724bb2e2000023bed6",
       "text": "愛は地球を救う[kuuote.icon]",
       "userId": "5e8944948a182900174bb2e2",
@@ -909,10 +923,10 @@
     },
     {
       "id": "600edcbd1280f000001ce36b",
-      "text": " 辛辣で草[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " 辛辣で草[takker.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1611586750,
-      "updated": 1611586754
+      "updated": 1633523640
     },
     {
       "id": "5fbd199f4daa9200004d1b2a",
@@ -1070,10 +1084,10 @@
     },
     {
       "id": "5fcca1204daa92000059d5f7",
-      "text": "天才〇〇[yuta0801.icon][kidooom.icon]",
-      "userId": "5df97d83ccfabb0017a19e40",
+      "text": "天才〇〇[yuta0801.icon][kidooom.icon][erniogi.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1607246113,
-      "updated": 1628209589
+      "updated": 1636719697
     },
     {
       "id": "5fcca1254daa92000059d5f9",
@@ -1112,10 +1126,10 @@
     },
     {
       "id": "5fc2d8fc8ee92a0000df45e9",
-      "text": "恥知らず [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "恥知らず [増井俊之.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1606605053,
-      "updated": 1622412272
+      "updated": 1633528368
     },
     {
       "id": "5fdc29e18ee92a0000d9f2e7",
@@ -1133,10 +1147,10 @@
     },
     {
       "id": "5fd435b4e5172d0000ee545d",
-      "text": "新しい価値を創造します、みたいなすごくふわっとした[企業理念][dnin.icon][yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "新しい価値を創造します、みたいなすごくふわっとした[企業理念][dnin.icon][yosider.icon][erniogi.icon][hata6502.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1607742900,
-      "updated": 1613112354
+      "updated": 1636721162
     },
     {
       "id": "5ff4155da336820000cfeda0",
@@ -1342,11 +1356,18 @@
       "updated": 1626354820
     },
     {
+      "id": "615dc2d4774b170000eb7429",
+      "text": " https://twitter.com/tonets/status/1431537191428055041",
+      "userId": "59fb21121207900012774b17",
+      "created": 1633534677,
+      "updated": 1633534677
+    },
+    {
       "id": "601c9849d4387500005f67f2",
-      "text": "オールジャパン[dnin.icon]",
-      "userId": "6055950b87138f0022246f59",
+      "text": "オールジャパン[dnin.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1612486731,
-      "updated": 1620080144
+      "updated": 1633535904
     },
     {
       "id": "60f05777385a9200005f5aeb",
@@ -1427,17 +1448,17 @@
     },
     {
       "id": "60b5b68aa3368200007883a5",
-      "text": "慎重に検討致しましたが..[erniogi.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "慎重に検討致しましたが..[erniogi.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1622521482,
-      "updated": 1622521494
+      "updated": 1636741936
     },
     {
       "id": "60b5b696a3368200007883a6",
-      "text": "意見は割れたのですが..[erniogi.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "意見は割れたのですが..[erniogi.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1622521495,
-      "updated": 1622521509
+      "updated": 1636741937
     },
     {
       "id": "60b804dc246f5900007ca71a",
@@ -1531,11 +1552,67 @@
       "updated": 1632659278
     },
     {
+      "id": "615d9864c3f2c70000ebb811",
+      "text": "厳しいこと言うけど[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1633523813,
+      "updated": 1633523825
+    },
+    {
       "id": "610e80e9d1a02f0000ef349d",
-      "text": "",
-      "userId": "5ff4fb2169e764001cd1a02f",
+      "text": "債務超過[基素.icon]",
+      "userId": "59fb21121207900012774b17",
       "created": 1628340458,
-      "updated": 1628340458
+      "updated": 1633534999
+    },
+    {
+      "id": "618e5bbc4bb2e20000a858da",
+      "text": "勉強[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1636719533,
+      "updated": 1636719536
+    },
+    {
+      "id": "618e5bc44bb2e20000a858db",
+      "text": " 嫌な事を無理矢理やるというニュアンスがあってすごく嫌なので絶対に使わないようにしている",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1636719541,
+      "updated": 1636719567
+    },
+    {
+      "id": "618eb3798ee92a00005558a4",
+      "text": "  そんなニュアンスあるかな? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1636742009,
+      "updated": 1636742016
+    },
+    {
+      "id": "618e5be44bb2e20000a858dc",
+      "text": " 人が使っているのを見てもそこまで気にならない",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1636719573,
+      "updated": 1636719581
+    },
+    {
+      "id": "618eb3a18ee92a00005558a5",
+      "text": "[デジタル田園都市国家] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1636742050,
+      "updated": 1636742059
+    },
+    {
+      "id": "615dc417774b170000eb742a",
+      "text": "常識[dai.icon]",
+      "userId": "5abc77416573130014427748",
+      "created": 1633534999,
+      "updated": 1639843019
+    },
+    {
+      "id": "61be04c64277480000d2819b",
+      "text": "",
+      "userId": "5abc77416573130014427748",
+      "created": 1639843015,
+      "updated": 1639843015
     },
     {
       "id": "5fd7063dd43875000016bfc2",

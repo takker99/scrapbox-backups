@@ -2,7 +2,7 @@
   "id": "60037b35a9562700485c7fde",
   "title": "ScrapboxのSEOは強くない",
   "created": 1610840888,
-  "updated": 1632489311,
+  "updated": 1636262370,
   "lines": [
     {
       "id": "60037b35a9562700485c7fde",
@@ -174,10 +174,10 @@
     },
     {
       "id": "600b736579d3a900008e861a",
-      "text": "[ScrapboxのSEOは意外と強い]",
+      "text": "[ScrapboxのSEOは期待しているより強い]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611363164,
-      "updated": 1632489311
+      "updated": 1638074974
     },
     {
       "id": "60fbd6eb19827000000ab931",
@@ -213,6 +213,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1627113744,
       "updated": 1627117421
+    },
+    {
+      "id": "618761d279d3a90000990422",
+      "text": " たしかに[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1636262356,
+      "updated": 1636262359
     },
     {
       "id": "60fbd74f1280f000001857c4",

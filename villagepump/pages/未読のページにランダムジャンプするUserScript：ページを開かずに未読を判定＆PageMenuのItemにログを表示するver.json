@@ -2,7 +2,7 @@
   "id": "6041dd9791fc21001c6106dd",
   "title": "未読のページにランダムジャンプするUserScript：ページを開かずに未読を判定＆PageMenuのItemにログを表示するver",
   "created": 1614929315,
-  "updated": 1624868591,
+  "updated": 1642546392,
   "lines": [
     {
       "id": "6041dd9791fc21001c6106dd",
@@ -279,10 +279,17 @@
     },
     {
       "id": "6041eb6a1280f00000a2ffc1",
-      "text": "[SPA]を維持してページ遷移するために、[location.href]ではなく`<a rel=\"route\">`を使ってジャンプするようにした",
+      "text": "[- [SPAを維持してページ遷移]するために、[location.href]ではなく]`<a rel=\"route\">`[- を使ってジャンプするようにした]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1614932842,
-      "updated": 1614956697
+      "updated": 1642546336
+    },
+    {
+      "id": "61e744a11280f00000e84e85",
+      "text": " ただの`<a>`で十分だった[. [未読のページにランダムジャンプするUserScript：ページを開かずに未読を判定＆PageMenuのItemにログを表示するver#60d891991280f000002e1261] ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642546337,
+      "updated": 1642546392
     },
     {
       "id": "6041eb581280f00000a2ffbd",
@@ -303,13 +310,6 @@
       "text": "       a.href = `./${encodeURIComponent(nextPage.title)}#${unreadLine.id}`;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1614932382,
-      "updated": 1614932677
-    },
-    {
-      "id": "6041e9b21280f0000011fa34",
-      "text": "       a.rel = 'route';",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1614932402,
       "updated": 1614932677
     },
     {

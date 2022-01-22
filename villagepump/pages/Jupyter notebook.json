@@ -2,7 +2,7 @@
   "id": "60a04d4ee98347001c7db784",
   "title": "Jupyter notebook",
   "created": 1621118633,
-  "updated": 1621165943,
+  "updated": 1633087835,
   "lines": [
     {
       "id": "60a04d4ee98347001c7db784",
@@ -45,6 +45,20 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621118637,
       "updated": 1621118699
+    },
+    {
+      "id": "6156f14c79e1130000893b65",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1633087821,
+      "updated": 1633087821
+    },
+    {
+      "id": "6156f14c79e1130000893b66",
+      "text": "　ロゴが[マリトッツォ]に見えた[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1633087821,
+      "updated": 1633087835
     },
     {
       "id": "60a04ead8ee92a000018d7cc",

@@ -2,7 +2,7 @@
   "id": "5ffcca7174edd0001e912165",
   "title": "ミニマリスト",
   "created": 1610402419,
-  "updated": 1632455339,
+  "updated": 1636424633,
   "lines": [
     {
       "id": "5ffcca7174edd0001e912165",
@@ -129,6 +129,13 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1630150725,
       "updated": 1630150725
+    },
+    {
+      "id": "6189dbb58ee92a0000645a3d",
+      "text": "\t\t そんなアホな [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1636424629,
+      "updated": 1636424633
     },
     {
       "id": "612a204c79d3a900003ca4a3",

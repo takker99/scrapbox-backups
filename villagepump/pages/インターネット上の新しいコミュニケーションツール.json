@@ -2,7 +2,7 @@
   "id": "615551b3c45d0c001fa12d5e",
   "title": "インターネット上の新しいコミュニケーションツール",
   "created": 1632981429,
-  "updated": 1633078470,
+  "updated": 1638606443,
   "lines": [
     {
       "id": "615551b3c45d0c001fa12d5e",
@@ -82,11 +82,81 @@
       "updated": 1632999816
     },
     {
+      "id": "61578fb15b98c2000067a628",
+      "text": "　 http://www.pitecan.com/papers/SPA2003/SPA2003.pdf これかな？ [suto3.icon]",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1633128369,
+      "updated": 1633315172
+    },
+    {
+      "id": "615a69650553320000fd1a7f",
+      "text": "　 \tこれを読むのを[アクティブ読書]でやってみよう、、、",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1633315173,
+      "updated": 1633315174
+    },
+    {
       "id": "6155520c1280f00000a1837d",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "\tWiki Wiki WebってWikiを2回言うのに意図はあるのかな",
+      "userId": "5ca094b00af7b0001732ef92",
       "created": 1632981513,
-      "updated": 1632981513
+      "updated": 1633097610
+    },
+    {
+      "id": "615718b732ef920000b6187d",
+      "text": "\t\t[https://www.yamdas.org/wikiway/ 『Wiki Way コラボレーションツールWiki』サポートページ]",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1633097912,
+      "updated": 1633097913
+    },
+    {
+      "id": "615718b932ef920000b6187e",
+      "text": "\t\tワクワクみたいな語感",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1633097914,
+      "updated": 1633097930
+    },
+    {
+      "id": "615719c732ef920000b6187f",
+      "text": "\t\t\tWiki Wayについて調べていたら、結城浩さんの[https://www.hyuki.com/wb/ 結城浩のWiki入門]に行きついた",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1633098184,
+      "updated": 1633098227
+    },
+    {
+      "id": "615719f332ef920000b61880",
+      "text": "\t\t\t\t[wiki]がまだ一般的じゃなかった時代に出された本?",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1633098228,
+      "updated": 1633098254
+    },
+    {
+      "id": "61571d554bb2e20000a2e0fe",
+      "text": "\t\t>https://ja.wikipedia.org/wiki/ウィキ",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1633099083,
+      "updated": 1633099123
+    },
+    {
+      "id": "61571d604bb2e20000a2e100",
+      "text": "\t >ウィキウィキは[ハワイ]語で「速い」を意味する形容詞の wikiwiki から来ており、ウィキのページの作成更新の迅速なことを表し、[ウォード・カニンガム]が[ホノルル]国際空港内を走る \"Wiki Wiki Shuttle\" からとって \"WikiWikiWeb\" と命名したことに始まる。",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1633099094,
+      "updated": 1638606443
+    },
+    {
+      "id": "61571a0732ef920000b61881",
+      "text": "\tというかもう既に[WikiWikiWeb]というページがあった",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1633098248,
+      "updated": 1633098320
+    },
+    {
+      "id": "6157177232ef920000b6187c",
+      "text": "",
+      "userId": "5ca094b00af7b0001732ef92",
+      "created": 1633097586,
+      "updated": 1633097586
     },
     {
       "id": "6155520c1280f00000a1837e",
@@ -94,6 +164,20 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1632981513,
       "updated": 1632981515
+    },
+    {
+      "id": "615a695d0553320000fd1a7d",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1633315165,
+      "updated": 1633315165
+    },
+    {
+      "id": "615a694e0553320000fd1a7c",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1633315150,
+      "updated": 1633315169
     },
     {
       "id": "6155520d1280f00000a1837f",

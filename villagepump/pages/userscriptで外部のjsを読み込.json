@@ -2,7 +2,7 @@
   "id": "6066db1efb8305001c35b4c0",
   "title": "userscriptで外部のjsを読み込",
   "created": 1617353504,
-  "updated": 1632016113,
+  "updated": 1633774405,
   "lines": [
     {
       "id": "6066db1efb8305001c35b4c0",
@@ -384,10 +384,10 @@
     },
     {
       "id": "614696c16668720000c39274",
-      "text": " 5. [yuki_minoh.icon]のnode-bitmap-proxyを使う（未完成）",
+      "text": " 5. [yuki_minoh.icon]の[node-bitmap-proxy]を使う（未完成）",
       "userId": "5ee7f26f1c0c850025666872",
       "created": 1632016065,
-      "updated": 1632016113
+      "updated": 1633768928
     },
     {
       "id": "614696d16668720000c39275",
@@ -395,6 +395,27 @@
       "userId": "5ee7f26f1c0c850025666872",
       "created": 1632016081,
       "updated": 1632016106
+    },
+    {
+      "id": "616169fe6668720000fb78f1",
+      "text": " 6. ブラウザ拡張機能を使う",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633774082,
+      "updated": 1633774363
+    },
+    {
+      "id": "61616b05666872000063d788",
+      "text": " 　[https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden?hl=ja Disable Content-Security-Policy - Chrome ウェブストア]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633774342,
+      "updated": 1633774369
+    },
+    {
+      "id": "61616b22666872000063d789",
+      "text": " 　僕は試してないので自己責任でお願いします[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633774371,
+      "updated": 1633774405
     },
     {
       "id": "6066e20b1280f00000be04d0",

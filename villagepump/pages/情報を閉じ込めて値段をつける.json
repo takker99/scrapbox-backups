@@ -2,7 +2,7 @@
   "id": "5fa8df9640201b0020d7ed9b",
   "title": "情報を閉じ込めて値段をつける",
   "created": 1604902809,
-  "updated": 1611533901,
+  "updated": 1633780433,
   "lines": [
     {
       "id": "5fa8df9640201b0020d7ed9b",
@@ -52,13 +52,6 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1611509322,
       "updated": 1611509361
-    },
-    {
-      "id": "5fa8e1124daa920000293a5d",
-      "text": "",
-      "userId": "5bc5772df30ff700134daa92",
-      "created": 1604903186,
-      "updated": 1604903186
     },
     {
       "id": "600e0e0203b210000085bdab",

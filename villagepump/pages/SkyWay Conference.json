@@ -2,7 +2,7 @@
   "id": "6082b0fcd46fe7001c40def5",
   "title": "SkyWay Conference",
   "created": 1619177726,
-  "updated": 1619188848,
+  "updated": 1633785079,
   "lines": [
     {
       "id": "6082b0fcd46fe7001c40def5",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6082b313246f590000edede8",
-      "text": "ルーム名を設定してURLを教えるだけで、音声・ビデオ通話が開始される",
-      "userId": "6055950b87138f0022246f59",
+      "text": "ルーム名を設定してURLを教えるだけで、音声・[ビデオ通話]が開始される",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1619178260,
-      "updated": 1619178275
+      "updated": 1633785023
     },
     {
       "id": "6082b0fe246f590000ededd9",
@@ -24,13 +24,6 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1619177726,
       "updated": 1619177730
-    },
-    {
-      "id": "6082b0fe246f590000ededda",
-      "text": "[https://gyazo.com/b7d2dbcf20cb28c584d49bc2c545e4bd]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1619177726,
-      "updated": 1619177814
     },
     {
       "id": "6082b158246f590000ededdc",
@@ -94,6 +87,27 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1619188814,
       "updated": 1619188814
+    },
+    {
+      "id": "616194edd0ca1c00002c810b",
+      "text": "類似サービス",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633785071,
+      "updated": 1633785076
+    },
+    {
+      "id": "616194f1d0ca1c00002c810d",
+      "text": "　[Whereby]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633785076,
+      "updated": 1633785079
+    },
+    {
+      "id": "616194f1d0ca1c00002c810c",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633785076,
+      "updated": 1633785076
     }
   ]
 }

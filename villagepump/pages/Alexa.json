@@ -2,7 +2,7 @@
   "id": "60784dcd0f3d33001c39fe5b",
   "title": "Alexa",
   "created": 1618496974,
-  "updated": 1631797626,
+  "updated": 1634199356,
   "lines": [
     {
       "id": "60784dcd0f3d33001c39fe5b",
@@ -45,13 +45,6 @@
       "userId": "5d20a16b6e57f80017fd049e",
       "created": 1618497025,
       "updated": 1618497025
-    },
-    {
-      "id": "61434179cc60860000f4c0b7",
-      "text": "[https://gyazo.com/a43b0a21a94a90ca5e8bd4c4cf035e7a]",
-      "userId": "6127807d271b6b001dcc6086",
-      "created": 1631797626,
-      "updated": 1631797626
     }
   ]
 }

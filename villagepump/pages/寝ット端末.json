@@ -2,7 +2,7 @@
   "id": "600c001aacb819001c0694fe",
   "title": "寝ット端末",
   "created": 1611399195,
-  "updated": 1629780024,
+  "updated": 1638518566,
   "lines": [
     {
       "id": "600c001aacb819001c0694fe",
@@ -96,6 +96,13 @@
       "updated": 1611399488
     },
     {
+      "id": "61a9cf1b79e1130000cb9484",
+      "text": " [HalfDive]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1638518555,
+      "updated": 1638518566
+    },
+    {
       "id": "600c013e1280f000003f8f08",
       "text": "",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -171,6 +178,20 @@
       "userId": "5953adab7aa58a0011385a92",
       "created": 1629780007,
       "updated": 1629780007
+    },
+    {
+      "id": "61a9c536774b170000f18de0",
+      "text": "[Oculus Quest 2]はいかが？[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1638516023,
+      "updated": 1638516055
+    },
+    {
+      "id": "61a9c537774b170000f18de1",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1638516024,
+      "updated": 1638516024
     }
   ]
 }

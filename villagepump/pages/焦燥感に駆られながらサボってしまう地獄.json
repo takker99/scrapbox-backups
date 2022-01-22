@@ -2,7 +2,7 @@
   "id": "60b22c8a89805c001cb99bdb",
   "title": "焦燥感に駆られながらサボってしまう地獄",
   "created": 1622289552,
-  "updated": 1629292894,
+  "updated": 1636028153,
   "lines": [
     {
       "id": "60b22c8a89805c001cb99bdb",
@@ -90,10 +90,10 @@
     },
     {
       "id": "60d967a0385a92000041dfcd",
-      "text": "[同じ感覚分かるので、この言葉があるのはいいことだ][miyamonz.icon][bluemountain.icon][yosider.icon][takker.icon][dnin.icon][kuuote.icon][tetsuya-k.icon][rickshinmi.icon][erniogi.icon][nishio.icon]",
-      "userId": "582e63d27c56960011aff09e",
+      "text": "[同じ感覚分かるので、この言葉があるのはいいことだ][miyamonz.icon][bluemountain.icon][yosider.icon][takker.icon][dnin.icon][kuuote.icon][tetsuya-k.icon][rickshinmi.icon][erniogi.icon][nishio.icon][基素.icon][kuuote.icon][yuki_minoh.icon][teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
       "created": 1624860576,
-      "updated": 1629292580
+      "updated": 1635895295
     },
     {
       "id": "60d967af385a92000041dfcf",
@@ -139,10 +139,17 @@
     },
     {
       "id": "60d9f512385a920000282f19",
-      "text": " 　それがなんかちょっとバグってて、デッドロックみたいなものが起きてる",
-      "userId": "5953adab7aa58a0011385a92",
+      "text": " 　それがなんかちょっとバグってて、[デッドロック]みたいなものが起きてる",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1624896786,
-      "updated": 1624896800
+      "updated": 1633398889
+    },
+    {
+      "id": "615bb06a1280f000008f3129",
+      "text": " 　それだ！[\" デッドロック][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633398890,
+      "updated": 1633398900
     },
     {
       "id": "60d9f4e3385a920000282f17",
@@ -580,10 +587,10 @@
     },
     {
       "id": "611ca52679d3a900008730b4",
-      "text": "　やるべきことがあるときに、つい目の前の誘惑に負けてしまい、やめないとと思いながらもやめられず苦しむという感じ[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "　やるべきことがあるときに、つい目の前の誘惑に負けてしまい、やめないとと思いながらもやめられず苦しむという感じ[yosider.icon][kuuote.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1629267240,
-      "updated": 1629280099
+      "updated": 1633520416
     },
     {
       "id": "611cd6bde5172d00003f72a9",
@@ -615,17 +622,31 @@
     },
     {
       "id": "611cd841e5172d00003f72ac",
-      "text": "　締め切りがきついほど起こりやすいと思う[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "　締め切りがきついほど起こりやすいと思う[yosider.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1629280322,
-      "updated": 1629280359
+      "updated": 1633447811
+    },
+    {
+      "id": "6183cde0e5172d00008ccd6f",
+      "text": "　タスクに必要なコストが自分の持っているエネルギー（気力？）を超えてしまうと、歯が立たなくて時が過ぎるのを眺めるしかなくなる？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636027872,
+      "updated": 1636028080
+    },
+    {
+      "id": "6183cedfe5172d00008ccd70",
+      "text": "　　「一定量のエネルギーを持っている」みたいな比喩が正しいのかよくわからないが",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636028128,
+      "updated": 1636028153
     },
     {
       "id": "611cd5d3e5172d00003f72a8",
       "text": "",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1629279699,
-      "updated": 1629279699
+      "updated": 1633522572
     },
     {
       "id": "611d085aaff09e0000dd6cf5",
@@ -703,6 +724,111 @@
       "userId": "582e63d27c56960011aff09e",
       "created": 1629292860,
       "updated": 1629292860
+    },
+    {
+      "id": "615c6fcc4bb2e20000c13418",
+      "text": "[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1633447864,
+      "updated": 1633447864
+    },
+    {
+      "id": "615c6fcc4bb2e20000c13419",
+      "text": " 上にも書いてあるが、個人的に物事に取り組めない原因の1つに理想が高すぎるという物があるので事実に基づいた客観的な視点という物が大事だと思う(中々難しいけど)",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1633447864,
+      "updated": 1633447918
+    },
+    {
+      "id": "615c6fcc4bb2e20000c1341a",
+      "text": " [ADHD]の場合報酬系がバグっているのでやりたいこととそうでないことの間の優先度が天と地くらい違って敗北しやすい",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1633447864,
+      "updated": 1633448152
+    },
+    {
+      "id": "615c70f74bb2e20000c1341c",
+      "text": "  できない自分を責めるのではなく(余計に泥沼に嵌りがち)焦燥感の原因をやりたいことに変えるハックを考えた方が上手くいきやすい",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1633448163,
+      "updated": 1633448202
+    },
+    {
+      "id": "615c70c84bb2e20000c1341b",
+      "text": " 作業が煮詰まりやすい状況だと現実逃避に向かうスイッチが発生しやすくなるのでスムーズに作業に取りかかれるような(作業の障害を排除する)[下準備]をするといいのかもしれない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633448115,
+      "updated": 1633520455
+    },
+    {
+      "id": "615c736f4bb2e200007aa7eb",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1633448795,
+      "updated": 1633448795
+    },
+    {
+      "id": "615d93a666687200002de446",
+      "text": "[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522602,
+      "updated": 1633522602
+    },
+    {
+      "id": "615d93a766687200002de447",
+      "text": "　この感覚に名前がついててしかも色んな人が共感しているのがとてもびっくりしました",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522603,
+      "updated": 1633522623
+    },
+    {
+      "id": "615d93bc66687200002de449",
+      "text": "　　自分だけだと思っていた。。。",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522623,
+      "updated": 1633522651
+    },
+    {
+      "id": "615dace2e5172d0000c8f211",
+      "text": "　　[インターネットの恩恵]を感じる[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633529059,
+      "updated": 1633529086
+    },
+    {
+      "id": "615d93e366687200002de44a",
+      "text": "　　ってか発達障害系なんか。。。？",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522663,
+      "updated": 1633522677
+    },
+    {
+      "id": "615d93eb66687200002de44b",
+      "text": "　　　その気はある",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522670,
+      "updated": 1633522681
+    },
+    {
+      "id": "615d93f566687200002de44c",
+      "text": "　　 まあここは気にしないのがいいのかもしれない",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522681,
+      "updated": 1633522802
+    },
+    {
+      "id": "615d946166687200002de44e",
+      "text": "　　 障害も個性の延長として考えるのがノーマライゼーションの基本らしいし",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522789,
+      "updated": 1633522792
+    },
+    {
+      "id": "615d93a866687200002de448",
+      "text": "",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633522603,
+      "updated": 1633522603
     }
   ]
 }

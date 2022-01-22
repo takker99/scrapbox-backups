@@ -2,7 +2,7 @@
   "id": "60a2feb7cde8690020d9c52c",
   "title": "Google PhotosではなくGyazoを使う理由",
   "created": 1621294776,
-  "updated": 1622012461,
+  "updated": 1633973403,
   "lines": [
     {
       "id": "60a2feb7cde8690020d9c52c",
@@ -251,10 +251,10 @@
     },
     {
       "id": "60a345131280f00000caf023",
-      "text": "     これって、文字情報が含まれている画像でないと機能しないのでは？[takker.icon][yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "     これって、文字情報が含まれている画像でないと機能しないのでは？[takker.icon][yosider.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1621312788,
-      "updated": 1621329302
+      "updated": 1633723589
     },
     {
       "id": "60a3459a8ee92a00005fa0bc",
@@ -374,6 +374,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1621329586,
       "updated": 1621329592
+    },
+    {
+      "id": "61609336774b17000029ce26",
+      "text": "         Google photosで猫の画像を自動的に家族共有しています。これは便利に感じます[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1633719095,
+      "updated": 1633719159
     },
     {
       "id": "60a3460d8ee92a00005fa0c0",
@@ -766,6 +773,34 @@
       "userId": "5d89b1f60230ae001779e113",
       "created": 1621294776,
       "updated": 1621294776
+    },
+    {
+      "id": "6160a503d1a02f0000de1540",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1633723651,
+      "updated": 1633724099
+    },
+    {
+      "id": "616472a8d1a02f0000a7d54f",
+      "text": "[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1633972904,
+      "updated": 1633972906
+    },
+    {
+      "id": "616472a1d1a02f0000a7d54d",
+      "text": "[/hata6502/Gyazo を画像解析でタグ付けする]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1633972898,
+      "updated": 1633972902
+    },
+    {
+      "id": "616472a6d1a02f0000a7d54e",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1633972902,
+      "updated": 1633973403
     }
   ]
 }

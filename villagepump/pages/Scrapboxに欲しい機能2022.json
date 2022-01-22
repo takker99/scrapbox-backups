@@ -1,0 +1,617 @@
+{
+  "id": "61cd837868590b0022d57329",
+  "title": "Scrapboxに欲しい機能2022",
+  "created": 1640858490,
+  "updated": 1641415248,
+  "lines": [
+    {
+      "id": "61cd837868590b0022d57329",
+      "text": "Scrapboxに欲しい機能2022",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640858490,
+      "updated": 1640858490
+    },
+    {
+      "id": "61cd837a55cbd30000101cbd",
+      "text": "参加メンバーにメールアドレスを公開しない設定[mtane0412.icon][takker.icon][kuuote.icon][erniogi.icon][Mijinko_SD.icon][bluemountain.icon][基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1640858490,
+      "updated": 1641277274
+    },
+    {
+      "id": "61cdb58a1280f000006101ca",
+      "text": " そもそも公開するメリットってなんだ？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871306,
+      "updated": 1640871328
+    },
+    {
+      "id": "61d0de197838e30000cf7fea",
+      "text": " 　ほぼデメリットしかない気がする[Mijinko_SD.icon][mtane0412.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1641078301,
+      "updated": 1641188462
+    },
+    {
+      "id": "61d0deb77838e30000cf7feb",
+      "text": " 　　例えば、ニックネームで活動している人がこの仕様を知らずに本名が入ったアドレスで登録してしまうと大変なことになりそう",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641078459,
+      "updated": 1641078549
+    },
+    {
+      "id": "61d3e615774b170000e9bcca",
+      "text": " 　　 オフトピですが、ニックネームでWebで活動して本名を確実にバラしたくないならアカウントも全てニックネーム用を作らないと破綻するケースは他にもあるので、別途アカウントを作る方が良いと思います[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1641276950,
+      "updated": 1641277096
+    },
+    {
+      "id": "61d582de7838e3000095d341",
+      "text": " 　　 　それはそう[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641382622,
+      "updated": 1641382631
+    },
+    {
+      "id": "61d2854255cbd30000633149",
+      "text": " 　　僕は公開プロジェクトに使いたいと思っているのですが、例えば女性の方はメッセージできる窓口を見せてしまうと高確率で嫌なメッセージを受け取ることが多いらしく、強制公開にデメリットしかないんじゃないかと思っています[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641186627,
+      "updated": 1641186736
+    },
+    {
+      "id": "61d285af55cbd3000063314a",
+      "text": " 　　 これはScrapbox本来の文脈である同じ社内、同じチーム内でも生じる問題じゃないのかなと思っていたり。",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641186736,
+      "updated": 1641186815
+    },
+    {
+      "id": "61d2daa67838e300008cb500",
+      "text": " 　　 [/icons/それな.icon] [Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641208490,
+      "updated": 1641209932
+    },
+    {
+      "id": "61d285db55cbd3000063314b",
+      "text": " 　　[/forum-jp/]で自分の意見を運営にフィードバックするには不特定多数に自分のメールアドレスを公開しなきゃいけないという前提もどうなんだろう",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641186780,
+      "updated": 1641186870
+    },
+    {
+      "id": "61d28aa855cbd30000149e50",
+      "text": " 　Notaにもリーガルリスクがある",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641188009,
+      "updated": 1641189497
+    },
+    {
+      "id": "61d2907955cbd3000063315b",
+      "text": "　　　[メールアドレスは個人情報に該当するか？]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641189497,
+      "updated": 1641189503
+    },
+    {
+      "id": "61d28dda55cbd30000149e52",
+      "text": " 　　ケースバイケースの判断になるけどメールアドレスは基本的には慎重に扱っといて間違いはない情報",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641188827,
+      "updated": 1641188856
+    },
+    {
+      "id": "61d2909355cbd3000063315c",
+      "text": " 　　これGDPR違反になったりしないのだろうか？",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641189524,
+      "updated": 1641189529
+    },
+    {
+      "id": "61d29eba1280f00000d3342b",
+      "text": " 　[2022/01/03#61d2894155cbd30000149e40]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641193146,
+      "updated": 1641193148
+    },
+    {
+      "id": "61d29ec71280f00000d3342c",
+      "text": " 　この件に関してNota側がどう考えているのか全然わからないので本当に気になる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641193159,
+      "updated": 1641193189
+    },
+    {
+      "id": "61cdb5a01280f000006101cb",
+      "text": " ownerとadmin以外から見えないようにしない理由がわからん",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871329,
+      "updated": 1640871367
+    },
+    {
+      "id": "61cdbe5d8ee92a00004dc866",
+      "text": " 確かに... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1640873565,
+      "updated": 1640873570
+    },
+    {
+      "id": "61ce88871280f00000458158",
+      "text": " [/forum-jp/プロジェクトメンバーのメールアドレスをプロジェクト参加者全員に対して公開しなくても良い気がする]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640925319,
+      "updated": 1640925321
+    },
+    {
+      "id": "61d384377838e3000016e3bf",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251896,
+      "updated": 1641251896
+    },
+    {
+      "id": "61cdbcc155cbd30000b93b72",
+      "text": "プロジェクト別Name, Username[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873144,
+      "updated": 1640873233
+    },
+    {
+      "id": "61ce89a71280f0000045815a",
+      "text": " [/forum-jp/プロジェクトごとに自分の名前を変えたい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640925608,
+      "updated": 1640925609
+    },
+    {
+      "id": "61d384397838e3000016e3c0",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251897,
+      "updated": 1641251897
+    },
+    {
+      "id": "61cdbcca55cbd30000b93b76",
+      "text": "Twitch Integration[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873154,
+      "updated": 1640873157
+    },
+    {
+      "id": "61cdbb5555cbd30000b93b5c",
+      "text": " Twitch 埋め込み対応[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872780,
+      "updated": 1640872783
+    },
+    {
+      "id": "61ce88a01280f00000458159",
+      "text": "  [/forum-jp/Twitchを埋め込みたい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640925344,
+      "updated": 1640925345
+    },
+    {
+      "id": "61cdbb7455cbd30000b93b5f",
+      "text": " Twitchログイン",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872811,
+      "updated": 1640872817
+    },
+    {
+      "id": "61cdbb7a55cbd30000b93b60",
+      "text": "  Subscriber情報を取得",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872817,
+      "updated": 1640872822
+    },
+    {
+      "id": "61cdbb7f55cbd30000b93b61",
+      "text": "  Emote情報を取得",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872822,
+      "updated": 1640872830
+    },
+    {
+      "id": "61cdbb8755cbd30000b93b62",
+      "text": "   icon記法で使えるようにする",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872830,
+      "updated": 1640872839
+    },
+    {
+      "id": "61cdbb7055cbd30000b93b5e",
+      "text": " 完全に俺得なので全然実現可能性はない",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872807,
+      "updated": 1640872807
+    },
+    {
+      "id": "61d3e91255cbd30000e51967",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641277715,
+      "updated": 1641277715
+    },
+    {
+      "id": "61cd83b655cbd30000101cc0",
+      "text": "[asciinema]埋め込み[mrsekut.icon]",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1640858550,
+      "updated": 1640866038
+    },
+    {
+      "id": "61d3eddd774b170000e9bccb",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1641278942,
+      "updated": 1641278942
+    },
+    {
+      "id": "61d3edde774b170000e9bccc",
+      "text": "ニコニコ動画埋め込み[基素.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641278942,
+      "updated": 1641280241
+    },
+    {
+      "id": "61d3843b7838e3000016e3c1",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251899,
+      "updated": 1641251899
+    },
+    {
+      "id": "61cd83a055cbd30000101cbf",
+      "text": "エディタの挙動を細かくカスタマイズしたい[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1640858528,
+      "updated": 1640871326
+    },
+    {
+      "id": "61cdb59e4bb2e2000074a123",
+      "text": " [ブラケットの補完 (scrapbox)]、あんまりいい実装ではないので鬱陶しい[kuuote.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871326,
+      "updated": 1640872095
+    },
+    {
+      "id": "61cdb5c14bb2e2000074a124",
+      "text": "  自分でもっといいのを実装するか無効化したい",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1640871362,
+      "updated": 1640871381
+    },
+    {
+      "id": "61cdb8751280f000006101d8",
+      "text": "  ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640872054,
+      "updated": 1640872054
+    },
+    {
+      "id": "61cdb5944bb2e2000074a122",
+      "text": " それを無理矢理やったのが[external-completion]だったりする[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871316,
+      "updated": 1640871395
+    },
+    {
+      "id": "61cdb5e31280f000006101cd",
+      "text": "  (壊れているので現在非推奨)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871395,
+      "updated": 1640871421
+    },
+    {
+      "id": "61cdb5d11280f000006101cc",
+      "text": "  なるほど[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1640871378,
+      "updated": 1640871426
+    },
+    {
+      "id": "61d3843d7838e3000016e3c2",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251901,
+      "updated": 1641251901
+    },
+    {
+      "id": "61cdb5fd4bb2e2000074a126",
+      "text": "カーソルと選択範囲の位置をUserScriptから取得できるAPI[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871422,
+      "updated": 1640871474
+    },
+    {
+      "id": "61ce89ff1280f0000045815b",
+      "text": " [/forum-jp/window.scrapboxにカーソル位置や選択範囲を取得するAPIを生やしてほしい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640925696,
+      "updated": 1640925697
+    },
+    {
+      "id": "61cdb6311280f000006101cf",
+      "text": " が欲しいと思ったけど、React Componentを覗いたら取り出せたのでいいや",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640871474,
+      "updated": 1640871540
+    },
+    {
+      "id": "61d384417838e3000016e3c3",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251905,
+      "updated": 1641251905
+    },
+    {
+      "id": "61cdb6161280f000006101ce",
+      "text": "コミュニティ向け機能強化[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640871446,
+      "updated": 1640872920
+    },
+    {
+      "id": "61cdbc3055cbd30000b93b6a",
+      "text": " ざっくりしてるけど要はここみたいな公開コミュニティ運用でもScrapboxが注目されてNotaが儲かってほしいなぁという妄想",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872999,
+      "updated": 1640873030
+    },
+    {
+      "id": "61cdbc5855cbd30000b93b6c",
+      "text": "  そうなればコミュニティ向けの機能もどんどん充実してくれすお",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873040,
+      "updated": 1640873058
+    },
+    {
+      "id": "61cdbbbd55cbd30000b93b65",
+      "text": "  現状チームワーキング向けツールなので個人や公開コミュニティ向けの機能は色々諦めている",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872884,
+      "updated": 1640873038
+    },
+    {
+      "id": "61cff67d79d3a9000008c383",
+      "text": "  \tもう少しNotaのエンジニアが増えれば「Scrapboxからforkしてつくろうぜ」みたいな流れになったりする？（妄想）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1641019005,
+      "updated": 1641019043
+    },
+    {
+      "id": "61cff69e79d3a9000008c386",
+      "text": "  \t元祖Scrapbox（shokaiさんがプロダクトオーナー）と、コミュニティ向けScrapbox？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1641019039,
+      "updated": 1641019068
+    },
+    {
+      "id": "61cdbbe355cbd30000b93b66",
+      "text": " コミュニティ向け機能のアンロックで課金とかあってもいい",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872922,
+      "updated": 1640872946
+    },
+    {
+      "id": "61cdbbfa55cbd30000b93b68",
+      "text": "  とはいえ実装するコストかけるほどそんな人もいなさそう",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640872946,
+      "updated": 1640872982
+    },
+    {
+      "id": "61cdbc7455cbd30000b93b6d",
+      "text": " Twitchで配信をしていて語学学習系の外国人がこのツールを知ったときの食いつきのヤバさを感じるので個人ユースでも可能性あると思っている",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873067,
+      "updated": 1640873108
+    },
+    {
+      "id": "61cdbc9d55cbd30000b93b6f",
+      "text": " \tあと自分の配信コミュニティのScrapboxを作りたい",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873108,
+      "updated": 1640873124
+    },
+    {
+      "id": "61cdbcaf55cbd30000b93b71",
+      "text": " \t けど色々障害がある",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873126,
+      "updated": 1640873132
+    },
+    {
+      "id": "61d128e9e5172d0000db5494",
+      "text": " [コミュニティ向け機能]ってどういうものなんでしょうか？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1641097449,
+      "updated": 1641097474
+    },
+    {
+      "id": "61d1410455cbd30000af61e4",
+      "text": "  コミュニティユースで使う場合に感じる色々な障壁が取り払われてほしい的な意味合いですね[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641103619,
+      "updated": 1641103641
+    },
+    {
+      "id": "61d1411a55cbd30000af61e5",
+      "text": "  例えばメールアドレス強制公開とかはある組織内のコラボレーションというScrapbox本来の文脈なら別に問題がない（こともないけど）",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641103641,
+      "updated": 1641103696
+    },
+    {
+      "id": "61d3844a7838e3000016e3c4",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251914,
+      "updated": 1641251914
+    },
+    {
+      "id": "61cdbca655cbd30000b93b70",
+      "text": "ツイート埋め込み[bluemountain.icon][mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1640873118,
+      "updated": 1641104976
+    },
+    {
+      "id": "61cdc87379e1130000f24cb7",
+      "text": " UserScriptだと[csp]に阻まれてどうしようもないので、公式機能でツイート埋め込まれるやつが欲しい",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1640876148,
+      "updated": 1641107419
+    },
+    {
+      "id": "61d14fdc79e113000061c559",
+      "text": " 　画像とか引用RT元とかアイコンとかが表示されて欲しい",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1641107421,
+      "updated": 1641107433
+    },
+    {
+      "id": "61d602471280f0000034d153",
+      "text": "[Scrapboxのツイート埋め込みが画像に対応]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641415239,
+      "updated": 1641415248
+    },
+    {
+      "id": "61cdc8c579e1130000f24cb8",
+      "text": " [/forum-jp/ツイートを埋め込みたい]の「使いづらさ」、どういう所なんだろう..?（いまいちイメージが湧かない）",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1640876230,
+      "updated": 1640876337
+    },
+    {
+      "id": "61d3844c7838e3000016e3c5",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251916,
+      "updated": 1641251916
+    },
+    {
+      "id": "61cdbc7555cbd30000b93b6e",
+      "text": "テキストボックス[suto3.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640873069,
+      "updated": 1640925715
+    },
+    {
+      "id": "61ce27e25b98c20000ae6211",
+      "text": "ボタン[suto3.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640900578,
+      "updated": 1640925716
+    },
+    {
+      "id": "61ce27f75b98c20000ae6212",
+      "text": "canvas [suto3.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1640900599,
+      "updated": 1640925719
+    },
+    {
+      "id": "61d3844d7838e3000016e3c6",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1641251917,
+      "updated": 1641251917
+    },
+    {
+      "id": "61ce28025b98c20000ae6213",
+      "text": "ランダム順に並べるソート[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640900611,
+      "updated": 1640907449
+    },
+    {
+      "id": "61ce42b979d3a90000e7c31a",
+      "text": "\t[/forum-jp/Sort byにランダム並びを追加する]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640907449,
+      "updated": 1640907450
+    },
+    {
+      "id": "61ce42af79d3a90000e7c319",
+      "text": "　new page の切り出しは要らない",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1640907440,
+      "updated": 1641007573
+    },
+    {
+      "id": "61cfc9d503b21000008f7265",
+      "text": "　　元テキストが消える事故につながる",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1641007575,
+      "updated": 1641007601
+    },
+    {
+      "id": "61cfc9ae03b21000008f7264",
+      "text": "",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1641007535,
+      "updated": 1641007535
+    },
+    {
+      "id": "61d3e91555cbd30000e51968",
+      "text": "ユーザースクリプトよりももっと踏み込んだユーザーがある程度拡張できる仕組みがあるといいのかな[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641277717,
+      "updated": 1641277744
+    },
+    {
+      "id": "61d3e93055cbd30000e5196a",
+      "text": "　これもやりたくはないだろうけど",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641277744,
+      "updated": 1641277752
+    },
+    {
+      "id": "61d3e9b655cbd30000e51972",
+      "text": "　　なんか危なそう",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641277879,
+      "updated": 1641277881
+    },
+    {
+      "id": "61d3e93855cbd30000e5196b",
+      "text": "　「埋め込みたい」という需要は無限にあるので拡張の仕組みだけ用意してあとはユーザーが勝手にできるようにするなど",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641277752,
+      "updated": 1641277793
+    },
+    {
+      "id": "61d3f4db79e113000003be7d",
+      "text": "　 [csp]の設定を弄れるようになると出来ること広がりそう（セキュリティ的リスクはあまり理解せずに言っている）[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1641280731,
+      "updated": 1641280761
+    },
+    {
+      "id": "61d3e99855cbd30000e5196e",
+      "text": "　ログイン方法も自分で実装できたり",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1641277849,
+      "updated": 1641277867
+    },
+    {
+      "id": "61d3e96b55cbd30000e5196d",
+      "text": " [Userscriptの限界][bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1641277803,
+      "updated": 1641280796
+    },
+    {
+      "id": "61d3f51a79e113000003be7e",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1641280796,
+      "updated": 1641280796
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "5fd630968a40f2001d1e38f4",
   "title": "2020/12/14",
   "created": 1607872666,
-  "updated": 1626681492,
+  "updated": 1639439765,
   "lines": [
     {
       "id": "5fd630968a40f2001d1e38f4",
@@ -195,10 +195,10 @@
     },
     {
       "id": "5fd641b24bb2e200008c720c",
-      "text": "`deno bundle`でTSXが処理できないの、調べてみたらTypeScript側の仕様だった",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "[deno bundle]でTSXが処理できないの、調べてみたらTypeScript側の仕様だった",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607876968,
-      "updated": 1607876992
+      "updated": 1639439644
     },
     {
       "id": "5fd641ca4bb2e200008c720d",
@@ -208,11 +208,39 @@
       "updated": 1607877128
     },
     {
+      "id": "61b7dcca1280f000009f3803",
+      "text": "  2021-12-14 08:52:50 あれ？tsconfig.jsonなしでbundleできたはずですが[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639439562,
+      "updated": 1639439584
+    },
+    {
+      "id": "61b7dcea1280f000009f3806",
+      "text": "  　$ deno bundle https://pax.deno.dev/takker99/scrapbox-katex-previewer@0.1.2/App.tsx",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639439593,
+      "updated": 1639439618
+    },
+    {
+      "id": "61b7dce11280f000009f3804",
+      "text": "  　以前はできなかったのかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639439584,
+      "updated": 1639439592
+    },
+    {
       "id": "5fd641fe4bb2e200008c720e",
-      "text": " そしてNode.jsから逃げる遊びを続けている意味あるんだろうかって気がしてきた",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": " そして[Node.jsから逃げる遊び]を続けている意味あるんだろうかって気がしてきた",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607877044,
-      "updated": 1607877060
+      "updated": 1639439648
+    },
+    {
+      "id": "61b7dd2b1280f000009f3807",
+      "text": "  2021-12-14 08:56:06 Node.jsなら簡単にできるけど、Denoだとできないことが時々ある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639439658,
+      "updated": 1639439765
     },
     {
       "id": "5fd643234bb2e200008c720f",
@@ -272,10 +300,10 @@
     },
     {
       "id": "5fd64cf1ec4fce0000e45dc5",
-      "text": " Arch Linuxインストール終わり",
-      "userId": "5da3a9589b96b70017ec4fce",
+      "text": " [Arch Linux]インストール終わり",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607879922,
-      "updated": 1607879932
+      "updated": 1639439757
     },
     {
       "id": "5fd6516d4bb2e200001c9d29",
@@ -398,10 +426,10 @@
     },
     {
       "id": "5fd735621280f000001bbf80",
-      "text": "某Vから始まるtext editorを愛用するcommunityの[slack]で時間を溶かしすぎてやばい",
+      "text": "某Vから始まるtext editorを愛用するcommunityの[slack]で[時間を溶か]しすぎてやばい",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1607939427,
-      "updated": 1607940134
+      "updated": 1639439724
     },
     {
       "id": "5fd735821280f000001bbf81",

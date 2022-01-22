@@ -2,7 +2,7 @@
   "id": "5fa6680ca5d26b0024fb0f13",
   "title": "kuuote",
   "created": 1604741132,
-  "updated": 1633018137,
+  "updated": 1640954844,
   "lines": [
     {
       "id": "5fa6680ca5d26b0024fb0f13",
@@ -314,24 +314,10 @@
     },
     {
       "id": "5fa7d4134bb2e20000c66626",
-      "text": " import '/api/code/scrapboxlab/UserScript版アイコンボタン/script.js';",
+      "text": " import(\"/api/code/kuuote/pin-diary-4/script.js\");",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1604834321,
-      "updated": 1609480291
-    },
-    {
-      "id": "5fa940d04bb2e20000d26a7d",
-      "text": " import(\"/api/code/villagepump/pin-diary-4/script.js\");",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1604927691,
-      "updated": 1633018137
-    },
-    {
-      "id": "5feeb8844bb2e200009f567e",
-      "text": " import '/api/code/masui/ScrapboxSaver/script.js';",
-      "userId": "5e8944948a182900174bb2e2",
-      "created": 1609480287,
-      "updated": 1609480287
+      "updated": 1640954844
     },
     {
       "id": "5fb1147f4bb2e200007c7a9f",

@@ -2,7 +2,7 @@
   "id": "5fc7e64196a352001cdd1326",
   "title": "コードブロック記法に書いたsvgを表示する",
   "created": 1606936129,
-  "updated": 1620803443,
+  "updated": 1642049294,
   "lines": [
     {
       "id": "5fc7e64196a352001cdd1326",
@@ -48,10 +48,10 @@
     },
     {
       "id": "60091f80a336820000d370b9",
-      "text": " \t[/icons/すごい.icon][erniogi.icon][yanma.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": " \t[/icons/すごい.icon][erniogi.icon][yanma.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611210624,
-      "updated": 1611211776
+      "updated": 1633741245
     },
     {
       "id": "5fc7ee6e1280f000008b8eeb",
@@ -248,6 +248,48 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606938051,
       "updated": 1606938081
+    },
+    {
+      "id": "616461d1666872000074eb7b",
+      "text": "　 最近ブラウザセキュリティに興味が出てきたので、分析してみたくなってちょっと調べてみたら、こんな記事がありました[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633968594,
+      "updated": 1633968595
+    },
+    {
+      "id": "616461d2666872000074eb7c",
+      "text": "  　[https://qiita.com/itizawa/items/e98ecd67910492d5c2af 実際に発生したSVGを利用したXSSについて - Qiita]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633968595,
+      "updated": 1633968681
+    },
+    {
+      "id": "616461d2666872000074eb7d",
+      "text": "   [CSP]を厳しく設定しましょうということらしいですね",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633968595,
+      "updated": 1633968681
+    },
+    {
+      "id": "616461d2666872000074eb7e",
+      "text": "   ただ、「ジャンプすると任意JavaScriptを実行できるサイトの用意」のは誰でもできてしまうので気にしなくていいかもです",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633968595,
+      "updated": 1633968863
+    },
+    {
+      "id": "61646261666872000074eb7f",
+      "text": "   　静的ファイルホスティングさえできればそういう悪質サイト自体の作成は可能",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633968737,
+      "updated": 1633968840
+    },
+    {
+      "id": "61646291666872000074eb80",
+      "text": "   　「外部から有害リンクを差し込める」わけではないので良い。。。？",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1633968785,
+      "updated": 1633968942
     },
     {
       "id": "5fc7ede11280f00000550194",
@@ -483,9 +525,9 @@
     {
       "id": "5fc7e9e91280f0000055015e",
       "text": "     <circle fill=\"red\" r=\"5\">",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1606937065,
-      "updated": 1606937065
+      "updated": 1642039365
     },
     {
       "id": "5fc7e9e91280f0000055015f",
@@ -503,10 +545,10 @@
     },
     {
       "id": "5fc7e9e91280f00000550161",
-      "text": "     <circle fill=\"red\" r=\"5\">",
+      "text": "     <circle fill=\"orange\" r=\"5\">",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606937065,
-      "updated": 1606937065
+      "updated": 1642049294
     },
     {
       "id": "5fc7e9e91280f00000550162",
@@ -579,11 +621,67 @@
       "updated": 1606937298
     },
     {
-      "id": "5fc7eacd1280f00000550171",
+      "id": "61df884b8ee92a0000f7216a",
       "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642039372,
+      "updated": 1642039372
+    },
+    {
+      "id": "61df884c8ee92a0000f7216b",
+      "text": "コード書き換えてリロードしても変化しない気がするのですが [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642039372,
+      "updated": 1642039388
+    },
+    {
+      "id": "5fc7eacd1280f00000550171",
+      "text": " おかしいですね。cacheは無効にしたのですｇ……有効になってる！？[takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1606937294,
-      "updated": 1606937294
+      "updated": 1642042198
+    },
+    {
+      "id": "61df93571280f00000cc9437",
+      "text": "  https://github.com/takker99/svg-hosting/blob/e90504fa6431ea0f7276c781c60e3aa2b7b0704e/api/svg.ts#L42",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642042198,
+      "updated": 1642042199
+    },
+    {
+      "id": "61df93581280f00000cc9438",
+      "text": " [commit https://github.com/takker99/svg-hosting/commit/e90504fa6431ea0f7276c781c60e3aa2b7b0704e]を見てみる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642042200,
+      "updated": 1642042222
+    },
+    {
+      "id": "61df93381280f00000cc9436",
+      "text": "  肝心のcache無効化の変更が`git add`されてないじゃん……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642042167,
+      "updated": 1642042242
+    },
+    {
+      "id": "61df936f1280f00000cc9439",
+      "text": " 2022-01-13 12:12:43 [直しました！ https://github.com/takker99/svg-hosting/pull/1]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642042223,
+      "updated": 1642043568
+    },
+    {
+      "id": "61dfa8fe8ee92a0000f7216c",
+      "text": " おお、ありがたい! [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642047742,
+      "updated": 1642047746
+    },
+    {
+      "id": "61df98a81280f00000cc943a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642043559,
+      "updated": 1642043559
     }
   ]
 }

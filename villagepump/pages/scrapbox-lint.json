@@ -1,0 +1,295 @@
+{
+  "id": "61acce47eae3a8001d9cb06c",
+  "title": "scrapbox-lint",
+  "created": 1638714953,
+  "updated": 1642279593,
+  "lines": [
+    {
+      "id": "61acce47eae3a8001d9cb06c",
+      "text": "scrapbox-lint",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638714953,
+      "updated": 1638714953
+    },
+    {
+      "id": "61acce52d1a02f000064ac09",
+      "text": "Scrapbox で文章[校正]するための [UserScript]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638714962,
+      "updated": 1638715038
+    },
+    {
+      "id": "61acceaed1a02f000064ac0b",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638715054,
+      "updated": 1638715054
+    },
+    {
+      "id": "61acce49d1a02f000064ac05",
+      "text": "[https://helpfeel.com/hata6502/scrapbox-lint-61acc979ee8557001f7e0d5e scrapbox-lint - Tomoyuki Hata]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638714953,
+      "updated": 1638714959
+    },
+    {
+      "id": "61acce4dd1a02f000064ac07",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638714957,
+      "updated": 1638714957
+    },
+    {
+      "id": "61e2e8e0d1a02f000036c8b3",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642260705,
+      "updated": 1642260705
+    },
+    {
+      "id": "61e2e8ded1a02f000036c8b0",
+      "text": "2022/1/13 [hata6502.icon] 使ってくれる方がいて、ちゃんと作り込もうかなと思いました。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642260703,
+      "updated": 1642260703
+    },
+    {
+      "id": "61e2e8dfd1a02f000036c8b1",
+      "text": "　scrapboxで校正すると、自由な文章執筆を妨げてしまうと思っていました。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642260703,
+      "updated": 1642279109
+    },
+    {
+      "id": "61e3194c774b1700005d4824",
+      "text": "　　確かに気になる場合もありますね[基素.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642273101,
+      "updated": 1642279096
+    },
+    {
+      "id": "61e33068d1a02f00006fe9b1",
+      "text": "　　[hata6502.icon][スペルチェック]のようにリアルタイムで指摘を表示したいけど、どうしようかな。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642279015,
+      "updated": 1642279085
+    },
+    {
+      "id": "61e2e8dfd1a02f000036c8b2",
+      "text": "\tどのような用途に使えるだろう？",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642260703,
+      "updated": 1642262444
+    },
+    {
+      "id": "61e2efacd1a02f000055d088",
+      "text": "\t\tScrapboxで原稿の下書きを書く。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642262445,
+      "updated": 1642262886
+    },
+    {
+      "id": "61e2efc9d1a02f000055d089",
+      "text": "\t\tScrapboxプロジェクトごとに校正設定を変える。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642262474,
+      "updated": 1642262595
+    },
+    {
+      "id": "61acceafd1a02f000064ac0c",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638715056,
+      "updated": 1638715056
+    },
+    {
+      "id": "61e2f049d1a02f000055d08b",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642262601,
+      "updated": 1642262601
+    },
+    {
+      "id": "61acceafd1a02f000064ac0d",
+      "text": "不具合とか",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638715056,
+      "updated": 1642260696
+    },
+    {
+      "id": "61df61351280f0000018e677",
+      "text": " Firefox非対応",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642029364,
+      "updated": 1642029369
+    },
+    {
+      "id": "61ad4d0f1280f0000079407a",
+      "text": "  ESModule WorkerはFirefoxが未対応なので、Classic workerに置き換えたほうがいいかもです[. [/hata6502/scrapbox-lint#619cc153d1a02f000033d311] ][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638747403,
+      "updated": 1642029371
+    },
+    {
+      "id": "61ad4d171280f0000079407b",
+      "text": "   このままだとFirefoxで使用できない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638747411,
+      "updated": 1642029371
+    },
+    {
+      "id": "61db88681280f000001c8ea1",
+      "text": "   2022-01-10 10:14:18 置き換えました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641777256,
+      "updated": 1642029371
+    },
+    {
+      "id": "61db886d1280f000001c8ea2",
+      "text": "    [/takker/scrapbox-lint]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641777261,
+      "updated": 1642029371
+    },
+    {
+      "id": "61e32f73d1a02f00006fe9b0",
+      "text": "   申し訳ないです、[hata6502.icon]のほうでも対策してみます。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642278770,
+      "updated": 1642278804
+    },
+    {
+      "id": "61e323d7d1a02f00003c5b43",
+      "text": "\t",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642275800,
+      "updated": 1642275800
+    },
+    {
+      "id": "61ad4cf91280f00000794079",
+      "text": " ✅カーソル移動やwindowサイズ変更によるDOMの変更に追随できていない[. [/motoso/scrapbox-lint#61def56d774b170000b93fa5] ]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638747381,
+      "updated": 1642274622
+    },
+    {
+      "id": "61df616a1280f0000018e67a",
+      "text": " 　対策",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642029417,
+      "updated": 1642029421
+    },
+    {
+      "id": "61df616e1280f0000018e67b",
+      "text": "   `div.page`のサイズ変更を[ResizeObserver]で検知する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642029421,
+      "updated": 1642029446
+    },
+    {
+      "id": "61df61861280f0000018e67c",
+      "text": "   カーソルの移動を[MutationObserver]で検知する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642029446,
+      "updated": 1642029473
+    },
+    {
+      "id": "61df61a51280f0000018e67d",
+      "text": "    cf. [/programming-notes/use-cursor-observer]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642029476,
+      "updated": 1642029502
+    },
+    {
+      "id": "61df765cd1a02f0000401160",
+      "text": "\t\t修正しました。ありがとうございます。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642034780,
+      "updated": 1642274634
+    },
+    {
+      "id": "61e323d5d1a02f00003c5b42",
+      "text": "\t",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642275798,
+      "updated": 1642275802
+    },
+    {
+      "id": "61e31f45d1a02f0000b136a7",
+      "text": "\t✅[hata6502.icon]指摘箇所がたくさんあるとパフォーマンスが悪くなる問題を修正した。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642274629,
+      "updated": 1642275458
+    },
+    {
+      "id": "61e32228d1a02f00003c5b3d",
+      "text": "\t\tgetBoundingClientRect()を使って指摘箇所を表示しているからか?、UIをブロッキングしてしまう。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642275369,
+      "updated": 1642275579
+    },
+    {
+      "id": "61e33294d1a02f000067049c",
+      "text": "\t\t カーソルを動かすだけで１秒かかる。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642279571,
+      "updated": 1642279593
+    },
+    {
+      "id": "61e3228dd1a02f00003c5b3e",
+      "text": "\t\t指摘箇所の描画を遅延させてしのぐことにした。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642275470,
+      "updated": 1642278009
+    },
+    {
+      "id": "61e323d0d1a02f00003c5b41",
+      "text": "\t\t\t[https://scrapbox.io/files/61e32c55ab6c850022ffe13a.mp4]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642275792,
+      "updated": 1642277978
+    },
+    {
+      "id": "61e32c59d1a02f00003c5b44",
+      "text": "\t\t\t[ファミコン]のBG書き換え処理を思い出す。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642277978,
+      "updated": 1642278044
+    },
+    {
+      "id": "61e32eaad1a02f00006fe9a7",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642278568,
+      "updated": 1642278568
+    },
+    {
+      "id": "61e32eefd1a02f00006fe9a8",
+      "text": " UserScriptを直接書かずGitHubで管理する時期かな。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642278637,
+      "updated": 1642278670
+    },
+    {
+      "id": "61e32f11d1a02f00006fe9aa",
+      "text": " 　Webpack入れてFirefox対応できる。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642278672,
+      "updated": 1642278739
+    },
+    {
+      "id": "61e32f54d1a02f00006fe9af",
+      "text": " 　forkしたりもできる。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642278739,
+      "updated": 1642278742
+    },
+    {
+      "id": "61e32eefd1a02f00006fe9a9",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642278638,
+      "updated": 1642278638
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "5ffaa9253fe25c0022f60dd5",
   "title": "@yosider",
   "created": 1610262823,
-  "updated": 1632930215,
+  "updated": 1638794223,
   "lines": [
     {
       "id": "5ffaa9253fe25c0022f60dd5",
@@ -10,6 +10,314 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610262823,
       "updated": 1610262823
+    },
+    {
+      "id": "61ade1c51280f000003ed5de",
+      "text": "[The Best UserScript of 2021#61a5ca2ce5172d0000506077]の件",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785478,
+      "updated": 1638785646
+    },
+    {
+      "id": "61ade26d1280f000003ed5e0",
+      "text": " json出力機能をつけたのでお知らせします[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785646,
+      "updated": 1638786173
+    },
+    {
+      "id": "61ade27a1280f000003ed5e1",
+      "text": "  今の所実装してあるのは一ページずつjsonを作る機能だけです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785658,
+      "updated": 1638785721
+    },
+    {
+      "id": "61ade2ae1280f000003ed5e3",
+      "text": " サンプルをいくつか置いておきます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785711,
+      "updated": 1638785731
+    },
+    {
+      "id": "61ade2c61280f000003ed5e4",
+      "text": "  [get for-villagepump-min https://scrapbox-bundler.vercel.app/?url=https://scrapbox.io/api/code/yosider-scripts/for-villagepump/script.js&template=https://scrapbox.io/api/code/villagepump/@yosider/villagepump&bundle&minify&run&output=download]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785735,
+      "updated": 1638785826
+    },
+    {
+      "id": "61ade30c1280f000003ed5e5",
+      "text": "   code:villagepump(txt)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785831
+    },
+    {
+      "id": "61ade30c1280f000003ed5e6",
+      "text": "    for-villagepump-min",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785815
+    },
+    {
+      "id": "61ade30c1280f000003ed5e7",
+      "text": "    [/villagepump]で使うUserScript",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785818
+    },
+    {
+      "id": "61ade30c1280f000003ed5e8",
+      "text": "    [for-villagepump]を[このURL @URL@]でbundleしたもの",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785819
+    },
+    {
+      "id": "61ade30c1280f000003ed5e9",
+      "text": "     ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785804
+    },
+    {
+      "id": "61ade30c1280f000003ed5ea",
+      "text": "    code:script.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785804
+    },
+    {
+      "id": "61ade30c1280f000003ed5eb",
+      "text": "     @CODE@",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785804,
+      "updated": 1638785804
+    },
+    {
+      "id": "61ade1c51280f000003ed5df",
+      "text": "  [get for-private-min https://scrapbox-bundler.vercel.app/?url=https://scrapbox.io/api/code/yosider-scripts/for-private/script.js&template=https://scrapbox.io/api/code/villagepump/@yosider/private&bundle&minify&run&output=download]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785478,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade16b1280f000003ed5da",
+      "text": "   code:private(txt)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785387,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade1681280f000003ed5d3",
+      "text": "    for-private-min",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785384,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade1691280f000003ed5d5",
+      "text": "    [/yosider-private]で使うUserScript",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785385,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade1691280f000003ed5d6",
+      "text": "    [for-private]を[このURL @URL@]でbundleしたもの",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785385,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade1811280f000003ed5db",
+      "text": "     ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785409,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade1c01280f000003ed5dc",
+      "text": "    code:script.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785472,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade1c31280f000003ed5dd",
+      "text": "     @CODE@",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785475,
+      "updated": 1638785732
+    },
+    {
+      "id": "61ade4271280f000003ed5ef",
+      "text": "  [get SharedUserCSS-min https://scrapbox-bundler.vercel.app/?url=https://scrapbox.io/api/code/yosider-scripts/SharedUserCSS/style.css&template=https://scrapbox.io/api/code/villagepump/@yosider/SharedUserCSS&bundle&minify&run&output=download]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786115
+    },
+    {
+      "id": "61ade4271280f000003ed5f0",
+      "text": "   code:SharedUserCSS(txt)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786118
+    },
+    {
+      "id": "61ade4271280f000003ed5f1",
+      "text": "    SharedUserCSS-min",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786122
+    },
+    {
+      "id": "61ade4271280f000003ed5f3",
+      "text": "    [SharedUserCSS]を[このURL @URL@]でbundleしたもの",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786129
+    },
+    {
+      "id": "61ade4271280f000003ed5f4",
+      "text": "     ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786088
+    },
+    {
+      "id": "61ade4271280f000003ed5f5",
+      "text": "    code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786136
+    },
+    {
+      "id": "61ade4271280f000003ed5f6",
+      "text": "     @CODE@",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786088,
+      "updated": 1638786088
+    },
+    {
+      "id": "61ade1691280f000003ed5d8",
+      "text": " cacheを破棄するときは、URL parameterに`reload`を追加して下さい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785385,
+      "updated": 1638785907
+    },
+    {
+      "id": "61ae03b0e5172d00003cf992",
+      "text": " [/icons2/すばら.icon][/icons/やはり天才か.icon][/emoji/tada.icon][yosider.icon*2]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638794161,
+      "updated": 1638794223
+    },
+    {
+      "id": "61ade1681280f000003ed5d4",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638785384,
+      "updated": 1638785384
+    },
+    {
+      "id": "6179fcda1280f00000c4ff68",
+      "text": "[/yosider/小さな目標に分解]と[/yosider/問題を分解]が重複してる？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635384538,
+      "updated": 1635384575
+    },
+    {
+      "id": "6179fd001280f00000c4ff6a",
+      "text": " 部分的に違うので、共通部分だけ別ページに抜き出してもいいかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635384576,
+      "updated": 1635384598
+    },
+    {
+      "id": "617ab77ae5172d0000904dfd",
+      "text": " ありがとうございます[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635432314,
+      "updated": 1635432332
+    },
+    {
+      "id": "617ab78ce5172d0000904dfe",
+      "text": " private projectのほうで前者を後者に統合したんですが、[scrapbox-sync]が正常に動いてなくて前者が削除されなかったみたいです[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635432332,
+      "updated": 1635432418
+    },
+    {
+      "id": "617ad4001280f000000efa80",
+      "text": "   そういうことか[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635439616,
+      "updated": 1635439623
+    },
+    {
+      "id": "617ab7dce5172d0000904dff",
+      "text": " 　ログ見たらここ最近メモリ不足で中断されてるな…",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635432412,
+      "updated": 1635432456
+    },
+    {
+      "id": "617ab883e5172d0000904e00",
+      "text": " 　いい加減リファクタリングするか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635432580,
+      "updated": 1635432589
+    },
+    {
+      "id": "617ab8b4e5172d0000904e01",
+      "text": " 　[ScrapboxのWebSocketを模倣]でページ削除すれば[puppeteer]いらないんだっけ？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635432628,
+      "updated": 1635432654
+    },
+    {
+      "id": "617ab8cfe5172d0000904e02",
+      "text": " 　　ブラウザ開かないとダメなんだっけ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635432655,
+      "updated": 1635432674
+    },
+    {
+      "id": "617ad40d1280f000000efa81",
+      "text": " 　　websocketはブラウザ経由でないと通信できません[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635439629,
+      "updated": 1635439648
+    },
+    {
+      "id": "617ad4201280f000000efa82",
+      "text": " 　　puppeteer上でwebsocketを操作するscriptを動かせばおｋ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635439648,
+      "updated": 1635439664
+    },
+    {
+      "id": "617aba70e5172d0000904e03",
+      "text": " 　[scrapbox-duplicator]に削除されたページの同期機能をプルリクしたほうがいいか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635433072,
+      "updated": 1635433113
+    },
+    {
+      "id": "6179fcda1280f00000c4ff69",
+      "text": "   PRしたい機能が2つほどあるが放置中……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635384538,
+      "updated": 1635439688
+    },
+    {
+      "id": "617ad4351280f000000efa83",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635439669,
+      "updated": 1635439669
     },
     {
       "id": "615481b406848400006bc6e4",
@@ -89,74 +397,11 @@
       "updated": 1624670925
     },
     {
-      "id": "60c1dcbc1280f000005843e8",
-      "text": "[/yosider/Scrapboxで学問を体系的に記述#60c12b22e5172d000023e329]",
+      "id": "615f92e31280f00000c3fd86",
+      "text": "[Scrapboxに数式を素早く入力したい]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623317693,
-      "updated": 1623317694
-    },
-    {
-      "id": "60c1dcbe1280f000005843ea",
-      "text": " 最近は数式を考えながら直接[TeX] commandで書き出せるようになってきました(狂気)[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623317695,
-      "updated": 1623317781
-    },
-    {
-      "id": "60c1dcbc1280f000005843e9",
-      "text": "  今まで紙と鉛筆でやっていたことが、キーボードとTeX commandでできるようになってきた",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623317693,
-      "updated": 1623317919
-    },
-    {
-      "id": "60c1dea71280f000005843ef",
-      "text": "   [数式をpreviewするUserScript]の存在も影響している",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623318184,
-      "updated": 1623318218
-    },
-    {
-      "id": "60c1dd701280f000005843ee",
-      "text": "  touch typingに慣れた人が、キーボードで[思いついたことをそのまま書き出]せるのと同じ感じ",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623317873,
-      "updated": 1623317924
-    },
-    {
-      "id": "60c21fd1e5172d0000ea5e28",
-      "text": "  つよい(コナミ)[yosider.icon][bluemountain.icon][sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1623334865,
-      "updated": 1624699476
-    },
-    {
-      "id": "60c1dd3e1280f000005843ec",
-      "text": " いや～意外と[\" 慣れればTeXでも書きながら考えられる]もんなんですね～",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623317823,
-      "updated": 1623317957
-    },
-    {
-      "id": "60c1dd591280f000005843ed",
-      "text": "  [バッドノウハウ]かもしれないしそうではないかもしれない",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1623317850,
-      "updated": 1623317870
-    },
-    {
-      "id": "60c2201ae5172d0000ea5e29",
-      "text": "  でも数式をこね回すのにはやっぱり厳しいですよねえ[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1623334938,
-      "updated": 1623334978
-    },
-    {
-      "id": "60c2202ee5172d0000ea5e2a",
-      "text": "  　[/takker/数学系の勉強ノートをscrapboxにまとめにくい#60c1db851280f000009a5914]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1623334958,
-      "updated": 1623334958
+      "created": 1633653475,
+      "updated": 1633653577
     },
     {
       "id": "60c1dd161280f000005843eb",

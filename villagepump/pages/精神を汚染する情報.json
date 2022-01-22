@@ -2,7 +2,7 @@
   "id": "5f89973eaeed1400387ffabd",
   "title": "精神を汚染する情報",
   "created": 1602852672,
-  "updated": 1606289142,
+  "updated": 1642541460,
   "lines": [
     {
       "id": "5f89973eaeed1400387ffabd",
@@ -202,10 +202,52 @@
     },
     {
       "id": "5f8a8fa3a9f474000004d03b",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "　井戸端を見てるとまるでScrapboxが至高かのように脳に刻み込まれ…(以下略)",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1602916260,
-      "updated": 1602916260
+      "updated": 1642529656
+    },
+    {
+      "id": "61e70379aff09e0000bbf0a1",
+      "text": "　 まあ冗談ですが[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642529658,
+      "updated": 1642529684
+    },
+    {
+      "id": "61e70394aff09e0000bbf0a2",
+      "text": "　  [Scrapboxが最強に決まっているのだから]とか割ときな臭いけど[Scrapboxの未解決問題]なんてのもあるからバランス取れてそう",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642529684,
+      "updated": 1642529758
+    },
+    {
+      "id": "61e731261280f00000ba5339",
+      "text": "　  きな臭いは草[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642541350,
+      "updated": 1642541361
+    },
+    {
+      "id": "61e731351280f00000ba533a",
+      "text": "　   なんか変なことでも書かれているのかと思って見てみたら、リンクが少し貼ってあるだけだった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642541365,
+      "updated": 1642541418
+    },
+    {
+      "id": "61e7316d1280f00000ba533b",
+      "text": "　   リンク先の[Scrapboxの未解決問題]のほうが具体性が高い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642541421,
+      "updated": 1642541460
+    },
+    {
+      "id": "61e70334aff09e00007b5b53",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642529588,
+      "updated": 1642529588
     },
     {
       "id": "5f8abc5add59fe0000e481e0",

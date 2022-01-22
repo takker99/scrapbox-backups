@@ -2,7 +2,7 @@
   "id": "6093d24a527a0d0023917c6e",
   "title": "2021/07/26",
   "created": 1620300363,
-  "updated": 1627653867,
+  "updated": 1633785100,
   "lines": [
     {
       "id": "6093d24a527a0d0023917c6e",
@@ -153,10 +153,10 @@
     },
     {
       "id": "60feb625d9875a000000691e",
-      "text": " Windows10のUSB StickをLinuxで作るときは[WoeUSB]が良い",
-      "userId": "60f3a5d03a31ac001cd9875a",
+      "text": " [Windows 10]のUSB StickをLinuxで作るときは[WoeUSB]が良い",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1627305509,
-      "updated": 1627305681
+      "updated": 1633785100
     },
     {
       "id": "60feb6d6d9875a000078f590",

@@ -2,7 +2,7 @@
   "id": "60a8c4431f91e000234a5112",
   "title": "エンジニア認証",
   "created": 1621673029,
-  "updated": 1621733683,
+  "updated": 1635476126,
   "lines": [
     {
       "id": "60a8c4431f91e000234a5112",
@@ -26,11 +26,25 @@
       "updated": 1621673123
     },
     {
+      "id": "617b62894bb2e2000077e75a",
+      "text": " `256`等の数をキリがいいと感じる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1635476106,
+      "updated": 1635476126
+    },
+    {
       "id": "60a8c4498ee92a000025d0b3",
-      "text": " [https://gyazo.com/cf04ca4f5475dade9413d467f2e06581]",
-      "userId": "6055950b87138f0022246f59",
+      "text": " [https://4.bp.blogspot.com/-02mTT_mAcF0/V4SA7PnHXwI/AAAAAAAA8OE/bMCTmcMMax8gZjBqtKsP-mBuX_8955-QACLcB/s400/computer_hub_loop_setsuzoku.png]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1621673033,
-      "updated": 1621673411
+      "updated": 1635422948
+    },
+    {
+      "id": "617a92cad0ca1c0000bda50f",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1635422948,
+      "updated": 1635422948
     },
     {
       "id": "60a8c5a9246f5900004e9841",
@@ -61,6 +75,20 @@
       "updated": 1621733683
     },
     {
+      "id": "617b183779d3a90000311f6e",
+      "text": " 全角スペースがあると発狂する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635457081,
+      "updated": 1635457087
+    },
+    {
+      "id": "617b184579d3a90000311f6f",
+      "text": " 全角英数字があると発狂する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635457094,
+      "updated": 1635457098
+    },
+    {
       "id": "60a9b1238ee92a0000ecb901",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
@@ -80,6 +108,27 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621673029,
       "updated": 1621673029
+    },
+    {
+      "id": "617a9288d0ca1c0000bda50c",
+      "text": "　何の漫画だったっけ？",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1635422883,
+      "updated": 1635422893
+    },
+    {
+      "id": "617a9292d0ca1c0000bda50e",
+      "text": "　\tいくつか質問して、「こいつだ、連れてけ！」ってやつ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1635422893,
+      "updated": 1635422909
+    },
+    {
+      "id": "617a9289d0ca1c0000bda50d",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1635422883,
+      "updated": 1635422883
     }
   ]
 }

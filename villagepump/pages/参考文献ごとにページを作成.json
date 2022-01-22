@@ -2,7 +2,7 @@
   "id": "6003d61d2076c70036c79f4f",
   "title": "参考文献ごとにページを作成",
   "created": 1610864159,
-  "updated": 1623444439,
+  "updated": 1641727314,
   "lines": [
     {
       "id": "6003d61d2076c70036c79f4f",
@@ -208,6 +208,69 @@
       "updated": 1623444360
     },
     {
+      "id": "6157fbdbe5172d0000ea07e1",
+      "text": "　1箇所でしか参照しないときに毎回wrapするのが面倒",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633156059,
+      "updated": 1633156063
+    },
+    {
+      "id": "6157fbdce5172d0000ea07e2",
+      "text": "　[複数人Projectでやたらとページを作るのには抵抗があ]る場合がある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633156060,
+      "updated": 1633418004
+    },
+    {
+      "id": "6157fbdce5172d0000ea07e3",
+      "text": "　　別の問題かもしれないが",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633156060,
+      "updated": 1633156063
+    },
+    {
+      "id": "6157fbdce5172d0000ea07e4",
+      "text": "　有用な・信頼できそうなページじゃないとあまりwrapしようと思えないことがある[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633156060,
+      "updated": 1633156099
+    },
+    {
+      "id": "6157fbdce5172d0000ea07e5",
+      "text": "　　それを出典に使っているのはどうなんだという話だが",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633156060,
+      "updated": 1633156063
+    },
+    {
+      "id": "61580d781280f0000097e639",
+      "text": "　　 草[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633160572,
+      "updated": 1633160574
+    },
+    {
+      "id": "61580d7a1280f0000097e63a",
+      "text": "　　 まあ調査のプロセスを書き残せたということで",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633160574,
+      "updated": 1633160594
+    },
+    {
+      "id": "6157fbdce5172d0000ea07e6",
+      "text": "　外部のScrapboxプロジェクトの行リンクを参照したいとき",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633156060,
+      "updated": 1633156063
+    },
+    {
+      "id": "6157fbdce5172d0000ea07e7",
+      "text": "　　wrapでは直接示せない？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1633156060,
+      "updated": 1633156063
+    },
+    {
       "id": "602a54ffe5172d0000a2e22b",
       "text": "",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -276,6 +339,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613387237,
       "updated": 1613387237
+    },
+    {
+      "id": "61dac5498ee92a0000a412c8",
+      "text": "[/UIPedia]を見てみれ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1641727305,
+      "updated": 1641727314
+    },
+    {
+      "id": "61dac5498ee92a0000a412c9",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1641727305,
+      "updated": 1641727305
     }
   ]
 }

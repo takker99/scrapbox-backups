@@ -2,7 +2,7 @@
   "id": "60abd3d4548bf3001c9ee3ed",
   "title": "Scrapbox関連ツール",
   "created": 1621873622,
-  "updated": 1621876602,
+  "updated": 1638275496,
   "lines": [
     {
       "id": "60abd3d4548bf3001c9ee3ed",
@@ -59,6 +59,48 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1621876431,
       "updated": 1621876485
+    },
+    {
+      "id": "61a61941fd049e0000912d20",
+      "text": " ありました(ヘルプに書いてあった([pastak]さんが開発されてたみたい))",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1638275393,
+      "updated": 1638275496
+    },
+    {
+      "id": "61a61945fd049e0000912d21",
+      "text": " \t[/help-jp/Import Pages / Export Pages]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1638275398,
+      "updated": 1638275398
+    },
+    {
+      "id": "61a61968fd049e0000912d22",
+      "text": " \t\t> Markdown形式やenex形式([Evernote])などでバックアップファイルを取得済みの方向け",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1638275432,
+      "updated": 1638275449
+    },
+    {
+      "id": "61a61969fd049e0000912d23",
+      "text": "   >    https://github.com/pastak/scrapbox-converter",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1638275434,
+      "updated": 1638275434
+    },
+    {
+      "id": "61a61969fd049e0000912d24",
+      "text": "   >   [Qiita]::TeamのExport済みファイルを利用したい方",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1638275434,
+      "updated": 1638275434
+    },
+    {
+      "id": "61a61969fd049e0000912d25",
+      "text": "   >   \thttps://github.com/pastak/qiita-team-to-scrapbox",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1638275434,
+      "updated": 1638275434
     },
     {
       "id": "60abd3e0fd049e00002c35fd",

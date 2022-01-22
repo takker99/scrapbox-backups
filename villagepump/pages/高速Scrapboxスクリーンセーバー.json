@@ -2,7 +2,7 @@
   "id": "61080fb0876b64001cee09e7",
   "title": "高速Scrapboxスクリーンセーバー",
   "created": 1627918260,
-  "updated": 1628169062,
+  "updated": 1635503067,
   "lines": [
     {
       "id": "61080fb0876b64001cee09e7",
@@ -101,6 +101,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1628044159,
       "updated": 1628044217
+    },
+    {
+      "id": "617bcbb71280f00000a80429",
+      "text": "\t[ランダムジャンプボタンで飛んだページはDate last visitedに反映されない]から大丈夫っぽい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635503031,
+      "updated": 1635503067
     },
     {
       "id": "6109309f79d3a9000047f2be",

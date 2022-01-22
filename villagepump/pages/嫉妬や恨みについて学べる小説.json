@@ -2,7 +2,7 @@
   "id": "609a097df684bf001c1d666d",
   "title": "嫉妬や恨みについて学べる小説",
   "created": 1620707712,
-  "updated": 1628258472,
+  "updated": 1640474146,
   "lines": [
     {
       "id": "609a097df684bf001c1d666d",
@@ -131,11 +131,74 @@
       "updated": 1628258454
     },
     {
+      "id": "61be75c99a43520000da9b65",
+      "text": "　全部恋愛的な嫉妬になりますが",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1639871953,
+      "updated": 1639872143
+    },
+    {
+      "id": "61be767e9a43520000da9b68",
+      "text": "　\t三島由紀夫「愛の渇き」[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1639872134,
+      "updated": 1639872141
+    },
+    {
+      "id": "61be75cb9a43520000da9b66",
+      "text": " \t源氏物語[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1639871954,
+      "updated": 1639872141
+    },
+    {
+      "id": "61be75cb9a43520000da9b67",
+      "text": " \t谷崎潤一郎「卍」[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1639871954,
+      "updated": 1639872142
+    },
+    {
+      "id": "61bea7f1a33682000041bd71",
+      "text": " [西村賢太]作品[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1639884785,
+      "updated": 1639884821
+    },
+    {
       "id": "610cc2a0a19e400000de0296",
       "text": "",
       "userId": "5df97d83ccfabb0017a19e40",
       "created": 1628226208,
       "updated": 1628226208
+    },
+    {
+      "id": "61beac4e385a920000b89c77",
+      "text": "　映画",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1639885902,
+      "updated": 1639885904
+    },
+    {
+      "id": "61beac50385a920000b89c78",
+      "text": "　　[アマデウス]がそんなのだった気がする[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1639885904,
+      "updated": 1639885936
+    },
+    {
+      "id": "61beac58385a920000b89c79",
+      "text": "　　 モーツァルトに対するサリエリの感情",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1639885913,
+      "updated": 1639885931
+    },
+    {
+      "id": "61beac4d385a920000b89c76",
+      "text": "",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1639885901,
+      "updated": 1639885901
     },
     {
       "id": "609a72b3fd049e00008f0eb4",
@@ -300,17 +363,17 @@
     },
     {
       "id": "60a05f338ee92a000018d7ed",
-      "text": "  「黒地の絵」が一番最悪らしいのだが怖くて読めない...",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "  「[黒地の絵]」が一番最悪らしいのだが怖くて読めない...",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1621122869,
-      "updated": 1621122891
+      "updated": 1639870194
     },
     {
-      "id": "60a05eca8ee92a000018d7ec",
+      "id": "61be752b9a43520000da9b61",
       "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1621122764,
-      "updated": 1621122764
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639871794,
+      "updated": 1640474146
     }
   ]
 }

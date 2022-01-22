@@ -2,7 +2,7 @@
   "id": "60e0643f1186e8001e8c6a12",
   "title": "ScrapboxにScrapboxを埋め込む",
   "created": 1625318466,
-  "updated": 1625400700,
+  "updated": 1642547482,
   "lines": [
     {
       "id": "60e0643f1186e8001e8c6a12",
@@ -111,10 +111,10 @@
     },
     {
       "id": "60e1a3df1280f00000e5a464",
-      "text": "   (() => {",
+      "text": "   {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1625400289,
-      "updated": 1625400290
+      "updated": 1642547477
     },
     {
       "id": "60e1a3e01280f00000e5a465",
@@ -167,10 +167,10 @@
     },
     {
       "id": "60e1a3e01280f00000e5a46a",
-      "text": "   })();",
+      "text": "   }",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1625400290,
-      "updated": 1625400290
+      "updated": 1642547482
     },
     {
       "id": "60e1a3d31280f00000e5a462",
@@ -192,6 +192,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1625400504,
       "updated": 1625400504
+    },
+    {
+      "id": "61e6cd34aff09e0000a056cf",
+      "text": "関連",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642515765,
+      "updated": 1642515766
+    },
+    {
+      "id": "61e6cd29aff09e0000a056cd",
+      "text": "　[ページの埋め込み機能が欲しい]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642515753,
+      "updated": 1642515768
+    },
+    {
+      "id": "61e6cd2aaff09e0000a056ce",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642515755,
+      "updated": 1642515755
     }
   ]
 }

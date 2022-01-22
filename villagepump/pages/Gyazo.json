@@ -2,7 +2,7 @@
   "id": "5fe79dff65474500212a6207",
   "title": "Gyazo",
   "created": 1609014801,
-  "updated": 1632269960,
+  "updated": 1635266633,
   "lines": [
     {
       "id": "5fe79dff65474500212a6207",
@@ -187,34 +187,6 @@
       "updated": 1611483883
     },
     {
-      "id": "608dab17e5172d0000169f2f",
-      "text": " 編集機能をもうちょっとつけてほしい[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1619897111,
-      "updated": 1619897111
-    },
-    {
-      "id": "608dab17e5172d0000169f30",
-      "text": " 　[トリミング]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1619897111,
-      "updated": 1619897111
-    },
-    {
-      "id": "608dab17e5172d0000169f31",
-      "text": " 　回転",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1619897111,
-      "updated": 1619897111
-    },
-    {
-      "id": "6142317de5172d0000a5458c",
-      "text": " 　2021/09/16 どちらもできるようになってる！！[/icons/god.icon][yosider.icon*2][hata6502.icon*2]",
-      "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1631727997,
-      "updated": 1631761624
-    },
-    {
       "id": "60adf0ad05533200001ce033",
       "text": "iPhoneアプリ版入れたら思った以上に便利でした。",
       "userId": "5d131fa66fe2890017055332",
@@ -250,6 +222,41 @@
       "updated": 1622012081
     },
     {
+      "id": "61783013e5172d0000c42ade",
+      "text": "欲しい機能",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635266579,
+      "updated": 1635266584
+    },
+    {
+      "id": "61783011e5172d0000c42ada",
+      "text": " [/icons/done.icon]編集機能をもうちょっとつけてほしい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635266577,
+      "updated": 1635266590
+    },
+    {
+      "id": "61783011e5172d0000c42adb",
+      "text": " 　[トリミング]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635266577,
+      "updated": 1635266577
+    },
+    {
+      "id": "61783011e5172d0000c42adc",
+      "text": " 　回転",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635266577,
+      "updated": 1635266577
+    },
+    {
+      "id": "61783011e5172d0000c42add",
+      "text": " 　2021/09/16 どちらもできるようになってる！！[/icons/god.icon][yosider.icon*2][hata6502.icon*2]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635266577,
+      "updated": 1635266577
+    },
+    {
       "id": "611ea5f2e5172d000074209c",
       "text": " androidアプリ版みたいに、フォルダを監視して自動アップロードしてくれる機能がPC版にもほしい[yosider.icon]",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -262,6 +269,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1629398517,
       "updated": 1629398575
+    },
+    {
+      "id": "61783025e5172d0000c42adf",
+      "text": "　[Google Photos]のような、特定の人物が写っている画像を検索したい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635266598,
+      "updated": 1635266633
     },
     {
       "id": "611ea626e5172d000074209e",

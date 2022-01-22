@@ -2,7 +2,7 @@
   "id": "5f65e018a31dcb001ebc9944",
   "title": "TeX",
   "created": 1600512048,
-  "updated": 1630908555,
+  "updated": 1639869545,
   "lines": [
     {
       "id": "5f65e018a31dcb001ebc9944",
@@ -570,6 +570,34 @@
       "userId": "582e63d27c56960011aff09e",
       "created": 1630853320,
       "updated": 1630853320
+    },
+    {
+      "id": "61bdfdaee5172d000033d2e1",
+      "text": "長い文章はScrapboxやアウトライナーで構造的に書きたいが、最終的にTeXにする場合はコピペや変換が面倒くさいので、.texにベタ書きすることになってつらい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1639841213,
+      "updated": 1639841291
+    },
+    {
+      "id": "61bdfdaee5172d000033d2e2",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1639841213,
+      "updated": 1639841213
+    },
+    {
+      "id": "61be6c4c79d3a90000109370",
+      "text": "TeXを擬人化して[笑い声]を「テフフフ……」にすると面白そう[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639869517,
+      "updated": 1639869545
+    },
+    {
+      "id": "61be6c4c79d3a90000109371",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639869517,
+      "updated": 1639869517
     }
   ]
 }

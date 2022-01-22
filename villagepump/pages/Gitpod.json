@@ -2,7 +2,7 @@
   "id": "5fd0f113ed8d5a0022b6a2b6",
   "title": "Gitpod",
   "created": 1607528737,
-  "updated": 1631836548,
+  "updated": 1633178700,
   "lines": [
     {
       "id": "5fd0f113ed8d5a0022b6a2b6",
@@ -24,6 +24,20 @@
       "userId": "5da3a9589b96b70017ec4fce",
       "created": 1607528737,
       "updated": 1607528737
+    },
+    {
+      "id": "6158543cd0ca1c0000d6aa8d",
+      "text": "https://gitpod.io#リポジトリのURL",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633178685,
+      "updated": 1633178695
+    },
+    {
+      "id": "61585448d0ca1c0000d6aa8e",
+      "text": "　でワークスーペースが開く",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633178696,
+      "updated": 1633178700
     },
     {
       "id": "5fd0f122ec4fce000065c5a1",
@@ -94,27 +108,6 @@
       "userId": "6127807d271b6b001dcc6086",
       "created": 1631836435,
       "updated": 1631836435
-    },
-    {
-      "id": "6143d916cc60860000c916d0",
-      "text": " マウスの戻る・進むボタンがブラウザのHistory前後と被る",
-      "userId": "6127807d271b6b001dcc6086",
-      "created": 1631836438,
-      "updated": 1631836463
-    },
-    {
-      "id": "6143d932cc60860000c916d1",
-      "text": " 　惜しい![dnin.icon]",
-      "userId": "6127807d271b6b001dcc6086",
-      "created": 1631836467,
-      "updated": 1631836469
-    },
-    {
-      "id": "6143d94ccc60860000c916d2",
-      "text": " 　これ[2021/05/30#60b2d3c0246f5900005760c4]ができない",
-      "userId": "6127807d271b6b001dcc6086",
-      "created": 1631836493,
-      "updated": 1631836548
     },
     {
       "id": "5fd0f16cec4fce000065c5a4",

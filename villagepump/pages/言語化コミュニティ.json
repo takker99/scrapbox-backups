@@ -2,7 +2,7 @@
   "id": "60b77ef38aaeab001c2bfe41",
   "title": "言語化コミュニティ",
   "created": 1622638325,
-  "updated": 1623066410,
+  "updated": 1638857136,
   "lines": [
     {
       "id": "60b77ef38aaeab001c2bfe41",
@@ -437,6 +437,69 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1623066351,
       "updated": 1623066351
+    },
+    {
+      "id": "61aecc9e1280f00000a09552",
+      "text": "井戸端とも[scrapbox.io/unnamedcamp]とも、というかscrapboxでよく見かける人たちとは全く違う生活を送っている人たちが集まっている印象がある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638845599,
+      "updated": 1638845650
+    },
+    {
+      "id": "61aeccd21280f00000a09554",
+      "text": "　[/verbalizing-community/スケジュール管理を外注した]とかそんなことができる人がいたり",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638845651,
+      "updated": 1638845671
+    },
+    {
+      "id": "61aecce71280f00000a09555",
+      "text": "　 マネージャーさんを雇えるってどんな世界なの……？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638845671,
+      "updated": 1638845699
+    },
+    {
+      "id": "61aecd041280f00000a09556",
+      "text": "　人を選ぶcommunityな気がする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638845701,
+      "updated": 1638845730
+    },
+    {
+      "id": "61aecd211280f00000a09557",
+      "text": "　　ってそんなことを言ったら井戸端もそうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638845730,
+      "updated": 1638845742
+    },
+    {
+      "id": "61aecca31280f00000a09553",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638845603,
+      "updated": 1638845603
+    },
+    {
+      "id": "61aef98b6668720000b0d6ba",
+      "text": "　興味はある[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638857099,
+      "updated": 1638857104
+    },
+    {
+      "id": "61aef9906668720000b0d6bc",
+      "text": "　　",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638857104,
+      "updated": 1638857136
+    },
+    {
+      "id": "61aef98c6668720000b0d6bb",
+      "text": "",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638857100,
+      "updated": 1638857100
     }
   ]
 }

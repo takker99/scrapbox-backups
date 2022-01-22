@@ -2,7 +2,7 @@
   "id": "614009d8039abe001dfeeb46",
   "title": "好きな肉の順番",
   "created": 1631586778,
-  "updated": 1631727880,
+  "updated": 1635261364,
   "lines": [
     {
       "id": "614009d8039abe001dfeeb46",
@@ -82,6 +82,20 @@
       "updated": 1631727817
     },
     {
+      "id": "6177f41c1280f000005579b8",
+      "text": "　　鶏のステーキってあったっけ？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635251228,
+      "updated": 1635251238
+    },
+    {
+      "id": "617815860684840000631856",
+      "text": "　　\tチキンステーキみたいな名前であるかも、でもチキンソテーとの違いがわからない…[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1635259784,
+      "updated": 1635259821
+    },
+    {
       "id": "6142301ae5172d0000d304ac",
       "text": "　[焼肉]、薄切りの炒めもの",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -96,6 +110,13 @@
       "updated": 1631727824
     },
     {
+      "id": "61781baca3368200003b0bf9",
+      "text": "　　羊[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1635261357,
+      "updated": 1635261364
+    },
+    {
       "id": "61423016e5172d0000d304ab",
       "text": "　煮物、鍋",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -104,10 +125,17 @@
     },
     {
       "id": "614230d4e5172d0000d304b0",
-      "text": "　　鶏=豚>牛[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "　　鶏=豚>牛[yosider.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631727829,
-      "updated": 1631727830
+      "updated": 1635251217
+    },
+    {
+      "id": "6177f42e1280f000005579b9",
+      "text": "　　牛はうまく調理しないと堅くなってしまう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635251245,
+      "updated": 1635251267
     },
     {
       "id": "61423079e5172d0000d304ad",
@@ -118,10 +146,10 @@
     },
     {
       "id": "614230d7e5172d0000d304b1",
-      "text": "　　鶏>豚=牛[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "　　鶏>豚=牛[yosider.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631727832,
-      "updated": 1631727864
+      "updated": 1635251206
     },
     {
       "id": "614230f8e5172d0000d304b2",
@@ -136,6 +164,27 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1631727624,
       "updated": 1631727624
+    },
+    {
+      "id": "6177f4601280f000005579ba",
+      "text": "まあでも一番は[鹿]かなあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635251296,
+      "updated": 1635251307
+    },
+    {
+      "id": "6177f4641280f000005579bb",
+      "text": " [猪]はもつ煮だとうまい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635251300,
+      "updated": 1635251325
+    },
+    {
+      "id": "6177f46d1280f000005579bc",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635251309,
+      "updated": 1635251309
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "604375e01dcff8001ccc741b",
   "title": "2021/03/12",
   "created": 1615033827,
-  "updated": 1626674535,
+  "updated": 1641332880,
   "lines": [
     {
       "id": "604375e01dcff8001ccc741b",
@@ -27,10 +27,10 @@
     },
     {
       "id": "604a36698ee92a00008685d4",
-      "text": "2021年 [= (new Date(scrapbox.Page.title.replaceAll('/','-')) - new Date('2020-12-31')) / (new Date('2021-12-31') - new Date('2020-12-31'))]% 経過",
+      "text": "2021年 [% (new Date(scrapbox.Page.title.replaceAll('/','-')) - new Date('2020-12-31')) / (new Date('2021-12-31') - new Date('2020-12-31'))]% 経過",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1615476329,
-      "updated": 1615503842
+      "updated": 1641332880
     },
     {
       "id": "604375e17589210000e7d9ec",

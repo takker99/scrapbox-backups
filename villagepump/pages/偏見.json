@@ -2,7 +2,7 @@
   "id": "610373b9778505001cf1c2ca",
   "title": "偏見",
   "created": 1627616186,
-  "updated": 1630016078,
+  "updated": 1636803333,
   "lines": [
     {
       "id": "610373b9778505001cf1c2ca",
@@ -76,10 +76,10 @@
     },
     {
       "id": "6103742f1280f00000db1353",
-      "text": " [パチンコ]やってるやつはクズ[takker.icon][kuuote.icon]",
+      "text": " [パチンコ]やってるやつはクズ[takker.icon][kuuote.icon][増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1627616302,
-      "updated": 1627671901
+      "updated": 1636715791
     },
     {
       "id": "610374271280f00000db1352",
@@ -251,10 +251,10 @@
     },
     {
       "id": "610413c04bb2e20000dcf51f",
-      "text": " [タバコ]吸ってるやつはアホ[kuuote.icon]",
+      "text": " [タバコ]吸ってるやつはアホ[kuuote.icon][増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1627657095,
-      "updated": 1627671922
+      "updated": 1636715812
     },
     {
       "id": "610413ca4bb2e20000dcf520",
@@ -304,6 +304,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1627701497,
       "updated": 1627701542
+    },
+    {
+      "id": "618f2a3d4bb2e2000050e18a",
+      "text": "  ニッチなジャンルだとむしろ逆な気がする[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1636772414,
+      "updated": 1636772434
+    },
+    {
+      "id": "618f2a4d4bb2e2000050e18b",
+      "text": "   まず同好の士自体が貴重だし",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1636772430,
+      "updated": 1636772452
+    },
+    {
+      "id": "618f59c9e5172d0000520c5a",
+      "text": "   たしかに[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636784585,
+      "updated": 1636784586
     },
     {
       "id": "61046f748ee92a0000806000",
@@ -419,10 +440,10 @@
     },
     {
       "id": "6128121f8ee92a0000eb9a57",
-      "text": " [NewsPicks]は糞 [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [NewsPicks]は糞 [増井俊之.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1630016031,
-      "updated": 1630016040
+      "updated": 1636734847
     },
     {
       "id": "612812388ee92a0000eb9a58",
@@ -432,11 +453,67 @@
       "updated": 1630016078
     },
     {
-      "id": "61048b9579d3a900004b719f",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1627687829,
-      "updated": 1627687867
+      "id": "618e9787a3368200007e996b",
+      "text": " (中国人相手の看板・菜単をしておきながら)冷たい水が出てくる中華料理屋は美味しくない[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636734855,
+      "updated": 1636768102
+    },
+    {
+      "id": "618e9819a3368200007e996d",
+      "text": " \tでも写真が雑で中国人向けの看板・菜単の時点で平均するとかなり美味しい[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636735002,
+      "updated": 1636735097
+    },
+    {
+      "id": "618eebb6e5172d00004ae728",
+      "text": " \t何が出てくると良いんでしょうか[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636756407,
+      "updated": 1636756432
+    },
+    {
+      "id": "618eebcbe5172d00004ae729",
+      "text": " \t　烏龍茶？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636756428,
+      "updated": 1636756446
+    },
+    {
+      "id": "618f1950a3368200007e996f",
+      "text": " \t　温かいお茶です[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636768080,
+      "updated": 1636768091
+    },
+    {
+      "id": "618f595ae5172d0000520c58",
+      "text": " \t　　[/icons2/へえ〜.icon][/icons/感謝.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1636784474,
+      "updated": 1636784479
+    },
+    {
+      "id": "618e9804a3368200007e996c",
+      "text": "\t油そばは二郎より健康[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636734980,
+      "updated": 1636735199
+    },
+    {
+      "id": "618e98dfa3368200007e996e",
+      "text": "\t\tこれは迷信かもしれない",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636735200,
+      "updated": 1636735211
+    },
+    {
+      "id": "618fa2ed1280f00000b6100d",
+      "text": "\t\tどっちも健康に悪いんだよなあ……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636803309,
+      "updated": 1636803333
     },
     {
       "id": "611ef6ad8ee92a0000f9c717",
@@ -461,10 +538,10 @@
     },
     {
       "id": "6103cca08ee92a000097bc38",
-      "text": " [偏見は免罪符ではな]いのでだめだと思います[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " [偏見は免罪符ではな]いのでだめだと思います[takker.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1627638945,
-      "updated": 1627639142
+      "updated": 1636790404
     },
     {
       "id": "6103d3278ee92a000097bc5e",

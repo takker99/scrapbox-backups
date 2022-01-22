@@ -2,7 +2,7 @@
   "id": "60a7d6861561df0021b35734",
   "title": "Pykakasi",
   "created": 1621612169,
-  "updated": 1622720148,
+  "updated": 1641997161,
   "lines": [
     {
       "id": "60a7d6861561df0021b35734",
@@ -48,10 +48,10 @@
     },
     {
       "id": "60b8be935b98c2000034d53e",
-      "text": "[https://idy.herokuapp.com/rss/0/https://github.com/miurahr/pykakasi/releases.atom#.svg]",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "[https://idy.herokuapp.com/rss/0/https://github.com/miurahr/pykakasi/releases.atom#.png]",
+      "userId": "61d72bbfba87a90022c41cc7",
       "created": 1622720147,
-      "updated": 1622720148
+      "updated": 1641997161
     },
     {
       "id": "60b8be945b98c2000034d53f",

@@ -2,7 +2,7 @@
   "id": "60681821a574de001cf9f8b8",
   "title": "カニンガムの法則",
   "created": 1617434679,
-  "updated": 1617436729,
+  "updated": 1638604798,
   "lines": [
     {
       "id": "60681821a574de001cf9f8b8",
@@ -34,45 +34,31 @@
     },
     {
       "id": "606818375b98c20000afb758",
-      "text": "[Wiki]の発明者ウォード・カニンガム氏にちなんだ命名だそうだ。",
+      "text": " [Wiki]の[発明者] [ウォード・カニンガム]氏にちなんだ命名だそうだ。",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1617434679,
-      "updated": 1617434793
+      "updated": 1638604791
     },
     {
       "id": "606818375b98c20000afb759",
-      "text": "別にカニンガム氏が言ったことでも、やったことでもない。[知らんけど]。",
+      "text": " 別にカニンガム氏が言ったことでも、やったことでもない。[知らんけど]。",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1617434679,
-      "updated": 1617436729
-    },
-    {
-      "id": "606818495b98c20000afb75e",
-      "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1617434697,
-      "updated": 1617434697
+      "updated": 1638604793
     },
     {
       "id": "606818375b98c20000afb75a",
-      "text": "Cunningham's Law",
+      "text": " Cunningham's Law",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1617434679,
-      "updated": 1617434689
-    },
-    {
-      "id": "606818375b98c20000afb75b",
-      "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1617434679,
-      "updated": 1617434679
+      "updated": 1638604795
     },
     {
       "id": "606818375b98c20000afb75c",
-      "text": "[https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%AC%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87 カニンガムの法則 - Wikipedia]",
+      "text": " [https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%AC%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87 カニンガムの法則 - Wikipedia]",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1617434679,
-      "updated": 1617434679
+      "updated": 1638604798
     },
     {
       "id": "606818375b98c20000afb75d",

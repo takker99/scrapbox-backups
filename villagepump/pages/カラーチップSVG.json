@@ -2,7 +2,7 @@
   "id": "6078369acce31c001fc3b38f",
   "title": "カラーチップSVG",
   "created": 1618491039,
-  "updated": 1625872557,
+  "updated": 1641594207,
   "lines": [
     {
       "id": "6078369acce31c001fc3b38f",
@@ -10,6 +10,13 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1618491039,
       "updated": 1618491041
+    },
+    {
+      "id": "61d8bd531280f0000078bc6d",
+      "text": "[カラーコード]をSVG画像で表示する[serverless function]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641594196,
+      "updated": 1641594207
     },
     {
       "id": "609dbc1a246f5900006cbc73",

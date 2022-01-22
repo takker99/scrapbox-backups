@@ -2,7 +2,7 @@
   "id": "601260f8bbc974001c368fb5",
   "title": "Google Play Books",
   "created": 1611817212,
-  "updated": 1618813977,
+  "updated": 1636861909,
   "lines": [
     {
       "id": "601260f8bbc974001c368fb5",
@@ -24,6 +24,13 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1611817230,
       "updated": 1618813977
+    },
+    {
+      "id": "61908543aee1900000039b87",
+      "text": " [開発者コンソール]で見てみると、本文は普通に`<p>`タグで書かれている",
+      "userId": "61907b10c09991001daee190",
+      "created": 1636861304,
+      "updated": 1636861332
     },
     {
       "id": "6012610fd438750000b67c64",
@@ -129,6 +136,27 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1611817214,
       "updated": 1611817214
+    },
+    {
+      "id": "6190878caee1900000a4b3fd",
+      "text": "DRM付きのPDFとしてダウンロード[できる https://support.google.com/googleplay/answer/179863]",
+      "userId": "61907b10c09991001daee190",
+      "created": 1636861889,
+      "updated": 1636861901
+    },
+    {
+      "id": "61908799aee1900000a4b3fe",
+      "text": " Adobeアカウントに紐付ける形で読める",
+      "userId": "61907b10c09991001daee190",
+      "created": 1636861902,
+      "updated": 1636861909
+    },
+    {
+      "id": "6190878aaee1900000a4b3fc",
+      "text": "",
+      "userId": "61907b10c09991001daee190",
+      "created": 1636861887,
+      "updated": 1636861887
     },
     {
       "id": "6012619fd438750000b67c69",

@@ -2,7 +2,7 @@
   "id": "60032ef8c1a977001c08f29a",
   "title": "Scrapboxのテーブル記法",
   "created": 1610821375,
-  "updated": 1614611690,
+  "updated": 1638105193,
   "lines": [
     {
       "id": "60032ef8c1a977001c08f29a",
@@ -96,11 +96,25 @@
       "updated": 1610821376
     },
     {
+      "id": "61a37c571280f000009688e6",
+      "text": "\t [/noratetsu/nora.icon]さんがUserCSSでなんとか解決していたような",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638104152,
+      "updated": 1638104190
+    },
+    {
       "id": "60032efee5172d0000e8b2a7",
       "text": "\tリンクはできるが数式とかcodeとか書けない",
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1610821376,
       "updated": 1610821376
+    },
+    {
+      "id": "61a3805279e113000062acb4",
+      "text": "\t　太字やURLリンクもできない",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1638105170,
+      "updated": 1638105190
     },
     {
       "id": "60032efee5172d0000e8b2a8",
@@ -171,6 +185,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614599950,
       "updated": 1614599985
+    },
+    {
+      "id": "61a3800279e113000062acb1",
+      "text": " [/forum-jp/テーブルのセル移動]ができない",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1638105091,
+      "updated": 1638105139
+    },
+    {
+      "id": "61a3801a79e113000062acb2",
+      "text": " [/forum-jp/テーブル記法でのカーソル移動が変]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1638105114,
+      "updated": 1638105131
     },
     {
       "id": "6003be131280f000003169a2",

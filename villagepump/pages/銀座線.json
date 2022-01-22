@@ -2,7 +2,7 @@
   "id": "604ad4c881338100229c5bb1",
   "title": "銀座線",
   "created": 1615516981,
-  "updated": 1615517144,
+  "updated": 1638658299,
   "lines": [
     {
       "id": "604ad4c881338100229c5bb1",
@@ -145,11 +145,18 @@
       "updated": 1615517144
     },
     {
+      "id": "61abf0a21280f000004ad2ea",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638658207,
+      "updated": 1638658212
+    },
+    {
       "id": "604ad557b19cc300001f0a1a",
-      "text": "[https://gyazo.com/0db57b5dbe17a19fd2c0a9fbe2f0e101]",
-      "userId": "6044910bc9a74e001eb19cc3",
+      "text": "[https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_of_Tokyo_Metro_Ginza_Line.svg https://ja.wikipedia.org/wiki/ファイル:Logo_of_Tokyo_Metro_Ginza_Line.svg#]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1615517015,
-      "updated": 1615517015
+      "updated": 1638658299
     },
     {
       "id": "604ad553b19cc300001f0a19",

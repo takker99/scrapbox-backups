@@ -2,7 +2,7 @@
   "id": "5fc0e356a4e45f001c8f4b12",
   "title": "デジタル改革アイデアボックス",
   "created": 1606476631,
-  "updated": 1628725369,
+  "updated": 1639488424,
   "lines": [
     {
       "id": "5fc0e356a4e45f001c8f4b12",
@@ -230,17 +230,17 @@
     },
     {
       "id": "60263a8f1280f000007af76c",
-      "text": "  Scrapboxでやるべきとしか思えない（過激派）[yosider.icon][takker.icon][erniogi.icon][yanma.icon][増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "  [Scrapboxでやるべき]としか思えない（過激派）[yosider.icon][takker.icon][erniogi.icon][yanma.icon][増井俊之.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613118099,
-      "updated": 1628725369
+      "updated": 1639486666
     },
     {
       "id": "5fc4c49a5b98c20000e75dfe",
-      "text": " 　ブザン式のマインドマップはA3の用紙に描くという決まりがって、この制約によって、拡散思考と収束思考をバランス良く統合している",
+      "text": " 　[ブザン式のマインドマップ]はA3の用紙に描くという決まりがって、この[制約]によって、[拡散思考]と[収束思考]をバランス良く統合している",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1606730906,
-      "updated": 1606730929
+      "updated": 1639488424
     },
     {
       "id": "5fc4c4b15b98c20000e75dff",
@@ -458,6 +458,146 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1606477753,
       "updated": 1606477753
+    },
+    {
+      "id": "6162ab13d0ca1c0000f96c0b",
+      "text": "こんなメールが来ていた",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856275,
+      "updated": 1633856275
+    },
+    {
+      "id": "6162aad0d0ca1c0000f96bf9",
+      "text": ">[* デジタル改革アイデアボックスのリニューアル及び本サービス終了のお知らせ（10月11日終了）]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856208,
+      "updated": 1633856213
+    },
+    {
+      "id": "6162aad2d0ca1c0000f96bfa",
+      "text": ">デジタル改革アイデアボックス事務局です。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856210,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96bfc",
+      "text": "> ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96bfd",
+      "text": "> 日頃よりデジタル改革アイデアボックスをご利用いただきありがとうございます。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96bfe",
+      "text": "> ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96bff",
+      "text": "> デジタル庁では、デジタル社会のかたちやデジタル改革の進め方について、幅広い国民の皆様からご意見やアイデアを募集し、オープンに共有・議論する場として、本サービスを運営してきました。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c00",
+      "text": "> ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c01",
+      "text": "> このたび、運営を通して認識した課題や、皆様からいただいたコメントやご意見を踏まえ、デジタル改革アイデアボックスのリニューアルを行うこととしました。リニューアルに伴い、本サービスは2021年10月11日（月）をもって終了いたします。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c02",
+      "text": "> ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c03",
+      "text": "> リニューアルの詳細はデジタル庁ウェブサイトのお知らせをご覧ください。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c04",
+      "text": "> https://www.digital.go.jp/posts/4vlrFBy3",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c05",
+      "text": "> ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c06",
+      "text": "> これまで多くのご意見・アイデアをいただきありがとうございました。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c07",
+      "text": "> ご意見・アイデアはアーカイブ化し、デジタル庁ウェブサイトの「声を届ける」へ掲載予定です。",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96c08",
+      "text": "> ",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aae1d0ca1c0000f96bfb",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856225,
+      "updated": 1633856225
+    },
+    {
+      "id": "6162aaf5d0ca1c0000f96c09",
+      "text": "[デジタルの日]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856245,
+      "updated": 1633856257
+    },
+    {
+      "id": "6162aaf6d0ca1c0000f96c0a",
+      "text": "[PoliPoli Gov]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856246,
+      "updated": 1633856404
+    },
+    {
+      "id": "6162ab8ed0ca1c0000f96c0c",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633856398,
+      "updated": 1633856398
     }
   ]
 }

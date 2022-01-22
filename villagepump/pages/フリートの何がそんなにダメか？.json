@@ -2,7 +2,7 @@
   "id": "5fab85f72eae37001e4e7df0",
   "title": "フリートの何がそんなにダメか？",
   "created": 1605076472,
-  "updated": 1608790516,
+  "updated": 1639395025,
   "lines": [
     {
       "id": "5fab85f72eae37001e4e7df0",
@@ -139,10 +139,10 @@
     },
     {
       "id": "5fae40c6b3e7ed000093df30",
-      "text": "\t\t\t別の心理的障壁が発生する",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": "\t\t\t別の[心理的障壁]が発生する",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1605255366,
-      "updated": 1605255771
+      "updated": 1639395025
     },
     {
       "id": "5fae4117b3e7ed000093df31",

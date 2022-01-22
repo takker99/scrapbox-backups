@@ -1,0 +1,29 @@
+{
+  "id": "6193a2239de2e7001fc1390a",
+  "title": "オープンチャット",
+  "created": 1637065253,
+  "updated": 1637065257,
+  "lines": [
+    {
+      "id": "6193a2239de2e7001fc1390a",
+      "text": "オープンチャット",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1637065253,
+      "updated": 1637065253
+    },
+    {
+      "id": "6193a22479d3a900000f1935",
+      "text": "[LINE OpenChat]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1637065253,
+      "updated": 1637065257
+    },
+    {
+      "id": "6193a22479d3a900000f1936",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1637065253,
+      "updated": 1637065253
+    }
+  ]
+}

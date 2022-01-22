@@ -2,7 +2,7 @@
   "id": "6041a61a7af4b2001c9aaabd",
   "title": "一文字変えて怖くしてください",
   "created": 1614915102,
-  "updated": 1616931937,
+  "updated": 1636472614,
   "lines": [
     {
       "id": "6041a61a7af4b2001c9aaabd",
@@ -59,6 +59,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1616931926,
       "updated": 1616931937
+    },
+    {
+      "id": "618a971e4bb2e20000fdcf5f",
+      "text": "決意→殺意",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1636472606,
+      "updated": 1636472614
     },
     {
       "id": "6041a967e5172d0000cb4bc0",

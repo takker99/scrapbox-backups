@@ -2,7 +2,7 @@
   "id": "609e29323c781b001c88d79f",
   "title": "RubyMotion",
   "created": 1620977972,
-  "updated": 1620978363,
+  "updated": 1634595060,
   "lines": [
     {
       "id": "609e29323c781b001c88d79f",
@@ -26,11 +26,11 @@
       "updated": 1620977995
     },
     {
-      "id": "609e294e8ee92a0000c059af",
-      "text": " [https://masui.github.io/GyaimMotion/ Gyaim]はRubyMotionで作っている [増井俊之.icon]",
+      "id": "616df0d98ee92a0000799049",
+      "text": " [Gyaim]はRubyMotionで作っている [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
-      "created": 1620978000,
-      "updated": 1620978343
+      "created": 1634595033,
+      "updated": 1634595035
     },
     {
       "id": "609e29778ee92a0000c059b1",

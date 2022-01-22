@@ -2,7 +2,7 @@
   "id": "608cd7bcf463bb001c95b989",
   "title": "4000",
   "created": 1619843007,
-  "updated": 1622861722,
+  "updated": 1633255648,
   "lines": [
     {
       "id": "608cd7bcf463bb001c95b989",
@@ -26,67 +26,11 @@
       "updated": 1619843013
     },
     {
-      "id": "608d14101280f0000000ccb6",
-      "text": "table:stats",
+      "id": "6159808c1280f00000cc2625",
+      "text": "[井戸端のページ数推移]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1619858449,
-      "updated": 1619858535
-    },
-    {
-      "id": "608d14151280f0000000ccb7",
-      "text": " pages\tachieved\tdelta/days",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1619858454,
-      "updated": 1619858528
-    },
-    {
-      "id": "608d14ac1280f0000000ccb8",
-      "text": " 1\t2020/01/19\t0",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1619858604,
-      "updated": 1619860955
-    },
-    {
-      "id": "608d0ea28ee92a00006c84b8",
-      "text": " [1000]\t2020/11/29\t315",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1619857058,
-      "updated": 1619858679
-    },
-    {
-      "id": "608d0ea48ee92a00006c84ba",
-      "text": " [2000]\t2021/01/24\t56",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1619857060,
-      "updated": 1619858637
-    },
-    {
-      "id": "608d0ea58ee92a00006c84bb",
-      "text": " [3000]\t2021/03/26\t61",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1619857061,
-      "updated": 1619858638
-    },
-    {
-      "id": "608d0e838ee92a00006c84b5",
-      "text": " [4000]\t2021/05/01\t36",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1619857028,
-      "updated": 1619858641
-    },
-    {
-      "id": "60bae74a1280f00000aae379",
-      "text": " [5000]\t2021/06/04\t34",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1622861643,
-      "updated": 1622861714
-    },
-    {
-      "id": "608d0ea98ee92a00006c84bc",
-      "text": "加速してる?",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1619857066,
-      "updated": 1619857071
+      "created": 1633255564,
+      "updated": 1633255626
     },
     {
       "id": "60bae7941280f00000aae37a",
@@ -96,18 +40,18 @@
       "updated": 1622861722
     },
     {
+      "id": "615980e01280f0000012537e",
+      "text": "[https://gyazo.com/37ea70acfe4c6cbf618845d9f5091e77]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633255648,
+      "updated": 1633255648
+    },
+    {
       "id": "608cd7c8246f590000a42570",
       "text": "[https://gyazo.com/5b4592c790762a14eb7a403c82d57252]",
       "userId": "6055950b87138f0022246f59",
       "created": 1619843019,
       "updated": 1619843057
-    },
-    {
-      "id": "608cd7f0246f590000a42571",
-      "text": "[https://gyazo.com/37ea70acfe4c6cbf618845d9f5091e77]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1619843057,
-      "updated": 1619843156
     },
     {
       "id": "608cd854e5172d000001ddbe",

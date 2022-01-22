@@ -1,0 +1,232 @@
+{
+  "id": "6178a48fc5d1a4001d80894e",
+  "title": "Scrapboxの100000ページの壁",
+  "created": 1635296400,
+  "updated": 1635592669,
+  "lines": [
+    {
+      "id": "6178a48fc5d1a4001d80894e",
+      "text": "Scrapboxの100000ページの壁",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296400,
+      "updated": 1635296404
+    },
+    {
+      "id": "6178a4a31280f000002f54bf",
+      "text": "ネットワークの方は心配していないけど、performanceのほうが気になる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296419,
+      "updated": 1635296442
+    },
+    {
+      "id": "6178a4ba1280f000002f54c0",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296442,
+      "updated": 1635296442
+    },
+    {
+      "id": "6178a4bb1280f000002f54c1",
+      "text": "100000ページ以上あるprojectを使っている人が殆どいないので、実際にどうなっているかは全くわからないけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296444,
+      "updated": 1635296479
+    },
+    {
+      "id": "6178a4df1280f000002f54c2",
+      "text": " 観測範囲では[sawachin.icon]さんのところの社内scrapboxくらい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296479,
+      "updated": 1635296502
+    },
+    {
+      "id": "6178a4f81280f000002f54c3",
+      "text": " [/nota]もそのくらいありそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296504,
+      "updated": 1635296517
+    },
+    {
+      "id": "6178d05d8ee92a000034abaf",
+      "text": "  そこまでは無いですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635307613,
+      "updated": 1635307619
+    },
+    {
+      "id": "6178a49b1280f000002f54be",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635296411,
+      "updated": 1635296411
+    },
+    {
+      "id": "617a5c165b98c20000ec07d9",
+      "text": " 10万ページくらい余裕でさばけないと、企業ユースとしては厳しいんじゃないかな [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635408919,
+      "updated": 1635409010
+    },
+    {
+      "id": "617a5c745b98c20000ec07db",
+      "text": "  ソフトウェアの構成を見てみると、全然大丈夫そう（根拠が薄いけど）",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635409013,
+      "updated": 1635409131
+    },
+    {
+      "id": "617a5cf95b98c20000ec07dc",
+      "text": "  Scrapbox より先に、ブラウザ（JavaScriptエンジン）が壊れてしまわないか心配",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635409146,
+      "updated": 1635409218
+    },
+    {
+      "id": "617a92008ee92a00003ec655",
+      "text": "  大丈夫だと思います [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635422720,
+      "updated": 1635422727
+    },
+    {
+      "id": "617a5c1b5b98c20000ec07da",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635408923,
+      "updated": 1635408923
+    },
+    {
+      "id": "617c852479d3a90000df0746",
+      "text": " 人数密度の問題もありそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550502,
+      "updated": 1635550507
+    },
+    {
+      "id": "617c852b79d3a90000df0747",
+      "text": " \t10万ページ規模になると「数十人が1projectをいじってる」「1ページ内に数十人が集まって同時編集する」が起こる率高そう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550507,
+      "updated": 1635550553
+    },
+    {
+      "id": "617c85b779d3a90000df074c",
+      "text": " \t\t10万到達する≒それなりに大人数で使っている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550647,
+      "updated": 1635550655
+    },
+    {
+      "id": "617c85c179d3a90000df074d",
+      "text": " \t\tもちろん少人数で10万到達もありえる（まだ年数少ないで単に到達してないだけで）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550657,
+      "updated": 1635550680
+    },
+    {
+      "id": "617c855b79d3a90000df0749",
+      "text": " \tScrapboxは「数十人が同時にいじる」に耐えられる？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550555,
+      "updated": 1635550579
+    },
+    {
+      "id": "617c857579d3a90000df074a",
+      "text": " \t\t使い方次第かも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550581,
+      "updated": 1635550584
+    },
+    {
+      "id": "617c857779d3a90000df074b",
+      "text": " \t\tこの件もたしか[sawachin.icon]さん絡みで以前どっかで議論した覚えが。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635550584,
+      "updated": 1635550600
+    },
+    {
+      "id": "617d0cbd774b170000821c79",
+      "text": " \t\t 複数人だと遅くなる、みたいな話題でフォーラムかどこかで見ました[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1635585213,
+      "updated": 1635585233
+    },
+    {
+      "id": "617d10491280f00000624f2c",
+      "text": " \t\t  これ[. [/forum-jp/Scrapboxのトラブルシューティングを教えて欲しい] ]です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635586121,
+      "updated": 1635586130
+    },
+    {
+      "id": "617d0e4f79e1130000a9bc87",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1635585616,
+      "updated": 1635585616
+    },
+    {
+      "id": "617d0e9779e1130000a9bc89",
+      "text": " プロジェクト[Export]のファイルサイズ制限の壁があるとどこかで聞いた気がする[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1635585688,
+      "updated": 1635585714
+    },
+    {
+      "id": "617d10291280f00000624f2b",
+      "text": "  30MBだったかな[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635586089,
+      "updated": 1635586092
+    },
+    {
+      "id": "617d214f774b170000504987",
+      "text": "  [/motoso]は10000ページ超えてますが（短文記事もかなり多い）11MBぐらいでした[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1635590479,
+      "updated": 1635590519
+    },
+    {
+      "id": "617d0e9779e1130000a9bc8a",
+      "text": "\t\tちょっと気になるので[Projectのページ数とExport時のjsonファイルサイズ]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635585688,
+      "updated": 1635592669
+    },
+    {
+      "id": "617d29cc79d3a90000192bd3",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635592653,
+      "updated": 1635592653
+    },
+    {
+      "id": "617a5d505b98c20000ec07dd",
+      "text": "[Scrapboxの10000ページの壁]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635409232,
+      "updated": 1635409246
+    },
+    {
+      "id": "617a5d515b98c20000ec07de",
+      "text": "[Scrapboxの1000ページの壁]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635409233,
+      "updated": 1635409256
+    },
+    {
+      "id": "617a5d645b98c20000ec07df",
+      "text": "[Scrapboxの100ページの壁]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635409253,
+      "updated": 1635409268
+    },
+    {
+      "id": "617a5d6a5b98c20000ec07e0",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635409259,
+      "updated": 1635409259
+    }
+  ]
+}

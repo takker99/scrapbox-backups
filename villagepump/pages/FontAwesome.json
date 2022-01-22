@@ -2,7 +2,7 @@
   "id": "5f4f5eb76de42d00258ef461",
   "title": "FontAwesome",
   "created": 1599037114,
-  "updated": 1625515575,
+  "updated": 1635154227,
   "lines": [
     {
       "id": "5f4f5eb76de42d00258ef461",
@@ -122,6 +122,34 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1599037324,
       "updated": 1599037324
+    },
+    {
+      "id": "617678b95b98c20000880391",
+      "text": "Font Awesome Free版の[ライセンス]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635154105,
+      "updated": 1635154126
+    },
+    {
+      "id": "617679005b98c20000880393",
+      "text": " https://fontawesome.com/license/free",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635154176,
+      "updated": 1635154184
+    },
+    {
+      "id": "617678ba5b98c20000880392",
+      "text": " CC BY 4.0 license か",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635154107,
+      "updated": 1635154227
+    },
+    {
+      "id": "6176790c5b98c20000880394",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1635154189,
+      "updated": 1635154189
     }
   ]
 }

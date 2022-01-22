@@ -1,0 +1,260 @@
+{
+  "id": "61ea741321ea76002196121f",
+  "title": "井戸端ユーザの公開プロジェクト所有率",
+  "created": 1642755094,
+  "updated": 1642759007,
+  "lines": [
+    {
+      "id": "61ea7419aff09e0000982e41",
+      "text": "井戸端ユーザの公開プロジェクト所有率",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755097,
+      "updated": 1642755108
+    },
+    {
+      "id": "61ea7453aff09e0000982e47",
+      "text": "複数回答です",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755155,
+      "updated": 1642755158
+    },
+    {
+      "id": "61ea7424aff09e0000982e44",
+      "text": "[[井戸端の他に]]:",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642755109,
+      "updated": 1642756230
+    },
+    {
+      "id": "61ea7439aff09e0000982e45",
+      "text": "　公開の個人プロジェクトがある[takker.icon][Mijinko_SD.icon][基素.icon][nishio.icon][erniogi.icon][bluemountain.icon][inajob.icon][kidooom.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642755129,
+      "updated": 1642758984
+    },
+    {
+      "id": "61ea7446aff09e0000982e46",
+      "text": "　公開の自分が作った多人数プロジェクトに参加している[takker.icon][Mijinko_SD.icon][基素.icon][bluemountain.icon][inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642755143,
+      "updated": 1642755860
+    },
+    {
+      "id": "61ea7419aff09e0000982e42",
+      "text": "　公開の他人が作った多人数プロジェクトに参加している[takker.icon][基素.icon][bluemountain.icon][Mijinko_SD.icon][nishio.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642755097,
+      "updated": 1642759004
+    },
+    {
+      "id": "61ea781caff09e0000982e54",
+      "text": "　Scrapbox以外の(Twitter、ブログなどの)情報発信の場を持っている[Mijinko_SD.icon][nishio.icon][基素.icon][inajob.icon][kidooom.icon][bluemountain.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642756124,
+      "updated": 1642759007
+    },
+    {
+      "id": "61ea765eaff09e0000982e4f",
+      "text": "　公開プロジェクトに参加していない",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755678,
+      "updated": 1642755691
+    },
+    {
+      "id": "61ea766baff09e0000982e50",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755691,
+      "updated": 1642755691
+    },
+    {
+      "id": "61ea766baff09e0000982e51",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755691,
+      "updated": 1642755691
+    },
+    {
+      "id": "61ea766baff09e0000982e52",
+      "text": "旧項目(「公開プロジェクトに参加していない」にリネームした)",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755691,
+      "updated": 1642755777
+    },
+    {
+      "id": "61ea747daff09e0000982e48",
+      "text": "　その他",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755198,
+      "updated": 1642755762
+    },
+    {
+      "id": "61ea74b01280f000006e6b61",
+      "text": "　 その他ってなんだろう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755248,
+      "updated": 1642755266
+    },
+    {
+      "id": "61ea74b51280f000006e6b62",
+      "text": " 　 非公開多人数プロジェクトくらいしか思いつかない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755253,
+      "updated": 1642755266
+    },
+    {
+      "id": "61ea7533aff09e0000982e4b",
+      "text": " 　 井戸端にしか参加してない人とか[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755380,
+      "updated": 1642755395
+    },
+    {
+      "id": "61ea7419aff09e0000982e43",
+      "text": "   なるほど。そもそも他のプロジェクトを持っていない人ですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755097,
+      "updated": 1642755509
+    },
+    {
+      "id": "61ea75b61280f000006e6b64",
+      "text": "    非公開個人プロジェクトは持っているだろうけど(sign upした瞬間に自動生成される)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755510,
+      "updated": 1642755617
+    },
+    {
+      "id": "61ea7626aff09e0000982e4e",
+      "text": "    　あ、そうなのか[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755623,
+      "updated": 1642755635
+    },
+    {
+      "id": "61ea75ebaff09e0000982e4c",
+      "text": "     もしかしたら招待リンクからログインした場合だと作成されないかもしれません[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755564,
+      "updated": 1642755652
+    },
+    {
+      "id": "61ea76441280f000006e6b66",
+      "text": "      scrapboxのランディングページから新規登録した場合は作成されたはず",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755652,
+      "updated": 1642755673
+    },
+    {
+      "id": "61ea76321280f000006e6b65",
+      "text": "    持ってるかどうかは知らないけど「井戸端と非公開個人プロジェクトだけ」って人は「その他」になる[nishio.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755634,
+      "updated": 1642755634
+    },
+    {
+      "id": "61ea7618aff09e0000982e4d",
+      "text": "     項目分けた方がいいかな？？？",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755608,
+      "updated": 1642755614
+    },
+    {
+      "id": "61ea76651280f000006e6b67",
+      "text": "     よさそう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642755685,
+      "updated": 1642755687
+    },
+    {
+      "id": "61ea74dcaff09e000067de87",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755293,
+      "updated": 1642755530
+    },
+    {
+      "id": "61ea74dcaff09e000067de88",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755293,
+      "updated": 1642755293
+    },
+    {
+      "id": "61ea741321ea76002196121f",
+      "text": "[2022/01/21#61ea20f26eb4060000a22959]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755094,
+      "updated": 1642755297
+    },
+    {
+      "id": "61ea74deaff09e000067de89",
+      "text": ">[井戸端]のこの感じは人数が少ないからできているのか？ 参加している人の特性によるものなのか？",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755294,
+      "updated": 1642755306
+    },
+    {
+      "id": "61ea74e1aff09e000067de8a",
+      "text": "　を見て「ここ以外の場がある人が多い」って特性があるのではないかと思った[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755298,
+      "updated": 1642755369
+    },
+    {
+      "id": "61ea77386eb4060000f65f7f",
+      "text": "　\tScrapbox以外も指して発言しました。（ex. Twitter, Slack, もちろん他のScrapboxのProjectも）[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642755905,
+      "updated": 1642755946
+    },
+    {
+      "id": "61ea74fbaff09e0000982e4a",
+      "text": "　　　まあ確かに、Scrapboxに限らないか…項目追加しました[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755323,
+      "updated": 1642756185
+    },
+    {
+      "id": "61ea7814aff09e0000982e53",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642756117,
+      "updated": 1642756117
+    },
+    {
+      "id": "61ea778aaff09e00004b061f",
+      "text": "[井戸端ってスケールするのかな#61ea7265aff09e0000982e3d]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755979,
+      "updated": 1642755979
+    },
+    {
+      "id": "61ea778aaff09e00004b0620",
+      "text": ">Wikipediaで編集合戦してるようなタイプの人が2〜3人参加するとヤバい",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755979,
+      "updated": 1642755992
+    },
+    {
+      "id": "61ea778daff09e00004b0621",
+      "text": "\t「Wikipediaで編集合戦してるようなタイプの人」って、多分Wikipedia以外にその人が発信できる場を持ってないから「その場に自分の書いた表現が残ること」に必死なんだと思った[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642755981,
+      "updated": 1642756084
+    },
+    {
+      "id": "61ea77a4aff09e00004b0622",
+      "text": "\t\tどうなんでしょう、どこでもそういう方法でコミュニケーションしてる人というイメージがあります[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642756004,
+      "updated": 1642756255
+    },
+    {
+      "id": "61ea788a6eb4060000f65f82",
+      "text": "",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642756242,
+      "updated": 1642756242
+    }
+  ]
+}

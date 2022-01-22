@@ -2,7 +2,7 @@
   "id": "5fbe96a47e1f93001c2e2592",
   "title": "専門用語の乱用",
   "created": 1606325926,
-  "updated": 1611447691,
+  "updated": 1634399585,
   "lines": [
     {
       "id": "5fbe96a47e1f93001c2e2592",
@@ -157,6 +157,20 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1606403477,
       "updated": 1606403485
+    },
+    {
+      "id": "616a880f79d3a900006f822a",
+      "text": "\t　[DX]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1634371600,
+      "updated": 1634371606
+    },
+    {
+      "id": "616af55c8ee92a000079902a",
+      "text": "\t　[SDGs]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634399581,
+      "updated": 1634399585
     },
     {
       "id": "600cbd89d43875000068716c",

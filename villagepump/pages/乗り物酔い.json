@@ -2,7 +2,7 @@
   "id": "6128efa5dd3b3e0023b02914",
   "title": "乗り物酔い",
   "created": 1630072744,
-  "updated": 1630141044,
+  "updated": 1636509968,
   "lines": [
     {
       "id": "6128efa5dd3b3e0023b02914",
@@ -20,17 +20,17 @@
     },
     {
       "id": "6128efd31280f00000fddb44",
-      "text": " しない",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " しない[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1630072787,
-      "updated": 1630072790
+      "updated": 1636473998
     },
     {
       "id": "6128f5c38ee92a00002e03bd",
-      "text": " することもある [増井俊之.icon][yosider.icon][sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": " することもある [増井俊之.icon][yosider.icon][sta.icon][erniogi.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1630074308,
-      "updated": 1630115545
+      "updated": 1636509811
     },
     {
       "id": "6128f5c88ee92a00002e03be",
@@ -38,6 +38,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1630074312,
       "updated": 1630074321
+    },
+    {
+      "id": "618a9cd2a3368200004df0ce",
+      "text": "  小さい高速船みたいなのは本当に辛い[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636474066,
+      "updated": 1636474082
     },
     {
       "id": "612996d879d3a90000fdf722",
@@ -185,6 +192,27 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1630140965,
       "updated": 1630140965
+    },
+    {
+      "id": "618b2906198270000075cc56",
+      "text": "",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1636509958,
+      "updated": 1636509958
+    },
+    {
+      "id": "618b28f5198270000075cc54",
+      "text": "乗り物酔いした時に[コカコーラ]を飲むと治るらしい[mrsekut.icon]",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1636509941,
+      "updated": 1636509968
+    },
+    {
+      "id": "618b28f8198270000075cc55",
+      "text": "",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1636509944,
+      "updated": 1636509944
     }
   ]
 }

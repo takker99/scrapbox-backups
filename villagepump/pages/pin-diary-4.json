@@ -2,7 +2,7 @@
   "id": "61442661dfb938001f698059",
   "title": "pin-diary-4",
   "created": 1631856228,
-  "updated": 1633046730,
+  "updated": 1642547341,
   "lines": [
     {
       "id": "61442661dfb938001f698059",
@@ -33,18 +33,39 @@
       "updated": 1631858496
     },
     {
+      "id": "618c93681280f0000039811e",
+      "text": " お試し",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636602729,
+      "updated": 1636602731
+    },
+    {
+      "id": "618c936f1280f0000039811f",
+      "text": "  以下を自分のページの`script.js`に貼り付ける",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636602736,
+      "updated": 1636602909
+    },
+    {
       "id": "61442f411280f00000fcca7b",
-      "text": " code:js",
+      "text": "   code:js",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631858496,
-      "updated": 1631858499
+      "updated": 1636602912
     },
     {
       "id": "61442f431280f00000fcca7c",
-      "text": "  import(\"/api/code/villagepump/pin-diary-4/script.js\");",
+      "text": "    await import(\"/api/code/villagepump/pin-diary-4/script.js\");",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631858499,
-      "updated": 1631858505
+      "updated": 1642547341
+    },
+    {
+      "id": "618c94211280f00000398123",
+      "text": " 自分以外が編集できるprojectからscriptをimportするのは危険なので、常用する際は[このコード https://scrapbox-bundler.vercel.app?url=https://scrapbox.io/api/code/villagepump/pin-diary-4/script.ts&bundle&minify&run]をコピーして使ってください",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636602914,
+      "updated": 1639049656
     },
     {
       "id": "61442f3c1280f00000fcca79",
@@ -76,10 +97,10 @@
     },
     {
       "id": "614438121280f00000ea9c79",
-      "text": "   今日の日記ページ自体が見つからなかったら何もしない",
+      "text": "   今日の日記ページ自体が見つからなかったら新しく作ってそのページに移動する",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631860754,
-      "updated": 1631860830
+      "updated": 1642543450
     },
     {
       "id": "614438051280f00000ea9c78",
@@ -177,7 +198,56 @@
       "text": "",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631860027,
-      "updated": 1631860027
+      "updated": 1636543583
+    },
+    {
+      "id": "61e739f11280f00000024ee9",
+      "text": "2022-01-19",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642543601,
+      "updated": 1642543605
+    },
+    {
+      "id": "61e739f41280f00000024eea",
+      "text": " 07:06:42 相対パス→絶対パス",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642543605,
+      "updated": 1642543617
+    },
+    {
+      "id": "618c578a1280f000001744c3",
+      "text": "2021-11-11",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587402,
+      "updated": 1636587405
+    },
+    {
+      "id": "618c578c1280f000001744c4",
+      "text": " 08:36:43 fix [pin-diary-4の無限追記ループバグ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587405,
+      "updated": 1636587419
+    },
+    {
+      "id": "618bac5f1280f00000e99425",
+      "text": "2021-11-10",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543583,
+      "updated": 1636587400
+    },
+    {
+      "id": "618c57871280f000001744c2",
+      "text": " 20:26:24 日付ページが見つからなければ新規作成するようにした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587400,
+      "updated": 1636587400
+    },
+    {
+      "id": "618bac5c1280f00000e99424",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543581,
+      "updated": 1636543581
     },
     {
       "id": "614435de1280f00000a5fe5e",
@@ -202,17 +272,31 @@
     },
     {
       "id": "6144370b1280f00000ea9c73",
-      "text": " 全てのコードがこのページ内で完結しています",
+      "text": " [- 全てのコードがこのページ内で完結しています]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631860491,
-      "updated": 1631860977
+      "updated": 1636542815
     },
     {
-      "id": "614438f21280f00000ea9c7f",
-      "text": "  外部コードに一切依存していません(型定義以外)",
+      "id": "618ba95f1280f00000e99407",
+      "text": "  [- 外部コードに一切依存していません(型定義以外)]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631860977,
-      "updated": 1631860977
+      "created": 1636542815,
+      "updated": 1636542815
+    },
+    {
+      "id": "618ba95f1280f00000e99408",
+      "text": " `diary.ts`のみ[日記ページのtemplate]を使っています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542816,
+      "updated": 1636542828
+    },
+    {
+      "id": "618baab61280f00000e9941b",
+      "text": "  このtemplate内でdate-fnsを使用しています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543159,
+      "updated": 1636543169
     },
     {
       "id": "614426d41280f00000cd0e90",
@@ -220,6 +304,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631857863,
       "updated": 1631857863
+    },
+    {
+      "id": "618baa751280f00000e99417",
+      "text": " /// <reference no-default-lib=\"true\"/>",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543093,
+      "updated": 1636543254
+    },
+    {
+      "id": "618baa7f1280f00000e99418",
+      "text": " /// <reference lib=\"esnext\"/>",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543108,
+      "updated": 1636543253
+    },
+    {
+      "id": "618baa8a1280f00000e99419",
+      "text": " /// <reference lib=\"dom\"/>",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543123,
+      "updated": 1636543255
     },
     {
       "id": "614429a31280f00000cd0f82",
@@ -234,6 +339,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631857863,
       "updated": 1631859172
+    },
+    {
+      "id": "618ba9ab1280f00000e9940f",
+      "text": " import {getTemplate} from \"../日記ページのtemplate/diary.ts\";",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542892,
+      "updated": 1636542909
     },
     {
       "id": "614431e51280f00000b550c5",
@@ -251,10 +363,10 @@
     },
     {
       "id": "614432081280f00000b550c7",
-      "text": " } from \"https://raw.githubusercontent.com/scrapbox-jp/types/0.0.5/mod.ts\";",
+      "text": " } from \"https://pax.deno.dev/scrapbox-jp/types@0.0.5\";",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631859208,
-      "updated": 1631859210
+      "updated": 1636543153
     },
     {
       "id": "614427171280f00000cd0f41",
@@ -433,10 +545,10 @@
     },
     {
       "id": "614427131280f00000cd0ecb",
-      "text": " async function pinDiary(userId: string, projectId: string) {",
+      "text": " async function pinDiary(userId: string, projectId: string): Promise<void> {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631857863,
-      "updated": 1631858176
+      "updated": 1636543449
     },
     {
       "id": "614429c11280f00000cd0f83",
@@ -485,7 +597,7 @@
       "text": "     if (page.title === toYYYYMMDD(new Date())) continue;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631857561,
-      "updated": 1631857586
+      "updated": 1636587028
     },
     {
       "id": "61442bb41280f00000cd0fa6",
@@ -520,14 +632,196 @@
       "text": "   const todayDiaryPage = diaryPages.find(({title}) => title === toYYYYMMDD(new Date()));",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631857980,
-      "updated": 1631858000
+      "updated": 1636587025
+    },
+    {
+      "id": "618ba9831280f00000e9940a",
+      "text": " ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542852,
+      "updated": 1636542865
+    },
+    {
+      "id": "618ba9951280f00000e9940c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542870,
+      "updated": 1636542871
+    },
+    {
+      "id": "618ba9971280f00000e9940d",
+      "text": "日記ページがなければ、[日記ページのtemplate]を使ってから処理をやり直す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542871,
+      "updated": 1636543417
+    },
+    {
+      "id": "61e739b01280f00000024ee8",
+      "text": " このときStreamにいるとURLが壊れるバグがあったので直した[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642543537,
+      "updated": 1642543585
+    },
+    {
+      "id": "618ba9911280f00000e9940b",
+      "text": "code:script.ts",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542866,
+      "updated": 1636542869
     },
     {
       "id": "61442ce81280f00000cd0fac",
-      "text": "   if (!todayDiaryPage) return; // そもそも今日の日付ページが存在しなければ何もしない",
+      "text": "   if (!todayDiaryPage) {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1631857896,
-      "updated": 1631858031
+      "updated": 1636542850
+    },
+    {
+      "id": "618ba9a81280f00000e9940e",
+      "text": "     const [title, ...lines] = getTemplate(new Date()).split(\"\\n\");",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542888,
+      "updated": 1636587018
+    },
+    {
+      "id": "618ba9da1280f00000e99410",
+      "text": "     const a = document.createElement(\"a\");",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542938,
+      "updated": 1636542993
+    },
+    {
+      "id": "618baa101280f00000e99411",
+      "text": "     a.href = `/${targetProject}/${",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542993,
+      "updated": 1642543542
+    },
+    {
+      "id": "618bd5b11280f00000326b72",
+      "text": "       encodeURIComponent(title)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636554162,
+      "updated": 1636554175
+    },
+    {
+      "id": "618bd5be1280f00000326b73",
+      "text": "     }?body=${",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636554175,
+      "updated": 1636554176
+    },
+    {
+      "id": "618baa4d1280f00000e99412",
+      "text": "       encodeURIComponent(lines.join(\"\\n\"))",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543054,
+      "updated": 1636543056
+    },
+    {
+      "id": "618baa501280f00000e99413",
+      "text": "     }`;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543056,
+      "updated": 1636543058
+    },
+    {
+      "id": "618baa531280f00000e99414",
+      "text": "     document.body.append(a);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543059,
+      "updated": 1636543066
+    },
+    {
+      "id": "618baa5a1280f00000e99415",
+      "text": "     a.click();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543066,
+      "updated": 1636543068
+    },
+    {
+      "id": "618baa5c1280f00000e99416",
+      "text": "     a.remove();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543069,
+      "updated": 1636543071
+    },
+    {
+      "id": "618c52941280f0000050b270",
+      "text": "新しい日記ページが生成されるまで待つ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636586132,
+      "updated": 1636586147
+    },
+    {
+      "id": "618c56e21280f000001744a2",
+      "text": " これを挟まないと[pin-diary-4の無限追記ループバグ]が発生する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587235,
+      "updated": 1636587262
+    },
+    {
+      "id": "618c52981280f0000050b271",
+      "text": " code:script.ts",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636586136,
+      "updated": 1636586151
+    },
+    {
+      "id": "618c52a61280f0000050b272",
+      "text": "    await new Promise<void>(",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636586151,
+      "updated": 1636586189
+    },
+    {
+      "id": "618c52cd1280f0000050b275",
+      "text": "      (resolve) => scrapbox.once(\"page:changed\", resolve),",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636586189,
+      "updated": 1636586194
+    },
+    {
+      "id": "618c52bc1280f0000050b274",
+      "text": "    );",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636586172,
+      "updated": 1636586193
+    },
+    {
+      "id": "618c528c1280f0000050b26f",
+      "text": "code:script.ts",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636586124,
+      "updated": 1636586131
+    },
+    {
+      "id": "618bab7d1280f00000e9941c",
+      "text": "     return await pinDiary(userId, projectId);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543357,
+      "updated": 1636543425
+    },
+    {
+      "id": "618ba9811280f00000e99409",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636542850,
+      "updated": 1636542850
+    },
+    {
+      "id": "618b8b3b1280f00000cbd0dc",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636535100,
+      "updated": 1636543081
+    },
+    {
+      "id": "618b8b371280f00000cbd0db",
+      "text": "code:script.ts",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636535096,
+      "updated": 1636535098
     },
     {
       "id": "614427131280f00000cd0ed3",
@@ -567,9 +861,9 @@
     {
       "id": "614427131280f00000cd0ee9",
       "text": "   return `${date.getFullYear()}/${zero(date.getMonth() + 1)}/${zero(date.getDate())}`;",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1631856402,
-      "updated": 1631856402
+      "updated": 1633830866
     },
     {
       "id": "614427131280f00000cd0eea",
@@ -1664,18 +1958,18 @@
       "updated": 1631858472
     },
     {
-      "id": "614430811280f000002132dc",
-      "text": " code:build.sh",
+      "id": "618c93f91280f00000398121",
+      "text": " [pin-diary-4をbundle&minifyする https://scrapbox-bundler.vercel.app?url=https://scrapbox.io/api/code/villagepump/pin-diary-4/script.ts&bundle&minify&run]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631858817,
-      "updated": 1631858832
+      "created": 1636602873,
+      "updated": 1639049799
     },
     {
-      "id": "614430911280f000002132dd",
-      "text": "  deno run -A --unstable https://scrapbox.io/api/code/takker/UserScriptをbundleするDeno_script/build.ts https://scrapbox.io/api/code/villagepump/pin-diary-4/script.ts --bundle --minify --charset=utf8 --sourcemap=inline | xsel",
+      "id": "618c94051280f00000398122",
+      "text": " [pin-diary-4をbundle&minifyする (source mapつき) https://scrapbox-bundler.vercel.app?url=https://scrapbox.io/api/code/villagepump/pin-diary-4/script.ts&bundle&minify&run&sourcemap]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631858832,
-      "updated": 1631858833
+      "created": 1636602886,
+      "updated": 1639049815
     },
     {
       "id": "614432a51280f00000d17985",
@@ -1699,32 +1993,88 @@
       "updated": 1631859386
     },
     {
-      "id": "61442f291280f00000fcca68",
+      "id": "618bac201280f00000e99422",
+      "text": " 2021-11-11",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543520,
+      "updated": 1636587143
+    },
+    {
+      "id": "618c93ec1280f00000398120",
+      "text": "  12:54:22 ページが重くなるので止めた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636602860,
+      "updated": 1636602867
+    },
+    {
+      "id": "618c56861280f000001744a0",
+      "text": "  08:32:20 やっぱsource map貼ることにしてみた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587143,
+      "updated": 1636587181
+    },
+    {
+      "id": "618c56811280f0000017449f",
+      "text": " 2021-11-10",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587138,
+      "updated": 1636587138
+    },
+    {
+      "id": "618c567e1280f0000017449e",
+      "text": "  20:25:23 source mapは削りました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587135,
+      "updated": 1636587135
+    },
+    {
+      "id": "618bac2c1280f00000e99423",
+      "text": " 　 むちゃくちゃ長くなってしまったので、そのまま貼り付けるとStreamを壊してしまう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636543533,
+      "updated": 1636587137
+    },
+    {
+      "id": "618bd9f81280f00000326b79",
       "text": "code:script.js",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631858472,
-      "updated": 1631858476
+      "created": 1636555256,
+      "updated": 1636555260
     },
     {
-      "id": "6144fb2a1280f00000dc4b38",
-      "text": " async function m(t){return(await y(t)).flatMap(e=>/\\d{4}\\/\\d{2}\\/\\d{2}/.test(e.title)?[{pageId:e.id,title:e.title,commitId:e.commitId,pin:e.pin}]:[])}async function y(t){let s=await fetch(`https://scrapbox.io/api/pages/${t}?limit=1`),{count:e}=await s.json(),a=Math.min(e,1e3),n=Math.floor(e/1e3)+1;return(await Promise.all([...Array(n).keys()].map(async r=>{let o=await fetch(`/api/pages/${t}/?limit=${a}&skip=${r*1e3}`),{pages:c}=await o.json();return c}))).flat()}function l(t,s){return new Promise((e,a)=>{let n=new WebSocket(t,s),i=(r,o)=>{let c=x=>{o(x),n.removeEventListener(r,c)};n.addEventListener(r,c)};i(\"error\",a),i(\"open\",()=>e({close:()=>new Promise(r=>{n.close(),i(\"close\",o=>r(o))}),send:r=>{n.send(r)},receive:async function*(){for(;;)yield await new Promise(o=>i(\"message\",c=>o(c)))}}))})}var b=({pin:t,commitId:s,pageId:e,userId:a,projectId:n})=>`422${JSON.stringify([\"socket.io-request\",{method:\"commit\",data:{kind:\"page\",parentId:s,changes:[{pin:t>0?0:Number.MAX_SAFE_INTEGER-Math.floor(Date.now()/1e3)}],cursor:null,pageId:e,userId:a,projectId:n,freeze:!0}}])}`;async function p(t){let{send:s,receive:e,close:a}=await l(\"wss://scrapbox.io/socket.io/?EIO=4&transport=websocket\"),n=e();await n.next(),await s(\"40\"),await n.next(),await s(b(t)),await n.next(),await a()}var g=\"villagepump\",d=()=>scrapbox.Project.name===g?h():f();d();scrapbox.addListener(\"project:changed\",d);var u;async function h(){f();let t=await fetch(\"https://scrapbox.io/api/users/me\"),{id:s}=await t.json(),e=await fetch(`https://scrapbox.io/api/projects/${g}`),{id:a}=await e.json();w(s,a),u=setInterval(()=>w(s,a),24*3600*1e3)}function f(){clearInterval(u)}async function w(t,s){let e=await m(g),a=e.filter(({pin:i})=>i>0);for(let i of a)i.title!==v(new Date)&&await p({userId:t,projectId:s,...i});let n=e.find(({title:i})=>i===v(new Date));!n||n.pin>0||await p({userId:t,projectId:s,...n})}function v(t){return`${t.getFullYear()}/${P(t.getMonth()+1)}/${P(t.getDate())}`}function P(t){return String(t).padStart(2,\"0\")}",
+      "id": "618bac191280f00000e99421",
+      "text": " async function F(e){return(await B(e)).flatMap(r=>/\\d{4}\\/\\d{2}\\/\\d{2}/.test(r.title)?[{pageId:r.id,title:r.title,commitId:r.commitId,pin:r.pin}]:[])}async function B(e){let t=await fetch(`https://scrapbox.io/api/pages/${e}?limit=1`),{count:r}=await t.json(),o=Math.min(r,1e3),s=Math.floor(r/1e3)+1;return(await Promise.all([...Array(s).keys()].map(async c=>{let u=await fetch(`/api/pages/${e}/?limit=${o}&skip=${c*1e3}`),{pages:g}=await u.json();return g}))).flat()}function L(e,t){return new Promise((r,o)=>{let s=new WebSocket(e,t),i=(c,u)=>{let g=y=>{u(y),s.removeEventListener(c,g)};s.addEventListener(c,g)};i(\"error\",o),i(\"open\",()=>r({close:()=>new Promise(c=>{s.close(),i(\"close\",u=>c(u))}),send:c=>{s.send(c)},receive:async function*(){for(;;)yield await new Promise(u=>i(\"message\",g=>u(g)))}}))})}var G=({pin:e,commitId:t,pageId:r,userId:o,projectId:s})=>`422${JSON.stringify([\"socket.io-request\",{method:\"commit\",data:{kind:\"page\",parentId:t,changes:[{pin:e>0?0:Number.MAX_SAFE_INTEGER-Math.floor(Date.now()/1e3)}],cursor:null,pageId:r,userId:o,projectId:s,freeze:!0}}])}`;async function A(e){let{send:t,receive:r,close:o}=await L(\"wss://scrapbox.io/socket.io/?EIO=4&transport=websocket\"),s=r();await s.next(),await t(\"40\"),await s.next(),await t(G(e)),await s.next(),await o()}function n(e,t){if(t.length<e)throw new TypeError(e+\" argument\"+(e>1?\"s\":\"\")+\" required, but only \"+t.length+\" present\")}function a(e){n(1,arguments);let t=Object.prototype.toString.call(e);return e instanceof Date||typeof e==\"object\"&&t===\"[object Date]\"?new Date(e.getTime()):typeof e==\"number\"||t===\"[object Number]\"?new Date(e):((typeof e==\"string\"||t===\"[object String]\")&&typeof console!=\"undefined\"&&(console.warn(\"Starting with v2.0.0-beta.1 date-fns doesn't accept strings as date arguments. Please use `parseISO` to parse strings. See: https://git.io/fjule\"),console.warn(new Error().stack)),new Date(NaN))}function _(e){n(1,arguments);let r=a(e).getFullYear();return r%400==0||r%4==0&&r%100!=0}function v(e){n(1,arguments);let t=a(e);return String(new Date(t))===\"Invalid Date\"?NaN:_(t)?366:365}function q(e){n(1,arguments);let t=a(e),r=new Date(0);return r.setFullYear(t.getFullYear(),0,1),r.setHours(0,0,0,0),r}function D(e){let t=new Date(Date.UTC(e.getFullYear(),e.getMonth(),e.getDate(),e.getHours(),e.getMinutes(),e.getSeconds(),e.getMilliseconds()));return t.setUTCFullYear(e.getFullYear()),e.getTime()-t.getTime()}function w(e){n(1,arguments);let t=a(e);return t.setHours(0,0,0,0),t}var J=864e5;function Y(e,t){n(2,arguments);let r=w(e),o=w(t),s=r.getTime()-D(r),i=o.getTime()-D(o);return Math.round((s-i)/J)}function T(e){n(1,arguments);let t=a(e);return Y(t,q(t))+1}function d(e){if(e===null||e===!0||e===!1)return NaN;let t=Number(e);return isNaN(t)?t:t<0?Math.ceil(t):Math.floor(t)}function l(e,t){n(2,arguments);let r=a(e),o=d(t);return isNaN(o)?new Date(NaN):(o&&r.setDate(r.getDate()+o),r)}function M(e,t){n(2,arguments);let r=d(t);return l(e,-r)}function $(e,t){n(2,arguments);let o=d(t)*7;return l(e,o)}function x(e,t){n(2,arguments);let r=d(t);return $(e,-r)}function b(e,t){n(2,arguments);let r=a(e),o=d(t);if(isNaN(o))return new Date(NaN);if(!o)return r;let s=r.getDate(),i=new Date(r.getTime());i.setMonth(r.getMonth()+o+1,0);let c=i.getDate();return s>=c?i:(r.setFullYear(i.getFullYear(),i.getMonth(),s),r)}function h(e,t){n(2,arguments);let r=d(t);return b(e,-r)}function P(e,t){n(2,arguments);let r=d(t);return b(e,r*12)}function O(e,t){n(2,arguments);let r=d(t);return P(e,-r)}function E(e){return n(1,arguments),a(e).getDay()}function k(e){return n(1,arguments),a(e).getFullYear()}function p(e,t){for(var r=e<0?\"-\":\"\",o=Math.abs(e).toString();o.length<t;)o=\"0\"+o;return r+o}var Q={y(e,t){let r=e.getUTCFullYear(),o=r>0?r:1-r;return p(t===\"yy\"?o%100:o,t.length)},M(e,t){let r=e.getUTCMonth();return t===\"M\"?String(r+1):p(r+1,2)},d(e,t){return p(e.getUTCDate(),t.length)},a(e,t){let r=e.getUTCHours()/12>=1?\"pm\":\"am\";switch(t){case\"a\":case\"aa\":return r.toUpperCase();case\"aaa\":return r;case\"aaaaa\":return r[0];case\"aaaa\":default:return r===\"am\"?\"a.m.\":\"p.m.\"}},h(e,t){return p(e.getUTCHours()%12||12,t.length)},H(e,t){return p(e.getUTCHours(),t.length)},m(e,t){return p(e.getUTCMinutes(),t.length)},s(e,t){return p(e.getUTCSeconds(),t.length)},S(e,t){let r=t.length,o=e.getUTCMilliseconds(),s=Math.floor(o*Math.pow(10,r-3));return p(s,t.length)}},R=Q;function S(e){n(1,arguments);var t=a(e);return!isNaN(t)}function j(e,t){n(2,arguments);let r=a(e).getTime(),o=d(t);return new Date(r+o)}function C(e,t){n(2,arguments);let r=d(t);return j(e,-r)}var X=/(\\w)\\1*|''|'(''|[^'])+('|$)|./g,K=/^'([^]*?)'?$/,ee=/''/g,te=/[a-zA-Z]/;function m(e,t){n(2,arguments);let r=a(e);if(!S(r))throw new RangeError(\"Invalid time value\");let o=D(r),s=C(r,o),i=t.match(X);return i?i.map(u=>{if(u===\"''\")return\"'\";let g=u[0];if(g===\"'\")return re(u);let y=R[g];if(y)return y(s,u);if(g.match(te))throw new RangeError(\"Format string contains an unescaped latin alphabet character `\"+g+\"`\");return u}).join(\"\"):\"\"}function re(e){let t=e.match(K);return t?t[1].replace(ee,\"'\"):e}var f=\"yyyy/MM/dd\",U=e=>[m(e,f),`[${m(M(e,1),f)}.icon]←${m(e,f)}→[${m(l(e,1),f)}.icon]`,`[[${ne(e)}曜日]]`,`${k(e)}年 ${(T(e)*100/v(e)).toFixed(2)}％経過`,`[🌏 https://ja.wikipedia.org/wiki/${m(e,\"M月d日\")}]`,[`[${m(x(e,1),f)}.icon]`,`[${m(x(e,2),f)}.icon]`,`[${m(x(e,3),f)}.icon]`,`[${m(h(e,1),f)}.icon]`,`[${m(h(e,2),f)}.icon]`,`[${m(h(e,3),f)}.icon]`].join(\" \"),\"今日のn年前\",` [${m(O(e,1),f)}]`,\"\",\"\",\"\",`[${m(M(e,1),f)}]←${m(e,f)}→[${m(l(e,1),f)}]`].join(`",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631910697,
-      "updated": 1631910699
+      "created": 1636543514,
+      "updated": 1636587083
     },
     {
-      "id": "6144fb2b1280f00000dc4b39",
-      "text": " //# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsiZGVuby1jYWNoZTpodHRwczovL3NjcmFwYm94LmlvL2FwaS9jb2RlL3ZpbGxhZ2VwdW1wL3Bpbi1kaWFyeS00L2xpc3QudHMiLCAiZGVuby1jYWNoZTpodHRwczovL3NjcmFwYm94LmlvL2FwaS9jb2RlL3ZpbGxhZ2VwdW1wL3Bpbi1kaWFyeS00L3NvY2tldC50cyIsICJkZW5vLWNhY2hlOmh0dHBzOi8vc2NyYXBib3guaW8vYXBpL2NvZGUvdmlsbGFnZXB1bXAvcGluLWRpYXJ5LTQvcGluLnRzIiwgImRlbm8tY2FjaGU6aHR0cHM6Ly9zY3JhcGJveC5pby9hcGkvY29kZS92aWxsYWdlcHVtcC9waW4tZGlhcnktNC9zY3JpcHQudHMiXSwKICAic291cmNlc0NvbnRlbnQiOiBbImV4cG9ydCBpbnRlcmZhY2UgUGFnZU1ldGFEYXRhIHtcbiAgdGl0bGU6IHN0cmluZztcbiAgcGluOiBudW1iZXI7XG4gIHBhZ2VJZDogc3RyaW5nO1xuICBjb21taXRJZDogc3RyaW5nO1xufTtcbmludGVyZmFjZSBQYWdlIHtcbiAgdGl0bGU6IHN0cmluZztcbiAgcGluOiBudW1iZXI7XG4gIGlkOiBzdHJpbmc7XG4gIGNvbW1pdElkOiBzdHJpbmc7XG59XG5cbmV4cG9ydCBhc3luYyBmdW5jdGlvbiBsaXN0RGlhcmllcyhwcm9qZWN0OiBzdHJpbmcpIHtcbiAgY29uc3QgcGFnZXMgPSBhd2FpdCBmZXRjaFBhZ2VzKHByb2plY3QpO1xuICByZXR1cm4gcGFnZXMuZmxhdE1hcChwYWdlID0+IC9cXGR7NH1cXC9cXGR7Mn1cXC9cXGR7Mn0vLnRlc3QocGFnZS50aXRsZSkgP1xuICAgIFt7cGFnZUlkOiBwYWdlLmlkLCB0aXRsZTogcGFnZS50aXRsZSwgY29tbWl0SWQ6IHBhZ2UuY29tbWl0SWQsIHBpbjogcGFnZS5waW59XSA6XG4gICAgW11cbiAgKTtcbn1cblxuYXN5bmMgZnVuY3Rpb24gZmV0Y2hQYWdlcyhwcm9qZWN0OiBzdHJpbmcpIHtcbiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goXG4gICAgYGh0dHBzOi8vc2NyYXBib3guaW8vYXBpL3BhZ2VzLyR7cHJvamVjdH0/bGltaXQ9MWBcbiAgKTtcbiAgY29uc3QgeyBjb3VudDogcGFnZU51bSB9ID0gYXdhaXQgcmVzLmpzb24oKTtcbiAgY29uc3QgbGltaXRQYXJhbSA9IE1hdGgubWluKHBhZ2VOdW0sIDEwMDApOyAvLyBBUEnjgafkuIDluqbjgavlj5blvpfjgZnjgovjg5rjg7zjgrjmlbBcbiAgY29uc3QgbWF4SW5kZXggPSBNYXRoLmZsb29yKHBhZ2VOdW0gLyAxMDAwKSArIDE7IC8vIEFQSeOCkuWPqeOBj+WbnuaVsFxuICBcbiAgLy8g5LiA5rCX44GrQVBJ44KS5Y+p44GE44Gm44Oa44O844K45oOF5aCx44KS5Y+W5b6X44GZ44KLXG4gIGNvbnN0IHJlc3VsdHMgPSBhd2FpdCBQcm9taXNlLmFsbChcbiAgICBbLi4uQXJyYXkobWF4SW5kZXgpLmtleXMoKV1cbiAgICAgIC5tYXAoYXN5bmMgKGluZGV4KSA9PiB7XG4gICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goXG4gICAgICAgICAgYC9hcGkvcGFnZXMvJHtcbiAgICAgICAgICAgIHByb2plY3RcbiAgICAgICAgICB9Lz9saW1pdD0ke1xuICAgICAgICAgICAgbGltaXRQYXJhbVxuICAgICAgICAgIH0mc2tpcD0ke2luZGV4ICogMTAwMH1gXG4gICAgICAgICk7XG4gICAgICAgIGNvbnN0IHsgcGFnZXMgfToge3BhZ2VzOiBQYWdlW107fSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTtcbiAgICAgICAgcmV0dXJuIHBhZ2VzO1xuICAgICAgfSlcbiAgKTtcbiAgXG4gIHJldHVybiByZXN1bHRzLmZsYXQoKTtcbn0iLCAiZXhwb3J0IHR5cGUgUmV0dXJuID0ge1xuICBjbG9zZTogKCkgPT4gUHJvbWlzZTxFdmVudCB8IHVuZGVmaW5lZD47XG4gIHNlbmQ6IChkYXRhOiBzdHJpbmcgfCBBcnJheUJ1ZmZlckxpa2UgfCBCbG9iIHwgQXJyYXlCdWZmZXJWaWV3KSA9PiB2b2lkO1xuICByZWNlaXZlOiAoKSA9PiBBc3luY0dlbmVyYXRvcjxNZXNzYWdlRXZlbnQ+O1xufTtcbmV4cG9ydCBmdW5jdGlvbiBjcmVhdGVXUyh1cmw6IHN0cmluZywgcHJvdGNvbHM/OiBzdHJpbmcgfCBzdHJpbmdbXSkge1xuICByZXR1cm4gbmV3IFByb21pc2U8UmV0dXJuPigocmVzb2x2ZSwgcmVqZWN0KSA9PiB7XG4gICAgY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldCh1cmwsIHByb3Rjb2xzKTtcblxuICAgIGNvbnN0IG9uY2UgPSAoXG4gICAgICB0eXBlOiBrZXlvZiBXZWJTb2NrZXRFdmVudE1hcCxcbiAgICAgIGNhbGxiYWNrOiAoZXZlbnQ/OiBFdmVudCB8IE1lc3NhZ2VFdmVudCB8IENsb3NlRXZlbnQpID0+IHZvaWQsXG4gICAgKSA9PiB7XG4gICAgICBjb25zdCB3cmFwcGVyID0gKGU6IEV2ZW50IHwgTWVzc2FnZUV2ZW50IHwgQ2xvc2VFdmVudCkgPT4ge1xuICAgICAgICBjYWxsYmFjayhlKTtcbiAgICAgICAgc29ja2V0LnJlbW92ZUV2ZW50TGlzdGVuZXIodHlwZSwgd3JhcHBlcik7XG4gICAgICB9O1xuICAgICAgc29ja2V0LmFkZEV2ZW50TGlzdGVuZXIodHlwZSwgd3JhcHBlcik7XG4gICAgfTtcblxuICAgIG9uY2UoXCJlcnJvclwiLCByZWplY3QpO1xuICAgIG9uY2UoXCJvcGVuXCIsICgpID0+XG4gICAgICByZXNvbHZlKHtcbiAgICAgICAgY2xvc2U6ICgpID0+XG4gICAgICAgICAgbmV3IFByb21pc2UoKHJlcykgPT4ge1xuICAgICAgICAgICAgc29ja2V0LmNsb3NlKCk7XG4gICAgICAgICAgICBvbmNlKFwiY2xvc2VcIiwgKGUpID0+IHJlcyhlKSk7XG4gICAgICAgICAgfSksXG4gICAgICAgIHNlbmQ6IChkYXRhKSA9PiB7XG4gICAgICAgICAgc29ja2V0LnNlbmQoZGF0YSk7XG4gICAgICAgIH0sXG4gICAgICAgIHJlY2VpdmU6IGFzeW5jIGZ1bmN0aW9uKiAoKSB7XG4gICAgICAgICAgd2hpbGUgKHRydWUpIHtcbiAgICAgICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgbmV3IFByb21pc2UoKHJlcykgPT5cbiAgICAgICAgICAgICAgb25jZShcIm1lc3NhZ2VcIiwgKGUpID0+IHJlcyhlKSlcbiAgICAgICAgICAgICk7XG4gICAgICAgICAgICB5aWVsZCByZXNwb25zZSBhcyBNZXNzYWdlRXZlbnQ7XG4gICAgICAgICAgfVxuICAgICAgICB9LFxuICAgICAgfSkpO1xuICB9KTtcbn0iLCAiaW1wb3J0IHR5cGUge1BhZ2VNZXRhRGF0YX0gZnJvbSBcIi4vbGlzdC50c1wiO1xuaW1wb3J0IHtjcmVhdGVXU30gZnJvbSBcIi4vc29ja2V0LnRzXCI7XG5cbmV4cG9ydCBpbnRlcmZhY2UgUGluUHJvcHMgZXh0ZW5kcyBQYWdlTWV0YURhdGEge1xuICB1c2VySWQ6IHN0cmluZztcbiAgcHJvamVjdElkOiBzdHJpbmc7XG59XG5cbmNvbnN0IE1ha2VUb2dnbGVQaW5SZXF1ZXN0ID0gKHtwaW4sIGNvbW1pdElkLCBwYWdlSWQsIHVzZXJJZCwgcHJvamVjdElkfTogUGluUHJvcHMpID0+XG4gIGA0MjIke0pTT04uc3RyaW5naWZ5KFtcbiAgICBcInNvY2tldC5pby1yZXF1ZXN0XCIsXG4gICAge1xuICAgICAgbWV0aG9kOiBcImNvbW1pdFwiLFxuICAgICAgZGF0YToge1xuICAgICAgICBraW5kOiBcInBhZ2VcIixcbiAgICAgICAgcGFyZW50SWQ6IGNvbW1pdElkLFxuICAgICAgICBjaGFuZ2VzOlt7XG4gICAgICAgICAgcGluOiBwaW4gPiAwID8gMCA6IE51bWJlci5NQVhfU0FGRV9JTlRFR0VSIC0gTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gMTAwMCksXG4gICAgICAgIH1dLFxuICAgICAgICBjdXJzb3I6IG51bGwsXG4gICAgICAgIHBhZ2VJZCxcbiAgICAgICAgdXNlcklkLFxuICAgICAgICBwcm9qZWN0SWQsXG4gICAgICAgIGZyZWV6ZTp0cnVlLFxuICAgICAgfSxcbiAgICB9LFxuICBdKX1gO1xuICBcbmV4cG9ydCBhc3luYyBmdW5jdGlvbiB0b2dnbGVQaW4oZGF0YTogUGluUHJvcHMpIHtcbiAgY29uc3Qge3NlbmQsIHJlY2VpdmUsIGNsb3NlfSA9IGF3YWl0IGNyZWF0ZVdTKFxuICAgIFwid3NzOi8vc2NyYXBib3guaW8vc29ja2V0LmlvLz9FSU89NCZ0cmFuc3BvcnQ9d2Vic29ja2V0XCJcbiAgKTtcbiAgXG4gIGNvbnN0IHN0cmVhbSA9IHJlY2VpdmUoKTtcbiAgYXdhaXQgc3RyZWFtLm5leHQoKTtcbiAgLy8g5pyA5Yid44Gu6YCa5L+h44Gr6L+U562U44GZ44KLXG4gIGF3YWl0IHNlbmQoXCI0MFwiKTtcbiAgYXdhaXQgc3RyZWFtLm5leHQoKTtcbiAgLy8gUGlu44KS5LuY44GR5aSW44GX44GZ44KL44KI44GG5ZG95Luk44GZ44KLXG4gIGF3YWl0IHNlbmQoTWFrZVRvZ2dsZVBpblJlcXVlc3QoZGF0YSkpO1xuICBhd2FpdCBzdHJlYW0ubmV4dCgpO1xuICBcbiAgLy8g5YWo6YOo44Gu5b+c562U44GM6L+U44Gj44Gm44GN44Gf44KJ6ZaJ44GY44KLXG4gIGF3YWl0IGNsb3NlKCk7XG59IiwgImltcG9ydCB7bGlzdERpYXJpZXN9IGZyb20gXCIuL2xpc3QudHNcIjtcbmltcG9ydCB7dG9nZ2xlUGlufSBmcm9tIFwiLi9waW4udHNcIjtcbmltcG9ydCB0eXBlIHtcbiAgU2NyYXBib3gsXG59IGZyb20gXCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2NyYXBib3gtanAvdHlwZXMvMC4wLjUvbW9kLnRzXCI7XG5kZWNsYXJlIGNvbnN0IHNjcmFwYm94OiBTY3JhcGJveDtcblxuY29uc3QgdGFyZ2V0UHJvamVjdCA9ICd2aWxsYWdlcHVtcCc7XG5jb25zdCBoYW5kbGVDaGFuZ2UgPSAoKSA9PiBcbiAgc2NyYXBib3guUHJvamVjdC5uYW1lID09PSB0YXJnZXRQcm9qZWN0ID9cbiAgc3RhcnRPYnNlcnZlKCkgOiBlbmRPYnNlcnZlKCk7XG5cbi8vIGluaXRpYWxpemVcbmhhbmRsZUNoYW5nZSgpO1xuc2NyYXBib3guYWRkTGlzdGVuZXIoXCJwcm9qZWN0OmNoYW5nZWRcIiwgaGFuZGxlQ2hhbmdlKTtcblxubGV0IHVwZGF0ZVRpbWVyOiBudW1iZXIgfCB1bmRlZmluZWQ7XG5hc3luYyBmdW5jdGlvbiBzdGFydE9ic2VydmUoKSB7XG4gIGVuZE9ic2VydmUoKTtcbiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goXCJodHRwczovL3NjcmFwYm94LmlvL2FwaS91c2Vycy9tZVwiKTtcbiAgY29uc3Qge2lkOiB1c2VySWR9ID0gYXdhaXQgcmVzLmpzb24oKTtcbiAgY29uc3QgcmVzMiA9IGF3YWl0IGZldGNoKGBodHRwczovL3NjcmFwYm94LmlvL2FwaS9wcm9qZWN0cy8ke3RhcmdldFByb2plY3R9YCk7XG4gIGNvbnN0IHtpZDogcHJvamVjdElkfSA9IGF3YWl0IHJlczIuanNvbigpO1xuICBwaW5EaWFyeSh1c2VySWQsIHByb2plY3RJZCk7XG4gIHVwZGF0ZVRpbWVyID0gc2V0SW50ZXJ2YWwoKCkgPT4gcGluRGlhcnkodXNlcklkLCBwcm9qZWN0SWQpLCAyNCAqIDM2MDAgKiAxMDAwKTtcbn1cbmZ1bmN0aW9uIGVuZE9ic2VydmUoKSB7XG4gIGNsZWFySW50ZXJ2YWwodXBkYXRlVGltZXIpO1xufVxuXG5hc3luYyBmdW5jdGlvbiBwaW5EaWFyeSh1c2VySWQ6IHN0cmluZywgcHJvamVjdElkOiBzdHJpbmcpIHtcbiAgLy8g5LuKcGlu44GV44KM44Gm44GE44KL5pel5LuY44Oa44O844K444KS6Kq/5p+744GZ44KLXG4gIGNvbnN0IGRpYXJ5UGFnZXMgPSBhd2FpdCBsaXN0RGlhcmllcyh0YXJnZXRQcm9qZWN0KTtcbiAgY29uc3QgcGlubmVkRGlhcnlQYWdlcyA9IGRpYXJ5UGFnZXMuZmlsdGVyKCh7cGlufSkgPT4gcGluID4gMCk7XG4gIFxuICAvLyDku4rml6Xku6XlpJbjga7ml6Xku5jjg5rjg7zjgrjjgpLlpJbjgZlcbiAgZm9yIChjb25zdCBwYWdlIG9mIHBpbm5lZERpYXJ5UGFnZXMpIHtcbiAgICBpZiAocGFnZS50aXRsZSA9PT0gdG9ZWVlZTU1ERChuZXcgRGF0ZSgpKSkgY29udGludWU7XG4gICAgXG4gICAgYXdhaXQgdG9nZ2xlUGluKHt1c2VySWQsIHByb2plY3RJZCwgLi4ucGFnZX0pO1xuICB9XG4gIFxuICBjb25zdCB0b2RheURpYXJ5UGFnZSA9IGRpYXJ5UGFnZXMuZmluZCgoe3RpdGxlfSkgPT4gdGl0bGUgPT09IHRvWVlZWU1NREQobmV3IERhdGUoKSkpO1xuICBpZiAoIXRvZGF5RGlhcnlQYWdlKSByZXR1cm47IC8vIOOBneOCguOBneOCguS7iuaXpeOBruaXpeS7mOODmuODvOOCuOOBjOWtmOWcqOOBl+OBquOBkeOCjOOBsOS9leOCguOBl+OBquOBhFxuICBpZiAodG9kYXlEaWFyeVBhZ2UucGluID4gMCkgcmV0dXJuOyAvLyDjgZnjgafjgatQaW7jgZXjgozjgabjgYTjgozjgbDkvZXjgoLjgZfjgarjgYRcbiAgYXdhaXQgdG9nZ2xlUGluKHt1c2VySWQsIHByb2plY3RJZCwgLi4udG9kYXlEaWFyeVBhZ2V9KTtcbn1cblxuZnVuY3Rpb24gdG9ZWVlZTU1ERChkYXRlOiBEYXRlKSB7XG4gIHJldHVybiBgJHtkYXRlLmdldEZ1bGxZZWFyKCl9LyR7emVybyhkYXRlLmdldE1vbnRoKCkgKyAxKX0vJHt6ZXJvKGRhdGUuZ2V0RGF0ZSgpKX1gO1xufVxuZnVuY3Rpb24gemVybyhuOiBudW1iZXIpIHtcbiAgcmV0dXJuIFN0cmluZyhuKS5wYWRTdGFydCgyLCAnMCcpO1xufVxuIl0sCiAgIm1hcHBpbmdzIjogIkFBYUEsaUJBQWtDLEVBQWlCLENBRWpELE1BQU8sQUFETyxNQUFNLEdBQVcsSUFDbEIsUUFBUSxHQUFRLHNCQUFzQixLQUFLLEVBQUssT0FDM0QsQ0FBQyxDQUFDLE9BQVEsRUFBSyxHQUFJLE1BQU8sRUFBSyxNQUFPLFNBQVUsRUFBSyxTQUFVLElBQUssRUFBSyxN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",
+      "id": "618c564b1280f00000174499",
+      "text": " `);function ne(e){switch(E(e)){case 0:return\"日\";case 1:return\"月\";case 2:return\"火\";case 3:return\"水\";case 4:return\"木\";case 5:return\"金\";case 6:return\"土\"}}var I=\"villagepump\",W=()=>scrapbox.Project.name===I?oe():H();W();scrapbox.addListener(\"project:changed\",W);var z;async function oe(){H();let e=await fetch(\"https://scrapbox.io/api/users/me\"),{id:t}=await e.json(),r=await fetch(`https://scrapbox.io/api/projects/${I}`),{id:o}=await r.json();N(t,o),z=setInterval(()=>N(t,o),24*3600*1e3)}function H(){clearInterval(z)}async function N(e,t){let r=await F(I),o=r.filter(({pin:i})=>i>0);for(let i of o)i.title!==V(new Date)&&await A({userId:e,projectId:t,...i});let s=r.find(({title:i})=>i===V(new Date));if(!s){let[i,...c]=U(new Date).split(`",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631910699,
-      "updated": 1631910699
+      "created": 1636587083,
+      "updated": 1636587083
     },
     {
-      "id": "6144fb2b1280f00000dc4b3a",
-      "text": " ",
+      "id": "618c564b1280f0000017449a",
+      "text": " `),u=document.createElement(\"a\");return u.href=`../${I}/${encodeURIComponent(i)}?body=${encodeURIComponent(c.join(`",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1631910699,
-      "updated": 1631910699
+      "created": 1636587083,
+      "updated": 1636587083
+    },
+    {
+      "id": "618c564b1280f0000017449b",
+      "text": " `))}`,document.body.append(u),u.click(),u.remove(),await new Promise(g=>scrapbox.once(\"page:changed\",g)),await N(e,t)}s.pin>0||await A({userId:e,projectId:t,...s})}function V(e){return`${e.getFullYear()}/${Z(e.getMonth()+1)}/${Z(e.getDate())}`}function Z(e){return String(e).padStart(2,\"0\")}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587083,
+      "updated": 1636587083
+    },
+    {
+      "id": "618c56721280f0000017449d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636587123,
+      "updated": 1636587123
     },
     {
       "id": "61442f271280f00000fcca67",

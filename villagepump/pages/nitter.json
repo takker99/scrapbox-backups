@@ -2,7 +2,7 @@
   "id": "5fc3613a8df4b0002213dc00",
   "title": "nitter",
   "created": 1606639934,
-  "updated": 1629207892,
+  "updated": 1635674201,
   "lines": [
     {
       "id": "5fc3613a8df4b0002213dc00",
@@ -13,10 +13,10 @@
     },
     {
       "id": "5fc3613ed438750000c67120",
-      "text": "[Twitter]フロントエンド",
-      "userId": "6055950b87138f0022246f59",
+      "text": "[Twitter][フロントエンド]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1606639934,
-      "updated": 1618401306
+      "updated": 1635674201
     },
     {
       "id": "60db156d0b87190000efd689",
@@ -73,13 +73,6 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1618401247,
       "updated": 1618401278
-    },
-    {
-      "id": "6076d7fd246f590000a0f042",
-      "text": "[https://gyazo.com/883c05a9db326cb4f2df67d270bf7649]",
-      "userId": "6055950b87138f0022246f59",
-      "created": 1618401278,
-      "updated": 1619093019
     },
     {
       "id": "6081661a246f5900006fee98",

@@ -2,7 +2,7 @@
   "id": "608aab46f1992900233bc10f",
   "title": "Google面接",
   "created": 1619700552,
-  "updated": 1619760331,
+  "updated": 1638459390,
   "lines": [
     {
       "id": "608aab46f1992900233bc10f",
@@ -69,10 +69,10 @@
     },
     {
       "id": "608aacb38ee92a0000066dfc",
-      "text": " Googleに二度落ちた奴って俺ぐらいじゃね?",
+      "text": " [Google]に二度落ちた奴って俺ぐらいじゃね?",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1619700916,
-      "updated": 1619700931
+      "updated": 1638417936
     },
     {
       "id": "608aab498ee92a0000066df2",
@@ -124,6 +124,13 @@
       "updated": 1619701147
     },
     {
+      "id": "61a85718a19e400000fe77ce",
+      "text": " \t予想外すぎるエピソードでワラタw[kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
+      "created": 1638422296,
+      "updated": 1638422307
+    },
+    {
       "id": "608aae718ee92a0000066e0a",
       "text": " [小切手]が普通[郵便]で送られてきた",
       "userId": "566fa156776c9b11008ee92a",
@@ -152,25 +159,95 @@
       "updated": 1619701213
     },
     {
-      "id": "608aacd98ee92a0000066dff",
-      "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1619700953,
-      "updated": 1619700953
-    },
-    {
-      "id": "608aab5e8ee92a0000066df3",
-      "text": "#Google",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1619700574,
-      "updated": 1619700576
-    },
-    {
       "id": "608aab5e8ee92a0000066df4",
       "text": "",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1619700574,
       "updated": 1619700574
+    },
+    {
+      "id": "61a846248ee92a000039bc84",
+      "text": " Googleに落ちた奴をいろいろ知っている [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1638417956,
+      "updated": 1638417970
+    },
+    {
+      "id": "61a846278ee92a000039bc85",
+      "text": "  現在別のとこで出世してて、落ちてて正解と思う人が多い",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1638417960,
+      "updated": 1638418024
+    },
+    {
+      "id": "61a84fb7a33682000027975f",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1638420408,
+      "updated": 1638420408
+    },
+    {
+      "id": "61a84fa6a33682000027975e",
+      "text": "BigTech目指して浪人?する人も居るらしい[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1638420390,
+      "updated": 1638421828
+    },
+    {
+      "id": "61a84fa4a33682000027975d",
+      "text": "\t[https://twitter.com/ronin_2020 村人@GAFA目指して二浪中 (@ronin_2020) | Twitter]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1638420389,
+      "updated": 1638420391
+    },
+    {
+      "id": "61a846368ee92a000039bc86",
+      "text": "\t\tこの人は毎日LeetCode解いたり競プロをやったりしている",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1638417975,
+      "updated": 1638420470
+    },
+    {
+      "id": "61a871e28ee92a000039bc92",
+      "text": "\t\t問題が解ければ通るというものでもないような... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1638429155,
+      "updated": 1638429166
+    },
+    {
+      "id": "61a8bbffe5172d0000ede77b",
+      "text": "\t通年採用じゃないのか…？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638448128,
+      "updated": 1638448148
+    },
+    {
+      "id": "61a8ced88ee92a000039bc93",
+      "text": "\t 都度採用なのでは [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1638452952,
+      "updated": 1638452964
+    },
+    {
+      "id": "61a8dceca33682000028a25d",
+      "text": "\t 1度受けたら1年間は受けられないとか?[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1638456557,
+      "updated": 1638456579
+    },
+    {
+      "id": "61a84fd7a336820000279760",
+      "text": "   これ聞いたことありますね(1年なのかは不明)[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1638420440,
+      "updated": 1638459390
+    },
+    {
+      "id": "61a8e7ed774b17000046b538",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1638459373,
+      "updated": 1638459373
     }
   ]
 }

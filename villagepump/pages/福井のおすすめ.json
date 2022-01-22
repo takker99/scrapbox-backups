@@ -2,7 +2,7 @@
   "id": "6076f0f355cddf001ccd50cf",
   "title": "福井のおすすめ",
   "created": 1618407669,
-  "updated": 1618451264,
+  "updated": 1633780639,
   "lines": [
     {
       "id": "6076f0f355cddf001ccd50cf",
@@ -244,10 +244,10 @@
     },
     {
       "id": "6076f0f5fd049e0000a8215c",
-      "text": "　\t[越前陶芸村 https://www.travel.co.jp/guide/article/34938/]...祭りのとき行った思い出があるはず。越前焼は日本六古窯([瀬戸]・[丹波]・[備前]・[常滑]・[信楽]・[越前])の[ひとつ https://www.tougeikan.jp/about-ware02.html]らしい",
-      "userId": "5d20a16b6e57f80017fd049e",
+      "text": "　\t[越前陶芸村 https://www.travel.co.jp/guide/article/34938/]...祭りのとき行った思い出があるはず。越前焼は[日本六古窯]([瀬戸]・[丹波]・[備前]・[常滑]・[信楽]・[越前])の[ひとつ https://www.tougeikan.jp/about-ware02.html]らしい",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1618407669,
-      "updated": 1618407877
+      "updated": 1633780233
     },
     {
       "id": "6076f0f5fd049e0000a8215d",
@@ -300,10 +300,17 @@
     },
     {
       "id": "607771a08ee92a000090975d",
-      "text": "　\t黒龍の蔵元 [増井俊之.icon]",
+      "text": "　\t[黒龍]の蔵元 [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1618440609,
-      "updated": 1618440617
+      "updated": 1633780630
+    },
+    {
+      "id": "616183968ee92a00005c1bf4",
+      "text": "　\t [グラス]が素敵",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1633780631,
+      "updated": 1633780639
     },
     {
       "id": "6076f0f5fd049e0000a82164",

@@ -2,7 +2,7 @@
   "id": "5fdea128d5f3ba001c3eb5fc",
   "title": "ライブカメラ",
   "created": 1608425772,
-  "updated": 1633053310,
+  "updated": 1634214183,
   "lines": [
     {
       "id": "5fdea128d5f3ba001c3eb5fc",
@@ -202,10 +202,10 @@
     },
     {
       "id": "608f4f898ee92a000040df0c",
-      "text": "軽井沢の鳥",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "[軽井沢]の鳥",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1620004746,
-      "updated": 1620004753
+      "updated": 1634214183
     },
     {
       "id": "608f4f858ee92a000040df0a",

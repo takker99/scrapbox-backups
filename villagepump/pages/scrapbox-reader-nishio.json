@@ -1,0 +1,211 @@
+{
+  "id": "61e67dc34ae3fa001dbcb58c",
+  "title": "scrapbox-reader-nishio",
+  "created": 1642495429,
+  "updated": 1642511000,
+  "lines": [
+    {
+      "id": "61e67dc34ae3fa001dbcb58c",
+      "text": "scrapbox-reader-nishio",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495429,
+      "updated": 1642495429
+    },
+    {
+      "id": "61e67dc4aff09e0000741902",
+      "text": "[Scrapbox Reader]をforkして魔改造してる[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495429,
+      "updated": 1642495456
+    },
+    {
+      "id": "61e67dc5aff09e0000741903",
+      "text": "\toriginal https://github.com/yuta0801/scrapbox-reader",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495429,
+      "updated": 1642495529
+    },
+    {
+      "id": "61e67e29aff09e0000741905",
+      "text": "\tforked https://github.com/nishio/scrapbox-reader",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495529,
+      "updated": 1642495541
+    },
+    {
+      "id": "61e67e27aff09e0000741904",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495528,
+      "updated": 1642495528
+    },
+    {
+      "id": "61e67e54aff09e00003f1b1f",
+      "text": "目指していること",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495572,
+      "updated": 1642495578
+    },
+    {
+      "id": "61e67e5aaff09e00003f1b21",
+      "text": "　自分の日本語のプロジェクト[/nishio]と英語のプロジェクト[/intellitech-en]を機械翻訳コンテンツでブリッジして相互接続",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495579,
+      "updated": 1642496980
+    },
+    {
+      "id": "61e67e81aff09e00003f1b22",
+      "text": "　　明記しておかないと脇道にそれそうなので書いた",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495617,
+      "updated": 1642495650
+    },
+    {
+      "id": "61e67ea2aff09e00003f1b25",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495651,
+      "updated": 1642495651
+    },
+    {
+      "id": "61e67ea2aff09e00003f1b26",
+      "text": "「[Scrapbox Readerはいいぞ]」",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495651,
+      "updated": 1642496598
+    },
+    {
+      "id": "61e67ec2aff09e00003f1b28",
+      "text": "　ルーティング部分を自由にできる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495683,
+      "updated": 1642495738
+    },
+    {
+      "id": "61e67efaaff09e00003f1b29",
+      "text": "　　ので",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495738,
+      "updated": 1642495742
+    },
+    {
+      "id": "61e67efeaff09e00003f1b2b",
+      "text": "　　　好きなデザインのインデックスページを作ったり",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495742,
+      "updated": 1642495780
+    },
+    {
+      "id": "61e67f60aff09e0000741906",
+      "text": "　　　\thttps://scrapbox-reader-nishio.vercel.app/",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495841,
+      "updated": 1642495841
+    },
+    {
+      "id": "61e67fe2aff09e0000741907",
+      "text": "　　　\t元データ: [/nishio/INDEX FOR VERCEL]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495971,
+      "updated": 1642496075
+    },
+    {
+      "id": "61e67efcaff09e00003f1b2a",
+      "text": "　　　特殊なソート順のインデックスが出る特殊ページ作ったりできる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495740,
+      "updated": 1642496622
+    },
+    {
+      "id": "61e67eaaaff09e00003f1b27",
+      "text": "\t\t\t\thttps://scrapbox-reader-nishio.vercel.app/villagepump/SRS",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495658,
+      "updated": 1642496029
+    },
+    {
+      "id": "61e68027aff09e0000e1d8f8",
+      "text": " >中央集権化しなくても、Scrapbox Readerをセルフホストできるのでは？",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642496040,
+      "updated": 1642510840
+    },
+    {
+      "id": "61e6b9efaff09e00006ff213",
+      "text": " \t>データベースも使ってないシンプルな構成になっていてNode.jsがあればすぐ動かせられるはず",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642510832,
+      "updated": 1642510846
+    },
+    {
+      "id": "61e6b9efaff09e00006ff214",
+      "text": " \t>Vercelあたりを使えばリポジトリと紐付けるだけでゼロコストで運用できる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642510832,
+      "updated": 1642510851
+    },
+    {
+      "id": "61e6b9efaff09e00006ff215",
+      "text": " \t>Scrapbox Reader自体にも改善する余地はあるけど、本当に欲しいものを手に入れるには改造したほうが手っ取り早そう",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642510832,
+      "updated": 1642510857
+    },
+    {
+      "id": "61e6ba0aaff09e00006ff216",
+      "text": " \t[Scrapbox Readerのこれから#5f9c3ba24daa920000df172a]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642510858,
+      "updated": 1642510873
+    },
+    {
+      "id": "61e6ba3daff09e000034f2b9",
+      "text": " \tYes、Githubでリポジトリをforkし、Vercelにアカウントを作ってそのリポジトリを指定すればそれだけで運用開始",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642510910,
+      "updated": 1642510971
+    },
+    {
+      "id": "61e6ba7caff09e000034f2ba",
+      "text": " \t　リポジトリにpushしたらデプロイされる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642510972,
+      "updated": 1642510996
+    },
+    {
+      "id": "61e6ba98aff09e000034f2bb",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642511000,
+      "updated": 1642511000
+    },
+    {
+      "id": "61e6ba98aff09e000034f2bc",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642511000,
+      "updated": 1642511000
+    },
+    {
+      "id": "61e67e81aff09e00003f1b23",
+      "text": "関連",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495617,
+      "updated": 1642495619
+    },
+    {
+      "id": "61e67e83aff09e00003f1b24",
+      "text": "　[自分の公開プロジェクトの英語版を機械翻訳で作りたい]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495619,
+      "updated": 1642495627
+    },
+    {
+      "id": "61e67e5aaff09e00003f1b20",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642495578,
+      "updated": 1642495578
+    }
+  ]
+}

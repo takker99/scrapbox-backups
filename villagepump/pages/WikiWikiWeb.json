@@ -2,7 +2,7 @@
   "id": "5f5debddf18d47001eafd03e",
   "title": "WikiWikiWeb",
   "created": 1599990751,
-  "updated": 1624872354,
+  "updated": 1638615915,
   "lines": [
     {
       "id": "5f5debddf18d47001eafd03e",
@@ -17,13 +17,6 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1599990751,
       "updated": 1613734389
-    },
-    {
-      "id": "5f5debdf5b98c2000092a88a",
-      "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1599990752,
-      "updated": 1599990752
     },
     {
       "id": "5f5debdf5b98c2000092a88b",
@@ -52,6 +45,20 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1599990780,
       "updated": 1599990780
+    },
+    {
+      "id": "61ab4aed5b98c20000ad5263",
+      "text": " さらに元ネタは、[HyperCard]上で動いたパターンブラウザというソフトらしい",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638615789,
+      "updated": 1638615915
+    },
+    {
+      "id": "61ab4b175b98c20000ad5264",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638615831,
+      "updated": 1638615831
     },
     {
       "id": "5f5f35c55b98c20000a5ce39",

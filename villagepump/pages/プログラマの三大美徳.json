@@ -2,7 +2,7 @@
   "id": "60b6060d83909d002256bd7a",
   "title": "プログラマの三大美徳",
   "created": 1622541840,
-  "updated": 1622541969,
+  "updated": 1637319100,
   "lines": [
     {
       "id": "60b6060d83909d002256bd7a",
@@ -90,31 +90,59 @@
     },
     {
       "id": "60b606265b98c200001502be",
-      "text": "[/nota-techconf/プログラマーの三大美徳]",
+      "text": " [/nota-techconf/プログラマーの三大美徳]",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1622541862,
-      "updated": 1622541862
+      "updated": 1637319046
     },
     {
       "id": "60b606105b98c200001502b2",
-      "text": "[/yuiseki/プログラマーの三大美徳]",
+      "text": " [/yuiseki/プログラマーの三大美徳]",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1622541840,
-      "updated": 1622541919
+      "updated": 1637319047
+    },
+    {
+      "id": "6197818c5b98c20000dcf086",
+      "text": "  [/yuiseki/HRTの原則とプログラマーの三大美徳]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1637319053,
+      "updated": 1637319065
     },
     {
       "id": "60b6065f5b98c20000889df3",
-      "text": "[/suna-64354306/プログラマの三大美徳]",
+      "text": " [/suna-64354306/プログラマの三大美徳]",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1622541919,
-      "updated": 1622541969
+      "updated": 1637319049
     },
     {
       "id": "60b606915b98c20000889df4",
-      "text": "",
+      "text": " [https://www.law.co.jp/okamura/OpenSource_Web_Version/chapter10/chapter10.html 努力、忍耐、謙遜]",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1622541969,
-      "updated": 1622541969
+      "updated": 1637319094
+    },
+    {
+      "id": "619781ab5b98c20000dcf087",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1637319084,
+      "updated": 1637319084
+    },
+    {
+      "id": "619781b75b98c20000dcf088",
+      "text": "#Perl",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1637319095,
+      "updated": 1637319100
+    },
+    {
+      "id": "619781b85b98c20000dcf089",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1637319097,
+      "updated": 1637319097
     }
   ]
 }

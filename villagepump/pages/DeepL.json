@@ -2,7 +2,7 @@
   "id": "5fc0fac5c795de001d9c915c",
   "title": "DeepL",
   "created": 1606482632,
-  "updated": 1606519217,
+  "updated": 1633706459,
   "lines": [
     {
       "id": "5fc0fac5c795de001d9c915c",
@@ -20,10 +20,10 @@
     },
     {
       "id": "5fc0fae54bb2e2000070d4f0",
-      "text": "Deep Learningを用いた翻訳サービス",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "Deep Learningを用いた[翻訳]サービス",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1606482632,
-      "updated": 1606482708
+      "updated": 1633698144
     },
     {
       "id": "5fc0faf24bb2e2000070d4f2",
@@ -136,6 +136,48 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1606519185,
       "updated": 1606519185
+    },
+    {
+      "id": "6160616d385a920000b06697",
+      "text": "個人的に使っている範囲だとほぼ自然[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633706349,
+      "updated": 1633706373
+    },
+    {
+      "id": "6160617d385a920000b06699",
+      "text": "　[https://t3ahat.hateblo.jp/entry/2020/12/05/DeepLopener_PRO DeepL APIを用いたChrome拡張機能「DeepLopener」を公開しました - Teahat]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633706365,
+      "updated": 1633706414
+    },
+    {
+      "id": "616061ae385a920000b0669a",
+      "text": " 　これ使ってる",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633706414,
+      "updated": 1633706418
+    },
+    {
+      "id": "616061b2385a920000b0669b",
+      "text": "  　そのためにAPI契約した",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633706418,
+      "updated": 1633706428
+    },
+    {
+      "id": "616061b7385a920000b0669c",
+      "text": " 　　ブラウザ上で文字選択してクリックすると翻訳される",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633706423,
+      "updated": 1633706446
+    },
+    {
+      "id": "616061ce385a920000b0669d",
+      "text": " 　　　微妙にdomの置き換えが変なときもあるが概ねOK",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633706446,
+      "updated": 1633706456
     }
   ]
 }

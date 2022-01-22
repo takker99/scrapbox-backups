@@ -2,7 +2,7 @@
   "id": "5f6af09318abff001e5575f0",
   "title": "みんなん家､テープやディスク､カードってある?",
   "created": 1600843927,
-  "updated": 1622381072,
+  "updated": 1634208936,
   "lines": [
     {
       "id": "5f6af09318abff001e5575f0",
@@ -118,10 +118,10 @@
     },
     {
       "id": "5f6af2bab8f8be0000225f85",
-      "text": " [ハードディスク][dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": " [ハードディスク][dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844474,
-      "updated": 1619015599
+      "updated": 1634207991
     },
     {
       "id": "5f6af0a5b8f8be0000225f4f",
@@ -146,10 +146,10 @@
     },
     {
       "id": "5f6af0aab8f8be0000225f51",
-      "text": "\t　3.5インチ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "\t　3.5インチ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600843946,
-      "updated": 1619015595
+      "updated": 1634208021
     },
     {
       "id": "5f6af0adb8f8be0000225f52",
@@ -160,10 +160,10 @@
     },
     {
       "id": "5f6af0aeb8f8be0000225f53",
-      "text": "[カセットテープ][takker.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "[カセットテープ][takker.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1600843950,
-      "updated": 1619015593
+      "updated": 1634208933
     },
     {
       "id": "5f6af0b0b8f8be0000225f54",
@@ -188,10 +188,10 @@
     },
     {
       "id": "5f6af0b3b8f8be0000225f56",
-      "text": "　VHS[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "　[VHS][dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1600843955,
-      "updated": 1619015590
+      "updated": 1634208936
     },
     {
       "id": "5f6af0b7b8f8be0000225f57",
@@ -286,17 +286,17 @@
     },
     {
       "id": "5f6af205b8f8be0000225f7f",
-      "text": "　 フルサイズ[dnin.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "　 フルサイズ[dnin.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844294,
-      "updated": 1619015530
+      "updated": 1634208051
     },
     {
       "id": "5f6af207b8f8be0000225f80",
-      "text": "　 8cm[MISONLN41.icon][kuuote.icon][air34n.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "　 8cm[MISONLN41.icon][kuuote.icon][air34n.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844296,
-      "updated": 1619015532
+      "updated": 1634208053
     },
     {
       "id": "6080376cdd60be0000de10c7",
@@ -307,10 +307,10 @@
     },
     {
       "id": "5f6af0ccb8f8be0000225f5c",
-      "text": "　DVD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "　DVD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600843981,
-      "updated": 1619015528
+      "updated": 1634208056
     },
     {
       "id": "5f6af0cdb8f8be0000225f5d",
@@ -328,10 +328,10 @@
     },
     {
       "id": "5f6af0d5b8f8be0000225f60",
-      "text": "　ブルーレイ[45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "　ブルーレイ[45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600843990,
-      "updated": 1619015526
+      "updated": 1634208065
     },
     {
       "id": "5f6af0d8b8f8be0000225f61",
@@ -384,17 +384,17 @@
     },
     {
       "id": "5f6af389b8f8be0000225f9a",
-      "text": " USBメモリ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": " USBメモリ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844682,
-      "updated": 1619015490
+      "updated": 1634208075
     },
     {
       "id": "5f6af352b8f8be0000225f98",
-      "text": " SSD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": " SSD[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844626,
-      "updated": 1619015493
+      "updated": 1634208077
     },
     {
       "id": "5f6af0fab8f8be0000225f66",
@@ -405,10 +405,10 @@
     },
     {
       "id": "5f6af12ab8f8be0000225f6c",
-      "text": " 　フルサイズ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": " 　フルサイズ[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844074,
-      "updated": 1619015496
+      "updated": 1634208081
     },
     {
       "id": "5f6af130b8f8be0000225f6f",
@@ -419,10 +419,10 @@
     },
     {
       "id": "5f6af12bb8f8be0000225f6d",
-      "text": " 　Micro[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": " 　Micro[dnin.icon][takker.icon][MISONLN41.icon][増井俊之.icon][kuuote.icon][air34n.icon][suto3.icon][yosider.icon][45Nuyagawa.icon][mizdra.icon]",
+      "userId": "599eb1bd0ce6b50011c75fd3",
       "created": 1600844076,
-      "updated": 1619015499
+      "updated": 1634208086
     },
     {
       "id": "5f6af124b8f8be0000225f6b",

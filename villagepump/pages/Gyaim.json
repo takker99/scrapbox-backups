@@ -2,7 +2,7 @@
   "id": "60bd9765ce7c2100225f6d57",
   "title": "Gyaim",
   "created": 1623037831,
-  "updated": 1625558097,
+  "updated": 1642745883,
   "lines": [
     {
       "id": "60bd9765ce7c2100225f6d57",
@@ -31,6 +31,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1623037831,
       "updated": 1623037845
+    },
+    {
+      "id": "616df0e58ee92a000079904a",
+      "text": " https://masui.github.io/GyaimMotion/",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634595045,
+      "updated": 1634595054
     },
     {
       "id": "60bd97878ee92a0000ecb908",
@@ -83,10 +90,101 @@
     },
     {
       "id": "60e2a8dba336820000980c33",
+      "text": "使ってみたいけどWindowsに移植できなさそうなので断念している……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1625467100,
+      "updated": 1634602336
+    },
+    {
+      "id": "616e3f868ee92a0000d42d13",
+      "text": " できない理由ありますかね? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634615174,
+      "updated": 1634615181
+    },
+    {
+      "id": "616e3f8f8ee92a0000d42d14",
+      "text": "  最悪、何かのショートカットキーでGyaimアプリを前面に出し、Ctrl-Vではりつけるという方法もあります",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634615184,
+      "updated": 1634615246
+    },
+    {
+      "id": "616e3fd08ee92a0000d42d16",
+      "text": "  昔は「POBox for Windows」というのをそういう感じで使ってました",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634615249,
+      "updated": 1634615265
+    },
+    {
+      "id": "616e3fe38ee92a0000d42d17",
+      "text": " Java版もJavaScript版もありますし [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634615268,
+      "updated": 1634615281
+    },
+    {
+      "id": "616f94518ee92a0000f1e2f2",
+      "text": " Windows用の[SKK] IMEがあるらしいので、改造したらGyaimみたいなの作れるんじゃないかな? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634702418,
+      "updated": 1634702455
+    },
+    {
+      "id": "616e3fa98ee92a0000d42d15",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1634615209,
+      "updated": 1634615209
+    },
+    {
+      "id": "61a1770079e1130000b2a6ad",
+      "text": "質問",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1637971713,
+      "updated": 1637971724
+    },
+    {
+      "id": "61a1770479e1130000b2a6af",
+      "text": " 「東京」と入力したい時に、toukyou -> スペース9回連打より楽に入力する方法はありますか?[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1637971716,
+      "updated": 1637971982
+    },
+    {
+      "id": "61a1770279e1130000b2a6ae",
+      "text": "　　[https://gyazo.com/ff1488503d64b9486bdbe7c7094e0ba4]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1637971714,
+      "updated": 1637971828
+    },
+    {
+      "id": "61a1789379e11300006ef642",
+      "text": "　　toukyou -> Enter -> スペース2回で入力出来るのか[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1637972115,
+      "updated": 1637972157
+    },
+    {
+      "id": "61ea50168ee92a0000e5f025",
+      "text": "　　 そうですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642745878,
+      "updated": 1642745881
+    },
+    {
+      "id": "61a184d5a3368200009b20ab",
+      "text": "　　toukyo -> `.`でも出ます[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1637975253,
+      "updated": 1637975270
+    },
+    {
+      "id": "61a184d2a3368200009b20aa",
       "text": "",
       "userId": "5e5b870dd7f3000017a33682",
-      "created": 1625467100,
-      "updated": 1625467100
+      "created": 1637975251,
+      "updated": 1637975251
     }
   ]
 }

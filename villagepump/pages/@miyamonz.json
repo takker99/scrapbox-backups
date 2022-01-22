@@ -2,7 +2,7 @@
   "id": "605452c681adbb001c82e283",
   "title": "@miyamonz",
   "created": 1616138950,
-  "updated": 1630331497,
+  "updated": 1634430999,
   "lines": [
     {
       "id": "605452c681adbb001c82e283",
@@ -10,6 +10,1350 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1616138950,
       "updated": 1616139043
+    },
+    {
+      "id": "61623d4f1280f00000b0f08b",
+      "text": "[/miyamonz/async awaitで何かを待つような処理を同期的に書く#60bfb254385a92000059f70e]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828176,
+      "updated": 1633828177
+    },
+    {
+      "id": "61623d511280f00000b0f08d",
+      "text": " s/mouseup字の処理/mouseup時の処理",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828177,
+      "updated": 1633828189
+    },
+    {
+      "id": "6163d6b3385a9200003dea3d",
+      "text": " 　修正[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633932979,
+      "updated": 1633932982
+    },
+    {
+      "id": "61623d721280f00000b0f08e",
+      "text": " それと、[Async generator]で全てのevent listenerを同期的に書けるようにしたもの[. [/takker/Async Generatorを外部から中断する#6162375c1280f0000048c7e0] ]も作ってみました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828210,
+      "updated": 1633828530
+    },
+    {
+      "id": "61623d9f1280f00000b0f08f",
+      "text": " 　ご参考までにどうぞ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828255,
+      "updated": 1633828262
+    },
+    {
+      "id": "61623df01280f00000b0f0b3",
+      "text": " 　code:sample.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828337,
+      "updated": 1633920857
+    },
+    {
+      "id": "61623df21280f00000b0f0b4",
+      "text": " 　 import {listen} from './listen.js';",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828339,
+      "updated": 1633828705
+    },
+    {
+      "id": "61623e071280f00000b0f0be",
+      "text": " 　 ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828360,
+      "updated": 1633828360
+    },
+    {
+      "id": "61623e661280f00000b0f0c2",
+      "text": " 　 for await (const event of listen(window, 'mousedown')) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828454,
+      "updated": 1633828555
+    },
+    {
+      "id": "61623e061280f00000b0f0b7",
+      "text": "     const downPos = {x: event.clinetX, y: event.clientY }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828358,
+      "updated": 1633828701
+    },
+    {
+      "id": "61623e061280f00000b0f0b8",
+      "text": "     ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828358,
+      "updated": 1633828358
+    },
+    {
+      "id": "61623e141280f00000b0f0bf",
+      "text": "     for await (const mouseEvent of listen(window, 'mousemove')) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828372,
+      "updated": 1633828429
+    },
+    {
+      "id": "61623e391280f00000b0f0c1",
+      "text": "       /* drag中の処理 downPosも参照できる */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828410,
+      "updated": 1633828413
+    },
+    {
+      "id": "61623e2b1280f00000b0f0c0",
+      "text": "     }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828395,
+      "updated": 1633828395
+    },
+    {
+      "id": "6163a75c1280f000003b035f",
+      "text": "  あ、これだと`mousemove`で無限ループが発生してしまうのか。まずいな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633920860,
+      "updated": 1633920887
+    },
+    {
+      "id": "6163a7931280f000003b0360",
+      "text": "   `mouseup`が発火したことを示すflagを導入し、flagが経ったらループを抜ける処理を追加しないと行けない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633920916,
+      "updated": 1633920970
+    },
+    {
+      "id": "6167c9e3385a92000010545a",
+      "text": "   そうそう[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634191843,
+      "updated": 1634191845
+    },
+    {
+      "id": "6167c9e5385a92000010545b",
+      "text": "   　ここらへんのこと一回考えた気がするのだが、忘れてしまったな",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634191845,
+      "updated": 1634192265
+    },
+    {
+      "id": "6167cb8e385a92000010545c",
+      "text": "   　mosemoveのfor awaitのループ内のどこかの一行でupがresolveされたかチェックするのはだめ",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634192270,
+      "updated": 1634192299
+    },
+    {
+      "id": "6167cbab385a92000010545e",
+      "text": "   　　それ以外のところでawaitして、upのチェックができないタイミングがあるから",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634192300,
+      "updated": 1634192342
+    },
+    {
+      "id": "6167cbb9385a92000010545f",
+      "text": "   　　for awaitを外側からrejectできないとだめになり、無理になる",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634192314,
+      "updated": 1634192357
+    },
+    {
+      "id": "6167d9321280f00000da4d67",
+      "text": "   　同期的にチェックする[. [/takker/Callbackが呼び出されたことを判定] ]のはどうでしょうか？(未検証)[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634195762,
+      "updated": 1634195788
+    },
+    {
+      "id": "6163a74a1280f000003b035e",
+      "text": "  code:sample.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633920842,
+      "updated": 1633920852
+    },
+    {
+      "id": "61623e061280f00000b0f0bb",
+      "text": "     const upEvent = await mouseUpPromise()",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828358,
+      "updated": 1633828701
+    },
+    {
+      "id": "61623e061280f00000b0f0bc",
+      "text": "     // mouseup時の処理",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828358,
+      "updated": 1633828400
+    },
+    {
+      "id": "61623e061280f00000b0f0bd",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828358,
+      "updated": 1633828358
+    },
+    {
+      "id": "61623da51280f00000b0f090",
+      "text": " 　code:listen.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828262,
+      "updated": 1633828335
+    },
+    {
+      "id": "61623db21280f00000b0f094",
+      "text": "   function getPromise() {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f095",
+      "text": "     let _resolve;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f096",
+      "text": "     const update = () => new Promise((res) => _resolve = res);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f097",
+      "text": "     const resolve = (value) => _resolve(value);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f098",
+      "text": "     return [update, resolve];",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f099",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623ee71280f00000b0f0c4",
+      "text": "   ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828583,
+      "updated": 1633828583
+    },
+    {
+      "id": "61623f3b1280f00000b0f0c7",
+      "text": "  ↑cf. [/miyamonz/usePromiseResolve]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828667,
+      "updated": 1633828671
+    },
+    {
+      "id": "61623f341280f00000b0f0c6",
+      "text": "  code:listen.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828661,
+      "updated": 1633828665
+    },
+    {
+      "id": "61623db21280f00000b0f09a",
+      "text": "   export async function* listen(element, type) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828325
+    },
+    {
+      "id": "61623db21280f00000b0f09b",
+      "text": "     const [update, resolve] = getPromise();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f09c",
+      "text": "     let done;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f09d",
+      "text": "     const callback = e => resolve(e);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f09e",
+      "text": "     element.addEventListener(type, callback);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828315
+    },
+    {
+      "id": "61623db21280f00000b0f09f",
+      "text": "     try {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a1",
+      "text": "       while (true) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a2",
+      "text": "         const event = await done;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a3",
+      "text": "         done = update();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a4",
+      "text": "         yield event;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a5",
+      "text": "       }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a6",
+      "text": "     } finally {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a7",
+      "text": "       // 後始末",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0a9",
+      "text": "       element.removeEventListener(type, callback);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828317
+    },
+    {
+      "id": "61623db21280f00000b0f0aa",
+      "text": "     }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "61623db21280f00000b0f0ab",
+      "text": "   }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828274,
+      "updated": 1633828274
+    },
+    {
+      "id": "6163d808385a9200003dea3e",
+      "text": "  [miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933321,
+      "updated": 1633933324
+    },
+    {
+      "id": "6163d80b385a9200003dea3f",
+      "text": "   memo",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933324,
+      "updated": 1633933325
+    },
+    {
+      "id": "6163d84b385a9200003dea45",
+      "text": "    後でもうちょっと見ます",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933387,
+      "updated": 1633933394
+    },
+    {
+      "id": "6163d829385a9200003dea43",
+      "text": "   update->getPromise",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933354,
+      "updated": 1633933358
+    },
+    {
+      "id": "6163d889385a9200003dea46",
+      "text": "   最初のwhile ループでdoneに代入がされてないかeventがundefinedにならないか？",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933449,
+      "updated": 1633933479
+    },
+    {
+      "id": "61663b1c1280f00000bbed64",
+      "text": "    本当だ。確かにundefinedですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634089756,
+      "updated": 1634089771
+    },
+    {
+      "id": "61663b2b1280f00000bbed65",
+      "text": "     [- じゃあなんでこれで動いたんだろう……？]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634089771,
+      "updated": 1634089849
+    },
+    {
+      "id": "61663b791280f00000bbed66",
+      "text": "     単に最初に`undefined`が返ってくるだけで、エラーにはならないからか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634089849,
+      "updated": 1634089875
+    },
+    {
+      "id": "61663b941280f00000bbed67",
+      "text": "     　でもこの挙動は確かにおかしいですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634089875,
+      "updated": 1634089882
+    },
+    {
+      "id": "6163d80c385a9200003dea40",
+      "text": "   code:js",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933325,
+      "updated": 1633933330
+    },
+    {
+      "id": "6163d812385a9200003dea41",
+      "text": "    while(true) {\t",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933330,
+      "updated": 1633933336
+    },
+    {
+      "id": "6163d817385a9200003dea42",
+      "text": "      yeild await update()",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933336,
+      "updated": 1633933352
+    },
+    {
+      "id": "6163d830385a9200003dea44",
+      "text": "    }",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1633933360,
+      "updated": 1633933362
+    },
+    {
+      "id": "6167c97e385a920000105458",
+      "text": "   whileの部分、これでよいのでは？[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634191742,
+      "updated": 1634191750
+    },
+    {
+      "id": "6167c987385a920000105459",
+      "text": "   　動かしてないので想像だけど",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634191751,
+      "updated": 1634191772
+    },
+    {
+      "id": "6167d8cd1280f00000da4d63",
+      "text": "   　これでよかったです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634195660,
+      "updated": 1634195666
+    },
+    {
+      "id": "6167d8fa1280f00000da4d65",
+      "text": "   　　動作確認しました[. [/takker/Async Generatorを外部から中断する#61663d781280f000008a815f] ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634195705,
+      "updated": 1634195705
+    },
+    {
+      "id": "6167d8fc1280f00000da4d66",
+      "text": "   mousemoveをmouseupされるまでemitするとかの処理を良い抽象作ろうとすると[rxjs]使えよって話になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634195708,
+      "updated": 1634195708
+    },
+    {
+      "id": "61663bb11280f00000bbed68",
+      "text": "    この素振りをした後にrxjsについて詳しくなったので、この時点でrxjs使うのは考えてなかった[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634089905,
+      "updated": 1634102946
+    },
+    {
+      "id": "616741566668720000101b37",
+      "text": " めちゃくちゃ面白い[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634156886,
+      "updated": 1634156896
+    },
+    {
+      "id": "616741b06668720000101b39",
+      "text": " 　僕もアイデアがあるので書き直してみます",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634156976,
+      "updated": 1634157118
+    },
+    {
+      "id": "6167423e6668720000101b3a",
+      "text": " 　code:baseline.js",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634157119,
+      "updated": 1634166986
+    },
+    {
+      "id": "616742ab6668720000101b3c",
+      "text": " 　 // ベースライン実装",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634157227,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b40",
+      "text": "   function mouseDown(event) {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b41",
+      "text": "     console.group(\"mouseEvent\");",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b42",
+      "text": "     console.log({ mouseDown: event, time: event.timeStamp });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b43",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b44",
+      "text": "     window.removeEventListener(\"mousemove\", mouseMove);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b45",
+      "text": "     window.addEventListener(\"mousemove\", mouseMove);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b46",
+      "text": "     window.removeEventListener(\"mouseup\", mouseUp);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b47",
+      "text": "     window.addEventListener(\"mouseup\", mouseUp);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b48",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b49",
+      "text": "     const downPos = { x: event.clinetX, y: event.clientY };",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b4a",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b4b",
+      "text": "     function mouseMove(event) {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b4c",
+      "text": "       console.log({ mouseMove: event, time: event.timeStamp });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b4d",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b4e",
+      "text": "       // downPos",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b4f",
+      "text": "     }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b50",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b51",
+      "text": "     function mouseUp(event) {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b52",
+      "text": "       console.log({ mouseUp: event, time: event.timeStamp });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b53",
+      "text": "       window.removeEventListener(\"mouseup\", mouseUp);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b54",
+      "text": "       window.removeEventListener(\"mousemove\", mouseMove);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b55",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b56",
+      "text": "       console.groupEnd(\"mouseEvent\");",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b57",
+      "text": "     }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b58",
+      "text": "   }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b59",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "616768e56668720000101b5a",
+      "text": "   window.addEventListener(\"mousedown\", mouseDown);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167014,
+      "updated": 1634167014
+    },
+    {
+      "id": "6167694a6668720000101b9c",
+      "text": "  console.groupを使って、mouseDown ~ mouseUpをグループ化して表示する",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167114,
+      "updated": 1634167167
+    },
+    {
+      "id": "6167695a6668720000101b9d",
+      "text": "   多重呼び出しがあればみてすぐにわかるようになる",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167130,
+      "updated": 1634167134
+    },
+    {
+      "id": "6168303f1280f0000031a56e",
+      "text": "   [console.group()][/icons/知らんかった.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634218047,
+      "updated": 1634218079
+    },
+    {
+      "id": "61676ef36668720000101c28",
+      "text": "  この実装が一番いいような気もしないでもない",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168563,
+      "updated": 1634168583
+    },
+    {
+      "id": "6167705e6668720000101c2b",
+      "text": "  thenチェーンで柔軟性を高めた実装",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168927,
+      "updated": 1634168943
+    },
+    {
+      "id": "6167692f6668720000101b5c",
+      "text": "  code:promise.js",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167088,
+      "updated": 1634167102
+    },
+    {
+      "id": "616769416668720000101b5d",
+      "text": "   const controller = new AbortController();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167105,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101be6",
+      "text": "   const signal = controller.signal;",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101be7",
+      "text": "   function onAbort() {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101be8",
+      "text": "     console.log(\"aborted\");",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101be9",
+      "text": "   }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676e386668720000101c27",
+      "text": "   // controller.abort();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168377,
+      "updated": 1634168387
+    },
+    {
+      "id": "61676ce66668720000101bea",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101beb",
+      "text": "   let promise = Promise.resolve();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bec",
+      "text": "   const update = () => {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bed",
+      "text": "     promise = promise.then(mouseDownChain).then(onMouseDown, onAbort);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bee",
+      "text": "     // .catch(onHandleError);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bef",
+      "text": "   };",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf0",
+      "text": "   update();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf1",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf2",
+      "text": "   function mouseDownChain() {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf3",
+      "text": "     return new Promise((resolve, reject) => {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf4",
+      "text": "       window.addEventListener(\"mousedown\", resolve);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf5",
+      "text": "       signal.addEventListener(\"abort\", reject);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf6",
+      "text": "     });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf7",
+      "text": "   }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf8",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bf9",
+      "text": "   function mouseMoveChain() {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bfa",
+      "text": "     return new Promise((resolve, reject) => {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bfb",
+      "text": "       window.addEventListener(\"mousemove\", resolve);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bfc",
+      "text": "       window.addEventListener(\"mouseup\", reject);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bfd",
+      "text": "     });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bfe",
+      "text": "   }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101bff",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c00",
+      "text": "   function onMouseDown(event) {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c01",
+      "text": "     console.group(\"mouseEvent\");",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c02",
+      "text": "     console.log({ mouseDown: event, time: event.timeStamp });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c03",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c04",
+      "text": "     update();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c05",
+      "text": "     let movingPromise = Promise.resolve();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c06",
+      "text": "     const innerUpdate = () => {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c07",
+      "text": "       movingPromise = movingPromise",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c08",
+      "text": "         .then(mouseMoveChain)",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c09",
+      "text": "         .then(onMouseMove, onMouseUp);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c0a",
+      "text": "       // .catch(onHandleError);",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c0b",
+      "text": "     };",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c0c",
+      "text": "     innerUpdate();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c0d",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c0e",
+      "text": "     const downPos = { x: event.clinetX, y: event.clientY };",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c0f",
+      "text": "     /* mousedown */",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168310
+    },
+    {
+      "id": "61676ce66668720000101c12",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c13",
+      "text": "     function onMouseMove(event) {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c14",
+      "text": "       console.log({ mouseMove: event, time: event.timeStamp });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c15",
+      "text": "       innerUpdate();",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c16",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c17",
+      "text": "       /*　　mousemove　　*/",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168286
+    },
+    {
+      "id": "61676ce66668720000101c1a",
+      "text": "     }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c1b",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c1c",
+      "text": "     function onMouseUp(event) {",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c1d",
+      "text": "       console.log({ mouseUp: event, time: event.timeStamp });",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c1e",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c1f",
+      "text": "       /*　 mouseup　　*/",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168273
+    },
+    {
+      "id": "61676ce66668720000101c22",
+      "text": "   ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c23",
+      "text": "       console.groupEnd(\"mouseEvent\");",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c24",
+      "text": "     }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "61676ce66668720000101c25",
+      "text": "   }",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168039,
+      "updated": 1634168039
+    },
+    {
+      "id": "616769c96668720000101b9e",
+      "text": "  こうしてみるとお二人のよりかなり長い？",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167241,
+      "updated": 1634168142
+    },
+    {
+      "id": "616769d26668720000101b9f",
+      "text": "  　割と「ちゃんと」書いてしまった",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167251,
+      "updated": 1634167262
+    },
+    {
+      "id": "61676d9a6668720000101c26",
+      "text": "  　コメントとかconsole APIを削ればそうでもないかもしれない",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168219,
+      "updated": 1634168236
+    },
+    {
+      "id": "616769e06668720000101ba0",
+      "text": "  利点",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167264,
+      "updated": 1634168188
+    },
+    {
+      "id": "616769f36668720000101ba1",
+      "text": "  　abort対応済み",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634167284,
+      "updated": 1634234947
+    },
+    {
+      "id": "616872421280f0000026e2d4",
+      "text": "  　　これって[AbortController]じゃないと実現できないのだろうか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634234947,
+      "updated": 1634234956
+    },
+    {
+      "id": "6168724c1280f0000026e2d5",
+      "text": "  　　 Promiseの外側で`reject`をできるようにすれば同様のことができそうだが",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634234956,
+      "updated": 1634235003
+    },
+    {
+      "id": "616b69bf6668720000678460",
+      "text": "  　　 普通にできます！[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634429376,
+      "updated": 1634429381
+    },
+    {
+      "id": "616b69c56668720000678461",
+      "text": "  　　 　お好きなテイストでどうぞ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634429381,
+      "updated": 1634429389
+    },
+    {
+      "id": "616b69cd6668720000678462",
+      "text": "  　　 　僕はresolve/reject持ち出しパターンがあまり好きでない（）",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634429389,
+      "updated": 1634429408
+    },
+    {
+      "id": "616b6ffc6668720000678471",
+      "text": "  　　 　　[yuki_minoh.icon]的にはBad Practiceのような気がしている。。。",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634430973,
+      "updated": 1634430999
+    },
+    {
+      "id": "61676a4c6668720000101ba2",
+      "text": "  　エラー処理も簡単",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167373,
+      "updated": 1634168351
+    },
+    {
+      "id": "61676adb6668720000101ba5",
+      "text": "  　 拡張性が高い",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634167516,
+      "updated": 1634168699
+    },
+    {
+      "id": "61676f7b6668720000101c29",
+      "text": "  　 　thenチェーンの組み替えによる処理の変更、catch functionの追加によるエラー処理、resolve, reject条件の変更など",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168700,
+      "updated": 1634169122
+    },
+    {
+      "id": "61676f8b6668720000101c2a",
+      "text": "  　 chain functionを切り出せているのが特に強みかもしれない",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634168716,
+      "updated": 1634169151
+    },
+    {
+      "id": "616772376668720000101c2c",
+      "text": "  　 　resolve, reject条件の変更ができると、待機条件やthrow errorとかに柔軟性が出る（多分）",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634169400,
+      "updated": 1634169435
+    },
+    {
+      "id": "616780476668720000101c2d",
+      "text": "  書いたあとに[三者三様のイベントハンドリングを掛け合わせて究極のハンドリングパターンを実現する]アイデアが浮かんだので後で書きます[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634173000,
+      "updated": 1634323600
+    },
+    {
+      "id": "6167cc27385a920000105461",
+      "text": "  せっかく書いてもらったのにコードが何やっているか分からない…[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634192424,
+      "updated": 1634192436
+    },
+    {
+      "id": "6167cc35385a920000105462",
+      "text": "  　[@miyamonz#616768e56668720000101b44]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634192437,
+      "updated": 1634192454
+    },
+    {
+      "id": "6167cc47385a920000105463",
+      "text": "  　ここらへん、removeしたあとにすぐaddしてるのはなぜ？",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634192455,
+      "updated": 1634192469
+    },
+    {
+      "id": "6167f3cc66687200002b2d9e",
+      "text": "  　 ナイーブに実装したらイベントハンドラが重複して困ったので、一つのイベントに対して一つのハンドラだけが応答するように調整したらこうなりました[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634202577,
+      "updated": 1634202671
+    },
+    {
+      "id": "6167f42166687200002b2d9f",
+      "text": "  　 　唯一性を担保するのが面倒だからremoveとaddを同時にやってます。。。",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1634202662,
+      "updated": 1634202728
+    },
+    {
+      "id": "616842d7385a920000d6d57e",
+      "text": "  　 ここがなんども呼び出される前提で、初回のremoveは無視させるということか、理解しました[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634222808,
+      "updated": 1634222836
+    },
+    {
+      "id": "61623d4f1280f00000b0f08c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1633828176,
+      "updated": 1633828176
     },
     {
       "id": "612cb3391280f00000372604",

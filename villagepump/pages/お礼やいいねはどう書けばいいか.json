@@ -2,7 +2,7 @@
   "id": "5ff7962064b58c001d5db684",
   "title": "お礼やいいねはどう書けばいいか",
   "created": 1610061355,
-  "updated": 1610200557,
+  "updated": 1633861131,
   "lines": [
     {
       "id": "5ff7962064b58c001d5db684",
@@ -227,6 +227,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610077778,
       "updated": 1610077788
+    },
+    {
+      "id": "6162be055b98c2000065cf17",
+      "text": "   [/Icons2/You're welcome!.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1633861125,
+      "updated": 1633861131
     },
     {
       "id": "5ff85fece5172d000004932f",

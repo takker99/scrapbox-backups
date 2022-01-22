@@ -2,7 +2,7 @@
   "id": "608583405b152d001edfe4fd",
   "title": "調子が悪い時の振舞い方を定型化したい",
   "created": 1619362627,
-  "updated": 1621744052,
+  "updated": 1635787751,
   "lines": [
     {
       "id": "608583405b152d001edfe4fd",
@@ -90,10 +90,10 @@
     },
     {
       "id": "60909d7879d3a90000d1a46e",
-      "text": "\t\t作業ログを書く[sta.icon][dnin.icon]",
-      "userId": "6055950b87138f0022246f59",
+      "text": "\t\t作業ログを書く[sta.icon][dnin.icon][daiiz.icon]",
+      "userId": "582c1eccb4f1d40011adf4e7",
       "created": 1620090234,
-      "updated": 1620090278
+      "updated": 1635780529
     },
     {
       "id": "60909d7e79d3a90000d1a46f",
@@ -136,6 +136,13 @@
       "userId": "5ad57975d54cd50014068484",
       "created": 1620137814,
       "updated": 1620138740
+    },
+    {
+      "id": "618023b3e5172d0000a74801",
+      "text": "\t\t\tScrapboxのおかげで常に作業ログを書く習慣がついた[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635787700,
+      "updated": 1635787751
     },
     {
       "id": "6085da4fe5172d0000230f5f",
@@ -241,6 +248,13 @@
       "userId": "6055950b87138f0022246f59",
       "created": 1620088359,
       "updated": 1621744049
+    },
+    {
+      "id": "61802376e5172d0000a74800",
+      "text": " こういうふうに意志強く休めるようになりたい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1635787638,
+      "updated": 1635787678
     },
     {
       "id": "60a9d9af246f59000069964b",

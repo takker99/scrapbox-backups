@@ -2,7 +2,7 @@
   "id": "60a687b9bf7158001c1c33d4",
   "title": "数式をpreviewするUserScript",
   "created": 1621526463,
-  "updated": 1628287401,
+  "updated": 1639049850,
   "lines": [
     {
       "id": "60a687b9bf7158001c1c33d4",
@@ -12,18 +12,235 @@
       "updated": 1621526463
     },
     {
+      "id": "6191f04e1280f00000fae763",
+      "text": "[LaTeX記法]をリアルタイムで表示するUserScript",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954190,
+      "updated": 1636954209
+    },
+    {
+      "id": "6191f0a11280f00000fae787",
+      "text": " [https://gyazo.com/15929506031f2af064957e912639db9e]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954273,
+      "updated": 1636954309
+    },
+    {
+      "id": "6191f0c61280f00000fae789",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954310,
+      "updated": 1636954310
+    },
+    {
+      "id": "6191f1041280f00000fae79a",
+      "text": "目的",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954372,
+      "updated": 1636954372
+    },
+    {
+      "id": "6191f1041280f00000fae79b",
+      "text": " [LaTeX記法]を書き込んでいる間に、どのような数式になるのかreal-timeで確認したい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954372,
+      "updated": 1636954372
+    },
+    {
+      "id": "6191f1041280f00000fae79c",
+      "text": " 数式をミスったときに、どこをミスったのか分かるようにしたい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954372,
+      "updated": 1636954372
+    },
+    {
+      "id": "6191f1041280f00000fae79d",
+      "text": " 元ネタ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954372,
+      "updated": 1636954372
+    },
+    {
+      "id": "6191f1041280f00000fae79e",
+      "text": "  [/forum-jp/texのリアルタイムプレビューが欲しい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954372,
+      "updated": 1636954372
+    },
+    {
+      "id": "6191f1061280f00000fae79f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954375,
+      "updated": 1636954375
+    },
+    {
+      "id": "6191f0cb1280f00000fae78a",
+      "text": "new version",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954316,
+      "updated": 1636954321
+    },
+    {
+      "id": "6191f0d31280f00000fae78f",
+      "text": " [/icons/github.icon][https://github.com/takker99/scrapbox-katex-previewer takker99/scrapbox-katex-previewer]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954324,
+      "updated": 1636954324
+    },
+    {
+      "id": "6191f0d31280f00000fae790",
+      "text": " [/takker/scrapbox-katex-previewer]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954324,
+      "updated": 1636954324
+    },
+    {
+      "id": "6191f13f1280f00000fae7a1",
+      "text": " 使い方",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954432,
+      "updated": 1636954434
+    },
+    {
+      "id": "6191f1541280f00000fae7a5",
+      "text": "  1. 以下のいずれかから取得したコードを適当なページの適当なコードブロックに貼り付ける",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954453,
+      "updated": 1636954555
+    },
+    {
+      "id": "6191f14e1280f00000fae7a3",
+      "text": "   [get nightly bundled code https://scrapbox-bundler.vercel.app?url=https://raw.githubusercontent.com/takker99/scrapbox-katex-previewer/main/App.tsx&bundle&minify&run&reload]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954447,
+      "updated": 1639049840
+    },
+    {
+      "id": "6191f14e1280f00000fae7a4",
+      "text": "   [get v0.1.2 bundled code https://scrapbox-bundler.vercel.app?url=https://raw.githubusercontent.com/takker99/scrapbox-katex-previewer/0.1.2/App.tsx&bundle&minify&run]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954447,
+      "updated": 1639049850
+    },
+    {
+      "id": "6191f1bc1280f00000fae7a6",
+      "text": "   以下、プロジェクト`user`のページ`scrapbox-katex-previewer`の`script.js`に貼り付けたと仮定する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954556,
+      "updated": 1636954601
+    },
+    {
+      "id": "6191f1da1280f00000fae7a7",
+      "text": "  2. 以下を自分のページに貼り付ける",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954586,
+      "updated": 1636954616
+    },
+    {
+      "id": "6191f1f81280f00000fae7a8",
+      "text": "   code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954616,
+      "updated": 1636954619
+    },
+    {
+      "id": "6191f1fa1280f00000fae7a9",
+      "text": "    import {mount} from \"/api/code/user/scrapbox-katex-previewer/script.js\";",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954619,
+      "updated": 1636954641
+    },
+    {
+      "id": "6191f2111280f00000fae7aa",
+      "text": "    mount();",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954641,
+      "updated": 1636954649
+    },
+    {
+      "id": "6191f30f1280f00000fae7ae",
+      "text": "  3. おしまい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954896,
+      "updated": 1636954899
+    },
+    {
+      "id": "6191f0d61280f00000fae791",
+      "text": " 変更点",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954327,
+      "updated": 1636954331
+    },
+    {
+      "id": "6191f11f1280f00000fae7a0",
+      "text": "  開発環境をGit+Vim+Deno+TSXに移行した",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954400,
+      "updated": 1636954695
+    },
+    {
+      "id": "6191f2321280f00000fae7ab",
+      "text": "  [scrapbox-bundler]でコードを提供するようにした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954674,
+      "updated": 1636954694
+    },
+    {
+      "id": "6191f3261280f00000fae7af",
+      "text": "   ユーザーは上記のリンク[. [数式をpreviewするUserScript#6191f14e1280f00000fae7a3] ]を踏むだけでbundle済みコードを取得できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954918,
+      "updated": 1636954954
+    },
+    {
+      "id": "6191f0da1280f00000fae792",
+      "text": "  [TeX表記にプレビュー機能が付いている]のと干渉しないようにした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954331,
+      "updated": 1636954350
+    },
+    {
+      "id": "6191f0ef1280f00000fae794",
+      "text": "  エラー表示を分かりやすくした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954352,
+      "updated": 1636954357
+    },
+    {
+      "id": "6191f0611280f00000fae764",
+      "text": "   [https://gyazo.com/862ad3981b66d907a324b9bc23162314]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954209,
+      "updated": 1636954358
+    },
+    {
+      "id": "6191f0451280f00000fae762",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954182,
+      "updated": 1636954182
+    },
+    {
+      "id": "6191f0361280f00000fae761",
+      "text": "old version",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636954166,
+      "updated": 1636954179
+    },
+    {
       "id": "60a6ea591280f000005902cd",
-      "text": "[/programming-notes/数式をpreviewするUserScript]",
+      "text": " [/programming-notes/数式をpreviewするUserScript]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1621551705,
-      "updated": 1621551708
+      "updated": 1636954180
     },
     {
       "id": "60a6ea5a1280f000005902ce",
-      "text": " [https://gyazo.com/52ef50b5ef74eb17cbaf365571af1d80]",
+      "text": "  [https://gyazo.com/52ef50b5ef74eb17cbaf365571af1d80]",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1621551705,
-      "updated": 1621551716
+      "updated": 1636954180
     },
     {
       "id": "60a6ea661280f000005902cf",
@@ -31,41 +248,6 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1621551717,
       "updated": 1621551717
-    },
-    {
-      "id": "60a687ca1280f000000a1a58",
-      "text": "目的",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1621526474,
-      "updated": 1621526505
-    },
-    {
-      "id": "60a687e91280f000000a1a5b",
-      "text": " [LaTeX記法]を書き込んでいる間に、どのような数式になるのかreal-timeで確認したい",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1621526505,
-      "updated": 1621526556
-    },
-    {
-      "id": "60a6881c1280f000000a1a5c",
-      "text": " 数式をミスったときに、どこをミスったのか分かるようにしたい",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1621526556,
-      "updated": 1621526576
-    },
-    {
-      "id": "60a6884b1280f000000a1a5f",
-      "text": " 元ネタ",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1621526604,
-      "updated": 1621526604
-    },
-    {
-      "id": "60a6884c1280f000000a1a60",
-      "text": "  [/forum-jp/texのリアルタイムプレビューが欲しい]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1621526604,
-      "updated": 1621526605
     },
     {
       "id": "60a688481280f000000a1a5d",

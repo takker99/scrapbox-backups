@@ -2,7 +2,7 @@
   "id": "5f7e5be666f0a4002518d1b4",
   "title": "スマホからscrapbox編集する人",
   "created": 1602116588,
-  "updated": 1629832726,
+  "updated": 1638526663,
   "lines": [
     {
       "id": "5f7e5be666f0a4002518d1b4",
@@ -24,6 +24,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1602116624,
       "updated": 1602116624
+    },
+    {
+      "id": "61a99e7bd1a02f00002efdba",
+      "text": "[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1638506108,
+      "updated": 1638506110
     },
     {
       "id": "5f7e5c101280f000001531ac",
@@ -76,17 +83,17 @@
     },
     {
       "id": "5f7e5c571280f000001531b2",
-      "text": "　　でかけているとき[dnin.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "　　でかけているとき[dnin.icon][増井俊之.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1602116695,
-      "updated": 1613112349
+      "updated": 1638499986
     },
     {
       "id": "5f7e8140a9f47400006ce930",
-      "text": "　　ベッドサイド[dnin.icon][air34n.icon]",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": "　　ベッドサイド[dnin.icon][air34n.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1602126145,
-      "updated": 1613112349
+      "updated": 1638499990
     },
     {
       "id": "5f7e83181d860a000009eb01",
@@ -356,10 +363,59 @@
     },
     {
       "id": "5f7fb16a1280f00000917991",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "\t全くやらない[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1602204010,
-      "updated": 1602204026
+      "updated": 1638526413
+    },
+    {
+      "id": "61a9edcc79d3a90000949389",
+      "text": "\t\tスマホを持っていない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526413,
+      "updated": 1638526415
+    },
+    {
+      "id": "61a9edce79d3a9000094938a",
+      "text": "\t\t仮に持っているとしても、たぶん使わないと思う",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526415,
+      "updated": 1638526436
+    },
+    {
+      "id": "61a9ede379d3a9000094938b",
+      "text": "\t\t\t慣れたキーボードと広い画面 + 集中できる精神状態で生産的にやりたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526436,
+      "updated": 1638526463
+    },
+    {
+      "id": "61a9ee8279d3a90000949392",
+      "text": "\t\tただスマホ（今はガラケーだが）でもメモはする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526595,
+      "updated": 1638526663
+    },
+    {
+      "id": "61a9ee2d79d3a9000094938e",
+      "text": "\t\t\tそのメモをあとでScrapboxに放り込んで、続きは生産的環境でがっつりこねる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526663,
+      "updated": 1638526663
+    },
+    {
+      "id": "61a9ee4279d3a9000094938f",
+      "text": "\t\t\tそのときまで内容が失われない程度に、メモはリッチにしておく",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526663,
+      "updated": 1638526663
+    },
+    {
+      "id": "61a9ee5279d3a90000949390",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638526547,
+      "updated": 1638526572
     },
     {
       "id": "5f7fb1851280f00000917992",

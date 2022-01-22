@@ -2,7 +2,7 @@
   "id": "60302581737ad1001c525303",
   "title": "3Dプリンタ",
   "created": 1613768067,
-  "updated": 1613786855,
+  "updated": 1642594361,
   "lines": [
     {
       "id": "60302581737ad1001c525303",
@@ -62,10 +62,31 @@
     },
     {
       "id": "60306ebb8ee92a00003e1103",
-      "text": "",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "\tFDMのものを持ってます[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
       "created": 1613786811,
-      "updated": 1613786811
+      "updated": 1642594290
+    },
+    {
+      "id": "61e8001e6eb4060000ca9451",
+      "text": "\t\thttps://inajob.hatenablog.jp/entry/2017/04/10/3Dプリンタを買った",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642594339,
+      "updated": 1642594340
+    },
+    {
+      "id": "61e800206eb4060000ca9452",
+      "text": "\t\t2万ちょっとでした",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642594341,
+      "updated": 1642594361
+    },
+    {
+      "id": "61e800306eb4060000ca9453",
+      "text": "\t\t2017年か・・長持ちだな",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642594357,
+      "updated": 1642594357
     },
     {
       "id": "603026e28ee92a0000fc26a0",

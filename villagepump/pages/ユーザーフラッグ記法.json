@@ -1,0 +1,120 @@
+{
+  "id": "61adcccaf051ee001dd5e859",
+  "title": "ユーザーフラッグ記法",
+  "created": 1638780112,
+  "updated": 1640934657,
+  "lines": [
+    {
+      "id": "61adcccaf051ee001dd5e859",
+      "text": "ユーザーフラッグ記法",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638780112,
+      "updated": 1638780112
+    },
+    {
+      "id": "61adcccf6668720000bd6847",
+      "text": "[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638780112,
+      "updated": 1638780120
+    },
+    {
+      "id": "61adccd86668720000bd6848",
+      "text": "　公式のユーザーフラグのCSSをいじって実装しました[> 美濃佑輝]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638780122,
+      "updated": 1638780207
+    },
+    {
+      "id": "61adccd96668720000bd6849",
+      "text": "  偽物のフラグだと思ったら、本物も重なってたw[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638780122,
+      "updated": 1638780227
+    },
+    {
+      "id": "61adcd351280f0000049491e",
+      "text": "　　めっちゃわかるｗ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638780213,
+      "updated": 1638780255
+    },
+    {
+      "id": "61adcd4a6668720000bd684b",
+      "text": "　　　ほぼ見分けつかないですｗ",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638780236,
+      "updated": 1638780245
+    },
+    {
+      "id": "61adcd446668720000bd684a",
+      "text": "\t\t\tこれはすごいｗ[sta.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638780230,
+      "updated": 1638792272
+    },
+    {
+      "id": "61ade6f579d3a900005db9f0",
+      "text": "\t\t\t\t見分けつかなくて笑ってしまう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638786806,
+      "updated": 1638786810
+    },
+    {
+      "id": "61ade70579d3a900005db9f1",
+      "text": "\t\t\t\t[> sta]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1638786822,
+      "updated": 1638786825
+    },
+    {
+      "id": "61ade7ba6668720000918091",
+      "text": "\t\t\t元祖に褒められた！これはうれしい[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638787001,
+      "updated": 1638787091
+    },
+    {
+      "id": "61ade70d79d3a900005db9f2",
+      "text": "  ん？てことは公式も旗の棒を疑似要素`|`で実装していたということ？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638786830,
+      "updated": 1638792120
+    },
+    {
+      "id": "61adfbb71280f00000ef6b74",
+      "text": "   それとも単に`<div></div>`のかわりに`|`を使っているだけかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638792120,
+      "updated": 1638792153
+    },
+    {
+      "id": "61ae00776668720000ef4ec2",
+      "text": "   公式は疑似要素使ってないっすね[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638793336,
+      "updated": 1638793355
+    },
+    {
+      "id": "61ae008a6668720000ef4ec3",
+      "text": "   　公式の実装はコンテナで棒を書いて中身で旗",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638793356,
+      "updated": 1638793465
+    },
+    {
+      "id": "61ae00f96668720000ef4ec4",
+      "text": "   　装飾記法はそれができないから旗を作ってから棒を付け足している",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1638793467,
+      "updated": 1638793541
+    },
+    {
+      "id": "61ceacf98ee92a0000f87d0b",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1640934650,
+      "updated": 1640934650
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "61af1bb7fc79a5002325f1a7",
+  "title": "キャレット",
+  "created": 1638865849,
+  "updated": 1638865917,
+  "lines": [
+    {
+      "id": "61af1bb7fc79a5002325f1a7",
+      "text": "キャレット",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638865849,
+      "updated": 1638865870
+    },
+    {
+      "id": "61af1bfbe5172d0000ddb1f8",
+      "text": "caret",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638865916,
+      "updated": 1638865917
+    },
+    {
+      "id": "61af1bcee5172d0000ddb1f6",
+      "text": " `^`のこと",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638865870,
+      "updated": 1638865877
+    },
+    {
+      "id": "61af1bece5172d0000ddb1f7",
+      "text": " 文字の入力位置を示す縦棒のこと",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638865900,
+      "updated": 1638865904
+    },
+    {
+      "id": "61af1bb9e5172d0000ddb1f4",
+      "text": "　 [https://gyazo.com/c3dc7cedc20c0fc0fbdd337ab57deacb https://wa3.i-3-i.info/word11591.html]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638865849,
+      "updated": 1638865905
+    },
+    {
+      "id": "61af1bb9e5172d0000ddb1f5",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638865850,
+      "updated": 1638865850
+    }
+  ]
+}

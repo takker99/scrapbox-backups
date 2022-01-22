@@ -1,0 +1,36 @@
+{
+  "id": "61dee2e325167d001d51e12e",
+  "title": "第5x曜日は一年に何回登場するか",
+  "created": 1641997030,
+  "updated": 1641997261,
+  "lines": [
+    {
+      "id": "61dee2e325167d001d51e12e",
+      "text": "第5x曜日は一年に何回登場するか",
+      "userId": "61d72bbfba87a90022c41cc7",
+      "created": 1641997030,
+      "updated": 1641997261
+    },
+    {
+      "id": "61dee2f8c41cc70000f978f2",
+      "text": "年によって違う。",
+      "userId": "61d72bbfba87a90022c41cc7",
+      "created": 1641997049,
+      "updated": 1641997056
+    },
+    {
+      "id": "61dee319c41cc70000f978f4",
+      "text": "2022-2032年はどうか。コードで書くとしたら？",
+      "userId": "61d72bbfba87a90022c41cc7",
+      "created": 1641997082,
+      "updated": 1641997106
+    },
+    {
+      "id": "61dee321c41cc70000f978f5",
+      "text": "",
+      "userId": "61d72bbfba87a90022c41cc7",
+      "created": 1641997090,
+      "updated": 1641997090
+    }
+  ]
+}

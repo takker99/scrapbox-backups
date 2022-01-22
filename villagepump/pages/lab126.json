@@ -2,7 +2,7 @@
   "id": "607bdb5c63e739001c2d4234",
   "title": "lab126",
   "created": 1618729824,
-  "updated": 1618730030,
+  "updated": 1634214259,
   "lines": [
     {
       "id": "607bdb5c63e739001c2d4234",
@@ -13,10 +13,10 @@
     },
     {
       "id": "607bdb60246f5900003233b1",
-      "text": "[Amazon]の子会社で、Amazon製品のハードウェアを開発している",
-      "userId": "6055950b87138f0022246f59",
+      "text": "[Amazon]の子会社で、[Kindle]や[Amazon Echo]などAmazon製品のハードウェアを開発している",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1618729825,
-      "updated": 1618729892
+      "updated": 1634214259
     },
     {
       "id": "607bdbea246f5900003233b4",

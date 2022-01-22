@@ -2,7 +2,7 @@
   "id": "5ff7c6b329dddc0022f112df",
   "title": "5種類のマイナス思考",
   "created": 1610073780,
-  "updated": 1618456183,
+  "updated": 1641573650,
   "lines": [
     {
       "id": "5ff7c6b329dddc0022f112df",
@@ -244,10 +244,10 @@
     },
     {
       "id": "5ff7e5018ee92a0000486c75",
-      "text": "[オプティミストはなぜ成功するか https://www.amazon.co.jp/dp/4775941100] という本はおすすめ [増井俊之.icon]",
+      "text": "[オプティミストはなぜ成功するか] という本はおすすめ [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1610081540,
-      "updated": 1610081566
+      "updated": 1638231642
     },
     {
       "id": "5ff7e53c8ee92a0000486c77",
@@ -271,11 +271,11 @@
       "updated": 1610081660
     },
     {
-      "id": "5ff7e5018ee92a0000486c76",
+      "id": "61d86d11d1a02f0000e04dff",
       "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1610081540,
-      "updated": 1610081540
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1641573650,
+      "updated": 1641573650
     }
   ]
 }

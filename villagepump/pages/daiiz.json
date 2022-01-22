@@ -2,7 +2,7 @@
   "id": "60c07702637f0a001c98422f",
   "title": "daiiz",
   "created": 1623226115,
-  "updated": 1623327229,
+  "updated": 1641564297,
   "lines": [
     {
       "id": "60c07702637f0a001c98422f",
@@ -55,10 +55,10 @@
     },
     {
       "id": "60c0b3b7e5172d0000471833",
-      "text": " よろしくです！！[yosider.icon][45Nuyagawa.icon][miyamonz.icon][bluemountain.icon][takker.icon][dnin.icon][kuuote.icon][imo.icon][増井俊之.icon][erniogi.icon][air34n.icon][sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": " よろしくです！！[yosider.icon][45Nuyagawa.icon][miyamonz.icon][bluemountain.icon][takker.icon][dnin.icon][kuuote.icon][imo.icon][増井俊之.icon][erniogi.icon][air34n.icon][sta.icon][基素.icon][Mijinko_SD.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1623241655,
-      "updated": 1623327229
+      "updated": 1641564297
     },
     {
       "id": "60c1557b246f590000a6ea56",
@@ -206,6 +206,111 @@
       "userId": "582c1eccb4f1d40011adf4e7",
       "created": 1623233019,
       "updated": 1623233019
+    },
+    {
+      "id": "61d82aa7adf4e70000493536",
+      "text": "[豆知識SVG]",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556648,
+      "updated": 1641556653
+    },
+    {
+      "id": "61d82a9badf4e70000493528",
+      "text": " code:style.css",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556635,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e7000049352a",
+      "text": "  .quick-launch .project-home .title::after {",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e7000049352b",
+      "text": "    content: ''; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e7000049352c",
+      "text": "    width: 1em; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e7000049352d",
+      "text": "    height: 1em; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e7000049352e",
+      "text": "    margin: 10px; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e7000049352f",
+      "text": "    padding: 8px 0px 0px 360px; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e70000493530",
+      "text": "    position: center bottom; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e70000493531",
+      "text": "    /* background-image: url('https://darui.ninja/mame#.svg'); /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e70000493532",
+      "text": "    background-image: url('https://idy.herokuapp.com/mame#.svg'); /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e70000493533",
+      "text": "    background-size: contain; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e70000493534",
+      "text": "    background-repeat: no-repeat; /* */",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556657
+    },
+    {
+      "id": "61d82a9eadf4e70000493535",
+      "text": "  }",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556638,
+      "updated": 1641556662
+    },
+    {
+      "id": "61d82a9badf4e70000493529",
+      "text": "",
+      "userId": "582c1eccb4f1d40011adf4e7",
+      "created": 1641556635,
+      "updated": 1641556635
     },
     {
       "id": "60c07703adf4e700008f1031",

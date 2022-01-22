@@ -2,7 +2,7 @@
   "id": "6147dd778a7de8001df41dfe",
   "title": "プログラミング言語使いの呼び方",
   "created": 1632099707,
-  "updated": 1632392740,
+  "updated": 1637333137,
   "lines": [
     {
       "id": "6147dd778a7de8001df41dfe",
@@ -178,6 +178,20 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1632118076,
       "updated": 1632375452
+    },
+    {
+      "id": "6197b88819827000007562e9",
+      "text": "\tNixer",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1637333129,
+      "updated": 1637333131
+    },
+    {
+      "id": "6197b88b19827000007562ea",
+      "text": "\t\t[ここ https://nixos.org/guides/nix-pills/inputs-design-pattern.html]に出てきた",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1637333132,
+      "updated": 1637333137
     },
     {
       "id": "614c129379d3a9000064f2f5",

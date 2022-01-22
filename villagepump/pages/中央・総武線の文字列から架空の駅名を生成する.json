@@ -2,7 +2,7 @@
   "id": "604ae2d2dbfc6d0022886284",
   "title": "中央・総武線の文字列から架空の駅名を生成する",
   "created": 1615520469,
-  "updated": 1621500282,
+  "updated": 1633170823,
   "lines": [
     {
       "id": "604ae2d2dbfc6d0022886284",
@@ -13,10 +13,10 @@
     },
     {
       "id": "609cccf5246f5900007d711d",
-      "text": "https://idy.herokuapp.com/jbr",
-      "userId": "6055950b87138f0022246f59",
+      "text": "https://idy.herokuapp.com/jb",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1620888831,
-      "updated": 1620888831
+      "updated": 1633170823
     },
     {
       "id": "604ae33eb19cc300009ce77d",

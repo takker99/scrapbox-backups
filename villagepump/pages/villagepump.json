@@ -2,7 +2,7 @@
   "id": "5f92af872aaf26002214a32b",
   "title": "villagepump",
   "created": 1603448782,
-  "updated": 1620528688,
+  "updated": 1641548791,
   "lines": [
     {
       "id": "5f92af872aaf26002214a32b",
@@ -150,6 +150,41 @@
       "userId": "5f7bafa76f34a0001ea9f474",
       "created": 1603460372,
       "updated": 1603460372
+    },
+    {
+      "id": "61d7a88a1280f000009fa728",
+      "text": "村の井戸かあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641523338,
+      "updated": 1641523345
+    },
+    {
+      "id": "61d7a8911280f000009fa72a",
+      "text": " どんな村なのだろうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641523345,
+      "updated": 1641523351
+    },
+    {
+      "id": "61d7a89b1280f000009fa72b",
+      "text": "[/villagepump]を村のメタファーで捉えられるか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1641523356,
+      "updated": 1641523379
+    },
+    {
+      "id": "61d7a88c1280f000009fa729",
+      "text": " まあ、[自給自足]だし、村っぽいイメージはあるなあ [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1641523341,
+      "updated": 1641548791
+    },
+    {
+      "id": "61d80bab5b98c20000762df5",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1641548715,
+      "updated": 1641548715
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "5f9e1c130bcfac001e75582b",
   "title": "用途特化系ガジェットから離れていく人たち",
   "created": 1604197397,
-  "updated": 1613182800,
+  "updated": 1633961218,
   "lines": [
     {
       "id": "5f9e1c130bcfac001e75582b",
@@ -12,88 +12,46 @@
       "updated": 1604197397
     },
     {
-      "id": "5f9e1c15a9f47400002f9a97",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604197397,
-      "updated": 1604197397
-    },
-    {
       "id": "5f9e1c15a9f47400002f9a98",
-      "text": "Kindle",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [Kindle]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604197397,
-      "updated": 1604197399
-    },
-    {
-      "id": "5f9e1c17a9f47400002f9a9a",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604197399,
-      "updated": 1604197399
+      "updated": 1633942929
     },
     {
       "id": "5f9e1c17a9f47400002f9a9b",
-      "text": "ポメラ",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [ポメラ]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604197399,
-      "updated": 1604197402
-    },
-    {
-      "id": "5f9e1c1aa9f47400002f9a9c",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604197402,
-      "updated": 1604197402
+      "updated": 1633942929
     },
     {
       "id": "5f9e1c1aa9f47400002f9a9d",
-      "text": "電子辞書",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [電子辞書]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604197402,
-      "updated": 1604197404
-    },
-    {
-      "id": "5f9e1c1ba9f47400002f9a9e",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604197404,
-      "updated": 1604197404
+      "updated": 1633942929
     },
     {
       "id": "5f9e1c1ca9f47400002f9a9f",
-      "text": "活動量計",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [フィットネストラッカー]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604197404,
-      "updated": 1604197421
-    },
-    {
-      "id": "5f9e1c33a9f47400002f9aa0",
-      "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604197427,
-      "updated": 1604197427
+      "updated": 1633942929
     },
     {
       "id": "5f9e1c33a9f47400002f9aa1",
-      "text": "スマートウォッチ",
-      "userId": "5f7bafa76f34a0001ea9f474",
+      "text": " [スマートウォッチ]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604197427,
-      "updated": 1604908156
-    },
-    {
-      "id": "5fa8f47cd43875000047426b",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604908156,
-      "updated": 1604908156
+      "updated": 1633942929
     },
     {
       "id": "5fa8f47cd43875000047426c",
-      "text": "[Smart Speaker]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [Smart Speaker]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604908156,
-      "updated": 1604908159
+      "updated": 1633942929
     },
     {
       "id": "5f9e1c16a9f47400002f9a99",
@@ -152,11 +110,18 @@
       "updated": 1604908450
     },
     {
-      "id": "5f9e1c4ea9f47400002f9aa4",
+      "id": "616444c8a336820000691cea",
       "text": "",
-      "userId": "5f7bafa76f34a0001ea9f474",
-      "created": 1604197454,
-      "updated": 1604197454
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1633961163,
+      "updated": 1633961218
+    },
+    {
+      "id": "616444c9a336820000691cec",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1633961163,
+      "updated": 1633961163
     },
     {
       "id": "5fbf1fb8dd59fe0000ebc8fe",

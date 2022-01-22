@@ -2,7 +2,7 @@
   "id": "61298f026d4f08002084c13e",
   "title": "トーンの必要性",
   "created": 1630113562,
-  "updated": 1630118906,
+  "updated": 1640993928,
   "lines": [
     {
       "id": "61298f026d4f08002084c13e",
@@ -131,11 +131,25 @@
       "updated": 1630117641
     },
     {
+      "id": "61cf941b8ee92a0000a147e7",
+      "text": " 30年前の[Zaurus]のお絵描きアプリがトーン式で、味わいを感じました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1640993819,
+      "updated": 1640993895
+    },
+    {
       "id": "61299e4fd1a02f0000caa86a",
-      "text": "",
-      "userId": "5ff4fb2169e764001cd1a02f",
+      "text": "  [MacPaint]とかも同じかも",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1630117456,
-      "updated": 1630117456
+      "updated": 1640993928
+    },
+    {
+      "id": "61cf94528ee92a0000a147e8",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1640993874,
+      "updated": 1640993874
     }
   ]
 }

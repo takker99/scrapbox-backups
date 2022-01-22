@@ -2,7 +2,7 @@
   "id": "6056acb010de03001cddf562",
   "title": "まだ有るの? ていうサービス",
   "created": 1616293042,
-  "updated": 1630278070,
+  "updated": 1642141006,
   "lines": [
     {
       "id": "6056acb010de03001cddf562",
@@ -17,6 +17,20 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1616293042,
       "updated": 1616769447
+    },
+    {
+      "id": "61e11546774b170000cfb65d",
+      "text": "  もうない？",
+      "userId": "59fb21121207900012774b17",
+      "created": 1642140999,
+      "updated": 1642141003
+    },
+    {
+      "id": "61e1154b774b170000cfb65e",
+      "text": "   https://www.groupon.jp/customer_support",
+      "userId": "59fb21121207900012774b17",
+      "created": 1642141004,
+      "updated": 1642141006
     },
     {
       "id": "6056acb58ee92a000074d304",
@@ -54,6 +68,13 @@
       "updated": 1616769641
     },
     {
+      "id": "61e114b7774b170000cfb65c",
+      "text": "   サービス設計上情報を残さない方がいいと思うので致命的に思える尺度とユーザーが便益を感じる尺度が違いそう[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1642140856,
+      "updated": 1642140922
+    },
+    {
       "id": "612a5d4f09c5f20000654d26",
       "text": "  [Twitter Spaces]自体は流行ってる気がするので、[クリエイターエコノミー]みたいな文脈ではしぶとく生き残りそう？[tkgshn.icon]",
       "userId": "5b9f8ea76ffa88001309c5f2",
@@ -66,6 +87,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1616590742,
       "updated": 1616769451
+    },
+    {
+      "id": "61e0f91380275d0000475a1e",
+      "text": " \tあります！！[westantenna.icon]",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642133775,
+      "updated": 1642134150
     },
     {
       "id": "605b409ba336820000fa6d7c",
@@ -87,6 +115,13 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1616769433,
       "updated": 1616769443
+    },
+    {
+      "id": "61e11448774b170000cfb65b",
+      "text": "   はじめてすぐからオワコンと言われ続けている https://togetter.com/li/1524250",
+      "userId": "59fb21121207900012774b17",
+      "created": 1642140744,
+      "updated": 1642140764
     },
     {
       "id": "605df2b01280f00000cd1862",
@@ -136,6 +171,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1630278057,
       "updated": 1630278070
+    },
+    {
+      "id": "61e11422c3f2c70000697fd1",
+      "text": " \t同人グッズ買うのに使った覚えが…なつかしい[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1642140703,
+      "updated": 1642140730
     },
     {
       "id": "605bc8658ee92a000041fb8a",
@@ -257,11 +299,11 @@
       "updated": 1630278040
     },
     {
-      "id": "612a2aab79e11300005ebd8e",
+      "id": "61e0fa6bd1a02f00002b4471",
       "text": "",
-      "userId": "5d89b1f60230ae001779e113",
-      "created": 1630153388,
-      "updated": 1630153388
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642134122,
+      "updated": 1642134122
     }
   ]
 }

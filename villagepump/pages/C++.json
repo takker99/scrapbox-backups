@@ -2,7 +2,7 @@
   "id": "5f84455f069d9e0038799ae0",
   "title": "C++",
   "created": 1602504034,
-  "updated": 1617411072,
+  "updated": 1638643050,
   "lines": [
     {
       "id": "5f84455f069d9e0038799ae0",
@@ -122,6 +122,34 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1617404339,
       "updated": 1617404339
+    },
+    {
+      "id": "61abb4d4e5172d0000dba1f5",
+      "text": "　勉強したい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638642901,
+      "updated": 1638642934
+    },
+    {
+      "id": "61abb4f4e5172d0000dba1f7",
+      "text": "　　ごく簡単な文法しかわからない段階[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638642933,
+      "updated": 1638642955
+    },
+    {
+      "id": "61abb55ae5172d0000dba1f8",
+      "text": "　　競プロを継続的にやるようにすればモチベーションになるかな",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638643034,
+      "updated": 1638643050
+    },
+    {
+      "id": "61abb4d5e5172d0000dba1f6",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1638642901,
+      "updated": 1638642901
     }
   ]
 }

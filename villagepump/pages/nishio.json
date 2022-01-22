@@ -2,7 +2,7 @@
   "id": "60f3296ddb02a30023bdc41c",
   "title": "nishio",
   "created": 1626548590,
-  "updated": 1628182039,
+  "updated": 1642739528,
   "lines": [
     {
       "id": "60f3296ddb02a30023bdc41c",
@@ -10,6 +10,41 @@
       "userId": "582e63d27c56960011aff09e",
       "created": 1626548590,
       "updated": 1626548590
+    },
+    {
+      "id": "61ea36cdaff09e00008a5fe8",
+      "text": "[https://gyazo.com/6d104983abdce7cd51495d6ba06d17a9]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642739405,
+      "updated": 1642739456
+    },
+    {
+      "id": "61ea36ffaff09e00008a5fea",
+      "text": "　写真からの自動生成アバター",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642739456,
+      "updated": 1642739528
+    },
+    {
+      "id": "61ea373eaff09e00008a5fec",
+      "text": "　雰囲気残ってて面白いのでしばらくアイコンにしてみる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642739519,
+      "updated": 1642739519
+    },
+    {
+      "id": "61ea3719aff09e00008a5feb",
+      "text": "　https://twitter.com/nishio/status/1484377212925411336?s=21",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642739481,
+      "updated": 1642739515
+    },
+    {
+      "id": "61ea36cdaff09e00008a5fe9",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642739405,
+      "updated": 1642739405
     },
     {
       "id": "60f32986aff09e00002dc66f",
@@ -87,6 +122,41 @@
       "userId": "582e63d27c56960011aff09e",
       "created": 1627629235,
       "updated": 1627629235
+    },
+    {
+      "id": "61e6d7deaff09e0000dc5690",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642518494,
+      "updated": 1642518495
+    },
+    {
+      "id": "61e6d7dfaff09e0000dc5691",
+      "text": "[/nishio/ToMyProj]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642518496,
+      "updated": 1642518502
+    },
+    {
+      "id": "61e6d7e0aff09e0000dc5692",
+      "text": "code:script.js",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642518497,
+      "updated": 1642518497
+    },
+    {
+      "id": "61e6d7e0aff09e0000dc5693",
+      "text": " import('/api/code/nishio/ToMyProj/script.js');",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642518497,
+      "updated": 1642518497
+    },
+    {
+      "id": "61e6d7e0aff09e0000dc5694",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642518497,
+      "updated": 1642518497
     },
     {
       "id": "610c16161280f000007f505f",

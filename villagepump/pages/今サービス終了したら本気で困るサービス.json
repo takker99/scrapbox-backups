@@ -2,7 +2,7 @@
   "id": "6033a945e0ce9e00222afdcb",
   "title": "今サービス終了したら本気で困るサービス",
   "created": 1613998411,
-  "updated": 1632488202,
+  "updated": 1638070135,
   "lines": [
     {
       "id": "6033a945e0ce9e00222afdcb",
@@ -13,10 +13,10 @@
     },
     {
       "id": "6033a950758921000018c4fe",
-      "text": " Scrapbox[p5w.icon*10][U.icon][yosider.icon][air34n.icon][takker.icon][kuuote.icon][増井俊之.icon][erniogi.icon][yanma.icon][sta.icon][mtane0412.icon][udonn.icon][kidooom.icon][45Nuyagawa.icon][tkgshn.icon]",
-      "userId": "5b9f8ea76ffa88001309c5f2",
+      "text": " Scrapbox[p5w.icon*10][U.icon][yosider.icon][air34n.icon][takker.icon][kuuote.icon][増井俊之.icon][erniogi.icon][yanma.icon][sta.icon][mtane0412.icon][udonn.icon][kidooom.icon][45Nuyagawa.icon][tkgshn.icon][teyoda7.icon][基素.icon][suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1613998418,
-      "updated": 1632457017
+      "updated": 1638006127
     },
     {
       "id": "6033bab1e5172d00005cb795",
@@ -55,10 +55,10 @@
     },
     {
       "id": "6041f30f75892100002dccd7",
-      "text": " [Gyazo][dnin.icon][yosider.icon][mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
+      "text": " [Gyazo][dnin.icon][yosider.icon][mtane0412.icon][基素.icon]",
+      "userId": "59fb21121207900012774b17",
       "created": 1614934800,
-      "updated": 1616325321
+      "updated": 1637355533
     },
     {
       "id": "60423e61e5172d0000c14c80",
@@ -108,13 +108,6 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1614014809,
       "updated": 1614014887
-    },
-    {
-      "id": "6033e9aae5172d00007fad70",
-      "text": "  \t[Project Hosting Service][erniogi.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
-      "created": 1614014889,
-      "updated": 1632311589
     },
     {
       "id": "6033a950758921000018c4ff",
@@ -208,6 +201,62 @@
       "updated": 1616771719
     },
     {
+      "id": "619792874bb2e200008b76ec",
+      "text": "　 この前のdocomo回線の障害で身動き取れなくなったし本当に現代においてはインフラなんだなと思った",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1637323399,
+      "updated": 1637323438
+    },
+    {
+      "id": "6197752a1280f00000d299dc",
+      "text": " 行政サービス[dnin.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
+      "id": "6197752a1280f00000d299dd",
+      "text": " 水道[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
+      "id": "6197752a1280f00000d299de",
+      "text": " 電気[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
+      "id": "6197752a1280f00000d299df",
+      "text": " ガス",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
+      "id": "6197752a1280f00000d299e0",
+      "text": "  IHでなんとか出来ないこともない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
+      "id": "6197752a1280f00000d299e1",
+      "text": "  停電したときのバックアップとして有効？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
+      "id": "6197752a1280f00000d299e2",
+      "text": "   仕組みをよく知らないのでわからない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315880,
+      "updated": 1637315880
+    },
+    {
       "id": "6033f8c78ee92a00009348ee",
       "text": "　Google検索と[GoogleMaps] [増井俊之.icon][sta.icon][mtane0412.icon]",
       "userId": "6055950b87138f0022246f59",
@@ -264,55 +313,6 @@
       "updated": 1617548278
     },
     {
-      "id": "603464d6a3368200001b3a97",
-      "text": " 行政サービス[dnin.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
-      "created": 1614046423,
-      "updated": 1614051503
-    },
-    {
-      "id": "605dfa8c1280f00000cd18a7",
-      "text": " 水道[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1616771725,
-      "updated": 1616771729
-    },
-    {
-      "id": "605dfa8d1280f00000cd18a8",
-      "text": " 電気[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1616771726,
-      "updated": 1616771731
-    },
-    {
-      "id": "605dfa8f1280f00000cd18a9",
-      "text": " ガス",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1616771727,
-      "updated": 1616771728
-    },
-    {
-      "id": "605dfa931280f00000cd18aa",
-      "text": "  IHでなんとか出来ないこともない",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1616771732,
-      "updated": 1616771739
-    },
-    {
-      "id": "605dfa9d1280f00000cd18ab",
-      "text": "  停電したときのバックアップとして有効？",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1616771741,
-      "updated": 1616771754
-    },
-    {
-      "id": "605dfaaa1280f00000cd18ac",
-      "text": "   仕組みをよく知らないのでわからない",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1616771755,
-      "updated": 1616771765
-    },
-    {
       "id": "603478aa758921000070e8cd",
       "text": "　年金健保[dnin.icon]",
       "userId": "60226bcd2fbabe0022758921",
@@ -341,6 +341,34 @@
       "updated": 1614065060
     },
     {
+      "id": "619774b51280f00000d299a7",
+      "text": " [CloudFlare][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315763,
+      "updated": 1637315770
+    },
+    {
+      "id": "619774bc1280f00000d299a8",
+      "text": "  この前の障害で色々サイトがダウンした",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315770,
+      "updated": 1637315782
+    },
+    {
+      "id": "619775081280f00000d299a9",
+      "text": " [Heroku][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315846,
+      "updated": 1637315851
+    },
+    {
+      "id": "6197750c1280f00000d299aa",
+      "text": "  Scrapboxの心臓",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1637315850,
+      "updated": 1637315857
+    },
+    {
       "id": "6034ad8879d3a90000dbb867",
       "text": "\t心臓[hata6502.icon]",
       "userId": "5ff4fb2169e764001cd1a02f",
@@ -355,11 +383,172 @@
       "updated": 1632328618
     },
     {
+      "id": "619792574bb2e200008b76eb",
+      "text": "\t\t困るという感情を抱く前に死んでそう[kuuote.icon][takker.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1637323351,
+      "updated": 1638070135
+    },
+    {
+      "id": "61975aa88ee92a0000fdbc0a",
+      "text": "\tメール [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1637309096,
+      "updated": 1637309100
+    },
+    {
+      "id": "61975aac8ee92a0000fdbc0b",
+      "text": "\t そんなに困らないかも?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1637309101,
+      "updated": 1637309105
+    },
+    {
+      "id": "6199e40a5bee880000574a5c",
+      "text": "\tpixiv[uvoa.icon]",
+      "userId": "5f788e4410bfe8001e5bee88",
+      "created": 1637475338,
+      "updated": 1637475397
+    },
+    {
+      "id": "6199e4335bee880000574a5d",
+      "text": "\t小説家になろう[uvoa.icon]",
+      "userId": "5f788e4410bfe8001e5bee88",
+      "created": 1637475379,
+      "updated": 1637475400
+    },
+    {
+      "id": "6199e4585bee880000574a5e",
+      "text": "\t 別にどうとでもなるだろうけど本気で困りはする",
+      "userId": "5f788e4410bfe8001e5bee88",
+      "created": 1637475415,
+      "updated": 1637475437
+    },
+    {
       "id": "614b5b96d1a02f00003870b0",
-      "text": "",
-      "userId": "5ff4fb2169e764001cd1a02f",
+      "text": " Googleサイト（旧）[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
       "created": 1632328598,
-      "updated": 1632328598
+      "updated": 1638005985
+    },
+    {
+      "id": "61a1fcd25b98c20000c3691e",
+      "text": "  2021年12月にサービス終了",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638005989
+    },
+    {
+      "id": "61a1fcd25b98c20000c3691f",
+      "text": "  いろいろ欠点はあったが、Google検索が便利すぎて他に移行できなかった",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638005993
+    },
+    {
+      "id": "61a1fcd25b98c20000c36920",
+      "text": "  ベータ版（公式には日本語未対応）から無理矢理使い続けてきた",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638005997
+    },
+    {
+      "id": "61a1fcd25b98c20000c36921",
+      "text": "  ページが[** 10万ページ以上]ある",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006014
+    },
+    {
+      "id": "61a1fcd25b98c20000c36922",
+      "text": "   エクスポートユーティリティでエクスポートできない",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006021
+    },
+    {
+      "id": "61a1fcd25b98c20000c36923",
+      "text": "   1万ページくらいで固まる",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006025
+    },
+    {
+      "id": "61a1fcd25b98c20000c36924",
+      "text": "  階層が[** 20階層以上]ある",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006036
+    },
+    {
+      "id": "61a1fcd25b98c20000c36925",
+      "text": "   Googleサイト（新）は最大6階層なので、データ移行できない",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006044
+    },
+    {
+      "id": "61a1fcd25b98c20000c36926",
+      "text": "  とんでもなく長いURLになっていたりする",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006048
+    },
+    {
+      "id": "61a1fcd25b98c20000c36927",
+      "text": "  大きすぎて、全体像を把握できない",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006050
+    },
+    {
+      "id": "61a1fcd25b98c20000c36928",
+      "text": "  サイトマップの表示もできない",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006052
+    },
+    {
+      "id": "61a1fcd25b98c20000c36929",
+      "text": "  おそらくは、スケールフリーネットワーク構造をしている",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006055
+    },
+    {
+      "id": "61a1fcd25b98c20000c3692a",
+      "text": "  検索して見つかればいいというポリシーで運用してきたので不便はなかった",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006057
+    },
+    {
+      "id": "61a1fcd25b98c20000c3692b",
+      "text": "  がんばれば、データをバックアップできそうだったが、労力と効果のトレードオフで移行を断念",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006063
+    },
+    {
+      "id": "61a1fcd25b98c20000c3692c",
+      "text": "  サルベージできないデータがかなり出るもよう",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006082
+    },
+    {
+      "id": "61a1fcd25b98c20000c3692d",
+      "text": "  古くなってしまったデータよりも新しい学びのほうを優先したい",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638005971,
+      "updated": 1638006085
+    },
+    {
+      "id": "61a1fd445b98c20000c3692e",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1638006085,
+      "updated": 1638006085
     }
   ]
 }

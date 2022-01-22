@@ -2,7 +2,7 @@
   "id": "602672223ef4bd001c2e23c4",
   "title": "夢の中によく出てくるもの",
   "created": 1613132324,
-  "updated": 1613473106,
+  "updated": 1636669376,
   "lines": [
     {
       "id": "602672223ef4bd001c2e23c4",
@@ -62,10 +62,10 @@
     },
     {
       "id": "60268bf38ee92a0000e07506",
-      "text": "広い自宅 [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "広い自宅 [増井俊之.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1613138932,
-      "updated": 1613138937
+      "updated": 1636669376
     },
     {
       "id": "60268c0b8ee92a0000e07508",
@@ -118,10 +118,38 @@
     },
     {
       "id": "602b9f0075892100003a0328",
-      "text": "自宅の実在しない階[dnin.icon]",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": "自宅の実在しない階[dnin.icon][45Nuyagawa.icon]",
+      "userId": "5fe444046f8e560041dd60be",
       "created": 1613471488,
-      "updated": 1613471498
+      "updated": 1636669355
+    },
+    {
+      "id": "618d26dea19e400000b11d2f",
+      "text": "辞めた職場[kidooom.icon] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1636640479,
+      "updated": 1636657403
+    },
+    {
+      "id": "618d2973d1a02f000087cb00",
+      "text": "同じ職場の人[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1636641140,
+      "updated": 1636665208
+    },
+    {
+      "id": "618d97a2dd60be0000968bc0",
+      "text": "",
+      "userId": "5fe444046f8e560041dd60be",
+      "created": 1636669347,
+      "updated": 1636669347
+    },
+    {
+      "id": "618d874cc3f2c70000e10bcc",
+      "text": "",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1636665162,
+      "updated": 1636665162
     },
     {
       "id": "602aaba78ee92a0000905b6d",

@@ -2,7 +2,7 @@
   "id": "609e13849a38ec001d3a5822",
   "title": "scrapbox.io/unnamedcamp",
   "created": 1620972424,
-  "updated": 1632474665,
+  "updated": 1638587695,
   "lines": [
     {
       "id": "609e13849a38ec001d3a5822",
@@ -38,6 +38,34 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1620972547,
       "updated": 1620973405
+    },
+    {
+      "id": "61aadca01280f00000ccf67c",
+      "text": " 「レベルの高い(なんのレベル？)井戸端」みたいなイメージ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638587586,
+      "updated": 1638587610
+    },
+    {
+      "id": "61aadcb91280f00000ccf67d",
+      "text": " 　興味深い話題はたくさんあるのだが、なかなか書きづらい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638587611,
+      "updated": 1638587636
+    },
+    {
+      "id": "61aadcd31280f00000ccf67e",
+      "text": " 　 敷居が高いということではなく、書きたいことの言語化が難しいということ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638587637,
+      "updated": 1638587668
+    },
+    {
+      "id": "61aadcf21280f00000ccf67f",
+      "text": " 　 　途中で放棄することはあまり推奨されていない場だし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1638587668,
+      "updated": 1638587695
     },
     {
       "id": "609e176a1280f00000e83bcd",

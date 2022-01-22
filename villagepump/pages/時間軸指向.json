@@ -2,7 +2,7 @@
   "id": "5fa1cb0bedbfb600241f9c61",
   "title": "時間軸指向",
   "created": 1604438798,
-  "updated": 1605198862,
+  "updated": 1641225074,
   "lines": [
     {
       "id": "5fa1cb0bedbfb600241f9c61",
@@ -13,10 +13,10 @@
     },
     {
       "id": "5fa1cb0d4daa920000c4cb07",
-      "text": "時間軸を重要視する([時間軸方向に並ぶ])コミュニケーション",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": "時間軸を重要視する([時間軸方向に並]ぶ)コミュニケーション",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1604438798,
-      "updated": 1604537204
+      "updated": 1641225074
     },
     {
       "id": "5fa1cb254daa920000c4cb0a",

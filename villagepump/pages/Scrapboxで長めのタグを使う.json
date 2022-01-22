@@ -2,7 +2,7 @@
   "id": "5f8a5d71948bfb002485e0ac",
   "title": "Scrapboxで長めのタグを使う",
   "created": 1602903415,
-  "updated": 1615110076,
+  "updated": 1636980216,
   "lines": [
     {
       "id": "5f8a5d71948bfb002485e0ac",
@@ -48,10 +48,10 @@
     },
     {
       "id": "5f8a65eb1280f00000952633",
-      "text": "  とてもScrapbox感のあるリンクだ",
+      "text": "  とても[Scrapbox感のあるリンク]だ",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1602905578,
-      "updated": 1602905580
+      "updated": 1636980216
     },
     {
       "id": "5f8a5de14daa9200009e4129",

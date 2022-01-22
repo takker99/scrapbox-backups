@@ -2,7 +2,7 @@
   "id": "6004c740dc99ca001c5efd2d",
   "title": "ダイモのテープ",
   "created": 1610925892,
-  "updated": 1611790053,
+  "updated": 1633869578,
   "lines": [
     {
       "id": "6004c740dc99ca001c5efd2d",
@@ -75,17 +75,17 @@
       "updated": 1611625312
     },
     {
+      "id": "6162defdd0ca1c0000342318",
+      "text": " [セブンイレブン]の文具コーナーで売ってたこともある",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1633869567,
+      "updated": 1633869578
+    },
+    {
       "id": "6004c74cd4387500003e790d",
       "text": "[https://gyazo.com/33c916d064a1395889e480a19bbce892]",
       "userId": "5fa258bdb102120024d43875",
       "created": 1610925900,
-      "updated": 1611625288
-    },
-    {
-      "id": "600f7348d4387500001b4daa",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1611625288,
       "updated": 1611625288
     }
   ]

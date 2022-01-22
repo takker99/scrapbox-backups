@@ -2,7 +2,7 @@
   "id": "600edc8ec54d6f00224ccc4e",
   "title": "最近買ってよかったもの",
   "created": 1611586710,
-  "updated": 1631516492,
+  "updated": 1642409852,
   "lines": [
     {
       "id": "600edc8ec54d6f00224ccc4e",
@@ -61,6 +61,13 @@
       "updated": 1611586905
     },
     {
+      "id": "61bc8ce6e5172d000048287b",
+      "text": "\t　[カップフォーマー]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1639746790,
+      "updated": 1639746800
+    },
+    {
       "id": "600edd53db62ad000049959e",
       "text": "",
       "userId": "5b8d55ab7d11180014db62ad",
@@ -73,6 +80,27 @@
       "userId": "5b4ea932de544f0014198270",
       "created": 1611586757,
       "updated": 1629634759
+    },
+    {
+      "id": "617e3b9d09c5f20000064a45",
+      "text": "  \t似たようなものに、[ember]があります。同じような機能を持っているけど見た目がかっこいい[tkgshn.icon]",
+      "userId": "5b9f8ea76ffa88001309c5f2",
+      "created": 1635662750,
+      "updated": 1635662769
+    },
+    {
+      "id": "617e3bfc09c5f20000064a47",
+      "text": "  \t[https://gyazo.com/5c7f73844a9ece1b0428970113651599]",
+      "userId": "5b9f8ea76ffa88001309c5f2",
+      "created": 1635662845,
+      "updated": 1635662850
+    },
+    {
+      "id": "617e3bb009c5f20000064a46",
+      "text": "  \t[https://www.apple.com/jp/shop/product/HNNF2PA/A/ember-10-oztemperature-control-mug-2 Ember 10 oz.Temperature Control Mug 2 - Apple（日本）]",
+      "userId": "5b9f8ea76ffa88001309c5f2",
+      "created": 1635662769,
+      "updated": 1635662793
     },
     {
       "id": "61201a478ee92a0000e9b212",
@@ -138,6 +166,20 @@
       "updated": 1629523779
     },
     {
+      "id": "61e47b638ee92a0000dc42b7",
+      "text": "  買ったけど最近使ってないなー [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642363747,
+      "updated": 1642363759
+    },
+    {
+      "id": "61e47b638ee92a0000dc42b8",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642363747,
+      "updated": 1642363747
+    },
+    {
       "id": "61201b098ee92a0000e9b218",
       "text": " [MOBO Keyboard][takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -181,10 +223,10 @@
     },
     {
       "id": "61217e448ee92a0000849bd5",
-      "text": "     すごい [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "     すごい [増井俊之.icon][基素.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1629584964,
-      "updated": 1629584967
+      "updated": 1635993202
     },
     {
       "id": "6121766a1280f00000f048ea",
@@ -313,11 +355,249 @@
       "updated": 1629637358
     },
     {
+      "id": "617e366a7c8c6d00009007c1",
+      "text": "\t　ほしい[teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1635661418,
+      "updated": 1635661428
+    },
+    {
+      "id": "61874b3ca336820000a5fc26",
+      "text": "\t　\tこれなんですが，[超音波洗浄機]買ったらもっと楽に汚れが落ちることがわかったので，超音波洗浄機を買うべきで\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tす",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636256573,
+      "updated": 1636256830
+    },
+    {
+      "id": "61874b84a336820000a5fc27",
+      "text": "\t[\f超音波洗浄機][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636256644,
+      "updated": 1636256653
+    },
+    {
+      "id": "61874b8da336820000a5fc28",
+      "text": "\t\tメガネのシャンプーの完全上位互換",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636256653,
+      "updated": 1636256669
+    },
+    {
+      "id": "61874b9da336820000a5fc29",
+      "text": "\t\t笑っちゃうくらい皮脂が落ちるし，それにレンズを傷つける心配もない",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636256670,
+      "updated": 1636256698
+    },
+    {
+      "id": "617e31e88ee92a00000b84ee",
+      "text": "\t[ハンディクリーナ] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635660264,
+      "updated": 1635660279
+    },
+    {
       "id": "61217f7f79d3a90000c88402",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "  https://www.amazon.co.jp/dp/B088KKC8VN",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1629585281,
-      "updated": 1629585281
+      "updated": 1635660479
+    },
+    {
+      "id": "617e32be8ee92a00000b84ef",
+      "text": "  [掃除機]は手軽に使えるのが一番",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635660479,
+      "updated": 1635660693
+    },
+    {
+      "id": "617e33878ee92a00000b84f0",
+      "text": "   掃除するぞ! という気合いがなかなか出ないので",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635660679,
+      "updated": 1635660709
+    },
+    {
+      "id": "61832f468ee92a000039ca9e",
+      "text": "  引き出しの中とか車の中とか掃除できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635987270,
+      "updated": 1635987293
+    },
+    {
+      "id": "61832f5f8ee92a000039ca9f",
+      "text": "  デカい掃除機は本当にイミフ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1635987296,
+      "updated": 1635987303
+    },
+    {
+      "id": "61851e3b1280f00000e74294",
+      "text": "   床を掃除するときに必要[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636113980,
+      "updated": 1636114020
+    },
+    {
+      "id": "61851e631280f00000e74295",
+      "text": "    長い柄じゃないと掃除しにくい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636114020,
+      "updated": 1636114028
+    },
+    {
+      "id": "61851e6b1280f00000e74296",
+      "text": "   逆に言うと、柄を長くする付属品がついているハンディクリーナーなら死角なさそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636114028,
+      "updated": 1636114073
+    },
+    {
+      "id": "61e47a098ee92a0000dc42b4",
+      "text": "   余程広い部屋でもない限りハンディクリーナで充分な気が [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642363401,
+      "updated": 1642363419
+    },
+    {
+      "id": "61e518531280f000002af871",
+      "text": "    広い部屋の定義が気になる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642403924,
+      "updated": 1642403938
+    },
+    {
+      "id": "61e518c01280f000002af872",
+      "text": "     自分は4m弱x3m弱の部屋を柄の短い掃除機で掃除するのが面倒に感じます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642404033,
+      "updated": 1642404120
+    },
+    {
+      "id": "617e33968ee92a00000b84f1",
+      "text": "\t小さい炊飯器[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635660695,
+      "updated": 1635976434
+    },
+    {
+      "id": "618304e079d3a900005a8479",
+      "text": "\t\t元々炊飯器持ってないくらいの外食中食勢だったけど、炊飯器カレーが捗っている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635976417,
+      "updated": 1635976432
+    },
+    {
+      "id": "61e52f6e79d3a900004ee6cc",
+      "text": "\t\tそしてご飯炊く用に2つ目も購入[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642409838,
+      "updated": 1642409852
+    },
+    {
+      "id": "618304e079d3a900005a8478",
+      "text": "\t[セームタオル][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1635976417,
+      "updated": 1636256540
+    },
+    {
+      "id": "61874b02a336820000a5fc24",
+      "text": "\t\t水泳部が持ってる絞るとまた水を吸うようになるタオル",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636256515,
+      "updated": 1636256535
+    },
+    {
+      "id": "61874b16a336820000a5fc25",
+      "text": "\t\t\t小さいやつ1枚で十分な吸水力があるからバスタオルを処分できる",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1636256535,
+      "updated": 1636256564
+    },
+    {
+      "id": "61874afca336820000a5fc23",
+      "text": "\t[Anki] ipad版",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1636256508,
+      "updated": 1636259779
+    },
+    {
+      "id": "618757c27c8c6d0000086110",
+      "text": "\t\t物書堂の辞書アプリと二画面同時表示すると単語帳制作がラクになる",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1636259779,
+      "updated": 1636259883
+    },
+    {
+      "id": "6187582a7c8c6d0000086111",
+      "text": "\t\t\tコピペすればいいのでキーボードの切り替えをしないで済む",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1636259884,
+      "updated": 1636259935
+    },
+    {
+      "id": "618757aa7c8c6d000008610f",
+      "text": " 防音イヤーマフ[dai.icon]",
+      "userId": "5abc77416573130014427748",
+      "created": 1636259755,
+      "updated": 1639802313
+    },
+    {
+      "id": "61bd65824277480000d28192",
+      "text": "  https://www.amazon.co.jp/dp/B01BHF3YOA",
+      "userId": "5abc77416573130014427748",
+      "created": 1639802242,
+      "updated": 1639802305
+    },
+    {
+      "id": "61bd65d64277480000d28195",
+      "text": "  飛行機の中や集中して作業したいときとかに",
+      "userId": "5abc77416573130014427748",
+      "created": 1639802326,
+      "updated": 1639802410
+    },
+    {
+      "id": "61bd65ff4277480000d28196",
+      "text": "  ちょっと恥ずかしい?",
+      "userId": "5abc77416573130014427748",
+      "created": 1639802368,
+      "updated": 1639802401
+    },
+    {
+      "id": "61e47b8b8ee92a0000dc42b9",
+      "text": " [セスキ]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642363787,
+      "updated": 1642363791
+    },
+    {
+      "id": "61bd65c54277480000d28194",
+      "text": "  確かに汚れが落ちる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1639802309,
+      "updated": 1642363800
+    },
+    {
+      "id": "61e47b918ee92a0000dc42ba",
+      "text": "\t[Vibram FiveFingers][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642363794,
+      "updated": 1642382571
+    },
+    {
+      "id": "61e4c4eba33682000058cd9c",
+      "text": "\t\t歩行の体験がまったく新しいものになった",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642382571,
+      "updated": 1642382595
+    },
+    {
+      "id": "61e4c4e7a33682000058cd9b",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642382567,
+      "updated": 1642382567
     }
   ]
 }

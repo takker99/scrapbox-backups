@@ -2,7 +2,7 @@
   "id": "5f7c35ce590f96001e214bd0",
   "title": "検索中心UI",
   "created": 1601975774,
-  "updated": 1628345845,
+  "updated": 1634213912,
   "lines": [
     {
       "id": "5f7c35ce590f96001e214bd0",
@@ -20,10 +20,10 @@
     },
     {
       "id": "5f7c35b7dd59fe00001ef9ba",
-      "text": " 起動したいアプリの名前の一部を入力すると検索して起動するやつ",
-      "userId": "5f3cf18043ed94001edd59fe",
+      "text": " 起動したいアプリの名前の一部を入力すると[検索]して起動するやつ",
+      "userId": "5953adab7aa58a0011385a92",
       "created": 1601975803,
-      "updated": 1601976371
+      "updated": 1634213713
     },
     {
       "id": "5f7c3631dd59fe00001ef9c5",
@@ -54,13 +54,6 @@
       "updated": 1604890554
     },
     {
-      "id": "5fa8afbad438750000d7d011",
-      "text": "\t[https://gyazo.com/6b9ebacf0af5784f6f1e0d809cc6bb23 https://www.softantenna.com/wp/tips/windows-10-version-1903-enhanced-search/]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604890554,
-      "updated": 1606912245
-    },
-    {
       "id": "5fc78889ec4fce00005b459c",
       "text": "\tWindows10の検索はかなり優秀になった",
       "userId": "5da3a9589b96b70017ec4fce",
@@ -83,10 +76,17 @@
     },
     {
       "id": "5fa8afc9d438750000d7d012",
-      "text": "",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [https://www.nag.co.za/wp-content/uploads/2015/07/windows-10-search.jpg]",
+      "userId": "612309a719e67d001dd0ca1c",
       "created": 1604890570,
-      "updated": 1604890570
+      "updated": 1634213885
+    },
+    {
+      "id": "61681ff2d0ca1c000071426f",
+      "text": "",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634213881,
+      "updated": 1634213881
     },
     {
       "id": "60916bf08ee92a0000e70999",
@@ -131,18 +131,18 @@
       "updated": 1604890591
     },
     {
-      "id": "5fa8afded438750000d7d013",
-      "text": "\t[https://support.apple.com/ja-jp/HT204014 https://gyazo.com/c938b2e9c025edc2370a9d0a8aad33a4]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604890591,
-      "updated": 1604890634
+      "id": "5fa8affdd438750000d7d014",
+      "text": " [https://www.intego.com/mac-security-blog/wp-content/uploads/2018/02/macos-spotlight-weather-forecasts-1024x640.jpg]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1604890621,
+      "updated": 1634213856
     },
     {
-      "id": "5fa8affdd438750000d7d014",
+      "id": "61681fdad0ca1c000071426e",
       "text": "",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604890621,
-      "updated": 1604890621
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634213856,
+      "updated": 1634213856
     },
     {
       "id": "5f7c3ab8dd59fe00001ef9cc",
@@ -257,6 +257,55 @@
       "updated": 1628345845
     },
     {
+      "id": "61681e86385a920000346bf6",
+      "text": " アプリの検索ができないのがつらい[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213511,
+      "updated": 1634213518
+    },
+    {
+      "id": "61681e8d385a920000346bf7",
+      "text": " 　google検索とアプリ検索が同じ検索バーで担っているので、インターネット調べたいんじゃなくてアプリを探してるときにだるい",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213518,
+      "updated": 1634213547
+    },
+    {
+      "id": "61681f7bd0ca1c000071426d",
+      "text": " 　\t[FAST App Search Tool]あたりが良さそうかも",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634213762,
+      "updated": 1634213817
+    },
+    {
+      "id": "6168200bd0ca1c0000714270",
+      "text": " 　\t\t候補が1になると勝手に開く",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634213906,
+      "updated": 1634213912
+    },
+    {
+      "id": "61681e26385a920000346bf4",
+      "text": "  ホーム画面ウィジェットからだとアプリ検索ができるのに、Googleアプリを開いて検索すると候補にでない",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634213415,
+      "updated": 1634213589
+    },
+    {
+      "id": "61681eafd0ca1c00009f8f14",
+      "text": " 何年か前から、設定画面が検索できるようになった",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634213557,
+      "updated": 1634213557
+    },
+    {
+      "id": "61681e4d385a920000346bf5",
+      "text": " 　これ便利だった[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213454,
+      "updated": 1634213455
+    },
+    {
       "id": "5f7c35d9dd59fe00001ef9c1",
       "text": "[iOS]",
       "userId": "5f3cf18043ed94001edd59fe",
@@ -276,13 +325,6 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1601975844,
       "updated": 1604890687
-    },
-    {
-      "id": "5fa8b03fd438750000d7d015",
-      "text": " [https://gyazo.com/799ba1751891929feb9c38741a6e7218 https://kanntann.com/spotlight-search]",
-      "userId": "5fa258bdb102120024d43875",
-      "created": 1604890688,
-      "updated": 1604890699
     },
     {
       "id": "5fa8b046d438750000d7d016",
@@ -325,6 +367,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1606907496,
       "updated": 1606907496
+    },
+    {
+      "id": "6167e756d0ca1c00009bb775",
+      "text": " [uLauncher]",
+      "userId": "612309a719e67d001dd0ca1c",
+      "created": 1634199388,
+      "updated": 1634199392
     },
     {
       "id": "5fc77661d4387500005396e8",
@@ -668,6 +717,34 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621314557,
       "updated": 1621314557
+    },
+    {
+      "id": "61681ec9385a920000346bf8",
+      "text": "↑なるほど[miyamonz.icon*3]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213578,
+      "updated": 1634213580
+    },
+    {
+      "id": "61681eca385a920000346bf9",
+      "text": " 特定のアクションを実行するイメージ合ったが、それは検索のあとに行われるイベントだな",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213579,
+      "updated": 1634213599
+    },
+    {
+      "id": "61681ee0385a920000346bfc",
+      "text": " 単機能を超えたアプリケーションなら必ず検索のためのUIが必要",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213601,
+      "updated": 1634213616
+    },
+    {
+      "id": "61681ecf385a920000346bfb",
+      "text": "",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1634213583,
+      "updated": 1634213583
     }
   ]
 }

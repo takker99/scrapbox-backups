@@ -2,7 +2,7 @@
   "id": "5faac4c2eca9e4001edabd0b",
   "title": "2020/11/11",
   "created": 1605027028,
-  "updated": 1620040316,
+  "updated": 1636553439,
   "lines": [
     {
       "id": "5faac4c2eca9e4001edabd0b",
@@ -194,6 +194,34 @@
       "updated": 1605088516
     },
     {
+      "id": "618baeef1280f00000e9943c",
+      "text": "  2021-11-10 20:37:21 [MOBO Keyboard]を手に入れたことで[スマホでcoding]できるようになっています[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636544240,
+      "updated": 1636544324
+    },
+    {
+      "id": "618baf441280f00000e9943d",
+      "text": "   Scrapbox上で軽くコードを書いて試す程度だけど、以前より遥かに楽になった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636544325,
+      "updated": 1636544357
+    },
+    {
+      "id": "618baf671280f00000e9943e",
+      "text": "   [ScrapJupyter]でスマホからコードブロック記法内のコードを実行できるようになったのも大きい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636544359,
+      "updated": 1636544387
+    },
+    {
+      "id": "618baf831280f00000e9943f",
+      "text": "   　開発コンソールが使えなくても動かせる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1636544388,
+      "updated": 1636544397
+    },
+    {
       "id": "5fabb4c61280f000005220f4",
       "text": " つらい",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -353,6 +381,13 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1605092933,
       "updated": 1610799421
+    },
+    {
+      "id": "618bd27f5b98c20000f71ac2",
+      "text": " \t[suto3.icon] そして、一年後に作っているアイコンがこれである→[ニーバーの祈り.icon] 2021/11/10 23:10:21",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1636553344,
+      "updated": 1636553439
     },
     {
       "id": "5fabc640dd59fe00001cba9f",

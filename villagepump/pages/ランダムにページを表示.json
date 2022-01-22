@@ -2,7 +2,7 @@
   "id": "5fc5024138f69e001cddbc1d",
   "title": "ランダムにページを表示",
   "created": 1606746693,
-  "updated": 1632008713,
+  "updated": 1641501595,
   "lines": [
     {
       "id": "5fc5024138f69e001cddbc1d",
@@ -164,6 +164,13 @@
       "userId": "6127807d271b6b001dcc6086",
       "created": 1631992952,
       "updated": 1631992954
+    },
+    {
+      "id": "61d75385078a6b00003160bf",
+      "text": " [https://live.erinn.biz/live.php?hrand kukuluライブ配信ランダム]",
+      "userId": "61d55bcb9433fc001d078a6b",
+      "created": 1641501574,
+      "updated": 1641501595
     },
     {
       "id": "6017f8e8d43875000022098d",

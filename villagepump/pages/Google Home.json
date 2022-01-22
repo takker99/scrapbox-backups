@@ -2,7 +2,7 @@
   "id": "5fa8b7d859a179001e4e4629",
   "title": "Google Home",
   "created": 1604892635,
-  "updated": 1606135316,
+  "updated": 1642653543,
   "lines": [
     {
       "id": "5fa8b7d859a179001e4e4629",
@@ -73,6 +73,41 @@
       "userId": "5f3cf18043ed94001edd59fe",
       "created": 1604892636,
       "updated": 1604892636
+    },
+    {
+      "id": "61e8e2066eb40600001e1e32",
+      "text": "\t任意の音楽を任意の時間に鳴らすことが単体でできない",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642652167,
+      "updated": 1642652177
+    },
+    {
+      "id": "61e8e2126eb40600001e1e33",
+      "text": "\t\tSpotifyに課金してれば自由度は高い？",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642652179,
+      "updated": 1642652198
+    },
+    {
+      "id": "61e8e2266eb40600001e1e34",
+      "text": "\t\t[google-home-notifier]を使って無理矢理実現することは可能",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642652199,
+      "updated": 1642652468
+    },
+    {
+      "id": "61e8e2406eb40600001e1e35",
+      "text": "\t\t赤ちゃんに時間感覚を伝えるのに便利です[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642652227,
+      "updated": 1642652258
+    },
+    {
+      "id": "61e8e24b6eb40600001e1e36",
+      "text": "\t\t\t寝る時間になったら子守唄がなるように設定しています",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642652236,
+      "updated": 1642653543
     },
     {
       "id": "5fa8bf71d438750000f71002",

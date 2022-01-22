@@ -2,7 +2,7 @@
   "id": "5fdf1af4c8ee20001e1bd4e4",
   "title": "スーパーのランキング",
   "created": 1608456950,
-  "updated": 1626341294,
+  "updated": 1641550740,
   "lines": [
     {
       "id": "5fdf1af4c8ee20001e1bd4e4",
@@ -278,6 +278,27 @@
       "updated": 1608520985
     },
     {
+      "id": "6191d4d98ee92a0000d79573",
+      "text": "  [スープストック]の冷凍[スープ]を売ってる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1636947162,
+      "updated": 1636947177
+    },
+    {
+      "id": "619439248ee92a0000fdbbd2",
+      "text": " [https://www.foodway.co.jp/ フードウェイ]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1637103908,
+      "updated": 1637103961
+    },
+    {
+      "id": "619439598ee92a0000fdbbd3",
+      "text": "  藤沢駅南のオーパの地下など",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1637103962,
+      "updated": 1637103994
+    },
+    {
       "id": "5fdf1b9e8ee92a00006285b7",
       "text": " [もとまちユニオン https://www.keikyu-store.co.jp/motomachi_union/] (東京, 神奈川東部) [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
@@ -300,24 +321,31 @@
     },
     {
       "id": "5fdff55e8ee92a00006acfd2",
-      "text": " [https://www.tsuruya-corp.co.jp/ TSURUYA] (長野/群馬) [増井俊之.icon]",
+      "text": " [https://www.tsuruya-corp.co.jp/ TSURUYA](ツルヤ) (長野/群馬) [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1608512863,
-      "updated": 1608512890
+      "updated": 1641550717
     },
     {
       "id": "5fff7bec8ee92a0000dd0693",
-      "text": "  デカくてオリジナル商品(PB)がすごい (軽井沢)",
+      "text": "  デカくてオリジナル商品(PB)がすごい ([軽井沢])",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1610578924,
-      "updated": 1610578994
+      "updated": 1641550729
+    },
+    {
+      "id": "61d8138a8ee92a000003c1ce",
+      "text": "  [御代田]のも同様にすごい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1641550730,
+      "updated": 1641550740
     },
     {
       "id": "5fdf1c618ee92a00006285c2",
-      "text": " [ヤオコー https://www.yaoko-net.com/] (関東) [増井俊之.icon][dnin.icon][takker.icon] ",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [ヤオコー https://www.yaoko-net.com/] (関東) [増井俊之.icon][dnin.icon][takker.icon] [kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1608457313,
-      "updated": 1613112361
+      "updated": 1637104043
     },
     {
       "id": "5fe014fa8ee92a00006acfd9",
@@ -510,10 +538,10 @@
     },
     {
       "id": "5fdf1eb58ee92a00006285ce",
-      "text": " [業務スーパー https://www.gyomusuper.jp/] (全国) [増井俊之.icon][p5w.icon]",
-      "userId": "5d131fa66fe2890017055332",
+      "text": " [業務スーパー https://www.gyomusuper.jp/] (全国) [増井俊之.icon][p5w.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1608457909,
-      "updated": 1626341268
+      "updated": 1637289870
     },
     {
       "id": "5fe799898ee92a000043ee8e",
@@ -601,10 +629,10 @@
     },
     {
       "id": "5fdf2687d4387500005bbd61",
-      "text": " [カスミ https://www.kasumi.co.jp/]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [カスミ https://www.kasumi.co.jp/][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1608459912,
-      "updated": 1608508493
+      "updated": 1637104074
     },
     {
       "id": "5fdf26a1d4387500005bbd62",
@@ -629,10 +657,10 @@
     },
     {
       "id": "5fdf26b3d4387500005bbd64",
-      "text": " [まいばすけっと https://www.mybasket.co.jp:12443/] ",
-      "userId": "5fa258bdb102120024d43875",
+      "text": " [まいばすけっと https://www.mybasket.co.jp:12443/] [kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1608459955,
-      "updated": 1608508807
+      "updated": 1637104089
     },
     {
       "id": "5fdfe588d438750000f0f1f5",
@@ -766,6 +794,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1609142458,
       "updated": 1622935267
+    },
+    {
+      "id": "61966ac89a4352000029a822",
+      "text": "  \tバーベキューソース関連がめちゃくちゃうまかった記憶あり[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1637247694,
+      "updated": 1637247712
     },
     {
       "id": "5fe990c48ee92a0000758b06",

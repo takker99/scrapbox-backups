@@ -2,7 +2,7 @@
   "id": "6093d29e9fe0bc001c05ddb1",
   "title": "2021/09/22",
   "created": 1620300446,
-  "updated": 1632349590,
+  "updated": 1633399545,
   "lines": [
     {
       "id": "6093d29e9fe0bc001c05ddb1",
@@ -258,10 +258,10 @@
     },
     {
       "id": "614b2f028ee92a0000d7374e",
-      "text": " 正直、EpisoPassもEpisoPass拡張機能も素晴らしい",
+      "text": " 正直、[EpisoPass]も[EpisoPass拡張機能]も素晴らしい",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1632317187,
-      "updated": 1632317236
+      "updated": 1633399523
     },
     {
       "id": "614b2f128ee92a0000d7374f",
@@ -297,6 +297,13 @@
       "userId": "5d89b1f60230ae001779e113",
       "created": 1632318771,
       "updated": 1632349590
+    },
+    {
+      "id": "615bb2ec8ee92a0000f0ed25",
+      "text": "　　　もちろんそれは使ってますが、パスワード入力が必要なこともありますよね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1633399532,
+      "updated": 1633399545
     },
     {
       "id": "614bad8279e113000030823e",

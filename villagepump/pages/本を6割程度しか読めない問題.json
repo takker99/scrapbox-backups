@@ -2,7 +2,7 @@
   "id": "5f90fa5eaf29fa001e236805",
   "title": "本を6割程度しか読めない問題",
   "created": 1603336803,
-  "updated": 1628053425,
+  "updated": 1634900173,
   "lines": [
     {
       "id": "5f90fa5eaf29fa001e236805",
@@ -83,10 +83,10 @@
     },
     {
       "id": "5fe7950ae5172d0000499a60",
-      "text": "　\t[/icons/わかる.icon][yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "　\t[/icons/わかる.icon][yosider.icon][mizdra.icon][teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
       "created": 1609012488,
-      "updated": 1609012497
+      "updated": 1634834837
     },
     {
       "id": "5fe79515e5172d0000499a61",
@@ -272,10 +272,10 @@
     },
     {
       "id": "610a1f60385a9200004e67e3",
-      "text": "　 同意[miyamonz.icon]",
-      "userId": "5953adab7aa58a0011385a92",
+      "text": "　 同意[miyamonz.icon][takker.icon][基素.icon]",
+      "userId": "59fb21121207900012774b17",
       "created": 1628053344,
-      "updated": 1628053347
+      "updated": 1634900173
     },
     {
       "id": "610a1f62385a9200004e67e4",
@@ -307,10 +307,17 @@
     },
     {
       "id": "61019574aff09e000064cccb",
-      "text": "",
-      "userId": "582e63d27c56960011aff09e",
+      "text": "   [目次にリンクを貼]ったり速読したりすることで、どの本に何の情報があるかまではわかる。まずはそれで十分[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1627493749,
-      "updated": 1627493749
+      "updated": 1634779412
+    },
+    {
+      "id": "6170c1021280f00000bcf96c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779395,
+      "updated": 1634779395
     },
     {
       "id": "5f9129c5a9f4740000125f70",
@@ -671,10 +678,59 @@
     },
     {
       "id": "610a0d0279d3a900001680d7",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "   わかる[基素.icon][teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
       "created": 1628048643,
-      "updated": 1628048657
+      "updated": 1634834964
+    },
+    {
+      "id": "6170bfff1280f00000bcf964",
+      "text": "  実践しないと話にならないタイプの本は確かにそう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779136,
+      "updated": 1634779205
+    },
+    {
+      "id": "6170c0451280f00000bcf965",
+      "text": "  数学系の書籍は違う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779205,
+      "updated": 1634779253
+    },
+    {
+      "id": "6170c1291280f00000bcf96e",
+      "text": "   精読(=紙に数式や図解を自分の手で書き出し、行間の数式も全部埋めて証明を把握しつつ、その数式の背景にある意味も理解する)すれば確実に身になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779433,
+      "updated": 1634779554
+    },
+    {
+      "id": "6170c2521280f00000bcf970",
+      "text": "    これ以外の数学書の読み方は精読にカウントしていない[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779731,
+      "updated": 1634779754
+    },
+    {
+      "id": "6170c0ce1280f00000bcf96a",
+      "text": "   あ、数学の場合は紙に書き出す作業が実践になっちゃうか。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779343,
+      "updated": 1634779715
+    },
+    {
+      "id": "6170c21b1280f00000bcf96f",
+      "text": "    ならどの本も「精読しても実践しないと身につかない」といえそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779675,
+      "updated": 1634779702
+    },
+    {
+      "id": "6170c0c31280f00000bcf968",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1634779331,
+      "updated": 1634779331
     }
   ]
 }

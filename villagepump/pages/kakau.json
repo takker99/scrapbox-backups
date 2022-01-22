@@ -2,7 +2,7 @@
   "id": "61224b61f66fdf001d524cff",
   "title": "kakau",
   "created": 1629637474,
-  "updated": 1629654404,
+  "updated": 1641905625,
   "lines": [
     {
       "id": "61224b61f66fdf001d524cff",
@@ -314,10 +314,10 @@
     },
     {
       "id": "61228d73385a920000ffa861",
-      "text": "  Excelをぶっ壊す！という気持ちはとても分かる",
-      "userId": "5953adab7aa58a0011385a92",
+      "text": "  [Excel]をぶっ壊す！という気持ちはとても分かる",
+      "userId": "61d55bcb9433fc001d078a6b",
       "created": 1629654387,
-      "updated": 1629654404
+      "updated": 1641905597
     },
     {
       "id": "61224c4c1982700000fbae23",
@@ -398,10 +398,17 @@
     },
     {
       "id": "61224be91982700000fbae1b",
-      "text": "",
-      "userId": "5b4ea932de544f0014198270",
+      "text": "Kから始まるほかのツール",
+      "userId": "61d55bcb9433fc001d078a6b",
       "created": 1629637609,
-      "updated": 1629637620
+      "updated": 1641905615
+    },
+    {
+      "id": "61dd7dcd078a6b00009e8b00",
+      "text": "　[Kakeru]",
+      "userId": "61d55bcb9433fc001d078a6b",
+      "created": 1641905615,
+      "updated": 1641905625
     },
     {
       "id": "61224be91982700000fbae1c",

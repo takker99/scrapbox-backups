@@ -2,7 +2,7 @@
   "id": "604dee18bf410e0022afc69b",
   "title": "金持ちになったらやりたいこと",
   "created": 1615719962,
-  "updated": 1628209444,
+  "updated": 1640569183,
   "lines": [
     {
       "id": "604dee18bf410e0022afc69b",
@@ -47,6 +47,13 @@
       "updated": 1627354402
     },
     {
+      "id": "61bd662a79d3a9000061330f",
+      "text": "\t\t[躊躇なくKindleで漫画を買うにはどれくらいのお金が必要?]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639802412,
+      "updated": 1639802415
+    },
+    {
       "id": "604e55a31280f0000016c3d2",
       "text": "躊躇なく(古)本を買いあさる[U.icon][増井俊之.icon][erniogi.icon][yanma.icon][dnin.icon]",
       "userId": "6055950b87138f0022246f59",
@@ -69,17 +76,17 @@
     },
     {
       "id": "607e8161a33682000020d153",
-      "text": " \t誕生日にやりました：[/erniogi/2021-04-08#606eff7ca336820000b67c50][erniogi.icon]",
+      "text": " \t誕生日にやりました：[/erniogi-memex/精神的に贅沢をする][erniogi.icon]",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1618903393,
-      "updated": 1618903436
+      "updated": 1640569183
     },
     {
       "id": "604e55ab1280f0000016c3d6",
-      "text": "でかいモニター，良いスペックのPC[erniogi.icon][U.icon][mtane0412.icon][yanma.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "でかいモニター，良いスペックのPC[erniogi.icon][U.icon][mtane0412.icon][yanma.icon][takker.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1615746475,
-      "updated": 1615823057
+      "updated": 1639226637
     },
     {
       "id": "604e55ac1280f0000016c3d8",
@@ -90,10 +97,10 @@
     },
     {
       "id": "604e55ba1280f0000016c3da",
-      "text": "Macの一番高いやつを買う（いったい何に使うのか）[suto3.icon][erniogi.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "Macの一番高いやつを買う（いったい何に使うのか）[suto3.icon][erniogi.icon][p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
       "created": 1615746490,
-      "updated": 1615787620
+      "updated": 1639447631
     },
     {
       "id": "605015b903b21000006fbb2c",
@@ -181,10 +188,10 @@
     },
     {
       "id": "604ea0b3b19cc300003a90b9",
-      "text": "工作棟を建てる [増井俊之.icon]",
-      "userId": "6044910bc9a74e001eb19cc3",
+      "text": "工作棟を建てる [増井俊之.icon][hata6502.icon][基素.icon]",
+      "userId": "59fb21121207900012774b17",
       "created": 1615765684,
-      "updated": 1615771321
+      "updated": 1639141257
     },
     {
       "id": "606dc5948ee92a0000f91e63",
@@ -194,18 +201,25 @@
       "updated": 1617806771
     },
     {
+      "id": "61b348d21280f00000386755",
+      "text": " たのしそう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639139538,
+      "updated": 1639139541
+    },
+    {
       "id": "604edd568ee92a000088a6fa",
-      "text": "高級な酒を飲む [増井俊之.icon]",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "高級な酒を飲む [増井俊之.icon][p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
       "created": 1615781206,
-      "updated": 1615781215
+      "updated": 1639447525
     },
     {
       "id": "604f07508ee92a000088a6fb",
-      "text": "YouTubeの課金ユーザになる [増井俊之.icon][yosider.icon]　",
-      "userId": "6055950b87138f0022246f59",
+      "text": "YouTubeの課金ユーザになる [増井俊之.icon][yosider.icon]　[p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
       "created": 1615791952,
-      "updated": 1618902133
+      "updated": 1639447528
     },
     {
       "id": "607e7c76246f59000046e482",
@@ -285,6 +299,13 @@
       "updated": 1627354418
     },
     {
+      "id": "61c7ef6279d3a90000a3a44c",
+      "text": "\t話それるけどスパチャで唐突に高額投げ銭して「コイツやべぇ……」されたい[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640492899,
+      "updated": 1640492923
+    },
+    {
       "id": "604f721255cbd30000613880",
       "text": "一人暮らし[udonn.icon][mtane0412.icon]",
       "userId": "5ae7fecf7766b7001455cbd3",
@@ -297,6 +318,20 @@
       "userId": "5e644eb64b223c0017b3e7ed",
       "created": 1615823006,
       "updated": 1615848984
+    },
+    {
+      "id": "61b348b31280f00000386753",
+      "text": " ミニマリストだと厳しいかも[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639139507,
+      "updated": 1639139521
+    },
+    {
+      "id": "61c7ef2979d3a90000a3a44b",
+      "text": " たしかに厳しいけど「ごっちゃにしてもいいルーム」つくってその中に留めればセーフ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640492842,
+      "updated": 1640492872
     },
     {
       "id": "606db332dd60be00001d55eb",
@@ -356,10 +391,10 @@
     },
     {
       "id": "607e824aa33682000020d154",
-      "text": "サイゼリヤで2000円分食べる[rickshinmi.icon]",
-      "userId": "60a860e104e3e3001c9a4352",
+      "text": "サイゼリヤで2000円分食べる[rickshinmi.icon][hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1618903627,
-      "updated": 1627363472
+      "updated": 1639236197
     },
     {
       "id": "60ff753c05533200006cf3c5",
@@ -398,10 +433,241 @@
     },
     {
       "id": "610c80f9a19e40000082a9dc",
-      "text": "",
-      "userId": "5df97d83ccfabb0017a19e40",
+      "text": "資産運用で不労所得生活[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
       "created": 1628209402,
-      "updated": 1628209402
+      "updated": 1639141217
+    },
+    {
+      "id": "61b34f5c385a92000006e987",
+      "text": "　みんな買いたい、消費したい行動があって羨ましいと思った[miyamonz.icon]",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1639141212,
+      "updated": 1639141253
+    },
+    {
+      "id": "61b34f85385a92000006e989",
+      "text": "　　労働を回避するために金が欲しい、ただその一点で生きております",
+      "userId": "5953adab7aa58a0011385a92",
+      "created": 1639141253,
+      "updated": 1639141269
+    },
+    {
+      "id": "61b34f75385a92000006e988",
+      "text": "都心に住んで夜に散歩したい[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1639141237,
+      "updated": 1639141317
+    },
+    {
+      "id": "61b34fc0774b170000f5912d",
+      "text": "吉原の高級な店で遊びまくる[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639141312,
+      "updated": 1639184705
+    },
+    {
+      "id": "61b3f94179d3a90000187355",
+      "text": "\t近くのホテルにしばらく泊まって入り浸る",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639184705,
+      "updated": 1639184714
+    },
+    {
+      "id": "61b46518774b170000d8e3f1",
+      "text": "ひたすら数学や物理をやる[基素.icon][takker.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1639212313,
+      "updated": 1639226600
+    },
+    {
+      "id": "61b4652d774b170000d8e3f2",
+      "text": "ひたすら絵を描く[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1639212333,
+      "updated": 1639212339
+    },
+    {
+      "id": "61b4654e774b170000d8e3f3",
+      "text": "いいと言われた消費系の趣味を一通りやってみる[基素.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1639212366,
+      "updated": 1639224660
+    },
+    {
+      "id": "61b3f93679d3a90000187354",
+      "text": "　例えばヨーロッパ旅行いいと言われてもすぐに行くことはできない",
+      "userId": "59fb21121207900012774b17",
+      "created": 1639184694,
+      "updated": 1639212396
+    },
+    {
+      "id": "61b46563774b17000049f4d1",
+      "text": "書斎[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639212388,
+      "updated": 1639224597
+    },
+    {
+      "id": "61b4951579d3a90000b34697",
+      "text": "ホテル滞在[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1639224597,
+      "updated": 1639224674
+    },
+    {
+      "id": "61b49562a336820000f7c4de",
+      "text": "数ヶ月ごとに引っ越す[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1639224675,
+      "updated": 1639224697
+    },
+    {
+      "id": "61b4955ea336820000f7c4dd",
+      "text": "腕利きのJavaScripterを雇って、思いついた[UserScript]をかたっぱしから書いてもらう[yuki_minoh.icon]",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1639224670,
+      "updated": 1639227795
+    },
+    {
+      "id": "61b4a18066687200000ae7a7",
+      "text": "　なんなら僕がやってもいいし、今すぐ数万払ってだれかにやってもらいたい気持ちもある",
+      "userId": "5ee7f26f1c0c850025666872",
+      "created": 1639227776,
+      "updated": 1639227834
+    },
+    {
+      "id": "61b4a15e66687200000ae7a6",
+      "text": "目立ちたい[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1639227742,
+      "updated": 1639236168
+    },
+    {
+      "id": "61b4c244d1a02f00008b60bb",
+      "text": "一個人が手出しできないウン千万以上の広告で自分の作品とかウェブサイトとかを宣伝する[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639236164,
+      "updated": 1639294682
+    },
+    {
+      "id": "61b5a6da79d3a90000fab7db",
+      "text": " テレビコマーシャルとか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639294683,
+      "updated": 1639294686
+    },
+    {
+      "id": "61b5a6de79d3a90000fab7dc",
+      "text": " \tいや、金があっても個人だとできないかも？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639294687,
+      "updated": 1639294697
+    },
+    {
+      "id": "61b7ceea79d3a90000b1223e",
+      "text": " \tテレビコマーシャルで自分のproject（[/sta]）を宣伝してみたい（どうなるか見てみたい）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639436012,
+      "updated": 1639436030
+    },
+    {
+      "id": "61b5a6c379d3a90000fab7da",
+      "text": "世の中のサブスク全部に課金する[p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1639294660,
+      "updated": 1639447546
+    },
+    {
+      "id": "61b7fbfa05533200004356f9",
+      "text": "\t捨てるほどあるならやってみたい",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1639447547,
+      "updated": 1639447556
+    },
+    {
+      "id": "61b7fc0405533200004356fa",
+      "text": "ここ井戸端の日記を全部読む[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639447556,
+      "updated": 1639818484
+    },
+    {
+      "id": "61bda4f479d3a900003617eb",
+      "text": "\t金持ちになったら労働と勉強の時間が要らなくなるので遠慮なく費やせる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639818485,
+      "updated": 1639818508
+    },
+    {
+      "id": "61b7fbef05533200004356f8",
+      "text": " 時間があるわけじゃないのに全部読んでる……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1639447537,
+      "updated": 1639823153
+    },
+    {
+      "id": "61bdb7101280f000007acb52",
+      "text": "欲しいマンガを描いてもらう[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1639823121,
+      "updated": 1640426554
+    },
+    {
+      "id": "61c6ec0479d3a90000d77cd2",
+      "text": " 将棋漫画のプログラミングバージョン見てみたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640426501,
+      "updated": 1640426517
+    },
+    {
+      "id": "61c6ec1579d3a90000d77cd3",
+      "text": " \t路線わかんないけど",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640426517,
+      "updated": 1640426523
+    },
+    {
+      "id": "61c6ec1a79d3a90000d77cd4",
+      "text": " \t[競技プログラミング]なのか、企業で働くエンジニアなのか、",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640426523,
+      "updated": 1640426539
+    },
+    {
+      "id": "61c6ec0079d3a90000d77cd1",
+      "text": "好きな物を知人に送りつける[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1640426496,
+      "updated": 1640490467
+    },
+    {
+      "id": "61c7e5ec774b170000492b7d",
+      "text": " 布教",
+      "userId": "59fb21121207900012774b17",
+      "created": 1640490477,
+      "updated": 1640490479
+    },
+    {
+      "id": "61c7e5de774b170000492b7c",
+      "text": "無限に物申しまくる[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640490462,
+      "updated": 1640558652
+    },
+    {
+      "id": "61c8f03a79d3a90000894045",
+      "text": " 架空の人格（アカウント）とScrapbox project(public)一つつくって、[Q&Aサイト]やSNSでホットになってる話題を片っ端から引用しつつ持論を書く。それをぶつける。……みたいな楽しみ方",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640558652,
+      "updated": 1640558728
+    },
+    {
+      "id": "61c8f03779d3a90000894044",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1640558649,
+      "updated": 1640558649
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "6024ea89f5e9f8001ca58f13",
   "title": "安楽死ボタン",
   "created": 1613032075,
-  "updated": 1613183426,
+  "updated": 1642382038,
   "lines": [
     {
       "id": "6024ea89f5e9f8001ca58f13",
@@ -34,10 +34,10 @@
     },
     {
       "id": "6024eaae79d3a900001488f8",
-      "text": "  ▷捨てる[dnin.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "  ▷捨てる[dnin.icon][増井俊之.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1613032111,
-      "updated": 1613112372
+      "updated": 1642372101
     },
     {
       "id": "6026232775892100001b73fb",
@@ -54,11 +54,116 @@
       "updated": 1613112146
     },
     {
+      "id": "61e477798ee92a0000dc42ab",
+      "text": "  　酔ったときうっかり押しそう [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642362745,
+      "updated": 1642362756
+    },
+    {
+      "id": "61e49ccf7838e300006a8051",
+      "text": "  　もう少し前だったら貰ってたかもしれないけど、もう死ぬの諦めたからいいかなって[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642372301,
+      "updated": 1642372323
+    },
+    {
       "id": "6024eab179d3a900001488f9",
-      "text": "  ▷所持はしておく",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "  ▷所持はしておく[sta.icon][nishio.icon][mtane0412.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1613032114,
-      "updated": 1613112171
+      "updated": 1642340384
+    },
+    {
+      "id": "61e3882d79d3a90000609c8e",
+      "text": "  \tちょっと辛いことがあったらもう押してしまいそうで怖い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642301487,
+      "updated": 1642301498
+    },
+    {
+      "id": "61e42026c3f2c70000466383",
+      "text": "  \tいつでも死ねるという[謎の安心感]で生きるのがちょっと楽になる[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1642340388,
+      "updated": 1642340421
+    },
+    {
+      "id": "61e3f86c55cbd30000dc2b12",
+      "text": "  安楽死ビジネス開始[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1642330221,
+      "updated": 1642330229
+    },
+    {
+      "id": "61e3f87655cbd30000dc2b13",
+      "text": "  　死にたい人にボタンを押させてあげる",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1642330230,
+      "updated": 1642330237
+    },
+    {
+      "id": "61e3f88855cbd30000dc2b14",
+      "text": "  　法改正なしのままだとしたらどうやったら嘱託殺人を避けられるだろうか",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1642330248,
+      "updated": 1642330346
+    },
+    {
+      "id": "61e3f8ab55cbd30000dc2b18",
+      "text": "  　　ただの部屋貸しサービスだが部屋の中にボタンがある",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1642330284,
+      "updated": 1642330309
+    },
+    {
+      "id": "61e3f94955cbd30000dc2b19",
+      "text": "  　　 毎回敷地から死体が出てくるので大変そう",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1642330442,
+      "updated": 1642330451
+    },
+    {
+      "id": "61e4c060aff09e00008efdb6",
+      "text": "  　　[nishio.icon]面白い",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642381409,
+      "updated": 1642381415
+    },
+    {
+      "id": "61e4c068aff09e00008efdb7",
+      "text": "  　　　スイスでは自殺幇助がタブーではないのでスイスに旅行して死ぬ人がいるそうだ",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642381417,
+      "updated": 1642381499
+    },
+    {
+      "id": "61e4c0bbaff09e00008efdb8",
+      "text": "  　　　　https://www.swissinfo.ch/jpn/スイスで自殺ほう助がタブーではない理由/45810802",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642381499,
+      "updated": 1642381500
+    },
+    {
+      "id": "61e4c2baaff09e00008efdb9",
+      "text": "  　　　　「幇助による自死は人権の一つ」はー、なるほど",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642382011,
+      "updated": 1642382038
+    },
+    {
+      "id": "61e3f95555cbd30000dc2b1b",
+      "text": "  　やっぱりメルカリで売っちゃうのが早いか",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1642330453,
+      "updated": 1642330461
+    },
+    {
+      "id": "61e49d107838e300006a8052",
+      "text": "  　\tそこそこな小遣い稼ぎになりそう[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642372367,
+      "updated": 1642372378
     },
     {
       "id": "6024ea8b79d3a900001488f4",

@@ -2,7 +2,7 @@
   "id": "6090fc9571d426001c45a3e7",
   "title": "scrapbox-duplicator",
   "created": 1620114583,
-  "updated": 1633008043,
+  "updated": 1639840826,
   "lines": [
     {
       "id": "6090fc9571d426001c45a3e7",
@@ -38,6 +38,20 @@
       "userId": "5d89b1f60230ae001779e113",
       "created": 1620114711,
       "updated": 1620114729
+    },
+    {
+      "id": "61a6cfce79e1130000f3601d",
+      "text": "　使用例:",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1638322127,
+      "updated": 1638322130
+    },
+    {
+      "id": "61a6cfd179e1130000f3601e",
+      "text": "　 [/blu3mo-public] ([/blu3mo]の内容を、`[private.icon]`がついたページを省いた上で公開している）",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1638322130,
+      "updated": 1638322194
     },
     {
       "id": "6090fce279e113000042cb49",
@@ -241,6 +255,41 @@
       "userId": "5d89b1f60230ae001779e113",
       "created": 1632994282,
       "updated": 1632994282
+    },
+    {
+      "id": "61bdfc2a79e1130000b3df35",
+      "text": "　　　 　補足:[bluemountain.icon]",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1639840810,
+      "updated": 1639840826
+    },
+    {
+      "id": "61bdfc2e79e1130000b3df36",
+      "text": " 　    例えばページAに内容x, y, zがあって、xのみ公開できない場合",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1639840815,
+      "updated": 1639840817
+    },
+    {
+      "id": "61bdfc2f79e1130000b3df37",
+      "text": "      xの内容のどこかに`[private.icon]`が付いているので、xのみをページBにコピペした時にもxのprivate指定は維持される",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1639840815,
+      "updated": 1639840817
+    },
+    {
+      "id": "61bdfc2f79e1130000b3df38",
+      "text": "      こういう仕様だと、[ページの切り出し]時に良いな〜という意味です",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1639840815,
+      "updated": 1639840817
+    },
+    {
+      "id": "61bdfc2f79e1130000b3df39",
+      "text": "      （比較対象は、Google Docs等みたいにページの設定とかでpublic/privateを設定するようなものです）",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1639840815,
+      "updated": 1639840824
     },
     {
       "id": "615583f079e1130000216d67",
