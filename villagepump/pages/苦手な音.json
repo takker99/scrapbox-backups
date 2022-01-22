@@ -1,0 +1,71 @@
+{
+  "id": "60169bbcd028ce001c4dcfd2",
+  "title": "苦手な音",
+  "created": 1612094400,
+  "updated": 1612109184,
+  "lines": [
+    {
+      "id": "60169bbcd028ce001c4dcfd2",
+      "text": "苦手な音",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094400,
+      "updated": 1612094401
+    },
+    {
+      "id": "60169bc0d438750000beb141",
+      "text": "黒板を引っ掻く音",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094401,
+      "updated": 1612094413
+    },
+    {
+      "id": "60169bcdd438750000beb143",
+      "text": "歯医者で削られる音",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094413,
+      "updated": 1612094417
+    },
+    {
+      "id": "60169bd2d438750000beb144",
+      "text": "開演ブザー[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094419,
+      "updated": 1613112371
+    },
+    {
+      "id": "60169bd2d438750000beb145",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094419,
+      "updated": 1612094419
+    },
+    {
+      "id": "60169bd3d438750000beb146",
+      "text": "嫌かと思ったらそうでもない、ギリギリな音",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094419,
+      "updated": 1612094486
+    },
+    {
+      "id": "60169bded438750000beb147",
+      "text": "　篆刻[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094430,
+      "updated": 1613112371
+    },
+    {
+      "id": "60169bc3d438750000beb142",
+      "text": "緊急地震速報[yanma.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612094403,
+      "updated": 1612109184
+    },
+    {
+      "id": "6016d57edb62ad0000155a0e",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1612109182,
+      "updated": 1612109182
+    }
+  ]
+}

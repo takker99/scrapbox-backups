@@ -1,0 +1,99 @@
+{
+  "id": "60220fb1307a1d001f37685c",
+  "title": "コマンドラインからEpisoPassを使う",
+  "created": 1612844981,
+  "updated": 1616073374,
+  "lines": [
+    {
+      "id": "60220fb1307a1d001f37685c",
+      "text": "コマンドラインからEpisoPassを使う",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612844981,
+      "updated": 1612844981
+    },
+    {
+      "id": "60220fb48ee92a0000e53614",
+      "text": " https://github.com/masui/EpisoPassCLI",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612844981,
+      "updated": 1612845001
+    },
+    {
+      "id": "60220fca8ee92a0000e53616",
+      "text": " `% episopass`   で[EpisoPass]画面が開き、回答すると[パスワード]が標準出力に出力される",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612845002,
+      "updated": 1612862076
+    },
+    {
+      "id": "6022119b8ee92a0000e5361d",
+      "text": " `% gem install episopass`\t  でインストール",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612845467,
+      "updated": 1612848392
+    },
+    {
+      "id": "60220fb58ee92a0000e53615",
+      "text": " `% zip -e my.zip -P \\`episopass\\` file1 file2 ...`  で暗号化[zip]を作成できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612844982,
+      "updated": 1612858498
+    },
+    {
+      "id": "604973358ee92a0000e2ce5c",
+      "text": "  `episozip` というコマンドを作った",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615426358,
+      "updated": 1615426367
+    },
+    {
+      "id": "6049733f8ee92a0000e2ce5d",
+      "text": "   `% episozip my.zip file1 file2 ...`",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615426368,
+      "updated": 1615426380
+    },
+    {
+      "id": "6049736a8ee92a0000e2ce5e",
+      "text": "  `episounzip`で解凍できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615426410,
+      "updated": 1615426421
+    },
+    {
+      "id": "604973758ee92a0000e2ce5f",
+      "text": "   なぞなぞ問題が`my.zip`に入ってるのでパスワードを忘れる心配がない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615426421,
+      "updated": 1615426441
+    },
+    {
+      "id": "604973948ee92a0000e2ce60",
+      "text": "  `episozip`, `episounzip` も `gem install episopass` でインストールされます [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615426453,
+      "updated": 1615426488
+    },
+    {
+      "id": "6022447b8ee92a0000e53628",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612858492,
+      "updated": 1612858494
+    },
+    {
+      "id": "6022111dd438750000825d85",
+      "text": "ひと工夫すれば[OTP]もこれでいけそう",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1612845341,
+      "updated": 1616073374
+    },
+    {
+      "id": "60221128d438750000825d86",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612845352,
+      "updated": 1612845352
+    }
+  ]
+}

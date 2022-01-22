@@ -1,0 +1,148 @@
+{
+  "id": "60029be8dc09dc0023efc51b",
+  "title": "タグ記法の位置づけ",
+  "created": 1610783721,
+  "updated": 1615557789,
+  "lines": [
+    {
+      "id": "60029be8dc09dc0023efc51b",
+      "text": "タグ記法の位置づけ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783721
+    },
+    {
+      "id": "60029bebe5172d0000721014",
+      "text": " [/shokai/shokai.icon]氏はScrapboxの[タグ記法]を[タグ]として使って欲しくなさそう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783736
+    },
+    {
+      "id": "60029bebe5172d0000721015",
+      "text": " \t[/shokai/HashTag]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d0000721016",
+      "text": " \t[/shokai/HashTagがあると分類して整理整頓したくなってしまう]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d0000721017",
+      "text": " 多くのプロジェクトでタグ的に使われてしまっている？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d0000721018",
+      "text": " \tというかユーザページで`#member`タグを使ってるし",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d0000721019",
+      "text": " \tそういえばそうだ[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d000072101a",
+      "text": " \t\tというかこのタグいらないのでは？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d000072101b",
+      "text": " \t\tと思って提案出しました",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029bebe5172d000072101c",
+      "text": " \t\t　[/forum-jp/(提案)自分のページに#memberを入れないようにする]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783721,
+      "updated": 1610783728
+    },
+    {
+      "id": "60029c40e5172d00007ea825",
+      "text": " 他のサービスから来た人が「なんだタグもないのか」と思ってやめてしまうのを防ぐため？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783806,
+      "updated": 1610783846
+    },
+    {
+      "id": "60029eff1280f000000dc812",
+      "text": "  [その発想はなかった][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610784511,
+      "updated": 1610786287
+    },
+    {
+      "id": "60029c45e5172d00007ea826",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783811,
+      "updated": 1610783811
+    },
+    {
+      "id": "60029c22e5172d00007ea824",
+      "text": " [ハッシュタグは時間を超越しない]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783776,
+      "updated": 1610783780
+    },
+    {
+      "id": "60029c86e5172d00007ea827",
+      "text": " [カテゴリとしてのリンクを使う]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783876,
+      "updated": 1610783883
+    },
+    {
+      "id": "60029befe5172d00007ea823",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783725,
+      "updated": 1610783725
+    },
+    {
+      "id": "604b74748ee92a0000e1c59e",
+      "text": " 実際最初は無かったんですけどね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615557748,
+      "updated": 1615557760
+    },
+    {
+      "id": "604b74748ee92a0000e1c59f",
+      "text": "  ハッシュタグ記法は[/shokai/shokai.icon]が導入した気がするんだけど...",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615557748,
+      "updated": 1615557789
+    },
+    {
+      "id": "604b74808ee92a0000e1c5a0",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615557761,
+      "updated": 1615557761
+    },
+    {
+      "id": "60029bede5172d00007ea822",
+      "text": "from [Scrapboxの未解決問題]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610783723,
+      "updated": 1610783723
+    }
+  ]
+}

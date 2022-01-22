@@ -1,0 +1,50 @@
+{
+  "id": "600bf7872538230036498243",
+  "title": "BASE BREAD",
+  "created": 1611397036,
+  "updated": 1615537064,
+  "lines": [
+    {
+      "id": "600bf7872538230036498243",
+      "text": "BASE BREAD",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1611397036,
+      "updated": 1615498396
+    },
+    {
+      "id": "600bf7aca336820000f3dc49",
+      "text": ">[BASE BREAD https://shop.basefood.co.jp/products/basebread]とは、26種のビタミン＆ミネラル、27gのたんぱく質、6〜7gの食物繊維など、からだに必要な栄養素がぎゅっとつまった完全栄養のパン。糖質約30%OFF。プレーン・チョコレート・メープル・シナモンの4種類からお選びいただけます。",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1611397036,
+      "updated": 1611397150
+    },
+    {
+      "id": "600bf7aca336820000f3dc4a",
+      "text": "公式サイトより一部変更[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1611397037,
+      "updated": 1611397139
+    },
+    {
+      "id": "600bf806a336820000f3dc4b",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1611397126,
+      "updated": 1611397126
+    },
+    {
+      "id": "604b23a3e5172d0000ba2691",
+      "text": "#完全栄養食",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615537059,
+      "updated": 1615537064
+    },
+    {
+      "id": "604b23a4e5172d0000ba2692",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615537060,
+      "updated": 1615537060
+    }
+  ]
+}

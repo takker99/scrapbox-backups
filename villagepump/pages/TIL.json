@@ -1,0 +1,43 @@
+{
+  "id": "5ff95d0258ca6000218dbe32",
+  "title": "TIL",
+  "created": 1610177798,
+  "updated": 1610177859,
+  "lines": [
+    {
+      "id": "5ff95d0258ca6000218dbe32",
+      "text": "TIL",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610177798,
+      "updated": 1610177798
+    },
+    {
+      "id": "5ff95d0d79d3a90000d1e1ff",
+      "text": " Today I Learned / 今日やったこと",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610177798,
+      "updated": 1610177814
+    },
+    {
+      "id": "5ff95d1179d3a90000d1e201",
+      "text": " [GitHub]で今日やったこと（技術的なメモ）をMarkdownでメモして、repoで公開する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610177800,
+      "updated": 1610177836
+    },
+    {
+      "id": "5ff95d4c79d3a90000d1e202",
+      "text": " [Search · til https://github.com/search?q=til]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610177859,
+      "updated": 1610177859
+    },
+    {
+      "id": "5ff95d0d79d3a90000d1e200",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610177798,
+      "updated": 1610177798
+    }
+  ]
+}

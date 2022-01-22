@@ -1,0 +1,50 @@
+{
+  "id": "6002cc82c5a47d002219b693",
+  "title": "お化け屋敷",
+  "created": 1610796166,
+  "updated": 1612372987,
+  "lines": [
+    {
+      "id": "6002cc82c5a47d002219b693",
+      "text": "お化け屋敷",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610796166,
+      "updated": 1610796169
+    },
+    {
+      "id": "601adbb8e5172d0000a263c5",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612372919,
+      "updated": 1612372919
+    },
+    {
+      "id": "601adbbee5172d0000a263c7",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612372926,
+      "updated": 1612372926
+    },
+    {
+      "id": "601adbb8e5172d0000a263c6",
+      "text": ">「やーい、おまえんち、おっばけやーしきー！」",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612372919,
+      "updated": 1612372953
+    },
+    {
+      "id": "601adbdae5172d0000a263c8",
+      "text": ">「カンタｧｧ!!」",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612372953,
+      "updated": 1612372987
+    },
+    {
+      "id": "6002cc8bd4387500009a2909",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610796171,
+      "updated": 1610796171
+    }
+  ]
+}

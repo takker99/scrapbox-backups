@@ -1,0 +1,449 @@
+{
+  "id": "5fd787069d05d6001fa038c9",
+  "title": "PostScript",
+  "created": 1607960330,
+  "updated": 1609128729,
+  "lines": [
+    {
+      "id": "5fd787069d05d6001fa038c9",
+      "text": "PostScript",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960330,
+      "updated": 1607960330
+    },
+    {
+      "id": "5fd787088ee92a0000452a9f",
+      "text": " [Adobe]が作った、[レーザープリンタ]用のページ記述[言語]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960330,
+      "updated": 1607960352
+    },
+    {
+      "id": "5fd787088ee92a0000452aa0",
+      "text": " 1980年代は画期的だと思われてた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960330,
+      "updated": 1607960376
+    },
+    {
+      "id": "5fe95ada8ee92a00001205db",
+      "text": "  滅茶苦茶すごいと思った [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609128667,
+      "updated": 1609128677
+    },
+    {
+      "id": "5fd787388ee92a0000452aa2",
+      "text": " 1990年代は普通だと思われてた ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960377,
+      "updated": 1607960387
+    },
+    {
+      "id": "5fd787428ee92a0000452aa3",
+      "text": " その後は[PDF]に置き換えられてしまった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960387,
+      "updated": 1607960403
+    },
+    {
+      "id": "5fd787268ee92a0000452aa1",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960359,
+      "updated": 1607960359
+    },
+    {
+      "id": "5fd7875c8ee92a0000452aa4",
+      "text": "code: test.ps",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960413,
+      "updated": 1607960419
+    },
+    {
+      "id": "5fd787638ee92a0000452aa6",
+      "text": " 0 0 moveto",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960420,
+      "updated": 1607960425
+    },
+    {
+      "id": "5fd787688ee92a0000452aa7",
+      "text": " 100 100 lineto",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960425,
+      "updated": 1607960429
+    },
+    {
+      "id": "5fd7876c8ee92a0000452aa8",
+      "text": " stroke",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960430,
+      "updated": 1607960431
+    },
+    {
+      "id": "5fd7876e8ee92a0000452aa9",
+      "text": " showpage",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960431,
+      "updated": 1607960432
+    },
+    {
+      "id": "5fd7875e8ee92a0000452aa5",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960415,
+      "updated": 1607960415
+    },
+    {
+      "id": "5fd787708ee92a0000452aaa",
+      "text": " みたいなのを送ると線が印刷される",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960433,
+      "updated": 1607960485
+    },
+    {
+      "id": "5fd787738ee92a0000452aab",
+      "text": " こういうファイルをMacで開くとPDFに変換できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960436,
+      "updated": 1607960505
+    },
+    {
+      "id": "5fd7881e8ee92a0000452aad",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960607,
+      "updated": 1607960608
+    },
+    {
+      "id": "5fd7881f8ee92a0000452aae",
+      "text": " 昔はPostScriptプリンタというのがあった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960608,
+      "updated": 1607960619
+    },
+    {
+      "id": "5fd788618ee92a0000452ab2",
+      "text": "  上の`test.ps`みたいなのテキストを送って印刷することができた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960675,
+      "updated": 1607960739
+    },
+    {
+      "id": "5fd788cb8ee92a0000452ab6",
+      "text": "  送るデータが少なくてすむので良かったわけである",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960780,
+      "updated": 1607960794
+    },
+    {
+      "id": "5fe87ab88ee92a00004ca027",
+      "text": "   デカい文字でも小さい文字でも送るテキストは同じようなもの",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609071289,
+      "updated": 1609071309
+    },
+    {
+      "id": "5fd7882a8ee92a0000452aaf",
+      "text": "  しかしAdobeのライセンスが必要なので高かった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960619,
+      "updated": 1607960740
+    },
+    {
+      "id": "5fe9578e8ee92a00001205d2",
+      "text": "  プリンタにログインして対話的に使うことすらできた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609127823,
+      "updated": 1609127834
+    },
+    {
+      "id": "5fe95b0a8ee92a00001205dc",
+      "text": "   GhostScriptだと今でもそんな感じかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609128715,
+      "updated": 1609128729
+    },
+    {
+      "id": "5fd788348ee92a0000452ab0",
+      "text": " 現在はPostScriptはパソコンで処理するからPostScriptプリンタは要らなくなった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960630,
+      "updated": 1607960652
+    },
+    {
+      "id": "5fd7887b8ee92a0000452ab3",
+      "text": "  プリンタにはビットマップデータを送る",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960701,
+      "updated": 1607960710
+    },
+    {
+      "id": "5fd788e18ee92a0000452ab7",
+      "text": "  プリンタとコンピュータの間の通信が高速なのでPostScriptのメリットがなくなったということ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960802,
+      "updated": 1607960826
+    },
+    {
+      "id": "5fd7884d8ee92a0000452ab1",
+      "text": " なので安いプリンタで問題なくなった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960654,
+      "updated": 1607960668
+    },
+    {
+      "id": "5fd787a78ee92a0000452aac",
+      "text": " 2020年現在、PostScriptプリンタなんて無いんじゃないかな?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960488,
+      "updated": 1607960771
+    },
+    {
+      "id": "5fe87ada8ee92a00004ca028",
+      "text": " PostScriptをPDFに変換する[Distiller]がパソコンに標準装備になったのだろうか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609071323,
+      "updated": 1609071344
+    },
+    {
+      "id": "5fe888b6e5172d0000861857",
+      "text": " \tちょっとググった感じだと[Adobe Acrobat DC](有料版)についてるらしい",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1609074868,
+      "updated": 1609074918
+    },
+    {
+      "id": "5fe889fe8ee92a00004ca02c",
+      "text": " \tそうなんですが最近のパソコンだと普通にPDF出力できますよね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609075199,
+      "updated": 1609075225
+    },
+    {
+      "id": "5fe88a198ee92a00004ca02d",
+      "text": " \t それってDistillerの機能なのかと思ってたんですが",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609075225,
+      "updated": 1609075239
+    },
+    {
+      "id": "5fd788a78ee92a0000452ab4",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960745,
+      "updated": 1607960745
+    },
+    {
+      "id": "5fd789358ee92a0000452ab8",
+      "text": " PostScriptがPDFに移行した話とか、とても面白いのだけどそういう資料を見たことがない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960887,
+      "updated": 1607960920
+    },
+    {
+      "id": "5fd7895c8ee92a0000452ab9",
+      "text": "  このまま忘れ去られるのだろーか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960925,
+      "updated": 1607960934
+    },
+    {
+      "id": "5fd788a88ee92a0000452ab5",
+      "text": "  歴史的事実を知る者は多くを語らないから、いい加減な情報が後世に伝えられるのかもしれない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960745,
+      "updated": 1607961002
+    },
+    {
+      "id": "5fd78a1d8ee92a0000452abb",
+      "text": "  [当事者は体験を語らない]のかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961119,
+      "updated": 1607961129
+    },
+    {
+      "id": "5fd789898ee92a0000452aba",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607960970,
+      "updated": 1607960970
+    },
+    {
+      "id": "5fd78a311280f00000fbe404",
+      "text": " [LaTeX]のcompileで時々見かけますが、それだけですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607961138,
+      "updated": 1607961416
+    },
+    {
+      "id": "5fd78a451280f00000fbe406",
+      "text": "  今は直接PDFに出力する処理系の方が使われるかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607961158,
+      "updated": 1607961417
+    },
+    {
+      "id": "5fd78b498ee92a0000452ac5",
+      "text": "  PostScriptとPDFの関係は知られているのかなー [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961419,
+      "updated": 1607961432
+    },
+    {
+      "id": "5fd78c198ee92a0000452acc",
+      "text": "  PostScriptは美しい仕様の言語だけどPDFは違うと思うの",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961626,
+      "updated": 1607961645
+    },
+    {
+      "id": "5fe406e10553320000d58ba4",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608779490,
+      "updated": 1608779490
+    },
+    {
+      "id": "5fe406e10553320000d58ba5",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608779490,
+      "updated": 1608779490
+    },
+    {
+      "id": "5fe406e20553320000d58ba6",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608779491,
+      "updated": 1608779491
+    },
+    {
+      "id": "5fe406e20553320000d58ba7",
+      "text": "ポストスクリプトの基礎という2001年のメルマガ見つけました。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608779491,
+      "updated": 1608780877
+    },
+    {
+      "id": "5fe409590553320000d58bae",
+      "text": "第1回：　https://manuals.ricoh.com/pps/download/txt/newsvol24.txt",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608780122,
+      "updated": 1608780252
+    },
+    {
+      "id": "5fe409df0553320000d58bb1",
+      "text": "「ポストスクリプトの基礎 site:ricoh.co.jp」で探せばどんどん見つかりそう。。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608780256,
+      "updated": 1608780278
+    },
+    {
+      "id": "5fe4095c0553320000d58baf",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608780124,
+      "updated": 1608780124
+    },
+    {
+      "id": "5fe88a6c8ee92a00004ca02e",
+      "text": "PostScriptがどういうものか、はちゃんとした本や資料が沢山あります [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609075309,
+      "updated": 1609075326
+    },
+    {
+      "id": "5fe88a7d8ee92a00004ca030",
+      "text": " 私がわからないのは、それがどうPDFになったのかという経緯です",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609075326,
+      "updated": 1609075343
+    },
+    {
+      "id": "5fe88a8f8ee92a00004ca031",
+      "text": " なんか[黒歴史]の匂いがするのですが [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609075344,
+      "updated": 1609075371
+    },
+    {
+      "id": "5fe88a6d8ee92a00004ca02f",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609075309,
+      "updated": 1609075309
+    },
+    {
+      "id": "5fe88da64bb2e2000083e1eb",
+      "text": "Wikipediaにはこんなこと書いてありますね",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609076110,
+      "updated": 1609076118
+    },
+    {
+      "id": "5fe88daf4bb2e2000083e1ed",
+      "text": ">PDFには、PostScriptの持っているプログラミング言語としての機能はなく、HTMLなどと同様のデータ記述言語となっている。 たとえばPostScriptのif やloopといったプログラム用命令は取り除かれている。一方linetoなどは残されている。 これはファイルを開いた場合にエラーが発生する可能性を小さくし信頼性を高めるためという事と同時に、PostScriptが持つ特徴の一つである、インタプリタによる実行環境への依存性を極力排除していく方向性からである。",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609076119,
+      "updated": 1609076122
+    },
+    {
+      "id": "5fe8961b8ee92a0000ef670e",
+      "text": " なんかこれも説明がアヤシイですね...[増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078299,
+      "updated": 1609078370
+    },
+    {
+      "id": "5fe896258ee92a0000ef670f",
+      "text": "  PostScriptのループを展開するなどしてプログラミング要素なくしたのがPDFかと漠然と思ってたのですが、それは正しいんですかね ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078310,
+      "updated": 1609078371
+    },
+    {
+      "id": "5fe896968ee92a0000ef6712",
+      "text": "   ループ展開というか、実行してみて描画命令だけ残したのがPDFなのかなと思ってました",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078423,
+      "updated": 1609078453
+    },
+    {
+      "id": "5fe896638ee92a0000ef6710",
+      "text": "  「linetoが残されてる」なんてアタリマエですよね",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078371,
+      "updated": 1609078455
+    },
+    {
+      "id": "5fe8967c8ee92a0000ef6711",
+      "text": "   それがなきゃ描画できませんからね",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078397,
+      "updated": 1609078403
+    },
+    {
+      "id": "5fe896c48ee92a0000ef6713",
+      "text": "  「HTMLなどと同様の」なんてのも全然嘘でしょう",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078469,
+      "updated": 1609078482
+    },
+    {
+      "id": "5fe896d28ee92a0000ef6714",
+      "text": "   HTMLは、どの位置に何を描画するなんて指定しませんからね",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609078482,
+      "updated": 1609078506
+    },
+    {
+      "id": "5fe88da64bb2e2000083e1ec",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609076111,
+      "updated": 1609076111
+    }
+  ]
+}

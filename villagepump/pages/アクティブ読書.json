@@ -1,0 +1,519 @@
+{
+  "id": "600605f7a8beb7001ced0ceb",
+  "title": "アクティブ読書",
+  "created": 1611007482,
+  "updated": 1615872850,
+  "lines": [
+    {
+      "id": "600605f7a8beb7001ced0ceb",
+      "text": "アクティブ読書",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007482,
+      "updated": 1611007482
+    },
+    {
+      "id": "600607b28ee92a0000ad642a",
+      "text": " [/masui/アクティブ読書]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007922,
+      "updated": 1611007922
+    },
+    {
+      "id": "6006061e8ee92a0000ad6410",
+      "text": " 書籍でもデータでも、自分でコメント書いたり編集したりしながら活用するのは常識だと思うのだが、出版界の人はすごい拒否感を感じるようだ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007518,
+      "updated": 1611080494
+    },
+    {
+      "id": "600606698ee92a0000ad6412",
+      "text": " [* 「編集」というのは出版者の特権だと思ってるフシすらある]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007594,
+      "updated": 1615771551
+    },
+    {
+      "id": "6006067f8ee92a0000ad6413",
+      "text": " こういう風潮を打破して、[電子書籍]をなんとかしたいのだが、どれだけ時間がかかることやら",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007615,
+      "updated": 1611007644
+    },
+    {
+      "id": "6006069d8ee92a0000ad6414",
+      "text": " Scrapboxでデータ編集しながら読書すると体験が全然変わるのに",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007645,
+      "updated": 1611007678
+    },
+    {
+      "id": "600606f18ee92a0000ad6422",
+      "text": "\t\t[/icons/わかる.icon][erniogi.icon][yanma.icon][mtane0412.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007729,
+      "updated": 1615793968
+    },
+    {
+      "id": "604eae648ee92a000068b29c",
+      "text": "\t\t[ScrapCalc]で数値入れたり変えたりしながら読書も面白いかも [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615769189,
+      "updated": 1615769213
+    },
+    {
+      "id": "60065b8adb62ad0000606784",
+      "text": "\t大学の[研究室]とかで教科書をみんなで輪講しようとなったときに、担当者が担当箇所のレジュメなりパワポなどを作って発表し、参加者は自分の[教科書]に思い思いの書き込みをする、みたいなのがよくあるやり方だけど、Scrapboxに本文が全部突っ込んであると全員でアノテーションできるのがとても良いと思う。よくshokaiさんが言ってる「脳が拡張された感じ」になりそう",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611029386,
+      "updated": 1611036499
+    },
+    {
+      "id": "60065ccbdb62ad00001de345",
+      "text": "\t　[/shokai/死んだテキストを置いておく倉庫にしない#596c642297c291000021e881]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611029707,
+      "updated": 1611029708
+    },
+    {
+      "id": "60067569e5172d00007eba29",
+      "text": "\t　議論が盛り上がるとすごく長いページになってしまうのが心配[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611036011,
+      "updated": 1611036060
+    },
+    {
+      "id": "6006758be5172d00007eba2a",
+      "text": "\t　\tスクロールするのが面倒でみなくなってしまう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611036045,
+      "updated": 1611036058
+    },
+    {
+      "id": "6006759be5172d00007eba2b",
+      "text": "\t　\t後から切り出して議論を整理するところまでできるとよさそう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611036061,
+      "updated": 1611036215
+    },
+    {
+      "id": "6006769ee5172d00007eba2f",
+      "text": "\t　\t\t[shokai: 頭にスッと入ってくる箇条書きの構成方法]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611036320,
+      "updated": 1611036324
+    },
+    {
+      "id": "6006763ee5172d00007eba2c",
+      "text": "\t　\tただ[複数人project]だと慣れた人がいないとハードル高そう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611036224,
+      "updated": 1611036445
+    },
+    {
+      "id": "605036608ee92a0000af04f8",
+      "text": "\t　\tアクティブ読書はひとりでやるものだと考えてました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615869536,
+      "updated": 1615869551
+    },
+    {
+      "id": "605036728ee92a0000af04f9",
+      "text": "\t　\t みんなで本を読むことはあまりないし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615869555,
+      "updated": 1615869564
+    },
+    {
+      "id": "6006311c8ee92a000020b5ba",
+      "text": "\tあまりに拒否感が酷いので、拒否感の無さそうなところから普及させられないか考えている  [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611018524,
+      "updated": 1611018595
+    },
+    {
+      "id": "604eb7af8ee92a000068b2b1",
+      "text": "\t [* アクティブ読書] という言葉を使う",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615771568,
+      "updated": 1615771589
+    },
+    {
+      "id": "600631318ee92a000020b5bb",
+      "text": "\t 問題集",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611018545,
+      "updated": 1611018565
+    },
+    {
+      "id": "600631468ee92a000020b5bc",
+      "text": "\t  答を自分で記入",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611018566,
+      "updated": 1611018576
+    },
+    {
+      "id": "600631508ee92a000020b5bd",
+      "text": "\t 観光ガイド",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611018577,
+      "updated": 1611018581
+    },
+    {
+      "id": "600631558ee92a000020b5be",
+      "text": "\t  自分の旅行計画を記入",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611018581,
+      "updated": 1611018615
+    },
+    {
+      "id": "604eaf178ee92a000068b2a8",
+      "text": "\t  所要時間とか[ScrapCalc]で計算すると良いかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615769367,
+      "updated": 1615769381
+    },
+    {
+      "id": "600641751280f0000019126f",
+      "text": "\t 受験参考書及び教科書",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611022710,
+      "updated": 1611022720
+    },
+    {
+      "id": "600641801280f00000191270",
+      "text": "\t 　ぜっっっったい普及する[takker.icon*5]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611022720,
+      "updated": 1611022737
+    },
+    {
+      "id": "600641981280f00000191272",
+      "text": "\t 　みんな教科書に書き込むもん",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611022744,
+      "updated": 1611022754
+    },
+    {
+      "id": "604eb63c8ee92a000068b2a9",
+      "text": "\t 　辞書検索や翻訳もすぐできるわけだし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615771196,
+      "updated": 1615771440
+    },
+    {
+      "id": "604eb7048ee92a000068b2ad",
+      "text": "\t 　フリーで使えるものないかしらん? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615771397,
+      "updated": 1615771413
+    },
+    {
+      "id": "604eb7328ee92a000068b2ae",
+      "text": "\t 　 昔の読みやすい名著ならいいのかな?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615771443,
+      "updated": 1615771456
+    },
+    {
+      "id": "604f82afdb62ad000007edf2",
+      "text": "\t 　 [受験参考書でアクティブ読書]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1615823535,
+      "updated": 1615823536
+    },
+    {
+      "id": "604f15be55cbd3000056cfbc",
+      "text": "\t 　頑張って細胞の分裂過程とか図解するのに注力してるけどanimated GIF検索したほうが早い[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1615795647,
+      "updated": 1615795700
+    },
+    {
+      "id": "6050429a8ee92a0000af04fc",
+      "text": "\t 　抜けや間違いが多い「教科書」にツッコむと勉強になったりして [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615872666,
+      "updated": 1615872693
+    },
+    {
+      "id": "604eaefc8ee92a000068b2a6",
+      "text": "\t　法律文書",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615769341,
+      "updated": 1615771480
+    },
+    {
+      "id": "604eaefc8ee92a000068b2a7",
+      "text": "\t　 著作権が無いしコメントやリンクの記入が必須",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615769341,
+      "updated": 1615769341
+    },
+    {
+      "id": "604f13108ee92a00003976e3",
+      "text": "\t　 [/Chosakukenho]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615794961,
+      "updated": 1615794966
+    },
+    {
+      "id": "6006d11f5b98c20000547fd8",
+      "text": "\t　現代詩のアンソロジー",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1611059487,
+      "updated": 1611059506
+    },
+    {
+      "id": "6006d1335b98c20000547fd9",
+      "text": "\t　　[ポエム]と選評",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1611059507,
+      "updated": 1611059542
+    },
+    {
+      "id": "6006d1585b98c20000547fda",
+      "text": "\t　　地獄になりそう",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1611059544,
+      "updated": 1611059559
+    },
+    {
+      "id": "6006d1875b98c20000547fdb",
+      "text": "\t　[絵本]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1611059591,
+      "updated": 1611059616
+    },
+    {
+      "id": "6006d1b05b98c20000547fdc",
+      "text": "\t　 親子で書き足して完成させるタイプのもの",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1611059632,
+      "updated": 1611059658
+    },
+    {
+      "id": "604eb7668ee92a000068b2af",
+      "text": "\t　 塗り絵?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615771495,
+      "updated": 1615771499
+    },
+    {
+      "id": "604f11b555cbd3000056cfb3",
+      "text": "\t　[青空文庫]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1615794613,
+      "updated": 1615794615
+    },
+    {
+      "id": "6050368c8ee92a0000af04fa",
+      "text": "\t　古典",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615869580,
+      "updated": 1615869582
+    },
+    {
+      "id": "6050368e8ee92a0000af04fb",
+      "text": "\t　 論語とか聖書とか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615869583,
+      "updated": 1615869588
+    },
+    {
+      "id": "605042f98ee92a0000af04fd",
+      "text": "\t　 十八史略にツッコむとか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615872762,
+      "updated": 1615872773
+    },
+    {
+      "id": "605043128ee92a0000af04fe",
+      "text": "\t　 源氏物語にツッコむとか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615872787,
+      "updated": 1615872796
+    },
+    {
+      "id": "6050431d8ee92a0000af04ff",
+      "text": "\t　 「[ツッコミ徒然草]」とか面白そう",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615872798,
+      "updated": 1615872850
+    },
+    {
+      "id": "6050432f8ee92a0000af0500",
+      "text": "\t　  「マジかよ > 兼好」とか書ける",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615872816,
+      "updated": 1615872829
+    },
+    {
+      "id": "604f18ef55cbd3000056cfc3",
+      "text": "\t　リレー小説",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1615796464,
+      "updated": 1615796466
+    },
+    {
+      "id": "60062e5aa336820000c06fca",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1611017819,
+      "updated": 1611017819
+    },
+    {
+      "id": "600606df8ee92a0000ad6416",
+      "text": "サンプル",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007712,
+      "updated": 1611080716
+    },
+    {
+      "id": "600724128ee92a0000070bf2",
+      "text": " [/ アクティブ読書を体験してみてほしい]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611080723,
+      "updated": 1611080728
+    },
+    {
+      "id": "6007240b8ee92a0000070bef",
+      "text": " [https://scrapbox.io/daikokuya-kodayu/ 大黒屋光太夫] ([https://scrapbox.io/projects/daikokuya-kodayu/invitations/665ea1c659fb650aae783327a0560f3f 招待コード])",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611080716,
+      "updated": 1611080716
+    },
+    {
+      "id": "600606e78ee92a0000ad641d",
+      "text": "  [* 滅茶苦茶面白い]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007720,
+      "updated": 1611080718
+    },
+    {
+      "id": "600606e78ee92a0000ad641f",
+      "text": "   [増井俊之.icon] はあっという間に読んでしまった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007720,
+      "updated": 1611080720
+    },
+    {
+      "id": "600724008ee92a0000070bee",
+      "text": " [https://scrapbox.io/Chosakukenho/ 著作権法]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611080705,
+      "updated": 1611080712
+    },
+    {
+      "id": "60073d8e8ee92a0000070c20",
+      "text": "  [https://scrapbox.io/Chosakukenho/search/page?q=レコード レコードとは]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611087247,
+      "updated": 1615769302
+    },
+    {
+      "id": "600606e78ee92a0000ad6421",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007720,
+      "updated": 1611007720
+    },
+    {
+      "id": "600619a779d3a900003170ea",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611012517,
+      "updated": 1611012522
+    },
+    {
+      "id": "600619ad79d3a900003170eb",
+      "text": " 欲しい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611012522,
+      "updated": 1611012523
+    },
+    {
+      "id": "600619ae79d3a900003170ec",
+      "text": " 今は[Kindle]を手元に置いて、それ覗き込みながらScrapboxやら何やらにメモしている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611012524,
+      "updated": 1611012658
+    },
+    {
+      "id": "600619c779d3a900003170ed",
+      "text": " \tこれが手間だということに、最近まで気づくことさえなかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611012549,
+      "updated": 1611012670
+    },
+    {
+      "id": "600630da8ee92a000020b5b9",
+      "text": " Kindleデータを取得するアプリがあり、それを変換するとScrapboxに持っていくことができます [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611018459,
+      "updated": 1611018495
+    },
+    {
+      "id": "6007ab2979d3a900009c4757",
+      "text": " \t[/icons/あざっす.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611115306,
+      "updated": 1611115312
+    },
+    {
+      "id": "6007ab2179d3a900009c4756",
+      "text": " \t[自炊]しなくてもよいということか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611115297,
+      "updated": 1611115346
+    },
+    {
+      "id": "60061a5a79d3a900003170f0",
+      "text": " なんというアプリなのか気になる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611012696,
+      "updated": 1611066720
+    },
+    {
+      "id": "60071dcb8ee92a0000070bc8",
+      "text": "  [https://calibre-ebook.com/ Calibre]というやつです",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611079115,
+      "updated": 1611079131
+    },
+    {
+      "id": "6006ed5adb62ad00008c5f32",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611066714,
+      "updated": 1611066714
+    },
+    {
+      "id": "604f111655cbd3000056cfb1",
+      "text": "[/masui/Scrapbook]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1615794455,
+      "updated": 1615794455
+    },
+    {
+      "id": "604f111755cbd3000056cfb2",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1615794455,
+      "updated": 1615794455
+    },
+    {
+      "id": "600606128ee92a0000ad640e",
+      "text": "#書籍 #読書",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007506,
+      "updated": 1611007511
+    },
+    {
+      "id": "600606128ee92a0000ad640f",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611007507,
+      "updated": 1611007507
+    }
+  ]
+}

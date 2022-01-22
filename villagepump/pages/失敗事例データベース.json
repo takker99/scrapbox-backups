@@ -1,0 +1,71 @@
+{
+  "id": "601263c9ee1e89001ded65c0",
+  "title": "失敗事例データベース",
+  "created": 1611817932,
+  "updated": 1611822695,
+  "lines": [
+    {
+      "id": "601263c9ee1e89001ded65c0",
+      "text": "失敗事例データベース",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611817932,
+      "updated": 1611817936
+    },
+    {
+      "id": "601263d1d4387500004a5b4a",
+      "text": "[http://www.shippai.org/fkd/index.php 失敗知識データベース]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611817938,
+      "updated": 1611822623
+    },
+    {
+      "id": "6012760c1280f000006fc10d",
+      "text": "解説が[『失敗学 (図解雑学)』]に載っている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611822604,
+      "updated": 1611822610
+    },
+    {
+      "id": "601263d2d4387500004a5b4c",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611817938,
+      "updated": 1611817938
+    },
+    {
+      "id": "601263d3d4387500004a5b4d",
+      "text": "[延々と見ていられるサイト･ページ]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611817940,
+      "updated": 1611817945
+    },
+    {
+      "id": "601275971280f00000a6b4c6",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611822487,
+      "updated": 1611822487
+    },
+    {
+      "id": "6012762e1280f000006fc10e",
+      "text": "Reference",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611822638,
+      "updated": 1611822641
+    },
+    {
+      "id": "601276301280f000006fc110",
+      "text": " [/yuiseki/失敗学]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611822641,
+      "updated": 1611822695
+    },
+    {
+      "id": "6012762f1280f000006fc10f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611822641,
+      "updated": 1611822641
+    }
+  ]
+}

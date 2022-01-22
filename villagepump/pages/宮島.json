@@ -1,0 +1,43 @@
+{
+  "id": "5ffb8ac3f82cda001c4d75f7",
+  "title": "宮島",
+  "created": 1610320581,
+  "updated": 1610320598,
+  "lines": [
+    {
+      "id": "5ffb8ac3f82cda001c4d75f7",
+      "text": "宮島",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610320581,
+      "updated": 1610320581
+    },
+    {
+      "id": "5ffb8ac679d3a900008a8769",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610320581,
+      "updated": 1610320581
+    },
+    {
+      "id": "5ffb8ac779d3a900008a876a",
+      "text": "ちょっと外れたところに行くと鹿がうようよいて、初見はかなり怖い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610320581,
+      "updated": 1610320594
+    },
+    {
+      "id": "5ffb8ac779d3a900008a876b",
+      "text": "[https://gyazo.com/cc0d7c79eb3d5a4b670438f301f8e7e1]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610320581,
+      "updated": 1610320598
+    },
+    {
+      "id": "5ffb8ad779d3a900008a876c",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610320598,
+      "updated": 1610320598
+    }
+  ]
+}

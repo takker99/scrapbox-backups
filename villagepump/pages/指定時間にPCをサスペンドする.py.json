@@ -1,0 +1,148 @@
+{
+  "id": "5fc5fbb7c296000021443b75",
+  "title": "指定時間にPCをサスペンドする.py",
+  "created": 1606810555,
+  "updated": 1606810627,
+  "lines": [
+    {
+      "id": "5fc5fbb7c296000021443b75",
+      "text": "指定時間にPCをサスペンドする.py",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810555,
+      "updated": 1606810559
+    },
+    {
+      "id": "5fc5fbc8d438750000d4453e",
+      "text": "code:sh",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810568,
+      "updated": 1606810570
+    },
+    {
+      "id": "5fc5fbcad438750000d4453f",
+      "text": " pip install schedule",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810570,
+      "updated": 1606810576
+    },
+    {
+      "id": "5fc5fbd0d438750000d44540",
+      "text": "[dbader/schedule: Python job scheduling for humans. https://github.com/dbader/schedule]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810577,
+      "updated": 1606810625
+    },
+    {
+      "id": "5fc5fc02d438750000d44542",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810627,
+      "updated": 1606810627
+    },
+    {
+      "id": "5fc5fbc0d438750000d4452e",
+      "text": "code:oyasumi.py",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810561,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44530",
+      "text": " import schedule",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44531",
+      "text": " import time",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44532",
+      "text": " import os",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44533",
+      "text": " ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44535",
+      "text": " def suspend():",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44536",
+      "text": "     os.system(\"systemctl suspend\")",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44537",
+      "text": " ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d44539",
+      "text": " schedule.every().day.at(\"21:30\").do(suspend)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d4453a",
+      "text": " ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810591
+    },
+    {
+      "id": "5fc5fbded438750000d44541",
+      "text": " while True:",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810591,
+      "updated": 1606810591
+    },
+    {
+      "id": "5fc5fbc4d438750000d4453b",
+      "text": "     schedule.run_pending()",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d4453c",
+      "text": "     time.sleep(1)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc4d438750000d4453d",
+      "text": " ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810565,
+      "updated": 1606810565
+    },
+    {
+      "id": "5fc5fbc0d438750000d4452f",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606810561,
+      "updated": 1606810561
+    }
+  ]
+}

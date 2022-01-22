@@ -1,0 +1,288 @@
+{
+  "id": "6003d61d2076c70036c79f4f",
+  "title": "参考文献ごとにページを作成",
+  "created": 1610864159,
+  "updated": 1613647178,
+  "lines": [
+    {
+      "id": "6003d61d2076c70036c79f4f",
+      "text": "参考文献ごとにページを作成",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610864159,
+      "updated": 1610960713
+    },
+    {
+      "id": "602a5f47e5172d000033810e",
+      "text": "するという[scrapboxの運用]法の一つ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613389638,
+      "updated": 1613389639
+    },
+    {
+      "id": "600ff7924bb2e200005d9ddb",
+      "text": " [/masui/スクマ]みたいな感じかな[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1611659155,
+      "updated": 1611659189
+    },
+    {
+      "id": "602a57b2e5172d0000a2e258",
+      "text": "  bookmarkというより、web pageをScrapboxの[リンク構造]に乗せるためのwrapperというイメージ[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387698,
+      "updated": 1613387710
+    },
+    {
+      "id": "602a5f5ee5172d0000338115",
+      "text": "\t\t\t外部ページへのリンクを[/emoji/scrapbox.icon]の[内部リンク]でwrapして、[/emoji/scrapbox.icon]の[リンク構造]に乗せる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613389662,
+      "updated": 1613389696
+    },
+    {
+      "id": "6003d62a1280f000001f4e2a",
+      "text": "   [/inteltank/よく使うURLは、ページを作って管理する]で言及されていることに近い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610864171,
+      "updated": 1613387710
+    },
+    {
+      "id": "600ff8b64bb2e200005d9ddc",
+      "text": "   なるほど。",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1611659446,
+      "updated": 1613387710
+    },
+    {
+      "id": "602a57c9e5172d0000a2e259",
+      "text": "  とりあえずbookmarkしておく場合でも、Scrapboxにメモしておくのは便利",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387721,
+      "updated": 1613387879
+    },
+    {
+      "id": "602a5854e5172d0000a2e2cb",
+      "text": "   from [OneTabのスターが溜まってしまう話]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387859,
+      "updated": 1613387859
+    },
+    {
+      "id": "602a5836e5172d0000a2e2b7",
+      "text": " 　　タブとして常駐しないので、読めという心理的圧力がなくなる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387829,
+      "updated": 1613387884
+    },
+    {
+      "id": "602a5836e5172d0000a2e2ba",
+      "text": "   手前味噌ですが拙作の[/takker/scrapbox-reference-maker]を使うと簡単にscrapできます",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387829,
+      "updated": 1613387847
+    },
+    {
+      "id": "602a5836e5172d0000a2e2bb",
+      "text": "   \tおお...！ありがてえ[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387829,
+      "updated": 1613387847
+    },
+    {
+      "id": "602a5836e5172d0000a2e2bc",
+      "text": "   \t最近は派生した[/programming-notes/WebページをScrapするBookmarklet]で対処している[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387829,
+      "updated": 1613387847
+    },
+    {
+      "id": "602a54ffe5172d0000a2e223",
+      "text": "\t外部サイトのページだけでなく、Scrapboxの[外部Project Link]に対しても有効",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387681
+    },
+    {
+      "id": "602a5676e5172d0000a2e23e",
+      "text": "\t\t[他Projectへリンクされたページの関連付け]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387381,
+      "updated": 1613387392
+    },
+    {
+      "id": "602a54ffe5172d0000a2e224",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387006
+    },
+    {
+      "id": "602a54ffe5172d0000a2e225",
+      "text": "pros",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387006
+    },
+    {
+      "id": "602a596ee5172d0000a2e2e4",
+      "text": "　scrapboxのリンクとしてつなげることができる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613388141,
+      "updated": 1613388141
+    },
+    {
+      "id": "602a5970e5172d0000a2e2e8",
+      "text": "\t\t[リンクの入力補完]が効くので入力が楽",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613388143,
+      "updated": 1613388202
+    },
+    {
+      "id": "602a596ee5172d0000a2e2e5",
+      "text": "\t\t同じリンクを参照しているページにたどり着ける",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613388141,
+      "updated": 1613388141
+    },
+    {
+      "id": "602a596ee5172d0000a2e2e6",
+      "text": "\t\t読むべきときに[リンクサジェスト]や[関連ページリスト]から見つけられる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613388141,
+      "updated": 1613388278
+    },
+    {
+      "id": "602e4d4be5172d00001a4323",
+      "text": "\t\t\t[必要な時にサジェスト]される",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613647177,
+      "updated": 1613647178
+    },
+    {
+      "id": "602a54ffe5172d0000a2e227",
+      "text": "\t補足説明を書ける",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387006
+    },
+    {
+      "id": "602a5900e5172d0000a2e2d5",
+      "text": "　　そのweb pageを開いた理由や感想を書ける",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613388032,
+      "updated": 1613388033
+    },
+    {
+      "id": "602a54ffe5172d0000a2e229",
+      "text": "cons",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387006
+    },
+    {
+      "id": "602a54ffe5172d0000a2e22a",
+      "text": "　リンク先にたどり着くための手間が増える",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387006
+    },
+    {
+      "id": "602a54ffe5172d0000a2e22b",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387006,
+      "updated": 1613387006
+    },
+    {
+      "id": "602a56aee5172d0000a2e250",
+      "text": "例",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387438,
+      "updated": 1613387444
+    },
+    {
+      "id": "602a56aee5172d0000a2e251",
+      "text": "\t[shokai: 頭にスッと入ってくる箇条書きの構成方法]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387438,
+      "updated": 1613387446
+    },
+    {
+      "id": "602a56b8e5172d0000a2e253",
+      "text": "\t\tページタイトルに名前を含めるべきなのか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387448,
+      "updated": 1613387474
+    },
+    {
+      "id": "602a56d4e5172d0000a2e254",
+      "text": "\t\t\t名前がないと、参考文献のwrapが主目的のページなのか、自分の思考ベースのページなのかわからない気がする[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387475,
+      "updated": 1613410867
+    },
+    {
+      "id": "602a56afe5172d0000a2e252",
+      "text": "　　名前 = 参考文献の著者？[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387439,
+      "updated": 1613410750
+    },
+    {
+      "id": "602ab1d9e5172d0000a0dfa1",
+      "text": "　　\tyes[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613410776,
+      "updated": 1613410778
+    },
+    {
+      "id": "602ab1ad1280f000000f47bd",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613410733,
+      "updated": 1613410733
+    },
+    {
+      "id": "6003d62a1280f000001f4e2b",
+      "text": "Reference",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610864171,
+      "updated": 1610864174
+    },
+    {
+      "id": "6003d63a1280f000001f4e2e",
+      "text": " [/inteltank/よく使うURLは、ページを作って管理する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610864186,
+      "updated": 1610864187
+    },
+    {
+      "id": "6003d62d1280f000001f4e2c",
+      "text": " [/takker/参考リンクをScrapboxにまとめる]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610864174,
+      "updated": 1610864188
+    },
+    {
+      "id": "602a55ece5172d0000a2e23d",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387243,
+      "updated": 1613387243
+    },
+    {
+      "id": "602a55dee5172d0000a2e23b",
+      "text": "[Scrapboxでリンクをwrapする]からmerge[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387230,
+      "updated": 1613387353
+    },
+    {
+      "id": "602a55e6e5172d0000a2e23c",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613387237,
+      "updated": 1613387237
+    }
+  ]
+}

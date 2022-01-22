@@ -1,0 +1,421 @@
+{
+  "id": "5fa8e1db83a7130024c57538",
+  "title": "何でもかんでも英語にする意味って何？",
+  "created": 1604903391,
+  "updated": 1605197844,
+  "lines": [
+    {
+      "id": "5fa8e1db83a7130024c57538",
+      "text": "何でもかんでも英語にする意味って何？",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903391,
+      "updated": 1604903397
+    },
+    {
+      "id": "5fa8e1f24daa920000e25038",
+      "text": "単純にモチベーションが気になる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903410,
+      "updated": 1604903416
+    },
+    {
+      "id": "5fa8e249d43875000038be95",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604903497,
+      "updated": 1604903547
+    },
+    {
+      "id": "5fa8e794d4387500003487cd",
+      "text": "すみません､ちょっと[表記ゆれ]をmergeするついでに､なんかスイッチが入ってrenameが始まってしまったみたいです[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604904852,
+      "updated": 1613112353
+    },
+    {
+      "id": "5fa8ecc51280f000000a27c6",
+      "text": " 申し訳ないですがいくつか元に戻しました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906182,
+      "updated": 1604906202
+    },
+    {
+      "id": "5fa8ecda1280f000000a27c9",
+      "text": " 何かあればまた書き直して下さい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906202,
+      "updated": 1604906227
+    },
+    {
+      "id": "5fa8e7b0d4387500003487cf",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604904880,
+      "updated": 1604904880
+    },
+    {
+      "id": "5fa8e24bd43875000038be96",
+      "text": "[外来語を書き表す目的ではあまりカタカナを使いたくない]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604903499,
+      "updated": 1604903525
+    },
+    {
+      "id": "5fa8e25cd43875000038be97",
+      "text": " ただし､UserScriptのリンクが壊れてしまうものは意図的に避けた[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604903516,
+      "updated": 1613112353
+    },
+    {
+      "id": "5fa8e2964daa920000e2503f",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903573,
+      "updated": 1604903573
+    },
+    {
+      "id": "5fa8e27c4daa920000e2503a",
+      "text": "外来語はわからなくもない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903547,
+      "updated": 1604903558
+    },
+    {
+      "id": "5fa8e2864daa920000e2503c",
+      "text": "\t[過去を見返せるメリット]とかあまり一般的ではないものについては微妙にも思うが[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903558,
+      "updated": 1605197795
+    },
+    {
+      "id": "5fa8e4c34daa920000f19b09",
+      "text": "\t\tサジェスト機能があるとはいえ単純のIMEの切り替えめんどくさくないか？",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604904131,
+      "updated": 1604904163
+    },
+    {
+      "id": "5fa8e2944daa920000e2503d",
+      "text": "それ以外のモチベーションが全くわからない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903572,
+      "updated": 1604903592
+    },
+    {
+      "id": "5fa8e29c4daa920000e25040",
+      "text": "\t`[引用ツイートのNotificationって本当に必要？]`",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903580,
+      "updated": 1604906260
+    },
+    {
+      "id": "5fa8e2d04daa920000e25041",
+      "text": "\t`[Garbage Page]`",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903632,
+      "updated": 1604906647
+    },
+    {
+      "id": "5fa8e2e24daa920000e25042",
+      "text": "新たに[造語]するのなら特に気にならないが、renameするほどのモチベーションがわからない[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903715,
+      "updated": 1604903715
+    },
+    {
+      "id": "5fa8e38e4daa920000e25049",
+      "text": "\tページ名をrenameするということは他の人が書いた文章を書き換えることになる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903821,
+      "updated": 1604903837
+    },
+    {
+      "id": "5fa8e31d4daa920000e25043",
+      "text": "\t`時間軸に囚われるSNS`→`Chronologically-ordered social media`は根本的に何か違う気がする",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903715,
+      "updated": 1604905705
+    },
+    {
+      "id": "5fa8e3a54daa920000e2504a",
+      "text": "\t\t「それって時間軸に囚われるSNSだよね」が「それってChronologically-ordered social mediaだよね」になる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903845,
+      "updated": 1604905717
+    },
+    {
+      "id": "5fa8ea501280f000000a27be",
+      "text": "\t\t流石にこれは戻したほうがいい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604905552,
+      "updated": 1604905562
+    },
+    {
+      "id": "5fa8ea631280f000000a27bf",
+      "text": "\t\t [外来語を書き表す目的ではあまりカタカナを使いたくない]けど、",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604905572,
+      "updated": 1604905577
+    },
+    {
+      "id": "5fa8eb001280f000000a27c1",
+      "text": "\t\t この場合はただの英訳になってしまっている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604905728,
+      "updated": 1604905986
+    },
+    {
+      "id": "5fa8eb141280f000000a27c2",
+      "text": " \t\t 情報が大幅に変わってしまう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604905748,
+      "updated": 1604905763
+    },
+    {
+      "id": "5fa8ef771280f00000253443",
+      "text": " \t\t更に`Chronologically-ordered social media`から`時間軸に囚われるSNS`を復元することはまずできないと思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906872,
+      "updated": 1604906915
+    },
+    {
+      "id": "5fa8ea701280f000000a27c0",
+      "text": "\t\t meritとか一般に使われている用語は保留で",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604905584,
+      "updated": 1604905726
+    },
+    {
+      "id": "5fad6000dd59fe000042766b",
+      "text": "\t\t 　標準的な訳としてはprosとかadvantageとかかも",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605197823,
+      "updated": 1605197844
+    },
+    {
+      "id": "5fa8e5224bb2e20000307df3",
+      "text": " 動機とモチベーションは微妙にニュアンス違うから使い分けるとかならなんとなくは分かるけど、既にある物の名前を変えるほどではないな[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1604904222,
+      "updated": 1604904274
+    },
+    {
+      "id": "5fa8ec741280f000000a27c4",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906100,
+      "updated": 1604906100
+    },
+    {
+      "id": "5fa8ee3d1280f00000253439",
+      "text": "プロジェクト→project, コンテクスト→contextとかなら良いと思う[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906558,
+      "updated": 1604906861
+    },
+    {
+      "id": "5fa8ee641280f0000025343b",
+      "text": "\t[signe]は変わっていない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906597,
+      "updated": 1604906622
+    },
+    {
+      "id": "5fa8ee7e1280f0000025343c",
+      "text": "ゴミ→garbageは意味が変わる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906622,
+      "updated": 1604906708
+    },
+    {
+      "id": "5fa8eed31280f0000025343e",
+      "text": "\t「ゴミ」は廃棄物の意味の他に、侮辱的な意味合いも含む",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906708,
+      "updated": 1604906731
+    },
+    {
+      "id": "5fa8eeea1280f0000025343f",
+      "text": "\t「garbage」だとそれが出てこないので、微妙にニュアンスが変わってしまう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906731,
+      "updated": 1604906758
+    },
+    {
+      "id": "5fa8f09a4daa920000dac945",
+      "text": "カタカナ語でも微妙にニュアンスが異なるものがありそう[yuta0801.icon][takker.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604907162,
+      "updated": 1604909637
+    },
+    {
+      "id": "5fa8f0a84daa920000dac946",
+      "text": "\t「動機」に対する「モチベーション」とか",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604907176,
+      "updated": 1604907228
+    },
+    {
+      "id": "5fa8f0b94daa920000dac947",
+      "text": "\tうまく言語化できないけど、[言外]のなにかがありそう",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604907192,
+      "updated": 1604907215
+    },
+    {
+      "id": "5fa9029c4daa920000ae0082",
+      "text": "\t\t相手の書いた文章を良かれと思って書き換えてしまうと言外のニュアンスを変えてしまうかも知れない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604911772,
+      "updated": 1604911794
+    },
+    {
+      "id": "5fa8fe46dd59fe00007f186a",
+      "text": "　見慣れた用法かどうかという差もありそう",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604910663,
+      "updated": 1604910678
+    },
+    {
+      "id": "5fa8fc04dd59fe00007f1865",
+      "text": " \t「犯行の動機」とは言えるけど「犯行のモチベーション」とは言えない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604910085,
+      "updated": 1604910667
+    },
+    {
+      "id": "5fa8fe4bdd59fe00007f186b",
+      "text": " \t「モチベーションを保つ」とは言えるけど「動機を保つ」とは言えない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604910667,
+      "updated": 1604910667
+    },
+    {
+      "id": "5fa8feb44daa920000eebc80",
+      "text": " そして\"モチベーション\"と\"motivation\"とはまた意味が違うかもしれない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604910772,
+      "updated": 1604910792
+    },
+    {
+      "id": "5fa908995b98c20000759774",
+      "text": " ビジュアリゼーション、ヴィジュアリゼーション、ビジュアライゼーション、ヴィジュアライゼーション とか [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604913306,
+      "updated": 1604913346
+    },
+    {
+      "id": "5fa9089b5b98c20000759775",
+      "text": "  日本語で書くと、見える化、可視化、視覚化、",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604913308,
+      "updated": 1604913322
+    },
+    {
+      "id": "5fa908aa5b98c20000759776",
+      "text": "  英語表記でも、visualization、visualisation と表記ゆれがあります",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604913322,
+      "updated": 1604913342
+    },
+    {
+      "id": "5fa8fa5d1280f0000073b920",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909662,
+      "updated": 1604909668
+    },
+    {
+      "id": "5fa8fa641280f0000073b921",
+      "text": "違うポイント",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909668,
+      "updated": 1604909672
+    },
+    {
+      "id": "5fa8fa681280f0000073b922",
+      "text": "\t外見",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909672,
+      "updated": 1604909676
+    },
+    {
+      "id": "5fa8fa6b1280f0000073b923",
+      "text": "\t\t全部そう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909676,
+      "updated": 1604909678
+    },
+    {
+      "id": "5fa8fa461280f0000073b91f",
+      "text": " \t`プロジェクト`と`project`",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909639,
+      "updated": 1604909682
+    },
+    {
+      "id": "5fa8fa731280f0000073b924",
+      "text": " 訳語",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909684,
+      "updated": 1604909699
+    },
+    {
+      "id": "5fa8fa951280f0000073b926",
+      "text": "  「動機」に対する「モチベーション」とか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604909717,
+      "updated": 1604909723
+    },
+    {
+      "id": "5fa8ef071280f00000253440",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906759,
+      "updated": 1604906765
+    },
+    {
+      "id": "5fa8ef271280f00000253441",
+      "text": "[表記ゆれ]吸収対策も兼ねて、タイトルを変えるのではなくページ内に英訳をリンクにして埋め込むのはどうでしょうか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906791,
+      "updated": 1604906867
+    },
+    {
+      "id": "5fa8ef551280f00000253442",
+      "text": "\t[ゴミページ]や[時間軸に囚われるSNS]はそうしました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906838,
+      "updated": 1604906852
+    },
+    {
+      "id": "5fa8ee3c1280f00000253438",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604906557,
+      "updated": 1604906557
+    },
+    {
+      "id": "5fa8e2804daa920000e2503b",
+      "text": "[- 意識高い]人を見ていて「何がアジェンダだ日本語話せ」って思ったことがある",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604903552,
+      "updated": 1604903605
+    },
+    {
+      "id": "5fa8e29e4bb2e20000094767",
+      "text": "　英語が[賢そうに感じることば]として使われている例",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1604903578,
+      "updated": 1604903811
+    },
+    {
+      "id": "5fa8e2bedd59fe000031822c",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604903614,
+      "updated": 1604903614
+    }
+  ]
+}

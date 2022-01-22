@@ -1,0 +1,169 @@
+{
+  "id": "604ae2d2dbfc6d0022886284",
+  "title": "中央・総武線の文字列から架空の駅名を生成する",
+  "created": 1615520469,
+  "updated": 1616282970,
+  "lines": [
+    {
+      "id": "604ae2d2dbfc6d0022886284",
+      "text": "中央・総武線の文字列から架空の駅名を生成する",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520469,
+      "updated": 1615520483
+    },
+    {
+      "id": "604ae33eb19cc300009ce77d",
+      "text": "code:jb.txt",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520575,
+      "updated": 1615520575
+    },
+    {
+      "id": "604ae33eb19cc300009ce77e",
+      "text": " 三鷹吉祥寺西荻窪荻窪阿佐ヶ谷高円寺中野（東京）東中野大久保（東京）新宿代々木千駄ヶ谷信濃町四ッ谷市ヶ谷飯田橋水道橋御茶ノ水秋葉原浅草橋両国錦糸町亀戸平井（東京）新小岩小岩市川本八幡下総中山西船橋船橋東船橋津田沼幕張本郷幕張新検見川稲毛西千葉千葉",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520575,
+      "updated": 1615520575
+    },
+    {
+      "id": "604ae2e3b19cc300009ce769",
+      "text": "code:gen.py",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520483,
+      "updated": 1615520509
+    },
+    {
+      "id": "604ae31db19cc300009ce77c",
+      "text": " import random",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520542,
+      "updated": 1615520542
+    },
+    {
+      "id": "604ae2f1b19cc300009ce76b",
+      "text": " jb = open(\"jb.txt\",\"r\").read().replace(\"\\n\",\"\")",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520498,
+      "updated": 1615520499
+    },
+    {
+      "id": "604ae2f2b19cc300009ce76c",
+      "text": " name=\"\"",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520499,
+      "updated": 1615520553
+    },
+    {
+      "id": "604ae2f2b19cc300009ce773",
+      "text": " for i in range(random.choice([2,3])):",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520499,
+      "updated": 1615521009
+    },
+    {
+      "id": "604ae2f2b19cc300009ce774",
+      "text": "     name+=random.choice(list(set(jb)))",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520499,
+      "updated": 1615520499
+    },
+    {
+      "id": "604ae2f2b19cc300009ce775",
+      "text": " print(name)",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520499,
+      "updated": 1615520499
+    },
+    {
+      "id": "604ae313b19cc300009ce777",
+      "text": "",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520532,
+      "updated": 1615520532
+    },
+    {
+      "id": "604ae2ecb19cc300009ce76a",
+      "text": "三ッ糸",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520493,
+      "updated": 1615520529
+    },
+    {
+      "id": "604ae3a8b19cc3000028aaa3",
+      "text": "西田錦",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520680,
+      "updated": 1615520680
+    },
+    {
+      "id": "604ae3aeb19cc30000898016",
+      "text": "新御野",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520687,
+      "updated": 1615520687
+    },
+    {
+      "id": "604ae3b2b19cc300005e216a",
+      "text": "谷木沼",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520691,
+      "updated": 1615520691
+    },
+    {
+      "id": "604ae4e2b19cc3000087f307",
+      "text": "秋飯",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615520995,
+      "updated": 1615520995
+    },
+    {
+      "id": "604c29428ee92a0000fca03c",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615604035,
+      "updated": 1615604052
+    },
+    {
+      "id": "604c29438ee92a0000fca03d",
+      "text": "[中央・総武線]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1615604035,
+      "updated": 1616281694
+    },
+    {
+      "id": "6056805a246f590000f9146f",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616281691,
+      "updated": 1616281691
+    },
+    {
+      "id": "605682a6246f590000f91470",
+      "text": "https://idobata-diary.herokuapp.com/jbr",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616282279,
+      "updated": 1616282876
+    },
+    {
+      "id": "605682a7246f590000f91471",
+      "text": "[https://i.imgur.com/Mdr7nbK.png]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616282280,
+      "updated": 1616282970
+    },
+    {
+      "id": "60568559246f590000f91473",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616282970,
+      "updated": 1616282970
+    },
+    {
+      "id": "60568559246f590000f91472",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616282970,
+      "updated": 1616282970
+    }
+  ]
+}

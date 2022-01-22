@@ -1,0 +1,36 @@
+{
+  "id": "6002d0e451b71b002394d7a6",
+  "title": "Windows CE",
+  "created": 1610797289,
+  "updated": 1610797335,
+  "lines": [
+    {
+      "id": "6002d0e451b71b002394d7a6",
+      "text": "Windows CE",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610797289,
+      "updated": 1610797294
+    },
+    {
+      "id": "6002d0e7d4387500001a1bb4",
+      "text": "組込みシステム向けOSの一つ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610797294,
+      "updated": 1610797308
+    },
+    {
+      "id": "6002d0f8d4387500001a1bb6",
+      "text": "POSレジからアーケードゲームまで幅広く採用されている",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610797310,
+      "updated": 1610797335
+    },
+    {
+      "id": "6002d0edd4387500001a1bb5",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610797300,
+      "updated": 1610797300
+    }
+  ]
+}

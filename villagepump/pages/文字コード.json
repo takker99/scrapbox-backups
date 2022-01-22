@@ -1,0 +1,71 @@
+{
+  "id": "600979b18045be001ceaf5f0",
+  "title": "文字コード",
+  "created": 1611233715,
+  "updated": 1611233834,
+  "lines": [
+    {
+      "id": "600979b18045be001ceaf5f0",
+      "text": "文字コード",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233715,
+      "updated": 1611233715
+    },
+    {
+      "id": "600979b31280f00000636fd2",
+      "text": "闇 and 闇",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233715,
+      "updated": 1611233724
+    },
+    {
+      "id": "60097a0b1280f00000636fd8",
+      "text": "専門用語もいろいろ紛らわしくて解説もかけない[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233804,
+      "updated": 1611233823
+    },
+    {
+      "id": "60097a201280f00000636fd9",
+      "text": "もっと詳しい人が書いてくれるはず",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233824,
+      "updated": 1611233834
+    },
+    {
+      "id": "600979bc1280f00000636fd4",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233724,
+      "updated": 1611233773
+    },
+    {
+      "id": "600979ec1280f00000636fd5",
+      "text": "Reference",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233773,
+      "updated": 1611233776
+    },
+    {
+      "id": "600979f01280f00000636fd6",
+      "text": " [https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b C++標準化委員会、ついに文字とは何かを理解する: char8_t - Qiita]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233777,
+      "updated": 1611233785
+    },
+    {
+      "id": "600979b41280f00000636fd3",
+      "text": "  [文字コード]の闇がわかる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233716,
+      "updated": 1611233796
+    },
+    {
+      "id": "600979fa1280f00000636fd7",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611233786,
+      "updated": 1611233786
+    }
+  ]
+}

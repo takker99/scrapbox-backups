@@ -1,0 +1,2584 @@
+{
+  "id": "5ff525a88b85ab001c5a4eca",
+  "title": "@sta",
+  "created": 1609901482,
+  "updated": 1616326129,
+  "lines": [
+    {
+      "id": "5ff525a88b85ab001c5a4eca",
+      "text": "@sta",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609901482,
+      "updated": 1609901483
+    },
+    {
+      "id": "6051c5541280f000004dfdda",
+      "text": "[/sta/Scrapboxの入門をBooxで書く]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971670,
+      "updated": 1615971671
+    },
+    {
+      "id": "6051c5561280f000004dfddc",
+      "text": " [Scrapboxの解説動画]を作ろうと思ってたの思い出しました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971672,
+      "updated": 1615971701
+    },
+    {
+      "id": "6051c5651280f000004dfddd",
+      "text": "  VOICELOIDを使いたいが、手元にないので作れてない状態",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971687,
+      "updated": 1615971716
+    },
+    {
+      "id": "6051c5821280f000004dfdde",
+      "text": " 　構成もまだ決められていない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971716,
+      "updated": 1615971732
+    },
+    {
+      "id": "6051c5a91280f000004dfde3",
+      "text": "  　[/takker/scrapboxの解説動画をつくる]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971755,
+      "updated": 1615971756
+    },
+    {
+      "id": "6051c5ab1280f000004dfde4",
+      "text": " [sta.icon]さんの構成ができましたらパクっ……参考にさせていただきます[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971757,
+      "updated": 1615971817
+    },
+    {
+      "id": "6051d35079d3a90000f52202",
+      "text": " \t私も解説動画のページウォッチして[- パ]参考にしちゃおうと思います",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615975249,
+      "updated": 1615975548
+    },
+    {
+      "id": "6051d2ce79d3a90000f521fc",
+      "text": " いや、それよりもScrapboxの解説を作るprojectを作って、複数人で構成を練った方が面白いかも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615975118,
+      "updated": 1615975164
+    },
+    {
+      "id": "6051c6191280f000004dfde6",
+      "text": "  [/scrapbox-guide]みたいなのを作って、そこで作業する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971867,
+      "updated": 1615971888
+    },
+    {
+      "id": "6051c5541280f000004dfddb",
+      "text": "\t\tこっちのほうが面白そうな気がしてきました[sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615971670,
+      "updated": 1615975028
+    },
+    {
+      "id": "6051d27379d3a90000f521fa",
+      "text": "\t\t\tしかし一人で[知的生産]したいマンなので一人でやっちゃうかも……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615975028,
+      "updated": 1615975092
+    },
+    {
+      "id": "6051d31179d3a90000f521fe",
+      "text": "\t\t\tしかししかしあえて複数人で練る試みもやってみたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615975185,
+      "updated": 1615975197
+    },
+    {
+      "id": "6051d33a79d3a90000f52201",
+      "text": "\t\t\t\t（今までのmarkdown原稿+chatとかだと明らかにきつそうですが）Scrapboxなら実現できる気がしないでもないような",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615975227,
+      "updated": 1615975232
+    },
+    {
+      "id": "6051d2aa79d3a90000f521fb",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615975083,
+      "updated": 1615975084
+    },
+    {
+      "id": "603c93021280f000002b4c55",
+      "text": "[/sta/Scrapbox活用事例集が使いにくい？#603a2b4e79d3a90000f2ff92]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582531,
+      "updated": 1614582533
+    },
+    {
+      "id": "603c93051280f000002b4c57",
+      "text": " [/sta]の存在を知ったのは、[/sta-taskmanagement]経由だったと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582533,
+      "updated": 1614582593
+    },
+    {
+      "id": "603c93431280f000002b4c58",
+      "text": " [/sta-taskmanagement]は多分[/rashtamemo]→[/taskmanagement]経由で知ったはずです。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582595,
+      "updated": 1614582686
+    },
+    {
+      "id": "603c936a1280f000002b4c5a",
+      "text": " 　これは覚えていないので推測です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582634,
+      "updated": 1614582686
+    },
+    {
+      "id": "603ca3d479d3a900004a9ea5",
+      "text": " ありがとうございます（全然違いましたね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614586837,
+      "updated": 1614586847
+    },
+    {
+      "id": "603c93021280f000002b4c56",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582531,
+      "updated": 1614582531
+    },
+    {
+      "id": "603c93d11280f000002b4c5d",
+      "text": "[/sta/Scrapbox御三家]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582737,
+      "updated": 1614582738
+    },
+    {
+      "id": "603c93d31280f000002b4c5e",
+      "text": " [/motoso]も推したいです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582739,
+      "updated": 1614582800
+    },
+    {
+      "id": "603c93d91280f000002b4c5f",
+      "text": "  論点の整理がうまい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582745,
+      "updated": 1614582752
+    },
+    {
+      "id": "603c93e41280f000002b4c60",
+      "text": "  scrapboxを使った情報収集のお手本だと思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582756,
+      "updated": 1614582769
+    },
+    {
+      "id": "603ca41b79d3a900004a9ea7",
+      "text": " \tそのうち覗いてみます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614586908,
+      "updated": 1614586966
+    },
+    {
+      "id": "603c93d11280f000002b4c5c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614582737,
+      "updated": 1614582737
+    },
+    {
+      "id": "603c7f5f1280f0000021af4f",
+      "text": "[/staus/WORK-list-pages-with-specific-tag#603a26e479d3a90000492cd5]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614577504,
+      "updated": 1614577505
+    },
+    {
+      "id": "603c7f611280f0000021af50",
+      "text": " 「今開いているタイトル名」は[scrapbox.Page.title]で取得するのが簡単です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614577505,
+      "updated": 1614577540
+    },
+    {
+      "id": "6035f38a1280f0000064e3c5",
+      "text": "[/sta/指定タグを含むページ名の一覧をつくるUserScript？]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148490,
+      "updated": 1614149270
+    },
+    {
+      "id": "6035f6971280f00000aa858b",
+      "text": " できそうだったので作りました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614149271,
+      "updated": 1614149280
+    },
+    {
+      "id": "6035f6a01280f00000aa858c",
+      "text": " 　選択範囲内にある一番最初のリンクの逆リンクを探して、clipboardにコピーします",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614149280,
+      "updated": 1614149338
+    },
+    {
+      "id": "6035f7301280f00000aa858f",
+      "text": "  雑コード",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614149423,
+      "updated": 1614149423
+    },
+    {
+      "id": "6035f6db1280f00000aa858d",
+      "text": " もし後日UserScriptを作る予定であったのなら、ネタをとってしまい申し訳ないです。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614149338,
+      "updated": 1614149662
+    },
+    {
+      "id": "60361c6179d3a90000168774",
+      "text": " ありがとうございます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614158946,
+      "updated": 1614158949
+    },
+    {
+      "id": "60361c6479d3a90000168775",
+      "text": " \t（まだまだUserScriptに慣れてないので腰が重たい……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614158949,
+      "updated": 1614158968
+    },
+    {
+      "id": "60361ce879d3a90000168776",
+      "text": " \tPromise.all使われてますね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614159081,
+      "updated": 1614159161
+    },
+    {
+      "id": "603645361280f000005d59b8",
+      "text": " \t ここでPromise..all使う利点は、実をいうとほとんどありません[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614169399,
+      "updated": 1614169460
+    },
+    {
+      "id": "603645751280f000005d59b9",
+      "text": " \t  どのみちfetchが終わるのを一つずつ待っている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614169462,
+      "updated": 1614169495
+    },
+    {
+      "id": "60376e1679d3a90000ca1fee",
+      "text": " \t  [/icons/たしかに.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614245402,
+      "updated": 1614247392
+    },
+    {
+      "id": "603645971280f000005d59ba",
+      "text": " \t ではなぜPromise.allを使ったかというと、単に元のコードを直すのがめんどくさかったからですごめんなさい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614169496,
+      "updated": 1614169748
+    },
+    {
+      "id": "6036464c1280f00000d3cd0b",
+      "text": " \t  [/takker/scrapbox-api-helper]のコードからそのままコピペしました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614169677,
+      "updated": 1614169757
+    },
+    {
+      "id": "60361d3979d3a90000168777",
+      "text": " \tX-Following-Id これ前も見た気がする（被リンクを得る方法",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614159162,
+      "updated": 1614159171
+    },
+    {
+      "id": "60361d4279d3a90000168778",
+      "text": " \t\t[/sta/scrapbox project被リンク数ヒストグラムのpythonスクリ#601f80b779d3a900005a5951]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614159171,
+      "updated": 1614159211
+    },
+    {
+      "id": "60361d8779d3a90000168779",
+      "text": " \t`({xxx})` これもメモした覚えある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614159240,
+      "updated": 1614159252
+    },
+    {
+      "id": "60361d8e79d3a9000016877a",
+      "text": " \t\t>[名前付き引数]代わりに便利なので多用している [/programming-notes/引数分割束縛#60100b131280f00000df988f]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614159247,
+      "updated": 1614159321
+    },
+    {
+      "id": "60361dd979d3a90000df9d68",
+      "text": " [/staus/list-pages-with-specific-tag#6037716d79d3a90000990490]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614159322,
+      "updated": 1614343426
+    },
+    {
+      "id": "6038ed101280f00000d3604a",
+      "text": "  そんなはずはないのですが……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614343441,
+      "updated": 1614343459
+    },
+    {
+      "id": "6038ed231280f00000d3604b",
+      "text": "   Firefoxで動作確認しています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614343460,
+      "updated": 1614343493
+    },
+    {
+      "id": "603ca40479d3a900004a9ea6",
+      "text": "   私のFirefox、わりかしイレギュラーなのでたぶん環境固有の問題な気がします[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614586885,
+      "updated": 1614586902
+    },
+    {
+      "id": "6051c6c41280f000004dfde7",
+      "text": "   [/icons/そうなのか.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615972038,
+      "updated": 1615972047
+    },
+    {
+      "id": "6035ee101280f00000a373fd",
+      "text": " code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147088,
+      "updated": 1614149284
+    },
+    {
+      "id": "60376f1979d3a90000ca1fef",
+      "text": "  scrapbox.PageMenu.addMenu({",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1614245658,
+      "updated": 1614245658
+    },
+    {
+      "id": "6035ee5b1280f00000a37413",
+      "text": "    title: 'Copy back links',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147163,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f0e21280f00000a37423",
+      "text": "    image: '/assets/img/favicon/chrome-icon-192.png',",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147809,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f0b61280f00000a37422",
+      "text": "    onClick: async () => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147766,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f11e1280f00000a37425",
+      "text": "      const text = document.getElementById('text-input').value;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147870,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f1461280f00000a37427",
+      "text": "      if (!isLink(text)) return;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147910,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f2ca1280f00000a37464",
+      "text": "      const {project, title: link} = getLink(text);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148298,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f2a91280f00000a37463",
+      "text": "      console.log(`Searching for back links of [/${project}/${link}]...`);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148265,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f1651280f00000a3742a",
+      "text": "      const backLinks = getBackLinks(link, await fetchAllLinks(project));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147942,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f2ef1280f00000a37466",
+      "text": "      if (backLinks.length === 0) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148334,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f2fe1280f00000a37468",
+      "text": "        console.log('No back link found.');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148350,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f30e1280f00000a37469",
+      "text": "        return;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148366,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f2fb1280f00000a37467",
+      "text": "      }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148347,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f2e11280f00000a37465",
+      "text": "      console.log('Copy back links: ', backLinks);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148321,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f18c1280f00000a3742b",
+      "text": "      navigator.clipboard",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147980,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f32b1280f00000a3746b",
+      "text": "        .writeText(backLinks.map(link => project === scrapbox.Project.name ? ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148395,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f5c71280f0000064e3d9",
+      "text": "          `[${link}]` : `[/${project}/${link}]`).join('\\n'))",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614149063,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f3281280f00000a3746a",
+      "text": "        .then(() => console.log('Copied.'));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148392,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f11b1280f00000a37424",
+      "text": "    },",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147867,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee581280f00000a37412",
+      "text": "  });",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147159,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f0071280f00000a3741e",
+      "text": "  ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147591,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f0811280f00000a37421",
+      "text": "  const isLink = text => /\\[[^\\]]+\\]/.test(text);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147714,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee411280f00000a37411",
+      "text": "  const getLink = text => {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147137,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f4811280f0000064e3d4",
+      "text": "    const linkText = text.match(/\\[([^\\]]+)\\]/)[1];",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148736,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f4891280f0000064e3d6",
+      "text": "    const temp = linkText.match(/\\/([-\\w]+)\\/(.*)/);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148745,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f54a1280f0000064e3d7",
+      "text": "    if (temp) return {project: temp[1], title: temp[2]};",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148937,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f5671280f0000064e3d8",
+      "text": "    return {project: scrapbox.Project.name, title: linkText};",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148967,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f4831280f0000064e3d5",
+      "text": "  };",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614148739,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035f0321280f00000a37420",
+      "text": "  ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147634,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035eecd1280f00000a37415",
+      "text": "  function getBackLinks(targetLink, linksData) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147277,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ef041280f00000a37417",
+      "text": "   return linksData",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147332,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035efe31280f00000a3741c",
+      "text": "     .filter(({links}) => links.some(link => lc(targetLink) === lc(link)))",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147555,
+      "updated": 1614150155
+    },
+    {
+      "id": "6035efe51280f00000a3741d",
+      "text": "     .map(({title}) => title);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147557,
+      "updated": 1614150155
+    },
+    {
+      "id": "6035eef41280f00000a37416",
+      "text": "  }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147315,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035eecd1280f00000a37414",
+      "text": "  ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147276,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee151280f00000a373ff",
+      "text": "  async function fetchAllLinks(project) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147093,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37400",
+      "text": "    let followingId = null;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147094,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37401",
+      "text": "    const linksData = [];",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37402",
+      "text": "    const promises = []; //処理待ち用",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37403",
+      "text": "    do {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37404",
+      "text": "      const response = await (!followingId ? ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37405",
+      "text": "        fetch(`/api/pages/${project}/search/titles`) :",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37406",
+      "text": "        fetch(`/api/pages/${project}/search/titles?followingId=${followingId}`)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37407",
+      "text": "        )",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37408",
+      "text": "      followingId = response.headers.get('X-Following-Id');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a37409",
+      "text": "      promises.push(response.json().then(links => linksData.push(...links)));",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a3740a",
+      "text": "    } while(followingId);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a3740b",
+      "text": "    // 全てのリンク情報を配列に格納し終わったら返す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a3740c",
+      "text": "    await Promise.all(promises);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a3740d",
+      "text": "    return linksData;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147292,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee161280f00000a3740e",
+      "text": "  }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147094,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ef3a1280f00000a37418",
+      "text": "  ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147385,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ef3a1280f00000a37419",
+      "text": "  function lc(title) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147386,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ef471280f00000a3741b",
+      "text": "    return title.toLowerCase().replace(' ', '_');",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147399,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ef451280f00000a3741a",
+      "text": "  }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147397,
+      "updated": 1614149284
+    },
+    {
+      "id": "6035ee101280f00000a373fe",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614147089,
+      "updated": 1614147089
+    },
+    {
+      "id": "5ff525aa1280f000006f7232",
+      "text": "[/sta/Scrapboxの編集は必ず手作業で行う#5fba0cf379d3a90000e04ac0]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609901483,
+      "updated": 1609901641
+    },
+    {
+      "id": "5ff525ad1280f000006f7234",
+      "text": " たぶん[/shokai/WOM(Write Only Member)]です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609901485,
+      "updated": 1609901501
+    },
+    {
+      "id": "5ff525ab1280f000006f7233",
+      "text": " [sta.icon]おお、ありがとうございます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609901484,
+      "updated": 1609925132
+    },
+    {
+      "id": "5ff6f24a1280f00000b96343",
+      "text": " >自分の意思で加工し、リンクさせるということ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019402,
+      "updated": 1610019432
+    },
+    {
+      "id": "5ff6f2681280f00000b96344",
+      "text": " >  知のネットワークをつくるということ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019432,
+      "updated": 1610019443
+    },
+    {
+      "id": "5ff6f2681280f00000b96345",
+      "text": " >  ただの物置ではない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019432,
+      "updated": 1610019444
+    },
+    {
+      "id": "5ff6f2751280f00000b96346",
+      "text": "  手動で行うことで、自分の脳を介して情報を加工するようになる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019446,
+      "updated": 1610024356
+    },
+    {
+      "id": "5ff6f2951280f00000b96347",
+      "text": "  　これを自動でやったら、自分の脳には何も残らない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019477,
+      "updated": 1610019490
+    },
+    {
+      "id": "5ff6f2a11280f00000b96348",
+      "text": "  　Wikipediaが自分の第二の脳とならないのと同じこと",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019490,
+      "updated": 1610019532
+    },
+    {
+      "id": "5ff6f7ebe5172d00008d5892",
+      "text": "  　\tこれって、[多人数Project]にも当てはまるんだろうか[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610020842,
+      "updated": 1610020912
+    },
+    {
+      "id": "5ff6f831e5172d00008d5893",
+      "text": "  　\t\t自分の脳に残すという用途では、[個人Project]にするべき？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610020912,
+      "updated": 1610020940
+    },
+    {
+      "id": "5ff6fb961280f0000013c668",
+      "text": "  　\t　自分で考えて言葉を書き残している分には問題ないと考えています[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610021782,
+      "updated": 1610021807
+    },
+    {
+      "id": "5ff70235e5172d00008d5894",
+      "text": "  　\t　\twikipediaでもscrapboxでも、自分で書かないとだめということですかね[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610023476,
+      "updated": 1610023502
+    },
+    {
+      "id": "5ff702be1280f000000cf52c",
+      "text": "  　\t　\t脳に残るかどうかが焦点かな[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610023614,
+      "updated": 1610023642
+    },
+    {
+      "id": "5ff702d61280f000000cf52d",
+      "text": "  　\t　\t 数学であれ物理であれ自分の手で数式や図を書くことで理解が深まる。本を読んだだけでは理解できない。だから自分で書くことが大事",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610023638,
+      "updated": 1610023696
+    },
+    {
+      "id": "5ff703031280f000000cf52e",
+      "text": "  　\t　\t 一方で、読んだり聞いたりするだけで理解できるという人もいる(らしい)。そういう人なら読むだけでも頭に残る？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610023684,
+      "updated": 1610023745
+    },
+    {
+      "id": "5ff703411280f000000cf52f",
+      "text": "  　\t　\t 　懐疑的に見ている[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610023745,
+      "updated": 1610023757
+    },
+    {
+      "id": "5ff705e079d3a90000e84abd",
+      "text": "  　\t　\t 　inputだけしてoutput一切しないようなものだもん",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610024410,
+      "updated": 1610024551
+    },
+    {
+      "id": "5ff6fbaf1280f0000013c669",
+      "text": "  　\t　この辺は自分も気になっていて、[井戸端に書き込む前に個人projectで独創しようかな]と考えていたこともあります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610021807,
+      "updated": 1610021867
+    },
+    {
+      "id": "5ff6f2cc1280f00000b96349",
+      "text": "  ってことでしょうか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019532,
+      "updated": 1610019541
+    },
+    {
+      "id": "5ff705ac79d3a90000e84abb",
+      "text": "\t\t\tそうです[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610024358,
+      "updated": 1610024362
+    },
+    {
+      "id": "5ff705b979d3a90000e84abc",
+      "text": "\t\t\t「[自分の脳を経由させる]」 ← これわかりやすいです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610024371,
+      "updated": 1610030283
+    },
+    {
+      "id": "5ff6f3241280f00000b9634c",
+      "text": " [- [/rashitamemo/rashita.icon]さんのとこで一番近そうなのはこれですが、おそらく見かけたのはこれではないと思います]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019783,
+      "updated": 1610019787
+    },
+    {
+      "id": "5ff6f3ca1280f00000b96351",
+      "text": "  [- [/rashitamemo/結城メルマガYMM405の感想#5e0b1bf99dc7d80000a25505]]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019787,
+      "updated": 1610019787
+    },
+    {
+      "id": "5ff6f38e1280f00000b9634d",
+      "text": " これかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019727,
+      "updated": 1610019729
+    },
+    {
+      "id": "5ff6f3911280f00000b9634e",
+      "text": "  [https://rashita.net/blog/?p=25525 知識をリンクでたぐり寄せる〜Scrapboxにおけるメモのリファクタリング実践例2〜 – R-style]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019729,
+      "updated": 1610019730
+    },
+    {
+      "id": "5ff6f39c1280f00000b9634f",
+      "text": "  [/daiiz/【daiizScript】プロジェクトを跨いだテキストプレビュー機能の搭載見送りについて]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019741,
+      "updated": 1610019742
+    },
+    {
+      "id": "5ff6f3b81280f00000b96350",
+      "text": "   via [/takker/外部プロジェクトの関連ページをpopup表示するUserScript]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610019768,
+      "updated": 1610019770
+    },
+    {
+      "id": "5ff5820879d3a9000030eb08",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1609925123,
+      "updated": 1609925123
+    },
+    {
+      "id": "5ff6902b1280f00000c4f409",
+      "text": "[/sta-userscriptpractice/作業ログ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994283,
+      "updated": 1609994295
+    },
+    {
+      "id": "5ff690371280f00000c4f40a",
+      "text": " [ESModules] (`import`と`export`)についてはここが詳しいです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994296,
+      "updated": 1609994318
+    },
+    {
+      "id": "5ff690161280f00000c4f407",
+      "text": "  [https://ja.javascript.info/modules-intro モジュール, 導入]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994262,
+      "updated": 1609994320
+    },
+    {
+      "id": "5ff690501280f00000c4f40b",
+      "text": " [/sta-userscriptpractice/作業ログ#5ff59d5a79d3a90000ca47ee]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994321,
+      "updated": 1609994337
+    },
+    {
+      "id": "5ff690611280f00000c4f40c",
+      "text": "  `export`は無理ですが`import`なら[動的import]という方法があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994337,
+      "updated": 1609994363
+    },
+    {
+      "id": "5ff690171280f00000c4f408",
+      "text": "Javascript関連の情報をまとめるwikiとして[/JavaScriptTips]があります。ここに調べたことを書き込むのもいいかもしれません",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994263,
+      "updated": 1609994465
+    },
+    {
+      "id": "5ff690b21280f00000c4f40e",
+      "text": " [sta.icon]あざっす",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609994418,
+      "updated": 1610017144
+    },
+    {
+      "id": "5ff6e97b79d3a90000582a89",
+      "text": "\t[/web]というのもあるんですね[yosider.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610017141,
+      "updated": 1610018004
+    },
+    {
+      "id": "5ff6ecd5e5172d00009b0dfb",
+      "text": "\t　[public projectを紹介するページ#5fb5dcf84daa920000b33ef4]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610018004,
+      "updated": 1610018005
+    },
+    {
+      "id": "600e2cf04daa92000068d7ef",
+      "text": "\tすでに調べて分かってるかも知れませんが補足しておくと、実際にプログラムを実行しなくても解析するだけで何をimport/exportしているのかが分かるように意図的に文字列リテラルしか受け入れないような仕様になっています",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1611541745,
+      "updated": 1611541827
+    },
+    {
+      "id": "600e2d5a4daa92000068d7f0",
+      "text": "\t\tスクリプトのfetchとか、[tree shaking]とかの最適化が行いやすくなる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1611541851,
+      "updated": 1611573180
+    },
+    {
+      "id": "5ff6eccae5172d00009b0dfa",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610017993,
+      "updated": 1610017993
+    },
+    {
+      "id": "5ff944b21280f000003ac281",
+      "text": "[/sta/画像エイリアス文法]はこの画像を見る限りすでに検討されているようです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171571,
+      "updated": 1610171599
+    },
+    {
+      "id": "5ff944b31280f000003ac282",
+      "text": " [/rakusai/Scrapboxでサマーインターンを受け入れた話#5bd2e887efa18e0000c32a61]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171571,
+      "updated": 1610171600
+    },
+    {
+      "id": "5ff957df79d3a9000044b031",
+      "text": " [/icons/iine.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610176471,
+      "updated": 1610176480
+    },
+    {
+      "id": "5ff944b31280f000003ac283",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171572,
+      "updated": 1610171572
+    },
+    {
+      "id": "5ff9459d1280f00000ab172e",
+      "text": "[/sta/Scrapboxで絵文字#5ff8f6f979d3a9000090aa40]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171806,
+      "updated": 1610171806
+    },
+    {
+      "id": "5ff9459f1280f00000ab1730",
+      "text": " [- [/icon2]][/icons2]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171807,
+      "updated": 1610171825
+    },
+    {
+      "id": "5ff9459e1280f00000ab172f",
+      "text": " 絵文字の入力について→[icon*nでアイコンをたくさん表示できる#5fce53e0e5172d0000bdb755]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171806,
+      "updated": 1610171907
+    },
+    {
+      "id": "5ff945be1280f00000ab1732",
+      "text": "\tすんばらしいです[sta.icon][sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610171839,
+      "updated": 1610176610
+    },
+    {
+      "id": "5ff9586679d3a9000044b032",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610176605,
+      "updated": 1610176605
+    },
+    {
+      "id": "5ffc114a1280f000003ea579",
+      "text": "[/sta/ノートPCを机に置かない#5fdda4f779d3a90000ff10eb]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610355018,
+      "updated": 1610355023
+    },
+    {
+      "id": "5ffc113f1280f000003ea577",
+      "text": " [Mini-ITX] & [mobile display]という手段",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610355007,
+      "updated": 1610355017
+    },
+    {
+      "id": "5ffcca5d79d3a90000927761",
+      "text": " \tおお、こういう手段もあるんですね、あざっす[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402394,
+      "updated": 1610402401
+    },
+    {
+      "id": "5ffcca6479d3a90000927762",
+      "text": " \t[ミニマリスト]なので小さくできる手段は欲しい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402401,
+      "updated": 1610402415
+    },
+    {
+      "id": "5ffc11401280f000003ea578",
+      "text": "\tノートPCではなくマザーボードだけで動くというイメージでしょうか[sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610355008,
+      "updated": 1610402170
+    },
+    {
+      "id": "5ffcc92b79d3a90000927756",
+      "text": "\tむきだしにした[Mini-ITX]（というマザーボード）と[mobile display]だけでPCになる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402088,
+      "updated": 1610402097
+    },
+    {
+      "id": "5ffcc96a79d3a9000092775a",
+      "text": "\t\tたぶんケースもある or ないなら[DIY]すると思うが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402151,
+      "updated": 1610402162
+    },
+    {
+      "id": "5ffcff651280f0000030a663",
+      "text": "\t PCケースもありますよ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610415973,
+      "updated": 1610415973
+    },
+    {
+      "id": "5ffcffbf1280f0000030a664",
+      "text": "\t  [https://www.fractal-design.com/ja/products/cases/era/era-itx/silver-white-oak/ Era ITX — Fractal Design]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610416063,
+      "updated": 1610416076
+    },
+    {
+      "id": "5ffcffcd1280f0000030a665",
+      "text": " \t  Mini-ITXなのに18,000もするのか。さすが[Fractal Design]。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610416077,
+      "updated": 1610416142
+    },
+    {
+      "id": "5ffd00061280f0000030a666",
+      "text": "\t  [https://kakaku.com/pc/pc-case/itemlist.aspx?pdf_Spec305=28900 価格.com - 最大対応ファクター:～Mini-ITXのPCケース 人気売れ筋ランキング]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610416134,
+      "updated": 1610416159
+    },
+    {
+      "id": "5ffd6ed479d3a90000cc20a4",
+      "text": "\t  あざっす[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610444496,
+      "updated": 1610444514
+    },
+    {
+      "id": "5ffd6ee679d3a90000cc20a5",
+      "text": "\t  \tあざっすアイコンほしいな",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610444514,
+      "updated": 1610444517
+    },
+    {
+      "id": "5ffdb2761280f0000054629c",
+      "text": "\t  \t作った",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461814,
+      "updated": 1610461816
+    },
+    {
+      "id": "5ffdb2781280f0000054629d",
+      "text": "\t  \t [/icons/あざっす.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461816,
+      "updated": 1610461825
+    },
+    {
+      "id": "5ffdb4301280f000002c8b0a",
+      "text": "\t  \t cf. [Slack絵文字の作り方]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610462256,
+      "updated": 1610462258
+    },
+    {
+      "id": "6003859379d3a90000a194c2",
+      "text": "\t  \t [[/icons/あざっす.icon]][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843539,
+      "updated": 1610843553
+    },
+    {
+      "id": "600385bd79d3a90000a194c3",
+      "text": "\t  \t SVGという手段があるんですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843581,
+      "updated": 1610843594
+    },
+    {
+      "id": "600385c479d3a90000a194c4",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843588,
+      "updated": 1610843588
+    },
+    {
+      "id": "5ffd6f8a79d3a90000cc20a6",
+      "text": " ox",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610444678,
+      "updated": 1610444689
+    },
+    {
+      "id": "5ffcc8f979d3a90000927752",
+      "text": "\t\to 普通のノートPCよりはるかに省スペース",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402038,
+      "updated": 1610402093
+    },
+    {
+      "id": "5ffcc91179d3a90000927754",
+      "text": "\t\to ハードの性能も高い？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402062,
+      "updated": 1610402693
+    },
+    {
+      "id": "5ffcc91679d3a90000927755",
+      "text": "\t\to 拡張もできる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402067,
+      "updated": 1610402100
+    },
+    {
+      "id": "5ffccb8879d3a90000fc75dc",
+      "text": "\t\t\tスロットは多くない（まあ小型なので仕方ない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402693,
+      "updated": 1610402705
+    },
+    {
+      "id": "5ffcc90c79d3a90000927753",
+      "text": "\t\tx たぶん自作パソコンの世界で手先の器用さが要求される",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402057,
+      "updated": 1610402283
+    },
+    {
+      "id": "5ffcc94279d3a90000927758",
+      "text": "\t\t\t>ATXやMicroATXなどに比べて組立にはより注意と技術を要する。  [ATXやMicroATXなどに比べて組立にはより注意と技術を要する。 https://ja.wikipedia.org/wiki/Mini-ITX]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402111,
+      "updated": 1610402132
+    },
+    {
+      "id": "5ffcca2f79d3a9000092775d",
+      "text": "\t\tx [mobile display]は自立させるための装置が別途必要",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402348,
+      "updated": 1610402362
+    },
+    {
+      "id": "5ffcca3d79d3a9000092775f",
+      "text": "\t\t\tとしたら普通のモニタでいいか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402362,
+      "updated": 1610402371
+    },
+    {
+      "id": "5ffcca4679d3a90000927760",
+      "text": "\t\t\tでも引越し時は「モニタ」よりも「mobile display + 自立装置」の方が持ち運びやすいはず",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610402371,
+      "updated": 1610402387
+    },
+    {
+      "id": "5ffcfee81280f0000030a657",
+      "text": "\t [/emoji/negative squared cross mark.icon]常にケーブルを接続する必要がある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610415848,
+      "updated": 1610415953
+    },
+    {
+      "id": "5ffcfefc1280f0000030a658",
+      "text": "\t  土手を自転車で走っている途中に思いついたことをその場で書くことができなくなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610415869,
+      "updated": 1610415901
+    },
+    {
+      "id": "5ffcff1c1280f0000030a659",
+      "text": "\t  [- そもそもそんなことするやついない]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610415901,
+      "updated": 1610415918
+    },
+    {
+      "id": "5ffcff341280f0000030a65a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610415925,
+      "updated": 1610415925
+    },
+    {
+      "id": "5ffd1da01280f00000f71c59",
+      "text": "[/sta/英語勉強したい#5ffccfed79d3a900000beaf4]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423713,
+      "updated": 1610423713
+    },
+    {
+      "id": "5ffd1e681280f00000f71c62",
+      "text": " 結構おせっかいな指摘です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423913,
+      "updated": 1610423926
+    },
+    {
+      "id": "5ffd1e761280f00000f71c63",
+      "text": " 　無視しておｋ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423926,
+      "updated": 1610423929
+    },
+    {
+      "id": "5ffd1fa01280f00000f71c70",
+      "text": " 　一部間違えてるかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424224,
+      "updated": 1610424230
+    },
+    {
+      "id": "5ffd6c7f79d3a90000cc209f",
+      "text": " 　いやかなりありがたいです[sta.icon][sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610443900,
+      "updated": 1610443913
+    },
+    {
+      "id": "5ffd6d2a79d3a90000cc20a0",
+      "text": " >A level where you can write in English as smoothly as you usually write in Scrapbox.",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610444070,
+      "updated": 1610444212
+    },
+    {
+      "id": "5ffd1da11280f00000f71c5a",
+      "text": "  たぶんA level [* on which] you can write in English as smoothly as you usually write in Scrapbox.",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423713,
+      "updated": 1610424408
+    },
+    {
+      "id": "5ffd1db31280f00000f71c5d",
+      "text": "   でも`on which`は`where`で代替できないはずだったんだけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423732,
+      "updated": 1610424403
+    },
+    {
+      "id": "5ffd1e141280f00000f71c5e",
+      "text": "   もちろん意味は十分にわかる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423829,
+      "updated": 1610424403
+    },
+    {
+      "id": "5ffd1e231280f00000f71c5f",
+      "text": "   　文法が気になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423844,
+      "updated": 1610424403
+    },
+    {
+      "id": "5ffd6dc179d3a90000cc20a3",
+      "text": "   　[- 下の解説読んで「比較級、そういえばそんなのもあったなぁ（やべえ全然文法覚えてねえ）」となっていて、もっと手前でガチらないとダメそうな予感！[sta.icon]]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610444222,
+      "updated": 1610444322
+    },
+    {
+      "id": "5ffd1e281280f00000f71c60",
+      "text": " `as soon as I can`のように「できるだけ」を意味する定型句として捉えることもできる。一方で比較級で考えることもできる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423848,
+      "updated": 1610424392
+    },
+    {
+      "id": "5ffd1e9b1280f00000f71c66",
+      "text": "  1. 比較の軸を把握する。ここでは[/ smoothly]が比較の軸",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423963,
+      "updated": 1610424367
+    },
+    {
+      "id": "5ffd1e621280f00000f71c61",
+      "text": "   you can write in English [/ smoothly].",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423906,
+      "updated": 1610424095
+    },
+    {
+      "id": "5ffd1e801280f00000f71c65",
+      "text": "   you usually write in Scrapbox [/ smoothly].",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423936,
+      "updated": 1610424097
+    },
+    {
+      "id": "5ffd1db21280f00000f71c5c",
+      "text": "  2. [as https://www.oxfordlearnersdictionaries.com/definition/english/as_2#as_sng_4]を挿入する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423730,
+      "updated": 1610424080
+    },
+    {
+      "id": "5ffd1ea01280f00000f71c67",
+      "text": "   you can write in English [* as] [/ smoothly].",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423968,
+      "updated": 1610424098
+    },
+    {
+      "id": "5ffd1e7a1280f00000f71c64",
+      "text": "   you usually write in Scrapbox [/ smoothly].",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423931,
+      "updated": 1610424099
+    },
+    {
+      "id": "5ffd1f051280f00000f71c6a",
+      "text": "  3. 第二文から比較の軸[/ smoothly]を[/ as]に置換し、先頭に移動させる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424070,
+      "updated": 1610424138
+    },
+    {
+      "id": "5ffd1eb51280f00000f71c68",
+      "text": "   you can write in English as [/ smoothly].",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610423989,
+      "updated": 1610424101
+    },
+    {
+      "id": "5ffd1f0a1280f00000f71c6b",
+      "text": "   [* as] you usually write in Scrapbox [/- smoothly].",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424075,
+      "updated": 1610424148
+    },
+    {
+      "id": "5ffd1fe51280f00000f71c72",
+      "text": "   この[/ as]は関係詞の役目をしていると個人的に解釈してる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424293,
+      "updated": 1610424328
+    },
+    {
+      "id": "5ffd1f4d1280f00000f71c6d",
+      "text": "  4. 合体させる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424142,
+      "updated": 1610424216
+    },
+    {
+      "id": "5ffd1f931280f00000f71c6f",
+      "text": "   you can write in English as [/ smoothly] as you usually write in Scrapbox.",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424211,
+      "updated": 1610424248
+    },
+    {
+      "id": "5ffd1fbe1280f00000f71c71",
+      "text": "  今回はこれ以上変形できないが、場合によってはSやVなどを省略できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424255,
+      "updated": 1610424287
+    },
+    {
+      "id": "5ffd2370e5172d00006f92b9",
+      "text": " これもおせっかいですが、楽しめる程度の時間・頑張りの範囲で勉強すればいいと思いますよ[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610425199,
+      "updated": 1610425245
+    },
+    {
+      "id": "5ffd239fe5172d00006f92ba",
+      "text": " \t楽しめないと勉強なんてそうそう続かないと思う",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610425246,
+      "updated": 1610425260
+    },
+    {
+      "id": "5ffd2447e5172d00006f92bb",
+      "text": " \t（別に[yosider.icon]が英語できるわけではないので参考程度にしてください）",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610425413,
+      "updated": 1610425442
+    },
+    {
+      "id": "5ffd1f881280f00000f71c6e",
+      "text": "\t\t[/icons/iine.icon][sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610424201,
+      "updated": 1610444132
+    },
+    {
+      "id": "5ffd9232e5172d00008d2dda",
+      "text": "\t[英語の後から後から修飾していく書き方]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610453554,
+      "updated": 1610453568
+    },
+    {
+      "id": "5ffd8f0ae5172d00008d2dc8",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610452747,
+      "updated": 1610452747
+    },
+    {
+      "id": "6002ce38d4387500009a290a",
+      "text": "staというと、とりあえず[すた丼]を想起する",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610796600,
+      "updated": 1610796629
+    },
+    {
+      "id": "6002ce3ad4387500009a290b",
+      "text": " 初耳[sta.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610796602,
+      "updated": 1610799673
+    },
+    {
+      "id": "6002da3979d3a900007ea9bf",
+      "text": " \t[吉野家]と[すき家]と[松屋]しか知らなかった",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1610799673,
+      "updated": 1616326129
+    },
+    {
+      "id": "6002da3979d3a900007ea9c0",
+      "text": "　　味が濃くて廃人になるぜぇ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610799673,
+      "updated": 1610800234
+    },
+    {
+      "id": "6002dc62d438750000843019",
+      "text": " それと[すたみな太郎]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610933325,
+      "updated": 1610933345
+    },
+    {
+      "id": "6004e457d438750000bec416",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610933336,
+      "updated": 1610933336
+    },
+    {
+      "id": "6003847679d3a90000a194b8",
+      "text": "w3hr5wtyueo9isohsxfpv85hyak53by5llnw7607re6fck2bn7[user1.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843254,
+      "updated": 1610843347
+    },
+    {
+      "id": "6003845f79d3a90000a194b5",
+      "text": " ruc6gs118eta7xem9u7moj30qxtp5vbmfdz1bqsaasaofu0uudmeah28wxehzn63y0s6pf8fkllzj9g4z9pgwhej4z6uc231sld7[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843231,
+      "updated": 1610843248
+    },
+    {
+      "id": "600384b079d3a90000a194b9",
+      "text": " 3dbtnn9clpl7bb4mgp2p02k5uq2vgrz9uh8ouoql3hy5ish4np1ccsxpau1n5tmm523ja0ij79s19l61qykswnow7vq2f2eqvofbj34o614hokk8q9cumdaf97h3wzenm0dbu756efdtp3rmi96uc6[user1.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843312,
+      "updated": 1610843331
+    },
+    {
+      "id": "600384c579d3a90000a194ba",
+      "text": " \tk2kgrzd8rde5zdhn521j68ty7rcn2[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843333,
+      "updated": 1610843340
+    },
+    {
+      "id": "6003847179d3a90000a194b7",
+      "text": " 公開鍵暗号で秘密のメッセージやり取りした場合、どう見えるかのテスト",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843249,
+      "updated": 1610843404
+    },
+    {
+      "id": "6003850e79d3a90000a194c1",
+      "text": " \t（これはただ乱数でつくっただけ）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843406,
+      "updated": 1610843413
+    },
+    {
+      "id": "60041a41e5172d00002c535d",
+      "text": " 暗号化されたメッセージの長さは元のメッセージの長さに応じて変わるんだろうか？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610881600,
+      "updated": 1610881628
+    },
+    {
+      "id": "6005613f79d3a9000089cf55",
+      "text": " \tハッシュ化ではなく暗号化なので変わるかなぁと",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965309,
+      "updated": 1610965330
+    },
+    {
+      "id": "60041a62e5172d00002c535e",
+      "text": " 暗号化できるメッセージの長さに上限はあるんだろうか？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610881633,
+      "updated": 1610881660
+    },
+    {
+      "id": "6003850179d3a90000a194c0",
+      "text": "\t\tこれは暗号化ライブラリの実装に依存する気がする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610843393,
+      "updated": 1610965346
+    },
+    {
+      "id": "6005615179d3a9000089cf56",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965327,
+      "updated": 1610965327
+    },
+    {
+      "id": "6003fa1a1280f00000bc7bc3",
+      "text": "[/sta/scrapbox-dailytasklist-specs#6003eaee79d3a90000e0e13c]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610873371,
+      "updated": 1610873390
+    },
+    {
+      "id": "6003fa1c1280f00000bc7bc5",
+      "text": " [/takker/１日の時間細分図]で分けるのもあり[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610873372,
+      "updated": 1610873398
+    },
+    {
+      "id": "600560ed79d3a9000089cf52",
+      "text": " 気象庁が使ってるやつなんてあるんですね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965227,
+      "updated": 1610965237
+    },
+    {
+      "id": "600560f779d3a9000089cf53",
+      "text": " \t3h単位はわかりやすそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965237,
+      "updated": 1610965249
+    },
+    {
+      "id": "6005610379d3a9000089cf54",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965249,
+      "updated": 1610965259
+    },
+    {
+      "id": "600474541280f00000cea3b0",
+      "text": "[/sta/UserScript#6004235e79d3a90000a15e23]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610904660,
+      "updated": 1610904661
+    },
+    {
+      "id": "600474551280f00000cea3b1",
+      "text": " あんなに長くなったまま放置してたのは自分です。すみません[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610904662,
+      "updated": 1610904685
+    },
+    {
+      "id": "6004746c1280f00000cea3b2",
+      "text": " ということでばらしました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610904685,
+      "updated": 1610904688
+    },
+    {
+      "id": "600474481280f00000cea3ae",
+      "text": "  [/scrapboxlab/APIの書式]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610904649,
+      "updated": 1610904689
+    },
+    {
+      "id": "6005609879d3a9000089cf50",
+      "text": " [/icons/あざっす.icon][sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965142,
+      "updated": 1610965152
+    },
+    {
+      "id": "600474491280f00000cea3af",
+      "text": "\t\t仕事が早い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610904650,
+      "updated": 1610965194
+    },
+    {
+      "id": "600560c879d3a9000089cf51",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610965190,
+      "updated": 1610965190
+    },
+    {
+      "id": "6007e16c1280f00000affc95",
+      "text": "[/sta/Scrapboxで範囲選択中にIMEをオフにしたい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611129197,
+      "updated": 1611129198
+    },
+    {
+      "id": "6007e15b1280f00000affc92",
+      "text": " できました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611129180,
+      "updated": 1611129184
+    },
+    {
+      "id": "6007e15f1280f00000affc94",
+      "text": " [/takker/IME onの時、キー入力をScrapboxに渡すUserScript]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611129184,
+      "updated": 1611129185
+    },
+    {
+      "id": "6007e3c179d3a900008ddc2c",
+      "text": " おお、ありがとうございます！[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611129793,
+      "updated": 1611129800
+    },
+    {
+      "id": "6007e3c879d3a900008ddc2d",
+      "text": " https://developer.mozilla.org/ja/docs/Web/API/Element/compositionupdate_event",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611129800,
+      "updated": 1611129881
+    },
+    {
+      "id": "6007e41979d3a900008ddc2e",
+      "text": " \tIME拾えるイベントなんてあるんですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611129882,
+      "updated": 1611129888
+    },
+    {
+      "id": "6007e42079d3a900008ddc2f",
+      "text": "\t \t（ないやろと思って最初から調べてなかった（そういうとこやぞ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611129888,
+      "updated": 1611129901
+    },
+    {
+      "id": "60081ae11280f00000c40cb3",
+      "text": "\t \tちなみに日記で[compositionupdate]の話がでてきてたりします",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611143906,
+      "updated": 1611144168
+    },
+    {
+      "id": "60081be81280f00000c40cb4",
+      "text": "\t \t リンク張ってなかったので今張った",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611144170,
+      "updated": 1611144197
+    },
+    {
+      "id": "6007e44879d3a900008ddc30",
+      "text": "\t 自分用UserScript使う習慣もないので、これを期に取り入れていきたい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611129929,
+      "updated": 1611129948
+    },
+    {
+      "id": "60082b471280f00000ed0de2",
+      "text": "\tIME cancelも実装できました！[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611148104,
+      "updated": 1611148115
+    },
+    {
+      "id": "60082b6b1280f00000ed0de4",
+      "text": "\t blurとfocus使うだけでいけた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611148140,
+      "updated": 1611148169
+    },
+    {
+      "id": "6007e15c1280f00000affc93",
+      "text": "  元コードを更新してあります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611129181,
+      "updated": 1611148134
+    },
+    {
+      "id": "60096dd679d3a90000a31ec3",
+      "text": "  おおおおおおおお[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611230673,
+      "updated": 1611230675
+    },
+    {
+      "id": "60096df879d3a90000a31ec4",
+      "text": "  \t強制的に確定かー、なるほど……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611230706,
+      "updated": 1611230715
+    },
+    {
+      "id": "60082b5d1280f00000ed0de3",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611148125,
+      "updated": 1611148125
+    },
+    {
+      "id": "600d00601280f000008f9215",
+      "text": "[/sta/UserScriptでメッセージを表示したい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611464800,
+      "updated": 1611464818
+    },
+    {
+      "id": "600d00611280f000008f9217",
+      "text": " [/takker/Shadow DOMの練習]にあるcomponentとかどうでしょうか[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611464818,
+      "updated": 1611464897
+    },
+    {
+      "id": "600d00a81280f000008f9219",
+      "text": "  [/ci7lus/tweet-card-upload-3#5f781d65ae0f140000477fde]を[Web Component]化しただけ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611464872,
+      "updated": 1611582726
+    },
+    {
+      "id": "600d00891280f000008f9218",
+      "text": " 見た目や位置を修正する必要はありそうですが",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611464841,
+      "updated": 1611464859
+    },
+    {
+      "id": "600ea91f79d3a90000ad52c2",
+      "text": " [/icons/あざっす.icon][sta.icon] 内部がまだちんぷんかんぷんですが、表示したいときは使ってみます",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611573533,
+      "updated": 1611573594
+    },
+    {
+      "id": "600ea95c79d3a90000ad52c4",
+      "text": " \t自力じゃ明らかに難度エグかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611573594,
+      "updated": 1611573608
+    },
+    {
+      "id": "600d00611280f000008f9216",
+      "text": "  [ここ https://ja.javascript.info/webcomponents-intro]の解説がわかりやすいです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611464801,
+      "updated": 1611582608
+    },
+    {
+      "id": "600ecc841280f000000c7a42",
+      "text": "   練習ログ：[/takker/Custom Elementsの練習]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611582597,
+      "updated": 1611582627
+    },
+    {
+      "id": "600fdbde79d3a900008954f2",
+      "text": "  手動かすの大事ですね（なるべく早く理解したい気持ちが先行してしまう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611652058,
+      "updated": 1611652080
+    },
+    {
+      "id": "600fdc2779d3a90000851701",
+      "text": "  なるほど、ブラウザの組み込み機能だったのか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611652131,
+      "updated": 1611652147
+    },
+    {
+      "id": "600ecc9e1280f000000c7a44",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611582623,
+      "updated": 1611582623
+    },
+    {
+      "id": "600ff40c1280f000002b2245",
+      "text": "[/sta/UserScriptをポンポン使いこなす要領が必要かもしれん]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611658253,
+      "updated": 1611658254
+    },
+    {
+      "id": "600ff40d1280f000002b2246",
+      "text": " [/programming-notes]に参加してみませんか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611658254,
+      "updated": 1611658273
+    },
+    {
+      "id": "600ff4211280f000002b2248",
+      "text": " 　初心者向けの資料があるというわけではないですが、[複数人Project]なので、UserScriptで疑問があれば相談したりアドバイスを出したりできると思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611658273,
+      "updated": 1611658324
+    },
+    {
+      "id": "600ff4551280f000002b2249",
+      "text": " 　一人でUserScriptを書くよりも楽だと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611658325,
+      "updated": 1611658345
+    },
+    {
+      "id": "600ff46b1280f000002b224a",
+      "text": " 　 もちろん、一人だと[個人Projectで独創]できるという利点があるので、無理に[複数人Project]を勧めるようなことはしません。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611658347,
+      "updated": 1611658463
+    },
+    {
+      "id": "600ff40f1280f000002b2247",
+      "text": "\t\t迷ってます[sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611658255,
+      "updated": 1611661361
+    },
+    {
+      "id": "6010003679d3a90000b974cb",
+      "text": "\t\t\tけど[個人Projectで独創]タイプなので、すぐにはしないかなぁって感じです",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611661362,
+      "updated": 1611661382
+    },
+    {
+      "id": "6010004b79d3a90000b974cc",
+      "text": "\t\t\tプログラミングで井戸端できるのも楽しそうではある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611661383,
+      "updated": 1611661406
+    },
+    {
+      "id": "601001191280f0000015c13b",
+      "text": "\t\t\t[文芸的プログラミングと共同編集の組み合わせ]が難しいのが課題です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611661594,
+      "updated": 1611661607
+    },
+    {
+      "id": "6010007d79d3a90000b974cd",
+      "text": "\t\t早速ドンピシャでほしかったものが見つかったりしている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611661433,
+      "updated": 1611661501
+    },
+    {
+      "id": "601000c179d3a90000b974d0",
+      "text": "\t\t\t[/programming-notes/テキストを挿入するUserScript]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611661501,
+      "updated": 1611661501
+    },
+    {
+      "id": "601000ce1280f0000015c13a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611661519,
+      "updated": 1611661519
+    },
+    {
+      "id": "6012cb141280f0000057ddc1",
+      "text": "[/sta/scrapbox-dailytasklist-impls#600eb9be79d3a90000fdc3a7]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844373,
+      "updated": 1611844374
+    },
+    {
+      "id": "6012cb161280f0000057ddc3",
+      "text": " `s/logo-cut.svg/logo_cut.svg/`です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844374,
+      "updated": 1611844413
+    },
+    {
+      "id": "6012cb271280f0000057ddc4",
+      "text": " [https://scrapbox.io/assets/img/logo_cut.svg]←ロゴ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844391,
+      "updated": 1611844748
+    },
+    {
+      "id": "6012cb2d1280f0000057ddc5",
+      "text": "  色がないので、別途色付けする必要があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844398,
+      "updated": 1611844769
+    },
+    {
+      "id": "6013f02379d3a90000c50daf",
+      "text": "  それは知らなんだ[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611919388,
+      "updated": 1611919392
+    },
+    {
+      "id": "6012cca21280f0000057ddc7",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844771,
+      "updated": 1611844771
+    },
+    {
+      "id": "6012cc841280f0000057ddc6",
+      "text": "[/sta/Scrapboxでページを1件ずつ計n件分取得する実験#600415ca6d08cf002220e95c]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844741,
+      "updated": 1611844741
+    },
+    {
+      "id": "6012cb151280f0000057ddc2",
+      "text": " `Promise.all()`で複数のPromiseを同時に走らせられます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844374,
+      "updated": 1611844793
+    },
+    {
+      "id": "6013f03f79d3a90000c50db1",
+      "text": " \tあざっす[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611919415,
+      "updated": 1611919418
+    },
+    {
+      "id": "6013f02e79d3a90000c50db0",
+      "text": " \tそのキーワード見たことありましたが、そんな意味があったんですね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611919398,
+      "updated": 1611919410
+    },
+    {
+      "id": "6013f3b079d3a90000c50dcb",
+      "text": " e.g. [/takker/scrapboxの全てのpageを取得する]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611920297,
+      "updated": 1611920337
+    },
+    {
+      "id": "6012cca41280f0000057ddc8",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611844772,
+      "updated": 1611844772
+    },
+    {
+      "id": "601eac6e1280f00000f4298b",
+      "text": "[@にたくさん書き込むのに抵抗がある]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612622958,
+      "updated": 1612622981
+    },
+    {
+      "id": "6014280e1280f000004fd6f3",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611933711,
+      "updated": 1611933711
+    },
+    {
+      "id": "6014280e1280f000004fd6f4",
+      "text": "[/sta/UserScriptでリマインダーを実現する#6006cea93f028c001cf136c8]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611933711,
+      "updated": 1611933711
+    },
+    {
+      "id": "601429441280f000004fd6fb",
+      "text": " 自分だったらこういう方法を考えるかなーというのを挙げます[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934021,
+      "updated": 1611934051
+    },
+    {
+      "id": "6014291f1280f000004fd6f8",
+      "text": "　 Scrapboxのみで済ます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611933984,
+      "updated": 1611933992
+    },
+    {
+      "id": "6014297a1280f000004fd6fd",
+      "text": "   [/scrapboxlab/特定ページから情報を読み込んでアラートする]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934075,
+      "updated": 1611934075
+    },
+    {
+      "id": "601543ef5b98c200003a6859",
+      "text": "    [suto3.icon] お、それと、 [/masui/ScrapboxSaver] を組み合わせて",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1612006384,
+      "updated": 1612006448
+    },
+    {
+      "id": "601544335b98c200003a685a",
+      "text": "    ポモドーロタイマーを作ったよ [/suto3/UserScript:ポモドーロテクニック]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1612006451,
+      "updated": 1612006520
+    },
+    {
+      "id": "601c1751e5172d00008f2fec",
+      "text": "    \t→[Scrapboxでポモドーロテクニック]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612453712,
+      "updated": 1612453719
+    },
+    {
+      "id": "6015447c5b98c200003a685b",
+      "text": "    少し手直しすれば、リマインダーになると思うよ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1612006524,
+      "updated": 1612006561
+    },
+    {
+      "id": "6015470279d3a900007779ce",
+      "text": "    おお、ありがとうございます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612007162,
+      "updated": 1612007166
+    },
+    {
+      "id": "6014297e1280f000004fd6fe",
+      "text": "   [Push API]か[Notifications API]を使う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934078,
+      "updated": 1611934323
+    },
+    {
+      "id": "60142a721280f000004fd701",
+      "text": "    通知を実装するためのweb APIらしいです。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934323,
+      "updated": 1611934345
+    },
+    {
+      "id": "60142a891280f000004fd703",
+      "text": "    [takker.icon]は使ったことないので、これで実現できるかどうかはわかりませんが、試してみる価値はありそうです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934345,
+      "updated": 1611934404
+    },
+    {
+      "id": "6014d83479d3a90000fb0da3",
+      "text": "    時刻や残り時間をカウントするサーバー立てて、ScrapboxからはPush APIなどでそいつと通信する感じかしら",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611978796,
+      "updated": 1611978927
+    },
+    {
+      "id": "6014d8be79d3a90000fb0da5",
+      "text": "    \tサーバーでかんたんなアプリ立てる練習になりそう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611978934,
+      "updated": 1611978941
+    },
+    {
+      "id": "6014d8c679d3a90000fb0da6",
+      "text": "　 [TamperMonkey]を併用する",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611978942,
+      "updated": 1611978946
+    },
+    {
+      "id": "6014293a1280f000004fd6fa",
+      "text": "　  Google CalenderやSlackのAPIにPOSTするなど、[Scrapboxから外部APIを使]えるようになります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934011,
+      "updated": 1611988883
+    },
+    {
+      "id": "6014d7f579d3a90000fb0da2",
+      "text": "　  \tなるほど、Tamperさんは知ってましたが、APIにPOSTするみたいなことできるんですね[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611978732,
+      "updated": 1611978745
+    },
+    {
+      "id": "6014fd4d1280f00000139757",
+      "text": "　  \tPOST自体はTamperMonkeyなしでもscrapbox.io/upload.gyazo.ioへならできます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611988301,
+      "updated": 1611988337
+    },
+    {
+      "id": "6014fd731280f00000139758",
+      "text": "　  \tTamperMonkeyは[CSP]を無視してAPIを叩くために使います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611988339,
+      "updated": 1611988556
+    },
+    {
+      "id": "6014fe3f1280f0000013975d",
+      "text": "　  \t [/programming-notes/ScrapboxにおけるCORB・CORS制限]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611988544,
+      "updated": 1611988658
+    },
+    {
+      "id": "6014fec579d3a90000fce6da",
+      "text": "　  \t なるほど[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611988669,
+      "updated": 1611988670
+    },
+    {
+      "id": "6014feb21280f0000013975e",
+      "text": "  　  [/takker/scrapboxで外部APIを使う]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611988658,
+      "updated": 1611988667
+    },
+    {
+      "id": "601429821280f000004fd6ff",
+      "text": "　  mobile端末だと動かないという欠点があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934083,
+      "updated": 1611934161
+    },
+    {
+      "id": "6014280f1280f000004fd6f5",
+      "text": "    [sta.icon]さんは使ってなさそうなので関係かもしれませんが一応捕捉",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611933711,
+      "updated": 1611934188
+    },
+    {
+      "id": "6014d86379d3a90000fb0da4",
+      "text": "  [/icons/あざっす.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611978843,
+      "updated": 1611978850
+    },
+    {
+      "id": "60142ad91280f000004fd704",
+      "text": " データの格納はlocal storage一択ですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934426,
+      "updated": 1611934448
+    },
+    {
+      "id": "601429d11280f000004fd700",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611934161,
+      "updated": 1611934161
+    },
+    {
+      "id": "601d3f791280f000009797fc",
+      "text": "[/sta/GaaS]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529529,
+      "updated": 1612529530
+    },
+    {
+      "id": "601d3f7b1280f000009797fe",
+      "text": " [GaaS] ([* G]overnment [* a]s [* a] [* S]ervice)と被るのが気になる[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529530,
+      "updated": 1612529648
+    },
+    {
+      "id": "601e4e7279d3a90000da14ec",
+      "text": " \t被るのありそうだと思ってましたが、やはりありましたか[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612598900,
+      "updated": 1612598914
+    },
+    {
+      "id": "601e4e8179d3a90000da14ed",
+      "text": " \tたぶんこんな感じでテキトーに分けると思いますｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612598915,
+      "updated": 1612598939
+    },
+    {
+      "id": "601e4e9979d3a90000da14ee",
+      "text": " \t\t意味",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612598939,
+      "updated": 1612598939
+    },
+    {
+      "id": "601e4e9a79d3a90000da14ef",
+      "text": " \t\t\t1 GitHub As A Storage",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612598941,
+      "updated": 1612598946
+    },
+    {
+      "id": "601e4ea079d3a90000da14f0",
+      "text": " \t\t\t2 Government as as Service",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612598946,
+      "updated": 1612598957
+    },
+    {
+      "id": "601d3f9c1280f000009797ff",
+      "text": " もちろん個人projectなので、どの用語をどう定義しようが自由です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529563,
+      "updated": 1612529646
+    },
+    {
+      "id": "601d3fe61280f00000979800",
+      "text": " ただ、将来Government as a Serviceについてメモするようになったら、使い分けを考えたほうがいいかもしれません",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529637,
+      "updated": 1612529647
+    },
+    {
+      "id": "601d3f7a1280f000009797fd",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529530,
+      "updated": 1612529530
+    },
+    {
+      "id": "601d408d1280f00000979806",
+      "text": "[/sta/LinksとPagesの比]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529804,
+      "updated": 1612529811
+    },
+    {
+      "id": "601d3ff21280f00000979801",
+      "text": " リンク比ではありませんが、[各projectの被リンク数histogram]なら以前作りました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529650,
+      "updated": 1612529811
+    },
+    {
+      "id": "601e4ee279d3a90000da14f2",
+      "text": " ありがとうございます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612599012,
+      "updated": 1612599016
+    },
+    {
+      "id": "601e4ee779d3a90000da14f3",
+      "text": " \tuserscriptでここまでできるんか、思ったらpythonでしたね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612599017,
+      "updated": 1612599027
+    },
+    {
+      "id": "601d40751280f00000979805",
+      "text": "  [p5.js]を使えばuserscriptのみでもいけると思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612529781,
+      "updated": 1612620610
+    },
+    {
+      "id": "601ea32e1280f000003e85a4",
+      "text": "   [d3-csv-barchart-button]が一番近いかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612620591,
+      "updated": 1612620669
+    },
+    {
+      "id": "601ea37d1280f000003e85a6",
+      "text": "   このへんは[suto3.icon]さんが詳しいです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612620669,
+      "updated": 1612620678
+    },
+    {
+      "id": "6027129879d3a900008ddc18",
+      "text": "  [ライフゲーム]のところでも使われてましたね",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173401,
+      "updated": 1613173410
+    },
+    {
+      "id": "601ea3781280f000003e85a5",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612620665,
+      "updated": 1612620665
+    },
+    {
+      "id": "6023f093e5172d0000fb75ce",
+      "text": "[https://tritask.github.io/tritask-web/concept.html#_2 Tritask のコンセプト - Tritask]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612968078,
+      "updated": 1612968080
+    },
+    {
+      "id": "6023f096e5172d0000fb75d0",
+      "text": "\t[\" これらを扱うのに、従来の画面ベースのツールでは役不足です。]のところですが、役不足ではなく力不足などが正しいかと思います（細かい指摘ですみません）[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612968081,
+      "updated": 1612968162
+    },
+    {
+      "id": "6023f095e5172d0000fb75cf",
+      "text": "\t\tありがとうございます[sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612968080,
+      "updated": 1613173448
+    },
+    {
+      "id": "602712c879d3a900008ddc1a",
+      "text": "\t\t最初は「いや、合ってる」と思ってたんですが、誤用かなと思って検索",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173448,
+      "updated": 1613173640
+    },
+    {
+      "id": "602712d979d3a900008ddc1b",
+      "text": "\t\t\t[約9割の人が間違えている!!「役不足」の意味、正しく覚えている自信はある？ | Oggi.jp https://oggi.jp/417130]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173465,
+      "updated": 1613173465
+    },
+    {
+      "id": "602712d979d3a900008ddc1c",
+      "text": "\t\t\t僕が間違ってましたね（よくある）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173466,
+      "updated": 1613173644
+    },
+    {
+      "id": "6027130679d3a900008ddc1e",
+      "text": "\t\tあとで修正しときます",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173511,
+      "updated": 1613173522
+    },
+    {
+      "id": "6027132479d3a900008ddc1f",
+      "text": "\t\t\tとりあえず5日後に現れるよう突っ込んでみた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173541,
+      "updated": 1613173599
+    },
+    {
+      "id": "6027132d79d3a900008ddc20",
+      "text": "\t\t\t\t`3 2021/02/18 Thu             9 tritask 役不足修正しとく`",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173549,
+      "updated": 1613173588
+    },
+    {
+      "id": "6027135479d3a900008ddc21",
+      "text": "\t\t\tこういうふうに「今すぐやるのはちょっと」「でも忘れたくない」場合に、さくっと突っ込めるのも[Tritask]のメリットです（唐突なアピール）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173589,
+      "updated": 1613232606
+    },
+    {
+      "id": "602e375579d3a900007b0142",
+      "text": "\t\t\tタスクリストからやってきた",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613641557,
+      "updated": 1613641563
+    },
+    {
+      "id": "602e375b79d3a900007b0143",
+      "text": "\t\t\t\thttps://github.com/tritask/tritask-web/commit/e44b9e4a56f6a71f7ff594cbc2da0d6ecb185a35",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613641563,
+      "updated": 1613641784
+    },
+    {
+      "id": "602e38b179d3a900007b0146",
+      "text": "\t\t\t\t[GitHub Pages]だと楽でよき",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613641907,
+      "updated": 1613641915
+    },
+    {
+      "id": "602e4dd6e5172d00001a4324",
+      "text": "\t\t\t\t[/icons/iine.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613647316,
+      "updated": 1613647322
+    },
+    {
+      "id": "602e4ddae5172d00001a4325",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613647320,
+      "updated": 1613647320
+    },
+    {
+      "id": "6037887b03b2100000030233",
+      "text": " 「変態論」好きです[franky.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1614252154,
+      "updated": 1614252293
+    },
+    {
+      "id": "6037887c03b2100000030234",
+      "text": "  ありがとうございますｗ（ちょっと恥ずかしいと思いつつ）[sta.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1614252155,
+      "updated": 1615850007
+    },
+    {
+      "id": "604fea0979d3a90000ef3a2b",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1615849994,
+      "updated": 1615849994
+    }
+  ]
+}

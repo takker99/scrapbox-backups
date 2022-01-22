@@ -1,0 +1,85 @@
+{
+  "id": "5ffdaf7d9d061900416b3d2d",
+  "title": "アイコン後付け記法",
+  "created": 1610461054,
+  "updated": 1610521913,
+  "lines": [
+    {
+      "id": "5ffdaf7d9d061900416b3d2d",
+      "text": "アイコン後付け記法",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461054,
+      "updated": 1610461054
+    },
+    {
+      "id": "5ffdaf801280f000008a805a",
+      "text": "[アイコン記法]を文末につけるやりかた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461056,
+      "updated": 1610461071
+    },
+    {
+      "id": "5ffdaf7e1280f000008a8058",
+      "text": "　い｛アイコンA) {アイコンB}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461054,
+      "updated": 1610461055
+    },
+    {
+      "id": "5ffdaf7f1280f000008a8059",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461055,
+      "updated": 1610461055
+    },
+    {
+      "id": "5ffdb0131280f000008a8067",
+      "text": "利点",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461203,
+      "updated": 1610461205
+    },
+    {
+      "id": "5ffdb0191280f000008a806a",
+      "text": "　同じ意見に対して[同意]するのがかんたん",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461209,
+      "updated": 1610521913
+    },
+    {
+      "id": "5ffdb0251280f000008a806b",
+      "text": "　 `わかる[a.icon*2][b.icon][c.icon*5]`と書けばいい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461221,
+      "updated": 1610461247
+    },
+    {
+      "id": "5ffdb0151280f000008a8069",
+      "text": "欠点",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461205,
+      "updated": 1610521858
+    },
+    {
+      "id": "5ffe9d03e5172d000043da2f",
+      "text": "\tアイコンの数が増える",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610521858,
+      "updated": 1610521907
+    },
+    {
+      "id": "5ffe9d12e5172d000043da30",
+      "text": "\t\t新しい意見を書くたびにアイコンをつけることになる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610521874,
+      "updated": 1610521896
+    },
+    {
+      "id": "5ffdb0151280f000008a8068",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610461205,
+      "updated": 1610461205
+    }
+  ]
+}

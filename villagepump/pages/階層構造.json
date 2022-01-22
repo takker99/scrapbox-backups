@@ -1,0 +1,36 @@
+{
+  "id": "5fc4a49baba8a0001ce85e67",
+  "title": "階層構造",
+  "created": 1606722718,
+  "updated": 1606722749,
+  "lines": [
+    {
+      "id": "5fc4a49baba8a0001ce85e67",
+      "text": "階層構造",
+      "userId": "582c2d74687d280011d7d3c3",
+      "created": 1606722718,
+      "updated": 1606722718
+    },
+    {
+      "id": "5fc4a49cd7d3c300001add0a",
+      "text": " [情報構造]のひとつ",
+      "userId": "582c2d74687d280011d7d3c3",
+      "created": 1606722718,
+      "updated": 1606722743
+    },
+    {
+      "id": "5fc4a4a6d7d3c300001add0c",
+      "text": " [アウトライン構造]と同義と言っても良さそう？",
+      "userId": "582c2d74687d280011d7d3c3",
+      "created": 1606722728,
+      "updated": 1606722749
+    },
+    {
+      "id": "5fc4a49dd7d3c300001add0b",
+      "text": "",
+      "userId": "582c2d74687d280011d7d3c3",
+      "created": 1606722719,
+      "updated": 1606722719
+    }
+  ]
+}

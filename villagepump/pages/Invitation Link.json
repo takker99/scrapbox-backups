@@ -1,0 +1,36 @@
+{
+  "id": "5fea4f5f922365001fdf8ace",
+  "title": "Invitation Link",
+  "created": 1609191265,
+  "updated": 1609191305,
+  "lines": [
+    {
+      "id": "5fea4f5f922365001fdf8ace",
+      "text": "Invitation Link",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191265,
+      "updated": 1609191265
+    },
+    {
+      "id": "5fea4f6b8ee92a00005c861b",
+      "text": " [Scrapbox]にメンバとして参加するためのURL",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191277,
+      "updated": 1609191292
+    },
+    {
+      "id": "5fea4f608ee92a0000ae087d",
+      "text": " [井戸端のInvitation Link https://scrapbox.io/projects/villagepump/invitations/71daa060036d1127255dded9a6c4d412]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191265,
+      "updated": 1609191305
+    },
+    {
+      "id": "5fea4f608ee92a0000ae087e",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191265,
+      "updated": 1609191265
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "5f83154b34e02f001e78f30e",
+  "title": "Colaboratory",
+  "created": 1602426208,
+  "updated": 1608638966,
+  "lines": [
+    {
+      "id": "5f83154b34e02f001e78f30e",
+      "text": "Colaboratory",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1602426208,
+      "updated": 1602426208
+    },
+    {
+      "id": "5f8315605b98c200008ad50e",
+      "text": "[Google]の提供する、Webブラウザ上で動作する[Python]の実行環境",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1602426208,
+      "updated": 1602428982
+    },
+    {
+      "id": "5f8315795b98c200008ad511",
+      "text": "Googleアカウントが必要",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1602426234,
+      "updated": 1602426287
+    },
+    {
+      "id": "5f8315af5b98c200008ad512",
+      "text": "[Jupyter Notebook]が基になっている",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1602426288,
+      "updated": 1605353751
+    },
+    {
+      "id": "5fe1e1d9d438750000775ba4",
+      "text": "Google Docsのドキュメントのように､Googleドライブに保存しておける",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608638937,
+      "updated": 1608638966
+    },
+    {
+      "id": "5f8315fd5b98c200008ad513",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1602426366,
+      "updated": 1602426366
+    },
+    {
+      "id": "5f8315605b98c200008ad50f",
+      "text": "https://colab.research.google.com/",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1602426208,
+      "updated": 1602426209
+    }
+  ]
+}

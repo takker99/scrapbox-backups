@@ -1,0 +1,71 @@
+{
+  "id": "5fd1f791d19bdf001c080e5e",
+  "title": "Visual Studio Code",
+  "created": 1607595933,
+  "updated": 1612776346,
+  "lines": [
+    {
+      "id": "5fd1f791d19bdf001c080e5e",
+      "text": "Visual Studio Code",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607595933,
+      "updated": 1607595933
+    },
+    {
+      "id": "5fd1f9174bb2e2000008af41",
+      "text": "[https://code.visualstudio.com/assets/home/home-screenshot-linux.png https://code.visualstudio.com/]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596246,
+      "updated": 1607596444
+    },
+    {
+      "id": "5fd1f9494bb2e2000008af43",
+      "text": " 公式から持ってきたんだけどMSの製品なのにスクショがLinuxなのすごいな[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596296,
+      "updated": 1607596432
+    },
+    {
+      "id": "5fd1f7de4bb2e2000008af3d",
+      "text": "[Microsoft]が本気を出して作った[テキストエディタ]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607595934,
+      "updated": 1612776346
+    },
+    {
+      "id": "5fd1f8ab4bb2e2000008af3f",
+      "text": "名前の通り[Visual Studio]の親戚",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596138,
+      "updated": 1607596334
+    },
+    {
+      "id": "5fd1f9b54bb2e2000008af45",
+      "text": " Visual Studio同様ソースコードの編集に特化しておりプラグインを入れるとIDEっぽくなる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596404,
+      "updated": 1607596412
+    },
+    {
+      "id": "5fd1fa054bb2e2000008af46",
+      "text": "  プラグイン導入はMarketplaceを検索してボタンポチポチするだけなのでとっても簡単",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596485,
+      "updated": 1607596513
+    },
+    {
+      "id": "5fd1f99d4bb2e2000008af44",
+      "text": "[TypeScript]で書かれておりBrowser baseのため[クロスプラットフォーム]で動く",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596381,
+      "updated": 1607596546
+    },
+    {
+      "id": "5fd1fa494bb2e2000008af47",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607596552,
+      "updated": 1607596552
+    }
+  ]
+}

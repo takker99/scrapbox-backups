@@ -1,0 +1,337 @@
+{
+  "id": "6002bcf4bb038c0023ac85bd",
+  "title": "@erniogi",
+  "created": 1610792181,
+  "updated": 1615603993,
+  "lines": [
+    {
+      "id": "6002bcf4bb038c0023ac85bd",
+      "text": "@erniogi",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792181,
+      "updated": 1610792181
+    },
+    {
+      "id": "6002bd601280f000002aedb8",
+      "text": "(質問というわけではなく、ちょっとした感想です)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792288,
+      "updated": 1610792309
+    },
+    {
+      "id": "6002bcf81280f000002aedb6",
+      "text": "久々に[erniogi.icon]さんのproject覗いてみたら結構デザイン変わってますね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792185,
+      "updated": 1610792228
+    },
+    {
+      "id": "6002beea1280f000002aedc3",
+      "text": " [/icons/よさそう.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792682,
+      "updated": 1610792689
+    },
+    {
+      "id": "6002bd251280f000002aedb7",
+      "text": " 物理・数学系が充実してきたような",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792230,
+      "updated": 1610792287
+    },
+    {
+      "id": "6002bd7a1280f000002aedb9",
+      "text": " 自分も[/erniogi/確率変数についての平均と分散]みたいなページをたくさん作りたいんですけど、全然勉強できていなくて……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792314,
+      "updated": 1610792341
+    },
+    {
+      "id": "6002bf011280f000002aedc4",
+      "text": " 授業の時間割とか出しているのは[/kii-cafe]と似ている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792706,
+      "updated": 1610792720
+    },
+    {
+      "id": "6002d00aa3368200000aff2d",
+      "text": " \t機械学習と統計学が専攻なので，その周辺のものが増える予定です[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610797067,
+      "updated": 1610797128
+    },
+    {
+      "id": "6002be231280f000002aedbc",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792484,
+      "updated": 1610792484
+    },
+    {
+      "id": "6002be2b1280f000002aedbd",
+      "text": "授業で使った問題とか載せちゃっても良いものなんですかね？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792492,
+      "updated": 1610792527
+    },
+    {
+      "id": "6002d0d9a3368200000aff2e",
+      "text": "\t\tダメそうなのは流石に消してます[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610797273,
+      "updated": 1610797925
+    },
+    {
+      "id": "6002d24ea3368200000aff2f",
+      "text": "\t\tslideはダメな感じする[$ \\cdots][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610797647,
+      "updated": 1610797933
+    },
+    {
+      "id": "6002d99e1280f00000e8bee4",
+      "text": "\t\t [講義スライド]をスクショして貼り付けいたらやばいです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610799519,
+      "updated": 1610803222
+    },
+    {
+      "id": "6002e78ea33682000007330c",
+      "text": "\t\t \t参考文献から元ネタ見つけられたらセーフだと思っていて，文章を改変して掲載したものは割とたくさんあります[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610803087,
+      "updated": 1610803330
+    },
+    {
+      "id": "6002e7d81280f000005338d3",
+      "text": " \t\t  あ、それならOKだと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610803160,
+      "updated": 1610803562
+    },
+    {
+      "id": "6002be4b1280f000002aedbe",
+      "text": "　自分も載せたいのですが、無許可で出すとまずいかなと思ってprivate projectにとどめてます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792523,
+      "updated": 1610792563
+    },
+    {
+      "id": "6002d2c4a3368200000aff30",
+      "text": "　\tそれが無難ですね．project自体非公開にしようかなあとも思っています[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610797765,
+      "updated": 1610797817
+    },
+    {
+      "id": "6002d9b11280f00000e8bee5",
+      "text": "　\tproject自体非公開はちょっと勿体無いと思う[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610799538,
+      "updated": 1610799555
+    },
+    {
+      "id": "6002d9d01280f00000e8bee7",
+      "text": "　\t　日々の学びのログとかはとても参考になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610799568,
+      "updated": 1610799586
+    },
+    {
+      "id": "6002d9fb1280f00000e8bee8",
+      "text": "　\tただ[private projectとpublic projectとの使い分けが難し]ければ、全部[個人 private project]にするのも手ですね。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610799611,
+      "updated": 1610799687
+    },
+    {
+      "id": "6002da471280f00000e8bee9",
+      "text": "　\t [Scrapbox初心者向けのメモ#5f84267e1280f00000cfd607]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610799687,
+      "updated": 1610799750
+    },
+    {
+      "id": "6002db66e5172d0000469a7e",
+      "text": "　\t そうしている[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610799971,
+      "updated": 1610799981
+    },
+    {
+      "id": "6002db70e5172d0000469a7f",
+      "text": "　\t \t[個人ProjectをPublic Projectにする利点#5ffd44dee5172d00006f92d4]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610799981,
+      "updated": 1610799984
+    },
+    {
+      "id": "6002be7f1280f000002aedbf",
+      "text": "　[- 出しても良さげであれば自分も出したい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792576,
+      "updated": 1610792668
+    },
+    {
+      "id": "6002be881280f000002aedc0",
+      "text": "　 あ、いや無理だな。[講義資料]を外部に出してはいけないことになっているんだった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792585,
+      "updated": 1610792623
+    },
+    {
+      "id": "6002beae1280f000002aedc2",
+      "text": "　 実際、講義資料をメルカリで売った[- アホ]学生が処分されたらしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792623,
+      "updated": 1610792654
+    },
+    {
+      "id": "6002c0d4e5172d0000836e90",
+      "text": "　  売るのと感想書くのとではだいぶ違う気がするけどなあ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610793173,
+      "updated": 1610793203
+    },
+    {
+      "id": "6002c2561280f00000b0adf4",
+      "text": "　  [/icons/そうだね.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793559,
+      "updated": 1610797944
+    },
+    {
+      "id": "6002c45f8ee92a000064bb11",
+      "text": "　  私はあらゆる講義資料/論文/講演資料/雑誌記事をScrapboxで公開してますけどね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610794079,
+      "updated": 1610794228
+    },
+    {
+      "id": "6002c49d8ee92a000064bb12",
+      "text": "　   e.g. [/sfc-pm2020], [/masui-hakodate-2020]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610794141,
+      "updated": 1610794208
+    },
+    {
+      "id": "6002c4951280f00000146284",
+      "text": " 　  [/icons/いい話だ.icon][erniogi.icon][takker.icon][sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610794133,
+      "updated": 1610799741
+    },
+    {
+      "id": "6002c51c8ee92a000064bb13",
+      "text": " 　  受講者リストとか成績とかはprivateプロジェクトに書いてる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610794269,
+      "updated": 1610794283
+    },
+    {
+      "id": "604c28f78ee92a0000fca039",
+      "text": " 　  [ScrapCalc]で成績計算できるようになったかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615603959,
+      "updated": 1615603971
+    },
+    {
+      "id": "604c29048ee92a0000fca03a",
+      "text": " 　   85点 ⇒ A みたいなのを自動計算できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615603973,
+      "updated": 1615603993
+    },
+    {
+      "id": "6002bdc21280f000002aedbb",
+      "text": " あと奨学生番号をpublic projectに載せるのは流石にまずいような……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792386,
+      "updated": 1610792568
+    },
+    {
+      "id": "6002cf5da3368200000de39a",
+      "text": " \tありがとうございます，消します（載せ間違えた）[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610796893,
+      "updated": 1610798011
+    },
+    {
+      "id": "6002cfcda3368200000aff2c",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1610797005,
+      "updated": 1610797020
+    },
+    {
+      "id": "602791b31280f00000fc7924",
+      "text": "[/erniogi/複素積分とCauchyの積分定理]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613205940,
+      "updated": 1613205940
+    },
+    {
+      "id": "602791b51280f00000fc7925",
+      "text": " [線積分]まわりがわかりやすそう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613205941,
+      "updated": 1613205972
+    },
+    {
+      "id": "6002bcf61280f000002aedb4",
+      "text": "　　今度参考にさせていただきます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610792182,
+      "updated": 1613205981
+    },
+    {
+      "id": "602797f0a33682000004d6a0",
+      "text": "　　\t光栄です．あの辺は授業のノートです[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1613207537,
+      "updated": 1613207670
+    },
+    {
+      "id": "602791d41280f00000fc7926",
+      "text": " [/erniogi/複素積分とCauchyの積分定理#601e6d73a3368200007e10c8]にカーソルが写っているような……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613205972,
+      "updated": 1613205999
+    },
+    {
+      "id": "6027973aa33682000004d69e",
+      "text": " \t指摘ありがとうございます。雑にキャプチャしたのでカーソルが残ってました[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1613207354,
+      "updated": 1613207530
+    },
+    {
+      "id": "602791ef1280f00000fc7928",
+      "text": " このページにある[手書きノート]って、どのツールで描いているのでしょうか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613205999,
+      "updated": 1613206045
+    },
+    {
+      "id": "602791e51280f00000fc7927",
+      "text": "  [- 前にも聞いたことあるような]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613205990,
+      "updated": 1613206067
+    },
+    {
+      "id": "60279766a33682000004d69f",
+      "text": "  \t[Goodnote5]ですね．それをスクリーンショットしてます（これは嫌だからやめたい）[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1613207398,
+      "updated": 1613207532
+    },
+    {
+      "id": "602792221280f00000fc792a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613206050,
+      "updated": 1613206050
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "id": "5f5cbd5b30385d001e8d5080",
+  "title": "Qutebrowser",
+  "created": 1599913310,
+  "updated": 1615615208,
+  "lines": [
+    {
+      "id": "5f61e0d08a8c6a000010e67c",
+      "text": "Qutebrowser",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1600250064,
+      "updated": 1600250066
+    },
+    {
+      "id": "5f5cbd5b30385d001e8d5080",
+      "text": "Scrapboxに適したブラウザはQutebrowserではないか",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913310,
+      "updated": 1599936026
+    },
+    {
+      "id": "5f5cbe638a8c6a000021658f",
+      "text": "\thttps://qutebrowser.org/",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913571,
+      "updated": 1604754971
+    },
+    {
+      "id": "5f5cbe648a8c6a0000216590",
+      "text": "[[https://raw.githubusercontent.com/qutebrowser/qutebrowser/master/doc/img/cheatsheet-big.png]]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913572,
+      "updated": 1599929628
+    },
+    {
+      "id": "5f5cbd6a8a8c6a0000216582",
+      "text": "[***** メリット]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913323,
+      "updated": 1599994437
+    },
+    {
+      "id": "5f5dfa3f8a8c6a00008efc13",
+      "text": " 連番の前後が^A,^Xでできる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599994431,
+      "updated": 1599994431
+    },
+    {
+      "id": "5f5cbd798a8c6a0000216584",
+      "text": " 過去踏んだページの履歴をインクリメンタルサーチできる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913338,
+      "updated": 1599913509
+    },
+    {
+      "id": "5f5cbdd68a8c6a0000216589",
+      "text": " [Vim]ユーザーならすぐ感じる価値がある",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913431,
+      "updated": 1599914467
+    },
+    {
+      "id": "5f5cbdee8a8c6a000021658b",
+      "text": " ミニマムなUI",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913454,
+      "updated": 1599913462
+    },
+    {
+      "id": "5f5cbdf58a8c6a000021658c",
+      "text": "  タイトルバーやタブバーなどを全廃できる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913462,
+      "updated": 1599913469
+    },
+    {
+      "id": "5f5cbdfd8a8c6a000021658d",
+      "text": "  シングルウィンドウのWebアプリに,いろんな機能が隠れている感じにできる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913469,
+      "updated": 1599913486
+    },
+    {
+      "id": "5f5cbdd78a8c6a000021658a",
+      "text": " 設定ファイルが[Python]なのでカスタマイズが効く",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913431,
+      "updated": 1599913640
+    },
+    {
+      "id": "5fa69e26d438750000fa630d",
+      "text": "  `import datetime`してもいいので,任意の日付のページを開ける",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604754982,
+      "updated": 1604754982
+    },
+    {
+      "id": "5f5cfd2f8a8c6a00007abc1f",
+      "text": "  キーバインドをどうにでもできる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599929648,
+      "updated": 1599929659
+    },
+    {
+      "id": "5f5dfa518a8c6a00008efc16",
+      "text": "   ファイルをいじらなくてもOK",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599994449,
+      "updated": 1599994476
+    },
+    {
+      "id": "5f5dfa708a8c6a00008efc18",
+      "text": "   　ブラウザ画面から",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599994481,
+      "updated": 1599994484
+    },
+    {
+      "id": "5f5dfa6c8a8c6a00008efc17",
+      "text": "   　　`:bind 1 open https://scrapbox.io/stream/villagepump/ `",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599994476,
+      "updated": 1603444816
+    },
+    {
+      "id": "5f5cfd3b8a8c6a00007abc20",
+      "text": "\t\t\t\t  1,2,3などのキーにScrapboxの各プロジェクトを振っても良い",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599929659,
+      "updated": 1599994496
+    },
+    {
+      "id": "5f5cfd508a8c6a00007abc21",
+      "text": "  シェルコマンドも実行可能.もはやランチャーである",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599929680,
+      "updated": 1599929690
+    },
+    {
+      "id": "5f7fd48da9f4740000c82e62",
+      "text": " 履歴ファイルが[sqlite]なので､分析にかけたりサジェスチョンの材料にできそう",
+      "userId": "5f7bafa76f34a0001ea9f474",
+      "created": 1602213006,
+      "updated": 1602218146
+    },
+    {
+      "id": "5fa69ee5d438750000bb4fe1",
+      "text": "code:sql",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604755174,
+      "updated": 1608787930
+    },
+    {
+      "id": "5fe427dad43875000018bb0e",
+      "text": " select url,count(*) from History group by url having(count(*)>1);",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608787930,
+      "updated": 1608787930
+    },
+    {
+      "id": "5fe427dad43875000018bb0f",
+      "text": "code:sh",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608787930,
+      "updated": 1608787930
+    },
+    {
+      "id": "5fe427dad43875000018bb10",
+      "text": " sqlite3 history.sqlite 'select url,count(*) as rank  from History group by url having(count(*)>1) order by rank desc ;' > result.txt",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608787930,
+      "updated": 1608787930
+    },
+    {
+      "id": "5f7fd4b6a9f4740000c82e63",
+      "text": "メジャーなブラウザで､閲覧履歴のアナリティクスを見るなら[TimeYourWeb]拡張がいいです",
+      "userId": "5f7bafa76f34a0001ea9f474",
+      "created": 1602213047,
+      "updated": 1608787936
+    },
+    {
+      "id": "5f7fd4cba9f4740000c82e64",
+      "text": "  インストール後からの記録になるけど",
+      "userId": "5f7bafa76f34a0001ea9f474",
+      "created": 1602213068,
+      "updated": 1615615208
+    },
+    {
+      "id": "5f7fd4e2a9f4740000c82e67",
+      "text": "  滞在時間がわかる",
+      "userId": "5f7bafa76f34a0001ea9f474",
+      "created": 1602213090,
+      "updated": 1615615208
+    },
+    {
+      "id": "5f5dfa488a8c6a00008efc15",
+      "text": "",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599994440,
+      "updated": 1599994440
+    },
+    {
+      "id": "5f5d14fa8a8c6a0000165555",
+      "text": "[Qutebrowser関連のpackage更新でコケた]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935739,
+      "updated": 1604901886
+    },
+    {
+      "id": "5f5cbd858a8c6a0000216586",
+      "text": "[- [dnin.icon]には公開プロジェクトをこまめにLeaveする習慣がある]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913350,
+      "updated": 1613112348
+    },
+    {
+      "id": "5f5cbdb98a8c6a0000216587",
+      "text": " 再びjoinする時, invita hoge で調べればすぐ手てくる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913402,
+      "updated": 1599913417
+    },
+    {
+      "id": "5f5cbdc98a8c6a0000216588",
+      "text": " ここのプロジェクトなら invi vill くらいで出てくる",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913417,
+      "updated": 1599913427
+    },
+    {
+      "id": "5f5cbd6b8a8c6a0000216583",
+      "text": "[dnin.icon]日本語ユーザーあるあるで仕方ないこと",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599913323,
+      "updated": 1613112348
+    },
+    {
+      "id": "5f5cfb2b8a8c6a0000844cfd",
+      "text": " たまに`i`とか`い`という文字をこぼしてしまう",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599929131,
+      "updated": 1599929150
+    },
+    {
+      "id": "5f5cfb3f8a8c6a0000844cff",
+      "text": "  入力確定後に無駄に入ってしまう",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599929152,
+      "updated": 1599929158
+    },
+    {
+      "id": "5f5cfb1d8a8c6a0000844cfc",
+      "text": "",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599929118,
+      "updated": 1599929118
+    },
+    {
+      "id": "5f5cc1e61280f00000f38049",
+      "text": "[takker.icon][/icons/Vim.icon]userがUpをはじめました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914472,
+      "updated": 1599914502
+    },
+    {
+      "id": "5f5cc2051280f00000f3804b",
+      "text": "\t使ってみるか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914502,
+      "updated": 1599914506
+    },
+    {
+      "id": "5f5cc2091280f00000f3804c",
+      "text": "\t搭載しているjavascript engineが対応している規格を知りたい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914506,
+      "updated": 1599914530
+    },
+    {
+      "id": "5f5cc2211280f00000f3804d",
+      "text": "\t [ES6]以降には対応していないと流石にキツイ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914530,
+      "updated": 1599914551
+    },
+    {
+      "id": "5f5cc2361280f00000f3804e",
+      "text": "\t[/icons/windows.icon]で使うには、まず[scoop]用意しないと面倒そうだな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914551,
+      "updated": 1599914577
+    },
+    {
+      "id": "5f5cc24f1280f00000f3804f",
+      "text": "\t\tあとでinstallしよ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914577,
+      "updated": 1599914581
+    },
+    {
+      "id": "5f5cc1ea1280f00000f3804a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1599914475,
+      "updated": 1599914475
+    },
+    {
+      "id": "5f5d15758a8c6a0000165556",
+      "text": "",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935861,
+      "updated": 1599935861
+    },
+    {
+      "id": "5f5d15758a8c6a0000165557",
+      "text": "代替",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935861,
+      "updated": 1599935976
+    },
+    {
+      "id": "5f5d157a8a8c6a0000165559",
+      "text": " Firefox * [VimVixen]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935976,
+      "updated": 1600088591
+    },
+    {
+      "id": "5f5d15ec8a8c6a0000352112",
+      "text": "  UIが似ている",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935981,
+      "updated": 1599935984
+    },
+    {
+      "id": "5f5d15fd8a8c6a0000352113",
+      "text": "  後発かつ国産",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935997,
+      "updated": 1599936002
+    },
+    {
+      "id": "5f5d15928a8c6a000016555a",
+      "text": "",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935976,
+      "updated": 1599935976
+    },
+    {
+      "id": "5f5f5dc7dd59fe00009890ba",
+      "text": "今は亡き[Vimperator]を昔使ってたけど、hint機能がうまく動かないページが結構あって、その度にマウスに手を伸ばすくらいなら右手をマウスに乗っけてた方がマシだなーと思ってやめてしまった[kokutousha.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600085448,
+      "updated": 1600088589
+    },
+    {
+      "id": "5f5f5dc8dd59fe00009890bb",
+      "text": "　確かWebページ毎にhintを付ける要素を個別設定できたんだけど、それも含めて面倒だった",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600085448,
+      "updated": 1600085696
+    },
+    {
+      "id": "604c536bb19cc300006625f0",
+      "text": "",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614829,
+      "updated": 1615614829
+    },
+    {
+      "id": "604c536bb19cc300006625f1",
+      "text": "GitHubスポンサーになった![dnin.icon]",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614829,
+      "updated": 1615614839
+    },
+    {
+      "id": "604c536db19cc300006625f2",
+      "text": " [QtWebEngine]の更新が遅いのは頑張れとしか...",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614832,
+      "updated": 1615614871
+    },
+    {
+      "id": "604c53afb19cc300006625f5",
+      "text": "  そのせいでScrapboxのレンダリングもおかしいし、[UserScript]も正しく動かない",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614898,
+      "updated": 1615614917
+    },
+    {
+      "id": "604c53c3b19cc300006625f6",
+      "text": "  　[ScrapCalc]は動作したけど[未読のページにランダムジャンプするUserScript]はダメだった",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614917,
+      "updated": 1615614934
+    },
+    {
+      "id": "604c5395b19cc300006625f4",
+      "text": " それ以外のQutebrowserらしい部分に期待",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614871,
+      "updated": 1615614885
+    },
+    {
+      "id": "604c5384b19cc300006625f3",
+      "text": "",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615614854,
+      "updated": 1615614854
+    }
+  ]
+}

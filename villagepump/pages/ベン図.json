@@ -1,0 +1,169 @@
+{
+  "id": "6013bb72ae9cba001c4736d8",
+  "title": "ベン図",
+  "created": 1611905908,
+  "updated": 1611907009,
+  "lines": [
+    {
+      "id": "6013bb72ae9cba001c4736d8",
+      "text": "ベン図",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9aa",
+      "text": "[ベン図 https://mathwords.net/venn]は集合を表すときに便利な表現方法である。",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9ab",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9ac",
+      "text": "[* 例]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9ad",
+      "text": "集合が一個のとき",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9ae",
+      "text": "[https://gyazo.com/6ce782c90668844504c8229585d649cb]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9af",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b0",
+      "text": "集合が二個のとき",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b1",
+      "text": "[https://gyazo.com/2c30231a6c9ff2489eac62a407b27123]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b2",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b3",
+      "text": "集合が三個のとき",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b4",
+      "text": "[https://gyazo.com/84aa3a476ba50e1cfaec4a7534128cf4]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b5",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b6",
+      "text": "[* 問題]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b7",
+      "text": "集合が四個のときのベン図を構成せよ。",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b8",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9b9",
+      "text": "[* 答え]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9ba",
+      "text": "ググるとすぐ出てくるので自分で考えたい人は注意。Wikipediaにも答えが載ってます。",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bfa31280f00000e747e4",
+      "text": " 円を書くのがそこそこ面倒[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611906980,
+      "updated": 1611906996
+    },
+    {
+      "id": "6013bfb41280f00000e747e5",
+      "text": " 　うまい具合に全部重なる必要がある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611906996,
+      "updated": 1611907009
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9bb",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9bc",
+      "text": "#頭の体操 #数学",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    },
+    {
+      "id": "6013bb68db62ad0000d1d9bd",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611905908,
+      "updated": 1611905908
+    }
+  ]
+}

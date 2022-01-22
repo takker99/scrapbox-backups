@@ -1,0 +1,36 @@
+{
+  "id": "5fe05b2617c96b001c0bf453",
+  "title": "ベンハムの独楽",
+  "created": 1608538924,
+  "updated": 1608539131,
+  "lines": [
+    {
+      "id": "5fe05b2617c96b001c0bf453",
+      "text": "ベンハムの独楽",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608538924,
+      "updated": 1608538926
+    },
+    {
+      "id": "5fe05b2ed4387500008b6cee",
+      "text": "白黒なのに、色が見える",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608538926,
+      "updated": 1608538937
+    },
+    {
+      "id": "5fe05b34d4387500008b6cef",
+      "text": "[https://youtube.com/watch?v=vvk0n06FX-c]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608538932,
+      "updated": 1608539131
+    },
+    {
+      "id": "5fe05becd4387500008b6cf0",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608539116,
+      "updated": 1608539116
+    }
+  ]
+}

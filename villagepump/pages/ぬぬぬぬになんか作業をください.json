@@ -1,0 +1,190 @@
+{
+  "id": "5fa3f5e58822870038c16c12",
+  "title": "ぬぬぬぬになんか作業をください",
+  "created": 1604580840,
+  "updated": 1616117327,
+  "lines": [
+    {
+      "id": "5fa3f5e58822870038c16c12",
+      "text": "ぬぬぬぬになんか作業をください",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604580840,
+      "updated": 1604586262
+    },
+    {
+      "id": "5fa40b29d438750000fcd891",
+      "text": "[dnin.icon][full-timeの暇]なので",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586281,
+      "updated": 1613112353
+    },
+    {
+      "id": "5fa40b13d438750000fcd88c",
+      "text": "\tscriptを書かせてください",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586260,
+      "updated": 1604586282
+    },
+    {
+      "id": "5fa40b17d438750000fcd88d",
+      "text": "\tアイデアのお題をください",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586263,
+      "updated": 1604586283
+    },
+    {
+      "id": "5fa40b9fd438750000fcd892",
+      "text": "\t\tこんなのできそうか?みたいなアイデア出しがとても好きです",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586399,
+      "updated": 1604586459
+    },
+    {
+      "id": "5fa40a7fd438750000fcd883",
+      "text": " 無料です｡",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586111,
+      "updated": 1604586286
+    },
+    {
+      "id": "5fa40a82d438750000fcd885",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586115,
+      "updated": 1604586115
+    },
+    {
+      "id": "5fa40a85d438750000fcd886",
+      "text": "できそうなこと",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586118,
+      "updated": 1604586120
+    },
+    {
+      "id": "5fa40a91d438750000fcd889",
+      "text": "主にPythonです",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586129,
+      "updated": 1604586134
+    },
+    {
+      "id": "5fa40a87d438750000fcd887",
+      "text": "　Seleniumを使ったScraping",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586120,
+      "updated": 1604586173
+    },
+    {
+      "id": "5fa40a8ed438750000fcd888",
+      "text": "　Scrapbox関連のScript",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586126,
+      "updated": 1604586170
+    },
+    {
+      "id": "5fa40a82d438750000fcd884",
+      "text": " Djangoで簡単なサイト構築ができ､Herokuで運用できます",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586115,
+      "updated": 1604586240
+    },
+    {
+      "id": "5fa40ae7d438750000fcd88b",
+      "text": " 簡単な構造なら､postgresqlやsqliteでdatabaseの構築､運用ができます",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586216,
+      "updated": 1604586448
+    },
+    {
+      "id": "5fa40ad7d438750000fcd88a",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604586199,
+      "updated": 1604586199
+    },
+    {
+      "id": "5fa535af1280f00000cb27c4",
+      "text": "[コードブロック記法]に書いた[PlantUML]をレンダリングして表示する拡張はどうでしょうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604662704,
+      "updated": 1604662840
+    },
+    {
+      "id": "5fa535d31280f00000cb27c6",
+      "text": "\t[/satakebox/hyperscorebox]のイメージ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604662739,
+      "updated": 1604662767
+    },
+    {
+      "id": "5fa535b01280f00000cb27c5",
+      "text": "　[PlantUML]のレンダリングでJAVAを使う必要があるから、むずかしいかな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604662705,
+      "updated": 1604662795
+    },
+    {
+      "id": "5fa538dbdd59fe000092f8ae",
+      "text": "　\tユーザにPlantUMLサーバを立ち上げてもらうようにすれば簡単そう",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604663514,
+      "updated": 1604664207
+    },
+    {
+      "id": "5fa538e7dd59fe000092f8af",
+      "text": "　\tただ、localhostとかと通信する拡張をストアに公開しようとするとセキュリティ周りをきっちりしないと審査に通らないみたいな話は聞く",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604663526,
+      "updated": 1604663566
+    },
+    {
+      "id": "5fa535f11280f00000cb27c7",
+      "text": "\t\t拡張機能からネイティブアプリを呼び出すAPIがあった記憶がうっすらある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604662769,
+      "updated": 1604721710
+    },
+    {
+      "id": "5fa61c2e4daa920000ce720a",
+      "text": "\t\t\tAPIとしてあるからHTTPじゃなくてIPCあたりなのかな",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604721711,
+      "updated": 1604721722
+    },
+    {
+      "id": "6053fe381280f00000cc6d32",
+      "text": "\tfrom [2021/03/19#6053fe091280f00000cc6d30] 出来ました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1616117304,
+      "updated": 1616117327
+    },
+    {
+      "id": "5fa61bed4daa920000ce7209",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604721646,
+      "updated": 1604721646
+    },
+    {
+      "id": "5fa673381280f000005c0393",
+      "text": "UserScriptでVim key bindを作る",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604744009,
+      "updated": 1604744021
+    },
+    {
+      "id": "5fa673431280f000005c0395",
+      "text": " [(WIP) Vim mode for scrapbox]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604744021,
+      "updated": 1604744278
+    },
+    {
+      "id": "5fa673391280f000005c0394",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604744011,
+      "updated": 1604744011
+    }
+  ]
+}

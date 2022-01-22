@@ -1,0 +1,64 @@
+{
+  "id": "6043481bcd383d001c50152a",
+  "title": "bpython",
+  "created": 1615022108,
+  "updated": 1615027044,
+  "lines": [
+    {
+      "id": "6043481bcd383d001c50152a",
+      "text": "bpython",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    },
+    {
+      "id": "6043481b75892100002e6928",
+      "text": "from [Python のファイルが実行できない]",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    },
+    {
+      "id": "6043481b75892100002e692a",
+      "text": "　Pythonの対話モードの親切版[bpython https://bpython-interpreter.org/]がオススメ",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    },
+    {
+      "id": "6043481b75892100002e692b",
+      "text": "　　モジュールやオブジェクトの説明､補完が出る",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    },
+    {
+      "id": "6043481b75892100002e692c",
+      "text": "　　[https://gyazo.com/dc2c3410571486c0073d1c6ed43c396c]",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    },
+    {
+      "id": "6043481b75892100002e692d",
+      "text": " `pip install bpython`",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    },
+    {
+      "id": "6043481b75892100002e692e",
+      "text": " 初めて知った[takker.icon][sta.icon][erniogi.icon][MISONLN41.icon][U.icon]",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615027044
+    },
+    {
+      "id": "6043481b75892100002e692f",
+      "text": "  いいなこれ",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1615022108,
+      "updated": 1615022108
+    }
+  ]
+}

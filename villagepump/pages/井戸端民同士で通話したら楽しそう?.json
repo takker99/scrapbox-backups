@@ -1,0 +1,918 @@
+{
+  "id": "5fc09a935f1964001dc57df6",
+  "title": "井戸端民同士で通話したら楽しそう?",
+  "created": 1606458011,
+  "updated": 1612716003,
+  "lines": [
+    {
+      "id": "5fc09a935f1964001dc57df6",
+      "text": "井戸端民同士で通話したら楽しそう?",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606458011,
+      "updated": 1606458036
+    },
+    {
+      "id": "5fc09ab9d4387500003509ae",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606458042,
+      "updated": 1606458042
+    },
+    {
+      "id": "5fc09abad4387500003509af",
+      "text": "楽しそう",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606458042,
+      "updated": 1606458048
+    },
+    {
+      "id": "5fc09ac0d4387500003509b1",
+      "text": "[/villagepump]内でのテキストコミュニケーションでは出てこない話ができそう",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606458048,
+      "updated": 1606458083
+    },
+    {
+      "id": "5fc09ac0d4387500003509b0",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606458048,
+      "updated": 1606458048
+    },
+    {
+      "id": "5fc0ba801d860a0000ea104a",
+      "text": "[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606466178,
+      "updated": 1606466181
+    },
+    {
+      "id": "5fc0bac41d860a0000ea1050",
+      "text": "　ただログは残して欲しい",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606466245,
+      "updated": 1606466245
+    },
+    {
+      "id": "5fc0bac41d860a0000ea1051",
+      "text": "　　何を話したのかが気になる",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606466245,
+      "updated": 1606466245
+    },
+    {
+      "id": "5fc0ba841d860a0000ea104c",
+      "text": "　僕はパス",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606466181,
+      "updated": 1606466187
+    },
+    {
+      "id": "5fc0ba8a1d860a0000ea104d",
+      "text": "　　話すのが苦手なので (言いたいことを考えて組み立てて話すのが苦手)",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606466188,
+      "updated": 1606481771
+    },
+    {
+      "id": "5fc0f8574bb2e200008f88a5",
+      "text": "　　 わかる[kuuote.icon*5][yosider.icon*2]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481979,
+      "updated": 1610368134
+    },
+    {
+      "id": "5ffc448ce5172d00002e6eb9",
+      "text": "　　 \t[shokai: 人間の顔を見ると理性を失ってしまう]もある[yosider.icon][dnin.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368135,
+      "updated": 1613112356
+    },
+    {
+      "id": "5fc0f85a4bb2e200008f88a6",
+      "text": "　　 その場で会話を組み立てられない、大体シミュレーションを重ねて話してる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481982,
+      "updated": 1606482000
+    },
+    {
+      "id": "5fc0f8771280f00000e247f5",
+      "text": "　　その場で組み立てて会話する[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606482039,
+      "updated": 1606482048
+    },
+    {
+      "id": "5fc0f8801280f00000e247f6",
+      "text": "　　\tなお、途中で崩壊する模様",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606482048,
+      "updated": 1606482059
+    },
+    {
+      "id": "5fc0f88a1280f00000e247f7",
+      "text": "　　\t特に英語で話すと、使いこなせる表現の乏しさも相まってすぐボロが出る",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606482059,
+      "updated": 1606482101
+    },
+    {
+      "id": "5fc0fa011d860a0000470054",
+      "text": "　　\t　英語！！良いなぁ！英語がわかるって羨ましい。勉強したいがどうしたら良いかわからない",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606482428,
+      "updated": 1606482474
+    },
+    {
+      "id": "5ffc19931280f00000856f48",
+      "text": " 　　\t　英語を勉強したいけどどうしたら良いかわからない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610357140,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fa6d4bb2e200008f88a7",
+      "text": "　　\t　 海外のソフトウェアを使ったり貢献したりしてたらなんとか読めるくらいにはなった[kuuote.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fa861d860a0000470056",
+      "text": "　　\t　 　わからないところはやっぱり調べたりするの？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fab04bb2e200008f88a9",
+      "text": "　　\t　 　 最近だと翻訳サービスが実用的なレベルになってきたので丸投げすることが多いですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0faca4bb2e200008f88aa",
+      "text": "　　\t　 　 [DeepL]はいいぞ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb361280f00000a0da44",
+      "text": "　　\t　 　 　全然使っていない[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb4b1d860a0000470057",
+      "text": "　　\t　 　 　早速今調べてショートカット作った[air34n.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb8d4bb2e200008f88ac",
+      "text": "　　\t　 　 Google翻訳なども割とよくなってますね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb3e4bb2e200008f88ab",
+      "text": "　　\t　 　 後は単語単位でググったり、よくある表現っぽいのをググったり、勘で",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb4f1280f00000a0da46",
+      "text": "　　\t　 　 　勘はけっこうある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb641280f00000a0da47",
+      "text": "　　\t　 　 　　もう少し正確に言うと、英語らしいか英語らしくないかで判別している",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb821280f00000a0da48",
+      "text": "　　\t　 　 　　「なんかこの表現英語らしくない」と思ったら、その場で別の表現がないか調べる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fbb61280f00000a0da4a",
+      "text": "　　\t　 　 　　　OxfordとLongmanが便利",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fbc81280f00000a0da4b",
+      "text": "　　\t　 　 　　　あとは[http://www.kenkyusha.co.jp/modules/08_luminous/index.php?content_id=1 ルミナス英和・和英辞典]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fa7d4bb2e200008f88a8",
+      "text": " 　\t　   最近自分で書いて翻訳サイトで答え合わせする練習をしている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fbe94bb2e200008f88ae",
+      "text": " 　\t　    この方法いけるのか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fbd91280f00000a0da4c",
+      "text": " 　\t　    翻訳サイトの精度によりますが……自分は限界が来る方法だと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fbf71280f00000a0da4d",
+      "text": "  　\t　    いっくらなんでも単語を一対一対応させて訳しているわけではないから、それなりには使えるかもしれない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc1e1280f00000a0da4f",
+      "text": "  　\t　    ただ文章の意味まで掘り下げて翻訳しているわけではないから、やはり不自然になると思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc181280f00000a0da4e",
+      "text": "  　\t　     たしかに、日本語訳した時若干不自然だ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fbd24bb2e200008f88ad",
+      "text": " 　\t　 　　　　典型的なやつ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc741280f00000a0da53",
+      "text": " 　\t　 　　　　　ことわざ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc511280f00000a0da51",
+      "text": " 　\t　 　　　　\t　まずそのことわざが意味しているところを考える必要がある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc631280f00000a0da52",
+      "text": " 　\t　 　　　　　他人",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc7a1280f00000a0da54",
+      "text": " 　\t　 　　　　　　この[signifié]と結びついている英単語は存在しない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fcc81280f00000a0da55",
+      "text": " 　\t　 　　　　　　場合によっては`other people`、ときには`someone`",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fd2b1280f00000a0da5a",
+      "text": " 　\t　 　　　　　　　これで済むケースはそんなにない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fce51280f00000a0da56",
+      "text": " 　\t　 　　　　　　そもそも元の日本語文を更に変換して「他人」を消すこともあったりする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fd111280f00000a0da58",
+      "text": " 　\t　 　　　　　　　「他人」を使わない別の表現を使う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fc471280f00000a0da50",
+      "text": " 　\t　 なかなか書けないし全く喋れないけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fadf1280f00000a0da41",
+      "text": " 　\t　 S台で英語を学びました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0faf51280f00000a0da42",
+      "text": " 　\t　 　英語で大事な事は全部そこで学んだ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fb111280f00000a0da43",
+      "text": " 　\t　 　特に英作文の練習を相当やった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5ffcc68e79d3a9000092774d",
+      "text": " 　\t　 　\tやっぱりこういうところ大事そうですね[sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5ffcc69679d3a9000092774e",
+      "text": " 　\t　 　\t職場にいた英語ペラペラの先輩も一日3-8h、年単位で勉強したとか言ってた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5ffcc6ae79d3a9000092774f",
+      "text": " 　\t　 　\tたぶん「1日30min～1hくらいでコツコツと」じゃ辿り着けない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "602017891280f0000050a1ca",
+      "text": " 　\t　 　\t 授業を別にするなら、そのくらいで十分です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715914,
+      "updated": 1612715931
+    },
+    {
+      "id": "6020179b1280f0000050a1cb",
+      "text": "  　\t　 　\t 1週間で予習25min x2, 復習25min x4で最低限はこなせる。というかこれ以上時間かけられない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715931,
+      "updated": 1612715981
+    },
+    {
+      "id": "602017ca1280f0000050a1cc",
+      "text": " 　\t　 　\t 授業なしで勉強するとなると、また別な計画を作る必要がありそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715978,
+      "updated": 1612716003
+    },
+    {
+      "id": "5fc0fd771280f00000a0da5b",
+      "text": " 　\t　　うーん、勉強するとしたら題材としてはどんなものがいいのやら",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fdb81280f00000a0da5c",
+      "text": " 　\t　　\t語彙力と表現力を増やすなら[システム英単語]が盤石",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fde01280f00000a0da5d",
+      "text": " 　\t　　\t読解力は、たくさん本読むしかないかなあ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe011d860a000047005b",
+      "text": " 　\t　　\t　なかなか先が見えませんわww",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe191d860a000047005c",
+      "text": " 　\t　　\t　外国に住んでいる知り合いに英語勉強したいと言ったら、歌を聴くのがいいと言われた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe461d860a000047005d",
+      "text": " 　\t　　\t　　けど、日本の歌でさえ歌詞に興味がない （意味が読み取れないから）",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe761d860a000047005e",
+      "text": " 　\t　　\t　　　大人になってそんな意味だったのかとかよくあるし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0ba9e1d860a0000ea104e",
+      "text": "　       歌はおすすめしないです。何言っているかマジでわからん",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0feab1d860a000047005f",
+      "text": "　       　歌は雰囲気を言い換えてるのあるでしょ？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fec71d860a0000470060",
+      "text": "　       　　しかも国や地域によって感じ方の感覚が違う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0ff711280f00000a0da6a",
+      "text": "　       　　かなりその土地のその集団の文化を反映していますからね.",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0ff971280f00000a0da6c",
+      "text": "　       　　[Context]がわからないと聞いてもさっぱりだ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc100271d860a0000470063",
+      "text": "　       　　 沖縄弁も結構そういうところがある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc1002a1d860a0000470064",
+      "text": "           　テキストからの情報よりも実際に触れて聞いたり話すと全然意味が違う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe711280f00000a0da5f",
+      "text": "　       　英会話の先生 (native)も結構歌詞をつまりなく歌うの難しそうだった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5ffc3627d438750000e9bb0f",
+      "text": "　       　歌詞の意味・背景は[Genius]を見ると良い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe971280f00000a0da60",
+      "text": "　     あ、そうだshadowingがあった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0feaa1280f00000a0da62",
+      "text": "　     　英語のresourceを聞きながら同時に自分でも発声する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fec81280f00000a0da63",
+      "text": " 　     　ポイントは、おんなじ発音になるまで何回も何回も繰り返すこと",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0ff141280f00000a0da66",
+      "text": " 　     　発音記号を調べまくって、唇の形や舌の位置、発声方法を徹底する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0ff3d1280f00000a0da67",
+      "text": " 　     　　ここで練習できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0ff5b1280f00000a0da69",
+      "text": " 　     　　[https://eigonokai.jp/phonetics/0-発音記号3時間マスター/ 0. 発音記号3時間マスター]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fef41280f00000a0da65",
+      "text": "　     \t結構難しいので、最初は同時ではなく聞いた後に発生したほうがいいかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc189ce4daa920000bca88d",
+      "text": "　     \t発音の練習なら割とよいと思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc18a0a4daa920000bca88e",
+      "text": "　     \t ある程度テンポが遅い曲は聴いてるうちに(単語が分からなくても)発音だけを模倣できるようになる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc18a564daa920000bca890",
+      "text": "　     \t  文字表記による先入観を完全に除外できるメリットが大きい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc18a724daa920000bca891",
+      "text": "　     \t テンポが速い曲はリンキングがありえないぐらい含まれるから応用的な練習になるはず",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc18ac54daa920000bca892",
+      "text": "　     \t あとは単純に退屈じゃない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612715896,
+      "updated": 1612715896
+    },
+    {
+      "id": "5fc0fe521280f00000a0da5e",
+      "text": "　何しろ、ここで入力してたって文法がメチャメチャ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606483538,
+      "updated": 1606483538
+    },
+    {
+      "id": "5fc0fda11d860a0000470059",
+      "text": "　　話したいというか思ったことを書き出すので、文章にするには随分組み替えないと成立しない。",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606483356,
+      "updated": 1606483372
+    },
+    {
+      "id": "5fc0fdb01d860a000047005a",
+      "text": "　　　その感覚で話すので話し合いにならない。",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606483372,
+      "updated": 1606483373
+    },
+    {
+      "id": "5fc0f7051d860a0000ee6c76",
+      "text": "　　　僕と話した人は大概「何が言いたいか意味がわからない」と言ってくるので...。",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606481665,
+      "updated": 1606483377
+    },
+    {
+      "id": "5fc1863f4daa920000bca88c",
+      "text": "　　　[書きながら考える]ことをいつもやっているから音声会話だと整合性を持たせることが困難",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1606518336,
+      "updated": 1606518366
+    },
+    {
+      "id": "5fc0f6a91d860a0000ee6c75",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606481572,
+      "updated": 1606481572
+    },
+    {
+      "id": "5fc0bf881280f00000bcdf61",
+      "text": "[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467465,
+      "updated": 1606467466
+    },
+    {
+      "id": "5fc0bf8a1280f00000bcdf62",
+      "text": "自分も今の所パスで",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467466,
+      "updated": 1606467474
+    },
+    {
+      "id": "5fc0bf921280f00000bcdf64",
+      "text": "　もしやるとしたら、[Discord]の[voice chat]がよさげ？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467474,
+      "updated": 1606467500
+    },
+    {
+      "id": "5fc0c3271280f00000bcdf81",
+      "text": "　やったとして、性格的に一方的に喋りまくることになりそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606468391,
+      "updated": 1606468405
+    },
+    {
+      "id": "5fc0c3361280f00000bcdf82",
+      "text": "　\t意識して聞き役に回らないといけない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606468407,
+      "updated": 1606468417
+    },
+    {
+      "id": "5fc0bf8d1280f00000bcdf63",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467470,
+      "updated": 1606467470
+    },
+    {
+      "id": "5fc0c287d438750000c40fac",
+      "text": "[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606468230,
+      "updated": 1613112356
+    },
+    {
+      "id": "5fc0c291d438750000c40fae",
+      "text": " 楽しそうとか書いてる人が、話すのが下手です(笑)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606468241,
+      "updated": 1606468277
+    },
+    {
+      "id": "5fc0c289d438750000c40fad",
+      "text": " 草[takker.icon][air34n.icon][kuuote.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606468233,
+      "updated": 1606481858
+    },
+    {
+      "id": "5ffc4924d438750000a2968f",
+      "text": " 飲み会で喋ってること聞いて、Scrapboxで雑にまとめて共有すると結構良い",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610369317,
+      "updated": 1610369378
+    },
+    {
+      "id": "5ffc50f9e5172d00000fd55e",
+      "text": " \tなんか恥ずかしいなあｗ[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610371316,
+      "updated": 1610371340
+    },
+    {
+      "id": "5fc0f7df4bb2e200008f88a0",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481859,
+      "updated": 1606481859
+    },
+    {
+      "id": "5fc0f7df4bb2e200008f88a1",
+      "text": "[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481859,
+      "updated": 1606481860
+    },
+    {
+      "id": "5fc0f7e14bb2e200008f88a2",
+      "text": " [聞いている音声メディアってある?]にも書いたけど音声を聞きとるのが苦手なのでパスかな",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481860,
+      "updated": 1606481896
+    },
+    {
+      "id": "5fc0f80f4bb2e200008f88a3",
+      "text": "  途中から意識が飛ぶのを許容してくれる人相手なら気が楽だけど",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481906,
+      "updated": 1606481930
+    },
+    {
+      "id": "5fc0f8284bb2e200008f88a4",
+      "text": "  集中ができないので思考が明後日の方向に脱線して戻ってくるまで完全に意識が飛んでることがある",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606481932,
+      "updated": 1606481966
+    },
+    {
+      "id": "5fc0c31e1280f00000bcdf80",
+      "text": "　　　恐らく同じ感覚かと[air34n.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606468382,
+      "updated": 1606482527
+    },
+    {
+      "id": "5fc0fa521d860a0000470055",
+      "text": "　　　　音を聞き取るのは好き、音声として聞き取る(意味を理解しつつ考えて返す)のは苦手",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606482509,
+      "updated": 1606484163
+    },
+    {
+      "id": "5fc1008c1d860a0000470065",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606484104,
+      "updated": 1606484104
+    },
+    {
+      "id": "5ffc44ade5172d00002e6eba",
+      "text": "[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368168,
+      "updated": 1610368168
+    },
+    {
+      "id": "5ffc44aee5172d00002e6ebb",
+      "text": "\t英語で書き込むページみたいなものがあると面白いかもとは思う",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368169,
+      "updated": 1610368200
+    },
+    {
+      "id": "5ffc44cee5172d00002e6ebd",
+      "text": "\t\t英語苦手な人が書き込みづらくて疎外感を感じたりするとよくないか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368201,
+      "updated": 1610368266
+    },
+    {
+      "id": "5ffc4518e5172d00002e6ebe",
+      "text": "\t\t（もちろん得意/苦手にかかわらず書いて良いんだけど）",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368274,
+      "updated": 1610368294
+    },
+    {
+      "id": "5ffc44b4e5172d00002e6ebc",
+      "text": " OSS etc.でscrapboxを使う上で英語は避けられないと思う[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368175,
+      "updated": 1610368332
+    },
+    {
+      "id": "5ffc453b1280f00000f6feb7",
+      "text": " 　OSSの場合は、本当にlocalなappでない限り、全部英語でやり取りする必要があるだろうし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610368316,
+      "updated": 1610368389
+    },
+    {
+      "id": "5ffc451a1280f00000f6feb6",
+      "text": " 　ただ母国語じゃない言語を使ってリンクをうまく繋げられるのか、正直自信がない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610368283,
+      "updated": 1610368414
+    },
+    {
+      "id": "5ffc459e1280f00000f6feb9",
+      "text": " 　 [Scrapboxの未解決問題#5f909c115b98c200006636c2]だろうな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610368414,
+      "updated": 1610368454
+    },
+    {
+      "id": "5ffc45bee5172d00002e6ebf",
+      "text": " 　 技術が進めば[機械翻訳]とかでできたりするんだろうけどなあ[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610368441,
+      "updated": 1610368464
+    },
+    {
+      "id": "5ffc45701280f00000f6feb8",
+      "text": "    機械翻訳したとしても、[光る言葉をリンクにする]のと相性が悪そう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610368368,
+      "updated": 1610368500
+    },
+    {
+      "id": "5ffc45d11280f00000f6feba",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610368466,
+      "updated": 1610368466
+    },
+    {
+      "id": "5ffcc60379d3a90000927745",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401280,
+      "updated": 1610401280
+    },
+    {
+      "id": "5ffcc60479d3a90000927746",
+      "text": " パスかなぁ（理由は同上、話すの苦手。。。",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401281,
+      "updated": 1610401322
+    },
+    {
+      "id": "5ffcc63779d3a9000092774a",
+      "text": " でも話したい欲求はあるｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401332,
+      "updated": 1610401337
+    },
+    {
+      "id": "5ffcc63379d3a90000927749",
+      "text": " なので[Scrapboxで飲み会的なこと]みたいなことを考えてあがくなどしている",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401328,
+      "updated": 1610401774
+    },
+    {
+      "id": "5ffcc64979d3a9000092774b",
+      "text": " \t何時に集合！全員1ページこもりましょう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401350,
+      "updated": 1610401365
+    },
+    {
+      "id": "5ffcc65879d3a9000092774c",
+      "text": " \t↑ みたいな感じで、テキストコミュニケーションな飲み会的な",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401365,
+      "updated": 1610401373
+    },
+    {
+      "id": "5ffcc60479d3a90000927747",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610401281,
+      "updated": 1610401281
+    },
+    {
+      "id": "5ffc789505533200009a6fc9",
+      "text": "スレタイとは真逆の話になってて面白い。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1610381461,
+      "updated": 1610381487
+    },
+    {
+      "id": "5ffc78b205533200009a6fcb",
+      "text": "好奇心はあるけど不得意なことだからしたくないってのはありますよねえ",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1610381491,
+      "updated": 1610381504
+    },
+    {
+      "id": "5ffc789905533200009a6fca",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1610381465,
+      "updated": 1610381465
+    }
+  ]
+}

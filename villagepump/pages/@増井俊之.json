@@ -1,0 +1,1443 @@
+{
+  "id": "5fd30905404279001c6be4e5",
+  "title": "@増井俊之",
+  "created": 1607665928,
+  "updated": 1614948512,
+  "lines": [
+    {
+      "id": "5fd30905404279001c6be4e5",
+      "text": "@増井俊之",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607665928,
+      "updated": 1607959163
+    },
+    {
+      "id": "604051751280f00000b58c79",
+      "text": " [/masui/Scrapboxで写真を管理する]を参考に、手元の写真をscrapboxに取り込もうと思うのですが、[/masui/Scrapboxで写真を管理する#5e82a69e8ee92a0000ed2a72]のscriptがリンク切れになっていて見れません[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614827892,
+      "updated": 1614827977
+    },
+    {
+      "id": "604051a01280f00000b58c7b",
+      "text": "  もしよろしければ、scriptを再び提供していただけないでしょうか?",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614827936,
+      "updated": 1614829904
+    },
+    {
+      "id": "60407ed68ee92a000003abf2",
+      "text": "  あれ? これですかね? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614839511,
+      "updated": 1614839530
+    },
+    {
+      "id": "60407edf8ee92a000003abf3",
+      "text": "   https://github.com/masui/Photo2Scrapbox",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614839520,
+      "updated": 1614839521
+    },
+    {
+      "id": "60408119e5172d00003745b2",
+      "text": "   \t404になりますね[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614840086,
+      "updated": 1614840092
+    },
+    {
+      "id": "60408c9c1280f00000b5616b",
+      "text": "   それです。何故か404になっています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614843035,
+      "updated": 1614843050
+    },
+    {
+      "id": "60408cab1280f00000b5616c",
+      "text": "   間違ってrepoを消されてしまったのしょうか？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614843050,
+      "updated": 1614843125
+    },
+    {
+      "id": "60409cc38ee92a000003abf9",
+      "text": "   privateになってました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614847172,
+      "updated": 1614847179
+    },
+    {
+      "id": "60409ccb8ee92a000003abfa",
+      "text": "    なんでだっけ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614847179,
+      "updated": 1614847182
+    },
+    {
+      "id": "60409d548ee92a000003abfb",
+      "text": "    private写真を入れてしまったのかも",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614847317,
+      "updated": 1614847328
+    },
+    {
+      "id": "60409d608ee92a000003abfc",
+      "text": "     なおします",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614847329,
+      "updated": 1614847332
+    },
+    {
+      "id": "6040e51e1280f000003427c2",
+      "text": "     お願いします",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614865694,
+      "updated": 1614865713
+    },
+    {
+      "id": "6040e4f81280f000003427c0",
+      "text": "    [/icons/なるほど.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614865655,
+      "updated": 1614865687
+    },
+    {
+      "id": "6040e5191280f000003427c1",
+      "text": "     repoが404になる理由は、repo削除のほかにprivate化があったのか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614865688,
+      "updated": 1614865774
+    },
+    {
+      "id": "6040e56e1280f000003427c3",
+      "text": "     気付き",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614865774,
+      "updated": 1614865853
+    },
+    {
+      "id": "6042285c8ee92a0000e95c9c",
+      "text": "   いろいろpublicにしてて怒られたことが何度もあるので頭が痛いです... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614948445,
+      "updated": 1614948485
+    },
+    {
+      "id": "604228858ee92a0000e95c9d",
+      "text": "    写真とか個人的にはpublicでイイのですが、嫌だと言われたら謝るしかないですからね",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1614948486,
+      "updated": 1614948512
+    },
+    {
+      "id": "604051751280f00000b58c7a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614827892,
+      "updated": 1614827892
+    },
+    {
+      "id": "60008f3a4bb2e200005fe87e",
+      "text": " Nota社へお布施がしたいのですが何か方法はあるんでしょうか[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610649403,
+      "updated": 1610649509
+    },
+    {
+      "id": "60008f574bb2e200005fe880",
+      "text": "  個人で出せる金額など大したことないと思いますが、ガンガン使わせてもらってて申し訳なく感じることがあるので",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610649431,
+      "updated": 1610649484
+    },
+    {
+      "id": "6000b8f88ee92a00000d8542",
+      "text": "   Gyazo Proを契約いただけるとありがたいです [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610660088,
+      "updated": 1614865826
+    },
+    {
+      "id": "6000b87c8ee92a00000d8540",
+      "text": "   会社とかでScrapboxかHelpfeel契約いただけるともっとありがたいです [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610659965,
+      "updated": 1610660138
+    },
+    {
+      "id": "60008f3b4bb2e200005fe87f",
+      "text": "   ちなみにHelpfeel導入会社を紹介いただけると謝金が出せます [増井俊之.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610649404,
+      "updated": 1610660142
+    },
+    {
+      "id": "6000b8ad8ee92a00000d8541",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610660013,
+      "updated": 1610660013
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700782",
+      "text": " [サンタ]のコスプレをしたことはありますか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700783",
+      "text": "  いいえ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700784",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700785",
+      "text": " 実名主義なんですか? (自分で質問 [増井俊之.icon])",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700786",
+      "text": "  特に主義があるわけじゃないんだけどWeb以前はネットは実名が普通だったし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700787",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700788",
+      "text": " 名前間違えられてメールや手紙が送られてくることは結構ありますか？",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700789",
+      "text": "  麻酔先生とか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070078a",
+      "text": "  全然ないですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070078b",
+      "text": "   スマホの電話番号公開してるのに変な電話がかかってこないし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070078c",
+      "text": "  引っ越しした後、間違い電話はかかってきた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070078d",
+      "text": "   ネットとは全然関係ない話ですが",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5ff0a80f8ee92a0000fc292a",
+      "text": "  増田さん、と言われることはタマにある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609607184,
+      "updated": 1609607193
+    },
+    {
+      "id": "5ff097ec8ee92a0000fc2926",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609603052,
+      "updated": 1609603052
+    },
+    {
+      "id": "5fe59c7e8ee92a000070078e",
+      "text": " 誰からも理解されない、自分だけの遊びはありますか？",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1609587832
+    },
+    {
+      "id": "5ff0981c8ee92a0000fc2927",
+      "text": "  [EpisoPass]問題を考えるのが面白い、というのは割と理解してもらい辛いです [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609603100,
+      "updated": 1609603126
+    },
+    {
+      "id": "5ff098678ee92a0000fc2928",
+      "text": "  口笛と鼻歌を同時に鳴らすという特技(?)があります",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609603175,
+      "updated": 1609603195
+    },
+    {
+      "id": "5ff098908ee92a0000fc2929",
+      "text": "   ピアノも同時に弾くと三種の音を出せる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609603216,
+      "updated": 1609603250
+    },
+    {
+      "id": "5ff7e056d43875000085522f",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610080342,
+      "updated": 1610080342
+    },
+    {
+      "id": "5ff7e056d438750000855230",
+      "text": "　研究に向いてない人ってどんな人ですか?",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610080342,
+      "updated": 1610080351
+    },
+    {
+      "id": "5ff7e1d58ee92a0000486c64",
+      "text": "　 向いてる人は以下の感じかな? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080728,
+      "updated": 1610080747
+    },
+    {
+      "id": "5ff7e19e8ee92a0000486c62",
+      "text": "　  好奇心とか探究心とかがある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080673,
+      "updated": 1610080752
+    },
+    {
+      "id": "5ff7e1ea8ee92a0000486c65",
+      "text": "　  シツコイところがある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080749,
+      "updated": 1610080758
+    },
+    {
+      "id": "5ff7e2408ee92a0000486c68",
+      "text": "　   極度にシツコイ人は向いている けど、シツコくなきゃ駄目という意味ではない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080835,
+      "updated": 1610080857
+    },
+    {
+      "id": "5ff7e1c48ee92a0000486c63",
+      "text": "   適度に頭が良い",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080710,
+      "updated": 1610080769
+    },
+    {
+      "id": "5ff7e1ff8ee92a0000486c66",
+      "text": "    良すぎると駄目だという説あり",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080769,
+      "updated": 1610080777
+    },
+    {
+      "id": "5ff7e20f8ee92a0000486c67",
+      "text": "    スジの良し悪しが早くからわかってしまうので、いろいろやってて偶然発見したりすることが少ないから",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080786,
+      "updated": 1610080816
+    },
+    {
+      "id": "5ff7e2788ee92a0000486c69",
+      "text": "   なんか運が良い感じに見える",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080891,
+      "updated": 1610080932
+    },
+    {
+      "id": "5ff7e27e8ee92a0000486c6a",
+      "text": "    いろいろ試してるうちに何かみつけて運が良く見える",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080897,
+      "updated": 1610080925
+    },
+    {
+      "id": "5ff7e2cc8ee92a0000486c6b",
+      "text": "   いろんな趣味がある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610080974,
+      "updated": 1610080991
+    },
+    {
+      "id": "5ff7e32d8ee92a0000486c6c",
+      "text": "   人が気付かないものに気付くか、みつけようとする",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610081072,
+      "updated": 1610081089
+    },
+    {
+      "id": "5ff7e3568ee92a0000486c6d",
+      "text": "   Scrapboxを活用できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610081113,
+      "updated": 1610081125
+    },
+    {
+      "id": "5ff05c77d438750000543f97",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609587833,
+      "updated": 1609587833
+    },
+    {
+      "id": "5ff8319279d3a900003be787",
+      "text": " [ラノベ]は読みますか？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610101130,
+      "updated": 1610101156
+    },
+    {
+      "id": "5ff837088ee92a000060d0df",
+      "text": "  [涼宮ハルヒの憂鬱]とか[人類は衰退しました]は読みました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610102539,
+      "updated": 1610102552
+    },
+    {
+      "id": "5ff8384a8ee92a000060d0e1",
+      "text": "  十二国記 と このすば と Re:ゼロ のアニメは見ました",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610102861,
+      "updated": 1610102935
+    },
+    {
+      "id": "5ff8319179d3a900003be786",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610101130,
+      "updated": 1610101130
+    },
+    {
+      "id": "5ff8319a79d3a900003be789",
+      "text": " いわゆる[なろう系]のマンガは読みますか？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610101139,
+      "updated": 1610101152
+    },
+    {
+      "id": "5ff837dd8ee92a000060d0e0",
+      "text": "  異世界系は読んだことあります [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610102751,
+      "updated": 1610102764
+    },
+    {
+      "id": "5ff8319979d3a900003be788",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610101137,
+      "updated": 1610101137
+    },
+    {
+      "id": "600159d579d3a9000027eea5",
+      "text": " Scrapbox projectには何個くらい所属していますか？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610701261,
+      "updated": 1610701272
+    },
+    {
+      "id": "600177b88ee92a0000ae1cec",
+      "text": "  300個ぐらいですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610708921,
+      "updated": 1610708937
+    },
+    {
+      "id": "600177ca8ee92a0000ae1ced",
+      "text": "   大杉ィ![sta.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610708939,
+      "updated": 1610765156
+    },
+    {
+      "id": "6001783b8ee92a0000ae1cee",
+      "text": "   テストで使ったものとか沢山あるし、自炊本をプロジェクトにしてるし、授業科目ごとに使ってるし...",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610709052,
+      "updated": 1610709096
+    },
+    {
+      "id": "600159d479d3a9000027eea4",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610701260,
+      "updated": 1610701260
+    },
+    {
+      "id": "5fe59c7e8ee92a000070078f",
+      "text": "謎すぎるページ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700790",
+      "text": "　初回見たときはスルーしたけど、[Scrapbox上でメンションを実現できないか？]の解決策の一つとして使える方法かもしれないことに気づいた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700791",
+      "text": "　 [/icons/なるほど.icon] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700792",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700793",
+      "text": "[@増井俊之] じゃなくて [増井俊之] のページに書けばいいような気もするけど [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700794",
+      "text": " 他人のページを編集するのは抵抗あるかな?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700795",
+      "text": " ここから下は勝手に書いてね、と書いておけばどうだろう?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700796",
+      "text": "  誰が編集したのかはっきりわかれば良いとか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "6023180903b2100000085a57",
+      "text": "  　一行ごとに編集者を表示できるようなシステムがあると良いのではないですか？？[U.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1612912647,
+      "updated": 1612912705
+    },
+    {
+      "id": "60231f271280f000005cd024",
+      "text": "  　[/forum-jp/git blame的に各行の最終編集者を知りたい#5a1cdb8397c2910000491479]という理由があるので、単純に編集者を表示できるようにするのはいろいろ問題があります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612914470,
+      "updated": 1612914523
+    },
+    {
+      "id": "60231f5c1280f000005cd025",
+      "text": "  　[page history]なら編集者を一行ごとに表示できるので、そっちを使えばいいかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612914523,
+      "updated": 1612914564
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700797",
+      "text": "　[- 最初はそれで運用していたのですが、たしか何かしらのdemeritがあってあんまりやらなくなったはず][takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700798",
+      "text": "　　たぶんこれ思い違いです",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a0000700799",
+      "text": "　　　ページ探したけど出てこなかったし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070079a",
+      "text": "　　　[Scrapbox上でメンションを実現できないか？]が近いけど、なんか違うような",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070079b",
+      "text": "　　ただ何かしらのdemeritがあったのは確かなはずなのですが……",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070079c",
+      "text": "　　　ほんとかな",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070079d",
+      "text": "　　　自分のページを書き換えられるのは嫌かも? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070079e",
+      "text": "　　　そうでもないかな。慣れの問題かも? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a000070079f",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5ff7e050d43875000085522e",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610080337,
+      "updated": 1610080337
+    },
+    {
+      "id": "5fe59c7e8ee92a00007007a0",
+      "text": "[/help-jp/HSTS#5faa135297c291000067172e]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a00007007a1",
+      "text": " typo?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c7e8ee92a00007007a2",
+      "text": " 連絡しました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883327,
+      "updated": 1608883327
+    },
+    {
+      "id": "5fe59c668ee92a000070077d",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883302,
+      "updated": 1608883308
+    },
+    {
+      "id": "5ff6d2961280f00000026d33",
+      "text": "[/masui]のハンバーガーメニューがバグっています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610011286,
+      "updated": 1610011297
+    },
+    {
+      "id": "5ff6d2a41280f00000026d34",
+      "text": " [Scrapboxの新Theme]の導入でDOMが変わったのが原因です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610011300,
+      "updated": 1610011345
+    },
+    {
+      "id": "5ff6d2941280f00000026d32",
+      "text": " [/takker/Scrapbox iconをhamburger iconにする#5ff6d21f1280f00000ea4f28]にCSSを差し替えると直ります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610011284,
+      "updated": 1610016378
+    },
+    {
+      "id": "5ff6e6798ee92a000041805d",
+      "text": " 直しました! ありがとうございます!! [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610016378,
+      "updated": 1610105307
+    },
+    {
+      "id": "5fe59c128ee92a0000700776",
+      "text": "　　よかったです[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608883219,
+      "updated": 1610016504
+    },
+    {
+      "id": "5ff6ef141280f0000001eda3",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610018581,
+      "updated": 1610018581
+    },
+    {
+      "id": "5ff6ef141280f0000001eda4",
+      "text": "[/JavaScriptTips]の増井さんのアイコンが表示されないので、トップページが悲惨なことになっています……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610018581,
+      "updated": 1610018699
+    },
+    {
+      "id": "5ff6ef381280f0000001eda8",
+      "text": " [/JavaScriptTips/増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610018616,
+      "updated": 1610018630
+    },
+    {
+      "id": "5ff8418d8ee92a000031771d",
+      "text": "  治しました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105231,
+      "updated": 1610105236
+    },
+    {
+      "id": "5ff841ad8ee92a000031771f",
+      "text": "  なんで壊れてたんだろう?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105264,
+      "updated": 1610105268
+    },
+    {
+      "id": "5ff6ef1a1280f0000001eda5",
+      "text": " あと[/web]と結構かぶっているので、[/JavaScriptTips]の中身を全部[/web]に持っていくのはどうでしょうか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610018587,
+      "updated": 1610018674
+    },
+    {
+      "id": "5ff6ef721280f0000001edaa",
+      "text": "  cf. [/JavaScriptTips]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610018675,
+      "updated": 1610018681
+    },
+    {
+      "id": "5ff841978ee92a000031771e",
+      "text": "  なるほど [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105242,
+      "updated": 1610105247
+    },
+    {
+      "id": "5ff841bf8ee92a0000317720",
+      "text": "   [/web] の方はJS以外のもあるのでは? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105282,
+      "updated": 1610105496
+    },
+    {
+      "id": "5ff841e11280f0000016dfb3",
+      "text": "   JSの大部分がwebの話と被るので、[/web]に統一したほうがいいんじゃないかと思いました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610105313,
+      "updated": 1610105346
+    },
+    {
+      "id": "5ff6ef511280f0000001eda9",
+      "text": "    JS以外の話題とも結構被る気がする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610018642,
+      "updated": 1610105413
+    },
+    {
+      "id": "5ff8429d8ee92a0000317725",
+      "text": "  JS TipsはHelpfeelで使おうとして作ったものだったかも [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105504,
+      "updated": 1610105524
+    },
+    {
+      "id": "5ff842b18ee92a0000317726",
+      "text": "   [/web]で同じことやればいいかな",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105524,
+      "updated": 1610105535
+    },
+    {
+      "id": "5ff8453a1280f00000bd4e54",
+      "text": "   [/icons/なるほど.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610106170,
+      "updated": 1610106188
+    },
+    {
+      "id": "5ff8421d1280f0000016dfb5",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610105374,
+      "updated": 1610105374
+    },
+    {
+      "id": "60028fd51280f000008f6389",
+      "text": "[https://github.com/masui/Gyazz masui/Gyazz]のライセンスを教えてもらいたいです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610780630,
+      "updated": 1610780653
+    },
+    {
+      "id": "60028fed1280f000008f638b",
+      "text": " from [2021/01/16#60028e8c1280f0000009dfe6]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610780653,
+      "updated": 1610780661
+    },
+    {
+      "id": "600386908ee92a0000351589",
+      "text": " 書いてませんでしたねすみません [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610843792,
+      "updated": 1610843800
+    },
+    {
+      "id": "600386988ee92a000035158a",
+      "text": "  ご自由にお使いくださいということで...",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610843800,
+      "updated": 1610843810
+    },
+    {
+      "id": "600386a68ee92a000035158b",
+      "text": "  何ライセンスと書けばいいんですかね",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610843814,
+      "updated": 1610843821
+    },
+    {
+      "id": "60038f171280f00000d7791c",
+      "text": "   一番よく使われているのが[MIT License]かな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610845976,
+      "updated": 1610846020
+    },
+    {
+      "id": "60038f331280f00000d7791d",
+      "text": "   　使う側も特に何も考えず使えるかと",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610846003,
+      "updated": 1610846013
+    },
+    {
+      "id": "60038f3c1280f00000d7791e",
+      "text": "   ライセンス考えるのめんどくさかったら[DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE]を使う手もあります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610846013,
+      "updated": 1610846046
+    },
+    {
+      "id": "60028fd51280f000008f638a",
+      "text": "    ただあまり一般的ではないかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610780630,
+      "updated": 1610846074
+    },
+    {
+      "id": "600e3e7f79d3a90000298fd7",
+      "text": "   [NYSL]ってのもありますね（同様に一般的でないかも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611546239,
+      "updated": 1611546259
+    },
+    {
+      "id": "60038f721280f00000d77920",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610846066,
+      "updated": 1610846066
+    },
+    {
+      "id": "600ea5ddd43875000019d1ef",
+      "text": "教員やめたい！と思ったことはありますか？",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611572702,
+      "updated": 1611572717
+    },
+    {
+      "id": "601016a08ee92a000026a814",
+      "text": " いいえ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611667105,
+      "updated": 1611667108
+    },
+    {
+      "id": "601016a48ee92a000026a815",
+      "text": "  若い人々と話ができるだけでも教員やる意味あります",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611667109,
+      "updated": 1611667134
+    },
+    {
+      "id": "601d7fffd438750000ac6798",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612546048,
+      "updated": 1612546048
+    },
+    {
+      "id": "601d7fffd438750000ac6799",
+      "text": "プロダクト名がGyaから始まるのはユニークさのためですか?",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612546048,
+      "updated": 1612546067
+    },
+    {
+      "id": "601d8022d438750000ac679a",
+      "text": " Gyaから始まるものが少ないから?",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612546083,
+      "updated": 1612546091
+    },
+    {
+      "id": "601e0c6b8ee92a000090dc3e",
+      "text": " 「Gazo」 が取れなかったので「Gyazo」にしました [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612581996,
+      "updated": 1612582013
+    },
+    {
+      "id": "601e0c7e8ee92a000090dc3f",
+      "text": "  アメリカ人は「Gya」を発音できないから「Gya」ではじまるドメインは空いている",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612582015,
+      "updated": 1612582046
+    },
+    {
+      "id": "601e0cad8ee92a000090dc41",
+      "text": "   「Tokyo」が発音できないから「トキオ」になってしまう",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612582062,
+      "updated": 1612582093
+    },
+    {
+      "id": "601e0ca08ee92a000090dc40",
+      "text": "  というわけで「Gya」シリーズになってしまいました",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612582049,
+      "updated": 1612582061
+    },
+    {
+      "id": "600ea5ded43875000019d1f0",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611572703,
+      "updated": 1611572703
+    },
+    {
+      "id": "601e347a1280f00000d86a64",
+      "text": "[/masui]のTOP pageへのリンクがnav barから消えています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612592251,
+      "updated": 1612592269
+    },
+    {
+      "id": "601e348c1280f00000d86a66",
+      "text": " [Scrapboxのnavbarの構造変わった]影響です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612592269,
+      "updated": 1612592279
+    },
+    {
+      "id": "601e34961280f00000d86a67",
+      "text": " [/masui/Settings#5e82a69e8ee92a0000ed2d78]を[/Auftakt/Settings#601c9b61306c8e00008a2434]に差し替えると直ります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612592279,
+      "updated": 1612592363
+    },
+    {
+      "id": "601ea9ca8ee92a0000e917a5",
+      "text": " あれ、いま消えてますか? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612622283,
+      "updated": 1612622290
+    },
+    {
+      "id": "601eabd71280f00000f42989",
+      "text": "  2021-02-06 23:52:19 消えてます[/icons/firefox.icon][/icons/Windows10.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612622808,
+      "updated": 1612623205
+    },
+    {
+      "id": "601ead921280f000006ac7d8",
+      "text": "   [https://gyazo.com/d8303c05fa9771c5a4383ae349a707f3.mp4]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623250,
+      "updated": 1612623256
+    },
+    {
+      "id": "601eaf901280f000006ac7dd",
+      "text": "   [https://gyazo.com/1b5d59aa0fc4af63144a3f449d764728]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623760,
+      "updated": 1612623762
+    },
+    {
+      "id": "601eaeb71280f000006ac7db",
+      "text": "   [/icons/GoogleChrome.icon]でも消えてました……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623543,
+      "updated": 1612623570
+    },
+    {
+      "id": "601eaed21280f000006ac7dc",
+      "text": "   [おま環]ですかね……にしたって原因がさっぱりだ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623570,
+      "updated": 1612623790
+    },
+    {
+      "id": "601eafd91280f000006e9a81",
+      "text": "    serviceworkerを登録解除しても直らなかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623834,
+      "updated": 1612623847
+    },
+    {
+      "id": "601eb0561280f000006e9a82",
+      "text": "    private modeにしても同じ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623959,
+      "updated": 1612623964
+    },
+    {
+      "id": "601eb1301280f000006e9a87",
+      "text": "   [z-index]が問題のようだ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612624176,
+      "updated": 1612624267
+    },
+    {
+      "id": "601eb18b1280f000006e9a89",
+      "text": "    [/masui/Settings#601d07918ee92a0000ba0d9d]の`z-index: 990`を`z-index: 1000`にすると見えるようになる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612624267,
+      "updated": 1612624296
+    },
+    {
+      "id": "601eaccce5172d0000612c74",
+      "text": "  2021/2/6 23:50 見えてます[/icons/GoogleChrome.icon][yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623555,
+      "updated": 1612623555
+    },
+    {
+      "id": "601e347b1280f00000d86a65",
+      "text": "  まさかの[/icons/firefox.icon]と[/icons/GoogleChrome.icon]で挙動が違う罠?",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612592252,
+      "updated": 1612623170
+    },
+    {
+      "id": "601ead251280f000006ac7d5",
+      "text": "\t\t\t[/icons/firefox.icon]でも見える…[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623142,
+      "updated": 1612623176
+    },
+    {
+      "id": "601eae15e5172d0000612c79",
+      "text": " \t\t\t[https://gyazo.com/5ebe79fa908b9600e36e6ff50f30f033][/icons/GoogleChrome.icon][/icons/Windows10.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612623379,
+      "updated": 1612623407
+    },
+    {
+      "id": "601eae15e5172d0000612c7a",
+      "text": " \t\t\t[https://gyazo.com/a666cd531b8975d5bbfec738af6d13d9][/icons/firefox.icon][/icons/Windows10.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612623379,
+      "updated": 1612623409
+    },
+    {
+      "id": "601ead521280f000006ac7d6",
+      "text": "\t\t\tそんなー[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623186,
+      "updated": 1612623191
+    },
+    {
+      "id": "601ead68e5172d0000612c77",
+      "text": "\t\t\t「増井俊之」の部分ですよね？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612623206,
+      "updated": 1612623222
+    },
+    {
+      "id": "601ead8c1280f000006ac7d7",
+      "text": "\t\t\t です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612623245,
+      "updated": 1612623247
+    },
+    {
+      "id": "601eb1bd1280f000006e9a8a",
+      "text": "\t\t [yosider.icon]さんの環境での`z-index`の挙動をみてもらってもいいですか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612624318,
+      "updated": 1612624394
+    },
+    {
+      "id": "601eb1d61280f000006e9a8b",
+      "text": "\t\t  いくつ以上で`.project-home`が表示されるようになるのか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612624342,
+      "updated": 1612624408
+    },
+    {
+      "id": "601eb29fe5172d0000fb42c9",
+      "text": "\t\t  \t[- すみません変え方教えて下さい[yosider.icon]]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612624541,
+      "updated": 1612625273
+    },
+    {
+      "id": "601eb57de5172d0000fb42ca",
+      "text": "\t\t  \t開発者ツールを開き、トップページへのリンクボタンの要素(`a.btn.project-home`)を選択して、Elements→Stylesで`z-index`を検索したら出た",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612625275,
+      "updated": 1612625669
+    },
+    {
+      "id": "601eb668e5172d0000fb42cb",
+      "text": "\t\t  どうやら`990`以上で表示されるようです[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612625510,
+      "updated": 1612625535
+    },
+    {
+      "id": "601ec0911280f00000893dc9",
+      "text": "\t\t  　ご協力感謝です[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612628114,
+      "updated": 1612628119
+    },
+    {
+      "id": "601ead3fe5172d0000612c75",
+      "text": "    うーん、[scrapboxのnav bar]の`z-index`が環境によって変わる？[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612623165,
+      "updated": 1612628125
+    },
+    {
+      "id": "601ec09c1280f00000893dca",
+      "text": "    　そもそも`z-index`の詳しい仕様を知らなかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612628125,
+      "updated": 1612628140
+    },
+    {
+      "id": "601ff5851280f00000aabdd7",
+      "text": "  [/icons/firefox.icon][/icons/ubuntu.icon]だと見える[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612707206,
+      "updated": 1612707236
+    },
+    {
+      "id": "601ff5a31280f00000aabdd8",
+      "text": "  　やはりマシンによって`z-index`の挙動が変わるのだろうか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612707236,
+      "updated": 1612707253
+    },
+    {
+      "id": "601ec0651280f00000893dc8",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612628069,
+      "updated": 1612628069
+    },
+    {
+      "id": "601e9cf71280f0000049b526",
+      "text": "typo",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612618999,
+      "updated": 1612619001
+    },
+    {
+      "id": "601e9cf91280f0000049b527",
+      "text": " [/masui/Scraboxでの数式利用]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612619002,
+      "updated": 1612619002
+    },
+    {
+      "id": "601e9cff1280f0000049b528",
+      "text": " `s/Scrabox/Scrapbox`",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612619008,
+      "updated": 1612619016
+    },
+    {
+      "id": "601ea98a8ee92a0000e917a4",
+      "text": " なおしました! [/icons/感謝.icon] [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612622218,
+      "updated": 1612649492
+    },
+    {
+      "id": "601eac1c1280f00000f4298a",
+      "text": " [/icons/よかった.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612622877,
+      "updated": 1612622882
+    },
+    {
+      "id": "601fa43ce5172d0000441623",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612686395,
+      "updated": 1612686395
+    },
+    {
+      "id": "601fa43ce5172d0000441624",
+      "text": "[/masui/gronコマンド]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612686395,
+      "updated": 1612686396
+    },
+    {
+      "id": "601fa43ee5172d0000441625",
+      "text": "\t[* gr]ep + js[* on] → gronなのでは、と思いました[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612686397,
+      "updated": 1612686443
+    },
+    {
+      "id": "601fb52f8ee92a00004835d8",
+      "text": "\tまぁそうなんですが覚えにくくて... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612690736,
+      "updated": 1612690745
+    },
+    {
+      "id": "601e9cf61280f0000049b525",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612618999,
+      "updated": 1612618999
+    },
+    {
+      "id": "5ff8425c8ee92a0000317721",
+      "text": "[増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105439,
+      "updated": 1610105439
+    },
+    {
+      "id": "5ff8425d8ee92a0000317722",
+      "text": " 「@記法」のおかげでScrapboxでローカルなコミュニケーションが通用してるの面白い!",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105440,
+      "updated": 1610105570
+    },
+    {
+      "id": "6023210e03b2100000ecac21",
+      "text": " 　これって話通じてるのですか？（失礼ですか?）",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1612914956,
+      "updated": 1612915176
+    },
+    {
+      "id": "602322288ee92a00004cb202",
+      "text": " 　通じてると思いますけど? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612915241,
+      "updated": 1612915251
+    },
+    {
+      "id": "602323b103b2100000ecac22",
+      "text": " 　失礼いたしました。[U.icon]",
+      "userId": "5f16f6af405d31002403b210",
+      "created": 1612915632,
+      "updated": 1612915645
+    },
+    {
+      "id": "6023f4a68ee92a0000f9a84e",
+      "text": " 　通じてないなら、直接連絡ください [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612969126,
+      "updated": 1612969161
+    },
+    {
+      "id": "6023f4ca8ee92a0000f9a84f",
+      "text": " 　 連絡方法は [増井俊之] に書いてます",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1612969162,
+      "updated": 1612969194
+    },
+    {
+      "id": "5ff842e08ee92a0000317728",
+      "text": " [増井俊之.icon] とコミュニケーションする必要ない人はこのページ見ないだろうし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105571,
+      "updated": 1610105607
+    },
+    {
+      "id": "5ff8425e8ee92a0000317723",
+      "text": " これがあればSlackのDMなんか要らないとか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105440,
+      "updated": 1610105646
+    },
+    {
+      "id": "5ff843768ee92a000031772c",
+      "text": " 秘密のメッセージは送れないけど",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105721,
+      "updated": 1610105730
+    },
+    {
+      "id": "5ff843808ee92a000031772d",
+      "text": "  [公開鍵暗号]とか使えばいい?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105731,
+      "updated": 1610112879
+    },
+    {
+      "id": "5ff8439e8ee92a000031772e",
+      "text": "  送り主とメッセージをまとめて[増井俊之.icon]の公開鍵で暗号化してどこかに置いておく",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105760,
+      "updated": 1610105780
+    },
+    {
+      "id": "5ff8431f8ee92a0000317729",
+      "text": "　[秘密のメッセージ]はそれこそmailでいいんじゃないかなと思ったけど、mailは書くのがめんどくさすぎるか[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610105634,
+      "updated": 1610106280
+    },
+    {
+      "id": "5ff845831280f00000bd4e56",
+      "text": "　　現状の手段だけを使うなら、Slack/Discord/TwitterのDMが妥当ですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610106243,
+      "updated": 1610106276
+    },
+    {
+      "id": "5ff858b08ee92a0000848ddc",
+      "text": "　　メアドとか知らない人に送れないような [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610111155,
+      "updated": 1610111262
+    },
+    {
+      "id": "5ff85b851280f0000000bc4c",
+      "text": "　　 Scrapboxに限るなら、memberのメアドはお互い見れるのでなんとかなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610111877,
+      "updated": 1610111905
+    },
+    {
+      "id": "5ffea5578ee92a00002b6a9b",
+      "text": "　　 そうでしたね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610523993,
+      "updated": 1610523996
+    },
+    {
+      "id": "5ff859288ee92a0000848dde",
+      "text": "  だとTwitterくらいしかないですかね[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610111275,
+      "updated": 1610111927
+    },
+    {
+      "id": "5ff85b5d1280f0000000bc4a",
+      "text": "  公開鍵暗号じゃダメですか? [増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610111837,
+      "updated": 1610112842
+    },
+    {
+      "id": "5ff85f3c8ee92a0000848ddf",
+      "text": "   秘密鍵をどうやって渡すかが問題になりませんか？(RSAわからない)[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610112831,
+      "updated": 1610113501
+    },
+    {
+      "id": "5ff868598ee92a000075a52a",
+      "text": "   秘密鍵は誰にも渡さないモノですよ? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610115164,
+      "updated": 1610115177
+    },
+    {
+      "id": "5ff86c571280f00000c1613c",
+      "text": "    ほんとに基礎の基礎からわかってなかったみたいです……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610116183,
+      "updated": 1610116196
+    },
+    {
+      "id": "5ff86c5e1280f00000c1613d",
+      "text": "    [- [半年ROM]ろうかな]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610116190,
+      "updated": 1610116214
+    },
+    {
+      "id": "5ff869f0e5172d00007d8d7e",
+      "text": "   公開鍵で暗号化したものは公開鍵では復号できなくて秘密鍵なら復号できる的な[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610115567,
+      "updated": 1610526922
+    },
+    {
+      "id": "5ff861bc1280f000003fdb05",
+      "text": "\t\t[Googleフォーム]のような問い合わせフォームを設置する、という手段も[sta.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610113468,
+      "updated": 1610841455
+    },
+    {
+      "id": "60037d5d79d3a90000d91ffb",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610841438,
+      "updated": 1610841438
+    }
+  ]
+}

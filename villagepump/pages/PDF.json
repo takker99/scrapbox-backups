@@ -1,0 +1,141 @@
+{
+  "id": "5fd78b72ed85d6001ee545c3",
+  "title": "PDF",
+  "created": 1607961462,
+  "updated": 1611294174,
+  "lines": [
+    {
+      "id": "5fd78b72ed85d6001ee545c3",
+      "text": "PDF",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961462,
+      "updated": 1607961462
+    },
+    {
+      "id": "5fd78b758ee92a0000452ac6",
+      "text": " [印刷]データの標準みたいなもの",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961462,
+      "updated": 1607961492
+    },
+    {
+      "id": "5fd78b7f8ee92a0000452ac8",
+      "text": " その歴史はきちんと知られてホシイ... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961472,
+      "updated": 1607961489
+    },
+    {
+      "id": "5fe3b86e8ee92a000042da8e",
+      "text": " [PostScript]を「Distill」したものが元になってると思うのだけど詳細は知りません [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608759407,
+      "updated": 1608759955
+    },
+    {
+      "id": "5fd78b768ee92a0000452ac7",
+      "text": " いずれにしても、最初から印刷データ規格を考えて作られたものではなく、PostScriptが変化してなんとなく標準になったものだと思います [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607961463,
+      "updated": 1608759990
+    },
+    {
+      "id": "5fe3ba788ee92a000042da94",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608759929,
+      "updated": 1608759929
+    },
+    {
+      "id": "5fd78d901280f00000dc8be1",
+      "text": " 以前PDFの仕様について深く突っ込んだ記事を見つけてた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607962000,
+      "updated": 1607962066
+    },
+    {
+      "id": "5fd78dd11280f00000dc8be6",
+      "text": " 　共有しておく：[https://qiita.com/zawawahoge/items/4312649f8d56f8983ffb 僕「PDFとは何か知りたい」 - Qiita]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607962066,
+      "updated": 1607962066
+    },
+    {
+      "id": "5fd78db81280f00000dc8be5",
+      "text": " 　まだ読んではいない[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607962040,
+      "updated": 1607962045
+    },
+    {
+      "id": "5fe3b6468ee92a000042da8b",
+      "text": " 　[PostScript]がいかに紆余曲折的に[PDF]になったかはこれではわからないですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608758855,
+      "updated": 1608758898
+    },
+    {
+      "id": "5fd78d911280f00000dc8be2",
+      "text": "   中の人の解説が欲しいところ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607962001,
+      "updated": 1608758908
+    },
+    {
+      "id": "5fe3b6728ee92a000042da8c",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608758900,
+      "updated": 1608758900
+    },
+    {
+      "id": "5fe423a6ec4fce0000f33696",
+      "text": " 何がありがたい?",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608786864,
+      "updated": 1608786868
+    },
+    {
+      "id": "5fe423aaec4fce0000f33698",
+      "text": "  どの環境でも必ず同じ表示になる",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608786868,
+      "updated": 1608786876
+    },
+    {
+      "id": "5fe423b2ec4fce0000f33699",
+      "text": "  　[フォント]、段組み、行送りなどなど...",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608786876,
+      "updated": 1608880765
+    },
+    {
+      "id": "5fe5926d8ee92a000079fd57",
+      "text": "  　フォントが埋め込まれてないPDFもある [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608880749,
+      "updated": 1608882421
+    },
+    {
+      "id": "5fe423a6ec4fce0000f33697",
+      "text": "    確実に同じ表示を期待するときはフォントを埋め込む必要がある",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608786864,
+      "updated": 1608882443
+    },
+    {
+      "id": "5fe5990d8ee92a000079fd5d",
+      "text": "    Macの場合、印刷メニューからPDFで保存すればフォントデータが埋め込まれたPDFが生成される",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608882445,
+      "updated": 1611294174
+    },
+    {
+      "id": "5fe598f68ee92a000079fd5c",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608882423,
+      "updated": 1608882423
+    }
+  ]
+}

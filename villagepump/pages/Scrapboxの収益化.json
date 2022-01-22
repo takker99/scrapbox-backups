@@ -1,0 +1,365 @@
+{
+  "id": "5fda2af91827a3001cca8d3a",
+  "title": "Scrapboxの収益化",
+  "created": 1608133381,
+  "updated": 1614364939,
+  "lines": [
+    {
+      "id": "5fda2af91827a3001cca8d3a",
+      "text": "Scrapboxの収益化",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133381,
+      "updated": 1608133384
+    },
+    {
+      "id": "5fda2fc5e5172d0000c10276",
+      "text": "\tするべきなのか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134595,
+      "updated": 1608134599
+    },
+    {
+      "id": "5fda2fd4e5172d0000c10278",
+      "text": " \tScrapboxという情報表現形式が、[本]、[論文]、[ブログ]とかより優れている点があるなら、[収益化]する意味はありそう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134610,
+      "updated": 1608134879
+    },
+    {
+      "id": "5fda2fc9e5172d0000c10277",
+      "text": "\tするとしたら、できるのか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134599,
+      "updated": 1608134603
+    },
+    {
+      "id": "5fda2b19e5172d0000c1025b",
+      "text": "\t[明るくないSNSという世界観はどうよ]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133398,
+      "updated": 1608133419
+    },
+    {
+      "id": "5fdb799a8ee92a0000d9f2e6",
+      "text": "\t[Scrapbox書籍]をプロモーションしたいとずっと考えているのですがなかなかです [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608219034,
+      "updated": 1608219062
+    },
+    {
+      "id": "5fda2f16e5172d0000c10275",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134420,
+      "updated": 1608134420
+    },
+    {
+      "id": "5fda2d53e5172d0000c1026c",
+      "text": "方法",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133968,
+      "updated": 1608133975
+    },
+    {
+      "id": "5fda2d59e5172d0000c1026d",
+      "text": "\tjsonファイルをダウンロード販売して、各自でプロジェクトを立ててimportしてもらう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133975,
+      "updated": 1608133993
+    },
+    {
+      "id": "5fda2d6de5172d0000c1026e",
+      "text": "\t\t[インターフェースの心理学]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133995,
+      "updated": 1608134751
+    },
+    {
+      "id": "5fda2e26e5172d0000c10273",
+      "text": "\t\t各自のScrapboxにマージできるのは面白い",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134180,
+      "updated": 1608134190
+    },
+    {
+      "id": "5fda2e981280f00000b300f4",
+      "text": "\t\tjsonファイルを勝手に公開される懸念がある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608134297,
+      "updated": 1608134311
+    },
+    {
+      "id": "5fda2ecae5172d0000c10274",
+      "text": "\t\t\t書籍でも[漫画村]みたいな同じ問題は起きている？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134344,
+      "updated": 1608134381
+    },
+    {
+      "id": "5fdb793a8ee92a0000d9f2e5",
+      "text": "\t\tそういうのをみつけるのは簡単だし、Scrapbox.ioに置かないと意味が無いので、あまり心配はしてないです [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1608218939,
+      "updated": 1608218982
+    },
+    {
+      "id": "5fda2dcee5172d0000c10271",
+      "text": "\t[招待リンク]を販売する",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134092,
+      "updated": 1608218921
+    },
+    {
+      "id": "5fda2ddfe5172d0000c10272",
+      "text": "\t\t[Scrapboxで荒らしに対処する方法]が問題",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134109,
+      "updated": 1608134128
+    },
+    {
+      "id": "5fda300ae5172d0000c10282",
+      "text": "\t[寄付]・[投げ銭]できるようにする",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134664,
+      "updated": 1608134690
+    },
+    {
+      "id": "603940fee5172d0000482578",
+      "text": "\t\t方法",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614364923,
+      "updated": 1614364924
+    },
+    {
+      "id": "60393f57e5172d00009b06c4",
+      "text": "  \t[Amazonほしいものリスト]を公開する",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614364500,
+      "updated": 1614364926
+    },
+    {
+      "id": "60393fd2e5172d00009b06c6",
+      "text": "  \t[Amazonギフト券]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614364623,
+      "updated": 1614364926
+    },
+    {
+      "id": "6039410be5172d0000482579",
+      "text": "  \t[仮想通貨]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614364936,
+      "updated": 1614364939
+    },
+    {
+      "id": "60393fdae5172d00009b06c7",
+      "text": "\t\t\t[Kyash]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614364631,
+      "updated": 1614364931
+    },
+    {
+      "id": "5fda3009e5172d0000c10281",
+      "text": " \t[Wikipedia]は寄付に頼っている",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134663,
+      "updated": 1608134688
+    },
+    {
+      "id": "5fda3039e5172d0000c10283",
+      "text": " \t[オープンソース]な感じを保てる？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134710,
+      "updated": 1608134728
+    },
+    {
+      "id": "60394000e5172d00009b06c8",
+      "text": " \t別にScrapboxに限らない話",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614364668,
+      "updated": 1614364675
+    },
+    {
+      "id": "5fda308be5172d0000c10284",
+      "text": " [広告]を出して[広告料]で収益化する",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134793,
+      "updated": 1608134843
+    },
+    {
+      "id": "5fda3093e5172d0000c10285",
+      "text": " \tぎゃあああ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134801,
+      "updated": 1608134803
+    },
+    {
+      "id": "5fe0d1ef1280f00000d8cf52",
+      "text": " jsonの複製・公開・改変の権利を売る",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608569327,
+      "updated": 1608569348
+    },
+    {
+      "id": "5fe0d2041280f00000d8cf53",
+      "text": " 　from [/nishio/複製許諾を売ればよいのではないか]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608569348,
+      "updated": 1608569353
+    },
+    {
+      "id": "5fda2b30e5172d0000c1025d",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133421,
+      "updated": 1608134019
+    },
+    {
+      "id": "5fda2cf5e5172d0000c10269",
+      "text": "\t買ってもらったあとで販売者が内容を更新しづらい？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133875,
+      "updated": 1608134252
+    },
+    {
+      "id": "5fda2d0ce5172d0000c1026a",
+      "text": "\t\t[電子書籍]とかでも更新することはある？（しらない）",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133898,
+      "updated": 1608134769
+    },
+    {
+      "id": "5fda2d88e5172d0000c1026f",
+      "text": "\t\t更新されなくても、リンク構造など別の利点は残っている",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134022,
+      "updated": 1608134263
+    },
+    {
+      "id": "5fda2db0e5172d0000c10270",
+      "text": "\t\tjsonファイル配布形式なら購入者は各自で変えられる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608134062,
+      "updated": 1608134089
+    },
+    {
+      "id": "5fda2ec71280f00000b300f5",
+      "text": "\t\t招待リンク配布形式なら、内容を更新しやすいと思われる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608134343,
+      "updated": 1608134372
+    },
+    {
+      "id": "5fda2b49e5172d0000c1025f",
+      "text": "\tScrapboxがまず世間に普及しないと商売にならない？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133446,
+      "updated": 1608134540
+    },
+    {
+      "id": "5fed61381280f000004223f2",
+      "text": "\t関連",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609392440,
+      "updated": 1609392442
+    },
+    {
+      "id": "5fed613a1280f000004223f3",
+      "text": "\t　[/rashitamemo/Scrapboxホン]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609392442,
+      "updated": 1609392443
+    },
+    {
+      "id": "5fda2b19e5172d0000c1025c",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133399,
+      "updated": 1608133399
+    },
+    {
+      "id": "5fda2b0ae5172d0000c10258",
+      "text": "例",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133384,
+      "updated": 1608133390
+    },
+    {
+      "id": "5fda2b10e5172d0000c1025a",
+      "text": "\t[https://masui.thebase.in/items/7975695 スマホに満足してますか? - インタフェースの心理学 Scrapbox版 | masui]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133390,
+      "updated": 1608133396
+    },
+    {
+      "id": "5fda2c7ee5172d0000c10265",
+      "text": "\t\t[/IFPsychology]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133756,
+      "updated": 1608133757
+    },
+    {
+      "id": "601ea0a11280f000007f497e",
+      "text": "\t[エンジニアの知的生産術]の英語版",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612619937,
+      "updated": 1612619949
+    },
+    {
+      "id": "601ea0ad1280f000007f497f",
+      "text": "\t [/intellitech-en]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612619949,
+      "updated": 1612619950
+    },
+    {
+      "id": "5fda2c94e5172d0000c10267",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608133778,
+      "updated": 1608134178
+    },
+    {
+      "id": "5fdb1ca90553320000c9518a",
+      "text": "運営じゃなくて個々のプロジェクトの話なのかな。。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195241,
+      "updated": 1608195325
+    },
+    {
+      "id": "5fdb1d130553320000c9518c",
+      "text": "　個々だと招待リンクを販売しての[ファンクラブ]みたいなことにするのがよさそう。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195347,
+      "updated": 1608218924
+    },
+    {
+      "id": "5fe3b3b61280f00000e17dbb",
+      "text": "　 似た話題がここであがっていました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608758198,
+      "updated": 1608758211
+    },
+    {
+      "id": "5fe3b3b41280f00000e17dba",
+      "text": "　 [/taskmanagement/タスク管理のScrapboxの公開・非公開について検討する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608758196,
+      "updated": 1608758197
+    },
+    {
+      "id": "5fdb1d390553320000c9518d",
+      "text": "　でも仕組みとしてあるわけじゃないので同期とかが大変そうかなぁ。。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195386,
+      "updated": 1608195411
+    },
+    {
+      "id": "5fdb1caa0553320000c9518b",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195243,
+      "updated": 1608195243
+    }
+  ]
+}

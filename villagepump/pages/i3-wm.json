@@ -1,0 +1,43 @@
+{
+  "id": "5ffae5139a3e3b0021ce5f1b",
+  "title": "i3-wm",
+  "created": 1610278166,
+  "updated": 1610282733,
+  "lines": [
+    {
+      "id": "5ffae5139a3e3b0021ce5f1b",
+      "text": "i3-wm",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610278166,
+      "updated": 1610278193
+    },
+    {
+      "id": "5ffae519d43875000042734c",
+      "text": "[タイル型ウィンドウマネージャ]の一種",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610278169,
+      "updated": 1610278184
+    },
+    {
+      "id": "5ffae51ad43875000042734d",
+      "text": "[https://gyazo.com/bb1205d58605acbc8c15222af652f074]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610278170,
+      "updated": 1610282702
+    },
+    {
+      "id": "5ffaf6cdd438750000e0ac22",
+      "text": "[i3 - improved tiling wm https://i3wm.org/]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610282702,
+      "updated": 1610282733
+    },
+    {
+      "id": "5ffaf6ecd438750000ea5985",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610282733,
+      "updated": 1610282733
+    }
+  ]
+}

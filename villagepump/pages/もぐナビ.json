@@ -1,0 +1,43 @@
+{
+  "id": "60459288651bb2001e36051a",
+  "title": "もぐナビ",
+  "created": 1615172236,
+  "updated": 1615172292,
+  "lines": [
+    {
+      "id": "60459288651bb2001e36051a",
+      "text": "もぐナビ",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615172236,
+      "updated": 1615172236
+    },
+    {
+      "id": "60459293b19cc30000dc41ab",
+      "text": "食品[レビューサイト]",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615172243,
+      "updated": 1615172245
+    },
+    {
+      "id": "604592beb19cc30000dc41ad",
+      "text": "新商品の一覧がある",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615172286,
+      "updated": 1615172292
+    },
+    {
+      "id": "6045928cb19cc30000dc41a8",
+      "text": "https://mognavi.jp/do/whats_new/show",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615172237,
+      "updated": 1615172237
+    },
+    {
+      "id": "6045928db19cc30000dc41a9",
+      "text": "",
+      "userId": "6044910bc9a74e001eb19cc3",
+      "created": 1615172237,
+      "updated": 1615172237
+    }
+  ]
+}

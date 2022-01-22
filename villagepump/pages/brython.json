@@ -1,0 +1,43 @@
+{
+  "id": "60589b64e5f93c0022d48ffc",
+  "title": "brython",
+  "created": 1616419689,
+  "updated": 1616419720,
+  "lines": [
+    {
+      "id": "60589b64e5f93c0022d48ffc",
+      "text": "brython",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616419689,
+      "updated": 1616419689
+    },
+    {
+      "id": "60589b69246f59000073ac14",
+      "text": "https://brython.info/",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616419689,
+      "updated": 1616419700
+    },
+    {
+      "id": "60589b74246f59000073ac15",
+      "text": ">A Python 3 implementation for client-side web programming",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616419700,
+      "updated": 1616419719
+    },
+    {
+      "id": "60589b86246f59000073ac17",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616419719,
+      "updated": 1616419720
+    },
+    {
+      "id": "60589b86246f59000073ac16",
+      "text": "",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1616419718,
+      "updated": 1616419718
+    }
+  ]
+}

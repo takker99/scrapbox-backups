@@ -1,0 +1,127 @@
+{
+  "id": "5faf19588eb95a00245fe1f6",
+  "title": "カタカナ2文字+漢字1文字の言葉",
+  "created": 1605310812,
+  "updated": 1607682551,
+  "lines": [
+    {
+      "id": "5faf19588eb95a00245fe1f6",
+      "text": "カタカナ2文字+漢字1文字の言葉",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310812,
+      "updated": 1605310819
+    },
+    {
+      "id": "5faf1964d438750000752392",
+      "text": "キリ番",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310820,
+      "updated": 1605310822
+    },
+    {
+      "id": "5faf1966d438750000752394",
+      "text": "リア充",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310822,
+      "updated": 1605310824
+    },
+    {
+      "id": "5faf1968d438750000752395",
+      "text": "ギザ十",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310824,
+      "updated": 1605310843
+    },
+    {
+      "id": "5faf1b32d438750000722c3d",
+      "text": "メル友",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605311282,
+      "updated": 1605311285
+    },
+    {
+      "id": "5faf1b34d438750000722c3e",
+      "text": "リア友",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605311285,
+      "updated": 1605311286
+    },
+    {
+      "id": "5fd2f07005533200005a8e02",
+      "text": "マジ卍",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607659633,
+      "updated": 1607659637
+    },
+    {
+      "id": "5fd349c94bb2e200002b3658",
+      "text": " 漢字ではないのでは？",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607682437,
+      "updated": 1607682441
+    },
+    {
+      "id": "5faf19bbd438750000bce311",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310907,
+      "updated": 1605310907
+    },
+    {
+      "id": "5faf19bdd438750000bce312",
+      "text": "[正規表現（regex）を使用してGoogleで検索する方法はありますか？ https://qastack.jp/webapps/19673/is-there-a-way-to-search-in-google-using-regular-expressions-regex]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310909,
+      "updated": 1605310909
+    },
+    {
+      "id": "5faf19bdd438750000bce313",
+      "text": "　ないのか...",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310910,
+      "updated": 1605310913
+    },
+    {
+      "id": "5faf19bed438750000bce314",
+      "text": "Wikipediaで`intitle:`検索で正規表現使えば取れそう",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605310911,
+      "updated": 1605311274
+    },
+    {
+      "id": "5fd2f08005533200005a8e03",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607659648,
+      "updated": 1607659648
+    },
+    {
+      "id": "5fd2f08005533200005a8e04",
+      "text": "[ランダム]で出てきたけどこのページなんだ。。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607659648,
+      "updated": 1607672622
+    },
+    {
+      "id": "5faf1b0fd438750000722c3c",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1605311249,
+      "updated": 1605311249
+    },
+    {
+      "id": "5fd30466d438750000c29b5e",
+      "text": "#言葉",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607664744,
+      "updated": 1607664752
+    },
+    {
+      "id": "5fd3046cd438750000c29b5f",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607664750,
+      "updated": 1607664750
+    }
+  ]
+}

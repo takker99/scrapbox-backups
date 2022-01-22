@@ -1,0 +1,148 @@
+{
+  "id": "5ff2e3ce334c01001cffeec7",
+  "title": "UserScriptを他人のprojectから読み込むな",
+  "created": 1609753551,
+  "updated": 1612546925,
+  "lines": [
+    {
+      "id": "5ff2e3ce334c01001cffeec7",
+      "text": "UserScriptを他人のprojectから読み込むな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753551,
+      "updated": 1609753551
+    },
+    {
+      "id": "5ff2e3cf1280f0000034b08f",
+      "text": "[/customize]など自分以外の人間が参加している/できるprojectから[UserScript]を読み込まないようにしましょう!!!!",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753551,
+      "updated": 1612546925
+    },
+    {
+      "id": "5ff2e40c1280f0000034b092",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753612,
+      "updated": 1609753612
+    },
+    {
+      "id": "5ff2e3d21280f0000034b090",
+      "text": "[takker.icon]もそうですが、自分のprojectにコピペするのをめんどくさがって他人のprojectから直接`import`しちゃう人、いませんか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753603,
+      "updated": 1609753690
+    },
+    {
+      "id": "5ff2e4a31280f0000034edb8",
+      "text": "今すぐやめましょう。今すぐです！！！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753763,
+      "updated": 1609753800
+    },
+    {
+      "id": "5ff2e4c81280f0000034edbd",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753800,
+      "updated": 1609753800
+    },
+    {
+      "id": "5ff2e4c81280f0000034edbe",
+      "text": "どうして危ないのか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753801,
+      "updated": 1609753804
+    },
+    {
+      "id": "5ff2e4cc1280f0000034edbf",
+      "text": " [* projectの削除]や[* owner権限の譲渡]、[* private pageの外部送信]など、超絶危険なScriptを[* 確認メッセージなしに]実行させることができてしまう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753804,
+      "updated": 1609754439
+    },
+    {
+      "id": "5ff2e5201280f0000034edc1",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753889,
+      "updated": 1609753893
+    },
+    {
+      "id": "5ff2e6d31280f00000686c09",
+      "text": "対策",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609754323,
+      "updated": 1609754326
+    },
+    {
+      "id": "5ff2e6d61280f00000686c0a",
+      "text": " 他人のprojectからUserScriptを絶対に`import`しない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609754326,
+      "updated": 1609754342
+    },
+    {
+      "id": "5ff31a781280f000002b30bf",
+      "text": "  代わりに自分だけが編集できる[個人Project]にUserScriptを置いて、そこからimportする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609767544,
+      "updated": 1609767548
+    },
+    {
+      "id": "5ff2e6eb1280f00000686c0d",
+      "text": " UserScriptが更新されたら、まず[自分のページ]を見に行く",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609754348,
+      "updated": 1609754367
+    },
+    {
+      "id": "5ff2e6e61280f00000686c0b",
+      "text": "  [https://gyazo.com/e26184d72514152f8a34bc36eb023361]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609754342,
+      "updated": 1609754368
+    },
+    {
+      "id": "5ff2e6e91280f00000686c0c",
+      "text": "  `Load new UserScript`を押すのはその後",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609754346,
+      "updated": 1609754381
+    },
+    {
+      "id": "5ff2e4a31280f0000034edb9",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753763,
+      "updated": 1609753763
+    },
+    {
+      "id": "5ff2e4a31280f0000034edba",
+      "text": "Reference",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753764,
+      "updated": 1609753766
+    },
+    {
+      "id": "5ff2e45a1280f0000034edb5",
+      "text": " [/inteltank/さわちんが使っているUserScript, UserCSS#5f5aca187e176b00003fa019]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753690,
+      "updated": 1609753769
+    },
+    {
+      "id": "5ff2e49a1280f0000034edb7",
+      "text": " [/forum-jp/プロジェクトの削除にもう一段階確認が欲しい#5ff2c43c97c2910000994ddf]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753754,
+      "updated": 1609753775
+    },
+    {
+      "id": "5ff2e4ae1280f0000034edbc",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609753775,
+      "updated": 1609753775
+    }
+  ]
+}

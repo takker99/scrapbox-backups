@@ -1,0 +1,113 @@
+{
+  "id": "5f7f91bbec6d1000231cdc2c",
+  "title": "削除せずに非表示にするということ",
+  "created": 1602195901,
+  "updated": 1602225636,
+  "lines": [
+    {
+      "id": "5f7f91bbec6d1000231cdc2c",
+      "text": "削除せずに非表示にするということ",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602195901,
+      "updated": 1602195901
+    },
+    {
+      "id": "5f7f91bf4daa920000e96e74",
+      "text": "個人的にはかなり好き[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602195901,
+      "updated": 1602195906
+    },
+    {
+      "id": "5f7f91c44daa920000e96e76",
+      "text": "\t他人から見ることが出来ないようにする(事実上の)削除は情報の参照性を悪化させる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602195906,
+      "updated": 1602195939
+    },
+    {
+      "id": "5f7f91e84daa920000e96e77",
+      "text": "\t非表示にすることで、それでも見たい人は見ることができる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602195943,
+      "updated": 1602195984
+    },
+    {
+      "id": "5f7f92124daa920000e96e7a",
+      "text": "\t\tもちろん権利侵害とか、法的に問題があるものは削除するしかないと思うが",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602195985,
+      "updated": 1602196007
+    },
+    {
+      "id": "5f7fb0711280f0000091798c",
+      "text": "　発信者でなくて受信者が選択できるようにする[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1602203762,
+      "updated": 1602203789
+    },
+    {
+      "id": "5f7f922a4daa920000e96e7b",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602196009,
+      "updated": 1602196009
+    },
+    {
+      "id": "5f7f922a4daa920000e96e7c",
+      "text": "すぐ削除するサービス",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602196009,
+      "updated": 1602196060
+    },
+    {
+      "id": "5f7f925d4daa920000e96e7d",
+      "text": "\t[Qiita]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602196060,
+      "updated": 1602196062
+    },
+    {
+      "id": "5f7f92604daa920000e96e7e",
+      "text": "\t\t多少バズったような記事を数ヶ月後に見ると結構消えてたりする",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602196063,
+      "updated": 1602196118
+    },
+    {
+      "id": "5f7f92984daa920000e96e7f",
+      "text": "\t\t個人的な感覚ではコメントが20件以上あるような記事は半数以上消えてる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602196118,
+      "updated": 1602196148
+    },
+    {
+      "id": "5f7fbdeddd59fe0000df5d0e",
+      "text": " \t 「そういう記事」でばかりコメント欄での議論が起こるというのは技術情報サイトとしてどうなんだろう……",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1602207283,
+      "updated": 1602207311
+    },
+    {
+      "id": "5f8005814daa920000fc3d1f",
+      "text": "  \t 議論ができないplatformなのも影響しているかも？[システムが問題]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602225537,
+      "updated": 1602225636
+    },
+    {
+      "id": "5f7f91c24daa920000e96e75",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1602195904,
+      "updated": 1602195904
+    },
+    {
+      "id": "5f7fb05c1280f00000917986",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1602203741,
+      "updated": 1602203741
+    }
+  ]
+}

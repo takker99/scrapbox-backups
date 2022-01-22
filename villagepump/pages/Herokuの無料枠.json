@@ -1,0 +1,246 @@
+{
+  "id": "5ffab1eb31c4e3001c490f74",
+  "title": "Herokuの無料枠",
+  "created": 1610265068,
+  "updated": 1611549476,
+  "lines": [
+    {
+      "id": "5ffab1eb31c4e3001c490f74",
+      "text": "Herokuの無料枠",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab2051280f00000f93b10",
+      "text": "アカウントの認証状態で変わる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265094,
+      "updated": 1610265106
+    },
+    {
+      "id": "5ffab2111280f00000f93b11",
+      "text": " クレカを登録すると認証済みアカウントになる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265106,
+      "updated": 1610265123
+    },
+    {
+      "id": "5ffab2231280f00000f93b12",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265123,
+      "updated": 1610265123
+    },
+    {
+      "id": "5ffab2231280f00000f93b13",
+      "text": "未認証アカウント",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265123,
+      "updated": 1610265132
+    },
+    {
+      "id": "5ffab22d1280f00000f93b14",
+      "text": "　22日( = 550 時間) / 月 使える",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265133,
+      "updated": 1610265192
+    },
+    {
+      "id": "5ffab2a41280f00000f93b1a",
+      "text": "　30分アクセスがないとスリープする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265252,
+      "updated": 1610265270
+    },
+    {
+      "id": "5ffab2b61280f00000f93b1b",
+      "text": "　 定期的にpingすればスリープを回避できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265270,
+      "updated": 1610265285
+    },
+    {
+      "id": "5ffab2571280f00000f93b15",
+      "text": "認証済みアカウント",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265175,
+      "updated": 1610265181
+    },
+    {
+      "id": "5ffab2621280f00000f93b16",
+      "text": " 1000時間 / 月 使える",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265186,
+      "updated": 1610265197
+    },
+    {
+      "id": "5ffab26d1280f00000f93b17",
+      "text": " つまり一ヶ月以上回せる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265197,
+      "updated": 1610265203
+    },
+    {
+      "id": "5ffab2841280f00000f93b18",
+      "text": " ……あれ？これじゃあずっと無料で使い放題では？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265220,
+      "updated": 1610265241
+    },
+    {
+      "id": "5ffab2981280f00000f93b19",
+      "text": " 　計算間違えた？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265241,
+      "updated": 1610265245
+    },
+    {
+      "id": "600c0c6279d3a90000400a76",
+      "text": " 　24時間 x 30日 = 720時間 < 1000？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611402330,
+      "updated": 1611402375
+    },
+    {
+      "id": "5ffab1eb1280f00000f93ae9",
+      "text": " 常時Onの[Web Dyno ]+ 単発の[One Off Dyno]が使える",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1611549444
+    },
+    {
+      "id": "600c0c98d438750000c4b715",
+      "text": " 　One Off Dynoの稼働時間が多いと1000時間を使い切ってしまう",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611402393,
+      "updated": 1611402435
+    },
+    {
+      "id": "5ffab2cb1280f00000f93b1d",
+      "text": "Reference",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265292,
+      "updated": 1610265294
+    },
+    {
+      "id": "5ffab2d51280f00000f93b1f",
+      "text": " [https://jp.heroku.com/free Heroku を利用して無料でアプリの構築 | Heroku]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265301,
+      "updated": 1610265301
+    },
+    {
+      "id": "5ffab2ca1280f00000f93b1c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265290,
+      "updated": 1610265290
+    },
+    {
+      "id": "5ffab1f81280f00000f93b03",
+      "text": "[/icons/hr.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265080,
+      "updated": 1610265082
+    },
+    {
+      "id": "5ffab1fe1280f00000f93b0f",
+      "text": "from [Scrapboxで本格的に共同開発]したい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265086,
+      "updated": 1610960608
+    },
+    {
+      "id": "5ffab1eb1280f00000f93aea",
+      "text": "  [Heroku]って[無課金]で使用できるんですか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265090
+    },
+    {
+      "id": "5ffab1eb1280f00000f93aeb",
+      "text": "  　無課金で使用できたとしても、クレカ登録必須だったりするときつい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93aec",
+      "text": "　　　クレカは必須じゃない。ただ登録しておけば月1000時間稼働できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610266709
+    },
+    {
+      "id": "5ffab855d438750000efbdbe",
+      "text": "　　　 デビットカードでも登録できた[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610266709,
+      "updated": 1613112363
+    },
+    {
+      "id": "5ffab1eb1280f00000f93aed",
+      "text": ">未認証アカウントの場合：無料 dyno 時間は 550 時間分までとなります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93aee",
+      "text": "　22日回しっぱなしで終了",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93aef",
+      "text": "　　無料だと、Webサイトは30分でスリープしてしまい、次回アクセス時に待たされる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93af0",
+      "text": "　　　その分時間枠を節約できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93af1",
+      "text": "　　　常時回すには、外から定期的にpingすれば良い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93af2",
+      "text": "　　　　[UptimeRobot]を使うとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1611530445
+    },
+    {
+      "id": "600e00efd438750000684af1",
+      "text": "　　　　 サイトが落ちたかどうかも確認できる",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611530479,
+      "updated": 1611530488
+    },
+    {
+      "id": "5ffab1eb1280f00000f93af3",
+      "text": "> 認証済みアカウントの場合：無料 dyno 時間としてさらに 450 時間分が付与されます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    },
+    {
+      "id": "5ffab1eb1280f00000f93af4",
+      "text": "　一ヶ月回せる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610265068,
+      "updated": 1610265068
+    }
+  ]
+}

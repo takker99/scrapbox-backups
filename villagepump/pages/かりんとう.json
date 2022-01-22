@@ -1,0 +1,50 @@
+{
+  "id": "604dca1cd29b1b001c43acac",
+  "title": "かりんとう",
+  "created": 1615710761,
+  "updated": 1615710805,
+  "lines": [
+    {
+      "id": "604dca1cd29b1b001c43acac",
+      "text": "かりんとう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615710761,
+      "updated": 1615710761
+    },
+    {
+      "id": "604dca2be5172d00004b54a0",
+      "text": ">小麦粉を砂糖・水・イーストや食塩・重曹などと共に練り合わせて棒状に成形した生地を、植物油で揚げ、黒砂糖や白砂糖で作った[蜜]をからめて乾燥させた、[和菓子]の一種である",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615710761,
+      "updated": 1615710805
+    },
+    {
+      "id": "604dca2de5172d00004b54a1",
+      "text": "[https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%8A%E3%82%93%E3%81%A8%E3%81%86 かりんとう - Wikipedia]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615710762,
+      "updated": 1615710768
+    },
+    {
+      "id": "604dca32e5172d00004b54a2",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615710768,
+      "updated": 1615710768
+    },
+    {
+      "id": "604dca35e5172d00004b54a3",
+      "text": "かなり[地域差]がある模様",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615710770,
+      "updated": 1615710788
+    },
+    {
+      "id": "604dca38e5172d00004b54a4",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615710773,
+      "updated": 1615710773
+    }
+  ]
+}

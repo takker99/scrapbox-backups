@@ -1,0 +1,428 @@
+{
+  "id": "5f90da110e7999001eeaf468",
+  "title": "手書きメモ",
+  "created": 1603328556,
+  "updated": 1607947974,
+  "lines": [
+    {
+      "id": "5f90da110e7999001eeaf468",
+      "text": "手書きメモ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328556,
+      "updated": 1603329272
+    },
+    {
+      "id": "5f90da2cdd59fe000073ac76",
+      "text": "利点",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328556,
+      "updated": 1603328557
+    },
+    {
+      "id": "5f90dad0dd59fe000073ac7e",
+      "text": " 記憶に残りやすい",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328721,
+      "updated": 1603328840
+    },
+    {
+      "id": "5f90db48dd59fe000073ac81",
+      "text": " \t[手書きかノートPCか？ パフォーマンスの高い「メモの取り方」を調査した結果 | WIRED.jp https://wired.jp/2017/03/31/taking-notes/]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328840,
+      "updated": 1603328849
+    },
+    {
+      "id": "5f9cfb4f1280f0000026ceb2",
+      "text": " 　[音声入力]も記憶に残りやすそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604123472,
+      "updated": 1604123490
+    },
+    {
+      "id": "5f9cfbc21280f0000026ceb4",
+      "text": " 　 [/marshmallow-rm/私も最近scrapbox を使い始め、主に勉強のために使いたいと思っています#5d749d06905ec8000093d964]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604123586,
+      "updated": 1604123587
+    },
+    {
+      "id": "5f9cfb631280f0000026ceb3",
+      "text": " 　 [音読]というやつ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604123492,
+      "updated": 1604123500
+    },
+    {
+      "id": "5f90da2edd59fe000073ac78",
+      "text": "　文字を書くのが面倒なので美文章が完全に滅ぼされる",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328558,
+      "updated": 1603328945
+    },
+    {
+      "id": "5f90db06dd59fe000073ac80",
+      "text": "　\t[/shokai/美文章滅すべし]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328773,
+      "updated": 1603328774
+    },
+    {
+      "id": "5f90daf8dd59fe000073ac7f",
+      "text": "　\t[/rashitamemo/ノートに手書きは、書いているときにエディティングスイッチが入りにくい]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328760,
+      "updated": 1603328761
+    },
+    {
+      "id": "5f9cfc0d1280f0000026ceb5",
+      "text": "　[紙媒体の良さ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1604123662,
+      "updated": 1604123662
+    },
+    {
+      "id": "5f90da48dd59fe000073ac79",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328585,
+      "updated": 1603328585
+    },
+    {
+      "id": "5f90da49dd59fe000073ac7a",
+      "text": "欠点",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328585,
+      "updated": 1603328586
+    },
+    {
+      "id": "5f90da2edd59fe000073ac77",
+      "text": "　素直な表現をしづらい？",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328557,
+      "updated": 1603328880
+    },
+    {
+      "id": "5f90da59dd59fe000073ac7c",
+      "text": "　\tデジタルテキストのメモだと例えば「え？なんで？」「うーん全然わからん」とか素直に書けるけど、手書きだと何となく気恥ずかしい[kokutousha.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328601,
+      "updated": 1603329432
+    },
+    {
+      "id": "5f90db75dd59fe000073ac82",
+      "text": " 　\t「？」とかで済ませがち",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328885,
+      "updated": 1603328923
+    },
+    {
+      "id": "5f90dbcbdd59fe000073ac83",
+      "text": " 　\t慣れの問題か",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603328971,
+      "updated": 1603328976
+    },
+    {
+      "id": "5f90dd9edd59fe000073ac84",
+      "text": "   \tかもしれない[takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603329438,
+      "updated": 1603329870
+    },
+    {
+      "id": "5f90df4e1280f00000b9a824",
+      "text": " \t手書きで「うーん全然わからん」とかよく書く派[takker.icon][dnin.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603329870,
+      "updated": 1613112352
+    },
+    {
+      "id": "5f90df721280f00000b9a825",
+      "text": " \t\t数学やっているときとかによく書く",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603329906,
+      "updated": 1603329919
+    },
+    {
+      "id": "5f90df7e1280f00000b9a826",
+      "text": " \t\t\t「うまく展開できない」「一旦整理」「方針変えよう」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603329919,
+      "updated": 1603329945
+    },
+    {
+      "id": "5f90e0001280f00000b9a82c",
+      "text": " \t\t中高の頃から思ったことをノートに殴り書きしていたのが効いているかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603330048,
+      "updated": 1603330093
+    },
+    {
+      "id": "5f90e0651280f00000b9a82f",
+      "text": " \t\t\tTwitter民がつぶやくようなポエム(偏見)をノートにたくさんぶつけていた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603330149,
+      "updated": 1603330196
+    },
+    {
+      "id": "5f90e02d1280f00000b9a82d",
+      "text": " \t\t\t月2くらいでB5ノート一枚分文字を埋めさせる課題があったのも影響している？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603330093,
+      "updated": 1603330145
+    },
+    {
+      "id": "5f90df441280f00000b9a823",
+      "text": "　　　名詞だけ書いておいて､｢どんな文脈で書いたかわからない｣とか書いたりする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603329861,
+      "updated": 1603329966
+    },
+    {
+      "id": "5f90dfada9f47400006dc878",
+      "text": "　　　　Scrapbox検索して､文脈が後でわかって追記することもある",
+      "userId": "5f7bafa76f34a0001ea9f474",
+      "created": 1603329966,
+      "updated": 1603330049
+    },
+    {
+      "id": "5f90e8e21280f00000b9a857",
+      "text": "　[リンク構造]をつかえない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332322,
+      "updated": 1603332432
+    },
+    {
+      "id": "5f90e9501280f00000b9a858",
+      "text": "　\t当然か",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332433,
+      "updated": 1603332435
+    },
+    {
+      "id": "5f90e9551280f00000b9a85a",
+      "text": "　\t授業ノートとかによく「→cf.p.xx」と書いて参照していた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332437,
+      "updated": 1603332728
+    },
+    {
+      "id": "5f90e97e1280f00000b9a85b",
+      "text": "　\t\t今思うと、hyperlinkを[手書きノート]で再現しようとしていたのかもしれない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332478,
+      "updated": 1603332515
+    },
+    {
+      "id": "5f90f498dd59fe0000f4693a",
+      "text": "　\t[Zettelkasten]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603335320,
+      "updated": 1603335323
+    },
+    {
+      "id": "5f90f4addd59fe0000f4693c",
+      "text": "　\t メモに番号を振ってリンクする",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603335341,
+      "updated": 1603335351
+    },
+    {
+      "id": "5f90f49edd59fe0000f4693b",
+      "text": "　\t\tおおよそ紙版Scrapbox",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603335326,
+      "updated": 1603335421
+    },
+    {
+      "id": "5f90f4fddd59fe00002cf454",
+      "text": "　\t\t\t分類ではなくリンク構造を作るなどの思想がある",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603335421,
+      "updated": 1603335437
+    },
+    {
+      "id": "5f9101511280f0000077b36c",
+      "text": "　\t\t[梅棹忠夫]の[情報カード]の思想と似ている？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603338577,
+      "updated": 1604506161
+    },
+    {
+      "id": "5f9101691280f0000077b36d",
+      "text": "　\t\t\t違うのはリンクを貼るかどうかかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603338601,
+      "updated": 1603338624
+    },
+    {
+      "id": "5fa2d1cadd59fe000008f1f2",
+      "text": "　\t\t\tこの辺、国内外で同じようなものが[再発明]され続けてるのが[もったいない]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604506061,
+      "updated": 1604506255
+    },
+    {
+      "id": "5fa2d1d6dd59fe000008f1f3",
+      "text": "　\t\t\t\tScrapboxも海外ではほとんど知られてないっぽいし",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604506072,
+      "updated": 1604506085
+    },
+    {
+      "id": "5f90f337dd59fe0000f46939",
+      "text": "　\t手書きデジタルノートアプリとかでもリンク機能を実装しているものは少ない気がする",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1603334967,
+      "updated": 1603335073
+    },
+    {
+      "id": "5f90e9ca1280f00000b9a85d",
+      "text": "　[情報の再利用]が絶望的にしづらい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332554,
+      "updated": 1603332583
+    },
+    {
+      "id": "5f90e9a41280f00000b9a85c",
+      "text": " 　[死んだテキストの倉庫]になるかどうかは人による",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332516,
+      "updated": 1603332592
+    },
+    {
+      "id": "5f90e9f01280f00000b9a85f",
+      "text": " 　脳内でリンク構造作れる人なら問題ない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332592,
+      "updated": 1603332617
+    },
+    {
+      "id": "5f90ea091280f00000b9a860",
+      "text": " 　\t「あ、この話はこの本棚の2段目にあるあの本のあとがきに書いてあったこと関係しているな」とか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332617,
+      "updated": 1603332672
+    },
+    {
+      "id": "5f90e9531280f00000b9a859",
+      "text": "　悪筆すぎて、自分で書いた字が後で読めない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603332436,
+      "updated": 1603338214
+    },
+    {
+      "id": "5f9100fe1280f0000077b36b",
+      "text": "　　意識が朦朧としているときに書いた文章は読めない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603338494,
+      "updated": 1603338505
+    },
+    {
+      "id": "5f9da8bc4daa9200005c2d3a",
+      "text": "　　そもそもまともに字を書けない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1604167869,
+      "updated": 1604167878
+    },
+    {
+      "id": "5fa92748dd59fe0000664e28",
+      "text": "　　字を書ける肉体と環境が必要",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604921160,
+      "updated": 1604921168
+    },
+    {
+      "id": "5fa9274fdd59fe0000664e29",
+      "text": "　　\t老化や病気で手が震えるとか",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604921168,
+      "updated": 1604921179
+    },
+    {
+      "id": "5fa9275bdd59fe0000664e2a",
+      "text": "　　\t乾いた平坦な面が周囲にないとか",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604921179,
+      "updated": 1604921198
+    },
+    {
+      "id": "5fa92798dd59fe0000664e2c",
+      "text": "　　\t必要な明かりがないとか",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604921241,
+      "updated": 1604921245
+    },
+    {
+      "id": "5fa92786dd59fe0000664e2b",
+      "text": "　　\t手書きでなければ音声記録とか色々手段がありうる",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604921222,
+      "updated": 1604921269
+    },
+    {
+      "id": "5fa93596d43875000000268d",
+      "text": "　　\t[dnin.icon]我が祖父､死ぬ1週間前から急に日記が書けなくなってるのを見て､リアルだなぁと思った",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604924822,
+      "updated": 1613112352
+    },
+    {
+      "id": "5fa935e2d43875000000268f",
+      "text": "　　\t 筆跡が急に衰えていった",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604924898,
+      "updated": 1604924907
+    },
+    {
+      "id": "5fa935b2d43875000000268e",
+      "text": "　　\t ほぼ行った場所､買った[お菓子]の記録だったんだけど､もう文字じゃなかった｡波線 ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604924851,
+      "updated": 1607933757
+    },
+    {
+      "id": "5fa935f2d438750000002690",
+      "text": "　　\t  コンビ=~~~---~.",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604924915,
+      "updated": 1604924937
+    },
+    {
+      "id": "5f9100ef1280f0000077b36a",
+      "text": "　自分なら読めるけど自分以外の誰かは読めない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1603338479,
+      "updated": 1603338492
+    },
+    {
+      "id": "5fd755804bb2e20000676161",
+      "text": "　書くのに時間がかかりすぎる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607947571,
+      "updated": 1607947577
+    },
+    {
+      "id": "5fd755864bb2e20000676163",
+      "text": "　 タイピングがそれなりに速いので手書きの遅さに対してストレスがたまる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607947577,
+      "updated": 1607947618
+    },
+    {
+      "id": "5fd755814bb2e20000676162",
+      "text": " 　　わかる[dnin.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607947572,
+      "updated": 1613112352
+    },
+    {
+      "id": "5fd756c0d438750000d6f181",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607947968,
+      "updated": 1607947968
+    }
+  ]
+}

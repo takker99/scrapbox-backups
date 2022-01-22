@@ -1,0 +1,246 @@
+{
+  "id": "5ff84d2fc0b7a2001d076181",
+  "title": "ページの切り出しの英訳を探す",
+  "created": 1610108209,
+  "updated": 1610177687,
+  "lines": [
+    {
+      "id": "5ff84d2fc0b7a2001d076181",
+      "text": "ページの切り出しの英訳を探す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7d5",
+      "text": "from [2021/01/08]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7d7",
+      "text": "[ページの切り出し]のいい感じの英訳ないかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7d8",
+      "text": " `New page`以外で",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7d9",
+      "text": "  [restructuring] とか [suto3.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108223
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7da",
+      "text": "   構造を組み替えるイメージがしてよさそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7dd",
+      "text": "   「分ける」意味合いはなくなるけど、代わりに「違った視点から情報を見つめ直す」みたいな意味合いがでてきそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610177619
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7de",
+      "text": "  [isolate]?",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108224
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7df",
+      "text": "   意味がぴったりかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7e8",
+      "text": "  [stand alone]させる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108226
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7e9",
+      "text": "   [- これもいいな]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7ea",
+      "text": "   [- [話題の最小単位]でページをばらし、独立にする]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7eb",
+      "text": "    disconnectの意味合いが入っちゃうのでやめたほうがいいかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7ec",
+      "text": "     Scrapboxのpageは他とつながることが重要",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7ef",
+      "text": "    そうなのか、「自立」みたいなイメージだった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f0",
+      "text": "     自立の意味合いも欲しいですが、この語句だと「孤立」の意味合いが強くなってしまいそうです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f1",
+      "text": "     \t[/icons/なるほど.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f2",
+      "text": "     例文をたくさん見たわけではないので自信はない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f3",
+      "text": "   自動詞だから、ちょっと違和感？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f4",
+      "text": "   「一人前になる」は stand on one's own らしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f5",
+      "text": "    stand on your own (two) feetで出てきた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f6",
+      "text": "    https://www.oxfordlearnersdictionaries.com/definition/english/foot_1#foot_idm_20",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f7",
+      "text": "  単純にcut outとかでも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f8",
+      "text": "  \t「新聞を切り抜く」はcut outとかclip outというらしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7f9",
+      "text": "  scrapって「屑」なのか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7fa",
+      "text": "  \t屑籠[/KuzuKago]ってつまりScrapboxじゃんｗ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7fb",
+      "text": "  \t Scrapboxは[/emoji/trashcan.icon]だった……？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7fc",
+      "text": "  \t [https://gyazo.com/672955b5da0ac935ed094723e8fb28e9]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff84d2f1280f0000006b7fd",
+      "text": "   天才の発想",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610108209,
+      "updated": 1610108209
+    },
+    {
+      "id": "5ff905a3ec4fce000050f6b8",
+      "text": "  clip to new page",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1610155431,
+      "updated": 1610155441
+    },
+    {
+      "id": "5ff94d35e5172d00007aa281",
+      "text": "  [spawn]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610173749,
+      "updated": 1610173784
+    },
+    {
+      "id": "5ff94d12e5172d00007aa27f",
+      "text": "   [別のページに切り出すことは産卵に似ている]から",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610173714,
+      "updated": 1610173764
+    },
+    {
+      "id": "5ff94d24e5172d00007aa280",
+      "text": "   「[産卵]」はspawnらしい",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610173733,
+      "updated": 1610173779
+    },
+    {
+      "id": "5ff905a5ec4fce000050f6b9",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1610155434,
+      "updated": 1610155434
+    }
+  ]
+}

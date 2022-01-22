@@ -1,0 +1,113 @@
+{
+  "id": "5fdcd51de41ee4001c70075b",
+  "title": "pin-diaryのバグ",
+  "created": 1608307999,
+  "updated": 1609410816,
+  "lines": [
+    {
+      "id": "5fdcd51de41ee4001c70075b",
+      "text": "pin-diaryのバグ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608307999,
+      "updated": 1608307999
+    },
+    {
+      "id": "5fdcd51e1280f00000d14782",
+      "text": "[pin-diary]のバグ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608308000,
+      "updated": 1608308005
+    },
+    {
+      "id": "5fdcd5261280f0000044c815",
+      "text": " バグっぽい挙動を見つけたら書いてく",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608308007,
+      "updated": 1608308021
+    },
+    {
+      "id": "5fdcd5291280f0000044c816",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608308010,
+      "updated": 1608308010
+    },
+    {
+      "id": "5fdcd51e1280f00000d14783",
+      "text": "[2020/12/19]のページをトップページから一番乗りに踏んだら`#app-container`の中身が全部消えてこういうerrorがでた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608308000,
+      "updated": 1608308025
+    },
+    {
+      "id": "5fdcd51e1280f00000d14784",
+      "text": "[https://gyazo.com/cd189b41fc932777e59326cf751f65f0]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608308000,
+      "updated": 1608308000
+    },
+    {
+      "id": "5fe96ee31280f000009219f9",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133795,
+      "updated": 1609133795
+    },
+    {
+      "id": "5fe96ee31280f000009219fa",
+      "text": "個別のページからトップページに戻ると、全然違うページがピン留めされる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133796,
+      "updated": 1609133849
+    },
+    {
+      "id": "5fe96f191280f000009219fc",
+      "text": "[https://gyazo.com/76dc3e629b639f6622be0b7f94516eb4]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133849,
+      "updated": 1609133850
+    },
+    {
+      "id": "5fe96f1a1280f000009219fd",
+      "text": " 流石にそろそろバグ修正したほうがいいな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133850,
+      "updated": 1609133864
+    },
+    {
+      "id": "5fe96eed1280f000009219fb",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133806,
+      "updated": 1609133806
+    },
+    {
+      "id": "5feda8b61280f00000722e58",
+      "text": "流石にバグ修正しないと (2回目)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609410742,
+      "updated": 1609410767
+    },
+    {
+      "id": "5feda8d01280f00000722e5a",
+      "text": "[https://gyazo.com/92a513bd60a57155b9734dc22779a674]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609410769,
+      "updated": 1609410790
+    },
+    {
+      "id": "5feda8e51280f00000722e5c",
+      "text": " 何でもかんでもPinを追加するようになっちゃっている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609410790,
+      "updated": 1609410814
+    },
+    {
+      "id": "5feda8b81280f00000722e59",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609410745,
+      "updated": 1609410745
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "id": "5fc0eff57d355700224d0737",
+  "title": "井戸端の直径",
+  "created": 1606479878,
+  "updated": 1606482486,
+  "lines": [
+    {
+      "id": "5fc0eff57d355700224d0737",
+      "text": "井戸端の直径",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479878,
+      "updated": 1606482153
+    },
+    {
+      "id": "5fc0f005dd59fe0000110d0e",
+      "text": "[https://gyazo.com/77bef04f5338f47e26c05e1bda65d38b]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479878,
+      "updated": 1606482312
+    },
+    {
+      "id": "5fc0f006dd59fe0000110d0f",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479879,
+      "updated": 1606479879
+    },
+    {
+      "id": "5fc0f010dd59fe0000110d10",
+      "text": "[リンク]のネットワークのうち、二点間を結ぶ最短経路の中で最も長いもの（graph diameter)",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479890,
+      "updated": 1606482233
+    },
+    {
+      "id": "5fc0fa05dd59fe00005644ec",
+      "text": " そのプロジェクトの屋台骨みたいなものが何となく見えたら面白いかと思ったけど微妙",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606482438,
+      "updated": 1606482486
+    },
+    {
+      "id": "5fc0f026dd59fe0000110d12",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479911,
+      "updated": 1606479911
+    },
+    {
+      "id": "5fc0f03add59fe0000110d6d",
+      "text": "↓対象のプロジェクトを開いてこれをコンソールにコピペするとそこの経路が表示される",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479931,
+      "updated": 1606482195
+    },
+    {
+      "id": "5fc0f026dd59fe0000110d13",
+      "text": "code:diameter.js",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479911,
+      "updated": 1606482254
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d14",
+      "text": " (async () => {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d15",
+      "text": " \tconst rawPages = [];",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d16",
+      "text": " \tlet followingId = null;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d17",
+      "text": " \tdo {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d18",
+      "text": " \t\tconst param = followingId === null ? '' : `?followingId=${followingId}`;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d19",
+      "text": " \t\tconst res = await fetch(",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d1a",
+      "text": " \t\t\t`https://scrapbox.io/api/pages/${scrapbox.Project.name}/search/titles${param}`",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d1b",
+      "text": " \t\t);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d1c",
+      "text": " \t\tfollowingId = res.headers.get('X-Following-Id');",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d1d",
+      "text": " \t\trawPages.push(...(await res.json()));",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d1e",
+      "text": " \t} while (followingId);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d1f",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d20",
+      "text": " \tconst links = Object.fromEntries(rawPages.map((p, n) => [p.title, p.links]));",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d22",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d23",
+      "text": " \tlet diameter = 0;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d24",
+      "text": " \tlet diameterList;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d25",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d26",
+      "text": " \tfor (const p in links) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d27",
+      "text": " \t\tlet visited = new Set();",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d28",
+      "text": " \t\tlet distList = [[[], p]];",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d29",
+      "text": " \t\tlet depth = 0;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d2a",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d2b",
+      "text": " \t\twhile (1) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d2c",
+      "text": " \t\t\tconst nextList = [];",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d2d",
+      "text": " \t\t\tdistList.forEach(([pred, p]) => {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d2e",
+      "text": " \t\t\t\tlinks[p].forEach(l => {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d2f",
+      "text": " \t\t\t\t\tif (links[l] === undefined) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d30",
+      "text": " \t\t\t\t\t\treturn;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d31",
+      "text": " \t\t\t\t\t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d32",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d33",
+      "text": " \t\t\t\t\tif (!visited.has(l)) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d34",
+      "text": " \t\t\t\t\t\tvisited.add(l);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d35",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d36",
+      "text": " \t\t\t\t\t\tconst newPred = pred.slice();",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d37",
+      "text": " \t\t\t\t\t\tnewPred.push(p);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d38",
+      "text": " \t\t\t\t\t\tnextList.push([newPred, l]);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d39",
+      "text": " \t\t\t\t\t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d3a",
+      "text": " \t\t\t\t});",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d3b",
+      "text": " \t\t\t});",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d3c",
+      "text": " \t\t\tif (nextList.length == 0) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d3d",
+      "text": " \t\t\t\tbreak;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d3e",
+      "text": " \t\t\t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d3f",
+      "text": " \t\t\tdistList = nextList;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d40",
+      "text": " \t\t\tdepth++;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d41",
+      "text": " \t\t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d42",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d43",
+      "text": " \t\tconst newDist = depth - 1;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d44",
+      "text": " \t\tif (newDist > diameter) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d45",
+      "text": " \t\t\tdiameter = newDist;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d46",
+      "text": " \t\t\tdiameterList = [...distList[0][0], distList[0][1]];",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d47",
+      "text": " \t\t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d48",
+      "text": " \t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d49",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d4a",
+      "text": " \tconst win = $(`<div class=\"page\">",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d4b",
+      "text": " \t\t<a>",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d4c",
+      "text": " \t\t\t<i class=\"kamon kamon-cross\" style=\"position: absolute; right: 1em;\"></i>",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d4d",
+      "text": " \t\t</a>",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d4e",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d4f",
+      "text": " \t\tDiameter path:",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606482244
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d50",
+      "text": " \t\t<ol>",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d51",
+      "text": " \t\t</ol>",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d52",
+      "text": " \t</div>`)",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d53",
+      "text": " \t.css({",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d54",
+      "text": " \t\t'position': 'fixed',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d55",
+      "text": " \t\t'z-index': 1000,",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d56",
+      "text": " \t\t'width': '40%',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d57",
+      "text": " \t\t'height': 'calc(98% - 140px)',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d58",
+      "text": " \t\t'top': '140px',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d59",
+      "text": " \t\t'right': '0',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d5a",
+      "text": " \t\t'margin': '0 6%',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d5b",
+      "text": " \t\t'padding': '1em',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d5c",
+      "text": " \t\t'overflow-y': 'scroll',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d5d",
+      "text": " \t\t'border': '1px solid rgba(0,0,0,0.16)',",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d5e",
+      "text": " \t});",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d5f",
+      "text": " \t$('> a:nth(0)', win).click(() => { win.hide('fast', () => win.remove()); });",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d60",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d61",
+      "text": " \tconst ol = $('ol', win);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d62",
+      "text": " \tfor (const p of diameterList) {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d63",
+      "text": " \t\tconst li = $('<li><a/></li>');",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d64",
+      "text": " \t\t$('a', li)",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d65",
+      "text": " \t\t\t.text(p)",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d66",
+      "text": " \t\t\t.attr('href', `/${scrapbox.Project.name}/${encodeURIComponent(p)}`);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d67",
+      "text": " \t\tol.append(li);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d68",
+      "text": " \t}",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d69",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d6a",
+      "text": " \t$('body').append(win);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d6b",
+      "text": " })();",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f030dd59fe0000110d6c",
+      "text": " ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479921,
+      "updated": 1606479921
+    },
+    {
+      "id": "5fc0f010dd59fe0000110d11",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606479890,
+      "updated": 1606479890
+    },
+    {
+      "id": "5fc0f0c2dd59fe0000110d70",
+      "text": "[/nishio]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606480067,
+      "updated": 1606480069
+    },
+    {
+      "id": "5fc0f0badd59fe0000110d6e",
+      "text": "[https://gyazo.com/de8f79fa2ba00e7be0473dd99f4aa436]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606480059,
+      "updated": 1606480061
+    },
+    {
+      "id": "5fc0f0bcdd59fe0000110d6f",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606480061,
+      "updated": 1606480061
+    },
+    {
+      "id": "5fc0f0f5dd59fe0000110d73",
+      "text": "[/motoso]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606480119,
+      "updated": 1606480119
+    },
+    {
+      "id": "5fc0f0efdd59fe0000110d71",
+      "text": "[https://gyazo.com/2a99e249a0943385c917978b12efc5f5]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606480112,
+      "updated": 1606480114
+    },
+    {
+      "id": "5fc0f0f1dd59fe0000110d72",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606480114,
+      "updated": 1606480114
+    }
+  ]
+}

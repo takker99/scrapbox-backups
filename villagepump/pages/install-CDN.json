@@ -1,0 +1,260 @@
+{
+  "id": "5fb4afade4c1390022849818",
+  "title": "install-CDN",
+  "created": 1605676975,
+  "updated": 1608740585,
+  "lines": [
+    {
+      "id": "5fb4afade4c1390022849818",
+      "text": "install-CDN",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605676975,
+      "updated": 1605676979
+    },
+    {
+      "id": "5fb4afb31280f00000792f9e",
+      "text": "[cdnjs]などからscrapboxにscriptを読み込むための関数",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605676979,
+      "updated": 1608740585
+    },
+    {
+      "id": "5fb4afc91280f00000792f9f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677001,
+      "updated": 1605677001
+    },
+    {
+      "id": "5fb4afca1280f00000792fa0",
+      "text": "code:script.js_old",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677002,
+      "updated": 1605685587
+    },
+    {
+      "id": "5fb4afce1280f00000792fa1",
+      "text": " export function installCDN({id,src, module = false} = {}) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677006,
+      "updated": 1605677449
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa2",
+      "text": "     const oldScript = document.getElementById(id);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677011
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa3",
+      "text": "     oldScript?.parentNode.removeChild(oldScript);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677011
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa4",
+      "text": "     const script = document.createElement(\"script\");",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677011
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa5",
+      "text": "     script.src = src;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677168
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa6",
+      "text": "     script.id = id;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677011
+    },
+    {
+      "id": "5fb4b18a1280f0000067934a",
+      "text": "     if (module) {script.type = 'module';}",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677450,
+      "updated": 1605677473
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa7",
+      "text": "     document.head.appendChild(script);",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677023
+    },
+    {
+      "id": "5fb4afcf1280f00000792fa8",
+      "text": " }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677007,
+      "updated": 1605677011
+    },
+    {
+      "id": "5fb4afae1280f00000792f9c",
+      "text": "from [/takker/scrapbox-mousetrap-installer#5fac20bb1280f00000018bb3]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605676975,
+      "updated": 1605677637
+    },
+    {
+      "id": "5fb4b2401280f0000067934b",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605677633,
+      "updated": 1605677633
+    },
+    {
+      "id": "5fb4ce69dd59fe0000c50f2f",
+      "text": "`load`イベントを使ったらsetTimeoutの代わりにawaitでいけるかな？",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684844,
+      "updated": 1605684858
+    },
+    {
+      "id": "5fb4d09f1280f0000067934c",
+      "text": " こんなイベントあったんだ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605685407,
+      "updated": 1605685417
+    },
+    {
+      "id": "5fb4d0ed1280f00000679350",
+      "text": "  [https://developer.mozilla.org/ja/docs/Web/API/Window/load_event Window: load イベント - Web API | MDN]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605685485,
+      "updated": 1605685492
+    },
+    {
+      "id": "5fb4d0a91280f0000067934d",
+      "text": " 便利じゃん！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1605685417,
+      "updated": 1605685497
+    },
+    {
+      "id": "5fb4ce52dd59fe0000c50f1d",
+      "text": "code:script.js",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684821,
+      "updated": 1605685598
+    },
+    {
+      "id": "5fb4ce54dd59fe0000c50f1f",
+      "text": " export const installCDN = ({id, src, module = false} = {}) => new Promise((resolve, reject) => {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684823,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f20",
+      "text": "     const oldScript = document.getElementById(id);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f21",
+      "text": "     oldScript?.parentNode.removeChild(oldScript);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f22",
+      "text": "     const script = document.createElement(\"script\");",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f23",
+      "text": "     script.addEventListener('load', () => {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f24",
+      "text": "         resolve();",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f25",
+      "text": "     });",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f26",
+      "text": "     script.addEventListener('error', (ev) => {",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f27",
+      "text": "         reject(ev);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f28",
+      "text": "     });",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f29",
+      "text": "     script.src = src;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f2a",
+      "text": "     script.id = id;",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f2b",
+      "text": "     if (module) { script.type = 'module'; }",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f2c",
+      "text": "     document.head.appendChild(script);",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce55dd59fe0000c50f2d",
+      "text": " });",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684824,
+      "updated": 1605684824
+    },
+    {
+      "id": "5fb4ce52dd59fe0000c50f1e",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605684821,
+      "updated": 1605684821
+    }
+  ]
+}

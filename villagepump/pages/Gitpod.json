@@ -1,0 +1,99 @@
+{
+  "id": "5fd0f113ed8d5a0022b6a2b6",
+  "title": "Gitpod",
+  "created": 1607528737,
+  "updated": 1610111042,
+  "lines": [
+    {
+      "id": "5fd0f113ed8d5a0022b6a2b6",
+      "text": "Gitpod",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528737,
+      "updated": 1607528737
+    },
+    {
+      "id": "5ff8579ce5172d0000049315",
+      "text": "[https://gyazo.com/48f36133519fdb81c85bc9460b3db90a]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610110875,
+      "updated": 1610111039
+    },
+    {
+      "id": "5fd0f121ec4fce000065c5a0",
+      "text": "https://gitpod.io/",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528737,
+      "updated": 1607528737
+    },
+    {
+      "id": "5fd0f122ec4fce000065c5a1",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528737,
+      "updated": 1607528737
+    },
+    {
+      "id": "5fd0f12fec4fce000065c5a2",
+      "text": " [GitHub]や[GitLab]と連携してすぐに編集を開始できるオンラインの[Eclipse Theia](VSCodeのフォーク) IDE",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528750,
+      "updated": 1610110939
+    },
+    {
+      "id": "5fd0f1f8ec4fce000065c5aa",
+      "text": " 中身はDockerらしい",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528952,
+      "updated": 1607528955
+    },
+    {
+      "id": "5fd0f130ec4fce000065c5a3",
+      "text": " 100時間/月まで無料",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528752,
+      "updated": 1607528832
+    },
+    {
+      "id": "5fd0f18dec4fce000065c5a6",
+      "text": " ログインさえすればどこからでも開発環境にアクセスできる",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528844,
+      "updated": 1607528856
+    },
+    {
+      "id": "5fd0f198ec4fce000065c5a7",
+      "text": " `npm`とかが使える",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528856,
+      "updated": 1607528889
+    },
+    {
+      "id": "5fd0f181ec4fce000065c5a5",
+      "text": " ターミナルが使える",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528832,
+      "updated": 1607528843
+    },
+    {
+      "id": "5fd0f16cec4fce000065c5a4",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528812,
+      "updated": 1607528812
+    },
+    {
+      "id": "5fd0f206ec4fce000065c5ab",
+      "text": "[クラウドIDE「Gitpod」を試してみたら予想以上に使えそうだった - Qiita https://qiita.com/kai_kou/items/40a7a579f1bce31d6a16]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528966,
+      "updated": 1607528966
+    },
+    {
+      "id": "5fd0f206ec4fce000065c5ac",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1607528966,
+      "updated": 1607528966
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "5fcf464dca4e56001d5d91db",
+  "title": "Premium",
+  "created": 1607419472,
+  "updated": 1607419495,
+  "lines": [
+    {
+      "id": "5fcf464dca4e56001d5d91db",
+      "text": "Premium",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607419472,
+      "updated": 1607419472
+    },
+    {
+      "id": "5fcf4650055332000099c00c",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607419472,
+      "updated": 1607419495
+    },
+    {
+      "id": "5fcf4652055332000099c00d",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607419475,
+      "updated": 1607419475
+    }
+  ]
+}

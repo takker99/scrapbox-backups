@@ -1,0 +1,57 @@
+{
+  "id": "5fa8c0e1429773001e3076f4",
+  "title": "Smart Speaker",
+  "created": 1604894948,
+  "updated": 1604936288,
+  "lines": [
+    {
+      "id": "5fa8c0e1429773001e3076f4",
+      "text": "Smart Speaker",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604894948,
+      "updated": 1604902498
+    },
+    {
+      "id": "5fa9625cdd59fe00008a3340",
+      "text": "[スマートスピーカー]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604936284,
+      "updated": 1604936287
+    },
+    {
+      "id": "5fa96260dd59fe00008a3341",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604936288,
+      "updated": 1604936288
+    },
+    {
+      "id": "5fa8c0e3d438750000f7100e",
+      "text": "[Amazon Echo]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604894948,
+      "updated": 1604894951
+    },
+    {
+      "id": "5fa8c0e8d438750000f71010",
+      "text": "[Google Home]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604894953,
+      "updated": 1604894956
+    },
+    {
+      "id": "5fa8c0e9d438750000f71011",
+      "text": "[LINE Clova(ハードウェア)]",
+      "userId": "6055950b87138f0022246f59",
+      "created": 1604894954,
+      "updated": 1616418250
+    },
+    {
+      "id": "5fa8c0edd438750000f71012",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1604894958,
+      "updated": 1604894958
+    }
+  ]
+}

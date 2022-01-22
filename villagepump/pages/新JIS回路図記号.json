@@ -1,0 +1,85 @@
+{
+  "id": "5fc3e0ca32f523001f59e695",
+  "title": "新JIS回路図記号",
+  "created": 1606672649,
+  "updated": 1606862054,
+  "lines": [
+    {
+      "id": "5fc3e0ca32f523001f59e695",
+      "text": "新JIS回路図記号",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606672649,
+      "updated": 1606672649
+    },
+    {
+      "id": "5fc3e1088ee92a0000ddca56",
+      "text": "[https://gyazo.com/fdb20b55b8680b9fbe6120a04f73846c]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606672649,
+      "updated": 1606672650
+    },
+    {
+      "id": "5fc3e1098ee92a0000ddca58",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606672650,
+      "updated": 1606672650
+    },
+    {
+      "id": "5fc3e10f8ee92a0000ddca59",
+      "text": " これはナイわー [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606672656,
+      "updated": 1606672661
+    },
+    {
+      "id": "5fc3e1098ee92a0000ddca57",
+      "text": "  [抵抗]は知っていましたが[論理回路]は何だこれ……[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606672650,
+      "updated": 1606700318
+    },
+    {
+      "id": "5fc44ca51280f00000038310",
+      "text": "  　10000歩くらい譲って[$ \\lnot\\ \\land\\ \\lor]ならまだわかった。いやわからないか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606700197,
+      "updated": 1606700278
+    },
+    {
+      "id": "5fc6c4b24daa920000b2ac6f",
+      "text": "  論理演算で≧1ってなんやねん",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1606862002,
+      "updated": 1606862054
+    },
+    {
+      "id": "5fc44c901280f0000003830f",
+      "text": "　抵抗の新しい方は高校のときからよく使ってた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606700177,
+      "updated": 1606700366
+    },
+    {
+      "id": "5fc44d4e1280f00000038313",
+      "text": "　\t書きやすくて便利",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606700366,
+      "updated": 1606700372
+    },
+    {
+      "id": "5fc455168ee92a00004557e5",
+      "text": "　\t[/icons/まじかよ.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606702358,
+      "updated": 1606702365
+    },
+    {
+      "id": "5fc44d201280f00000038312",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606700320,
+      "updated": 1606700320
+    }
+  ]
+}

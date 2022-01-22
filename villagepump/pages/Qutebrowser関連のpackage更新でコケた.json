@@ -1,0 +1,190 @@
+{
+  "id": "5f5d1512b39ab9001e04f86a",
+  "title": "Qutebrowser関連のpackage更新でコケた",
+  "created": 1599935763,
+  "updated": 1604901884,
+  "lines": [
+    {
+      "id": "5f5d1512b39ab9001e04f86a",
+      "text": "Qutebrowser関連のpackage更新でコケた",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1604901884
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89c7",
+      "text": "from [Qutebrowser]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1600250069
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89c8",
+      "text": "Qutebrowser関連のパッケージ更新でコケた",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89c9",
+      "text": " [nが使っているqutebrowserのバージョン　https://gist.github.com/qvmzq/d29ee2835f994eba7d5d51c602297959/revisions]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599938527
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89ca",
+      "text": "  晒したおかげでパッケージ更新の必要性に気づけた",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89cb",
+      "text": "  [dnin.icon]うわーwwアプグレしたら即落ちするようになった 厄介",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1613112348
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89cc",
+      "text": "   やべー開けない",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89cd",
+      "text": "   [https://github.com/qutebrowser/qutebrowser/issues/5634 これ]かも",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89ce",
+      "text": "   ScrapboxはServiceWorkerを使っていて,Qt5.15だとクラッシュしてしまう",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89cf",
+      "text": "   対症療法",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d0",
+      "text": "    `.local/share/qutebrowser/webengine/Service Worker`を毎秒消すスクリプトを書いた",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d1",
+      "text": "    おれは三大ブラウザを使いたくない,Quteがいいんだ!!![dnin.icon*6]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1613112348
+    },
+    {
+      "id": "5f5d153e8a8c6a0000db89d9",
+      "text": "   教訓",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935806,
+      "updated": 1599935809
+    },
+    {
+      "id": "5f5d15418a8c6a0000db89da",
+      "text": "    [マーフィーの法則]:夜中にこういうアップデートを急にするな",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935809,
+      "updated": 1599935826
+    },
+    {
+      "id": "5f5d15568a8c6a0000db89db",
+      "text": "     中途覚醒のノリで新しいことをするな",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935834,
+      "updated": 1599935847
+    },
+    {
+      "id": "5f5d15678a8c6a0000db89dc",
+      "text": "     寝よう...",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935847,
+      "updated": 1599935849
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d2",
+      "text": " [Chromium]ベースだが,キャッチアップが遅いのが難点",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d3",
+      "text": "  `Backend: QtWebEngine (Chromium 69.0.3497.128)`",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d4",
+      "text": "  `PyQt5.QtWebEngine: 5.14.0`",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d5",
+      "text": "   これを手動で`5.15`にするのがめんどい",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d6",
+      "text": "   pipパッケージの更新とか全然してなかった→[コレで一括更新 https://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-with-pip]",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d7",
+      "text": "   code:sh",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d15128a8c6a0000db89d8",
+      "text": "    pip list --outdated --format=freeze | grep -v '^\\-e' | cut -d = -f 1  | xargs -n1 pip install -U",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599935763,
+      "updated": 1599935763
+    },
+    {
+      "id": "5f5d16ae8a8c6a0000352114",
+      "text": "",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599936174,
+      "updated": 1599936176
+    },
+    {
+      "id": "5f5d16b08a8c6a0000352115",
+      "text": "`o` `gith qute iss`でissueページに飛べる体験,やっぱり優秀",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599936176,
+      "updated": 1599936213
+    },
+    {
+      "id": "5f5d16b18a8c6a0000352116",
+      "text": "",
+      "userId": "5ef9a74506750300248a8c6a",
+      "created": 1599936178,
+      "updated": 1599936178
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6042e9ad8b9396001cc45555",
+  "title": "Chrome Remote Data",
+  "created": 1614997934,
+  "updated": 1614997939,
+  "lines": [
+    {
+      "id": "6042e9ad8b9396001cc45555",
+      "text": "Chrome Remote Data",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1614997934,
+      "updated": 1614997937
+    },
+    {
+      "id": "6042e9b47589210000ae9997",
+      "text": "https://chrome.google.com/sync",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1614997939,
+      "updated": 1614997939
+    },
+    {
+      "id": "6042e9b57589210000ae9998",
+      "text": "",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1614997939,
+      "updated": 1614997939
+    }
+  ]
+}

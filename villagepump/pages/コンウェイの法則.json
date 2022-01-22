@@ -1,0 +1,50 @@
+{
+  "id": "5f9d53b3e711d5001e0e7cb9",
+  "title": "コンウェイの法則",
+  "created": 1604146122,
+  "updated": 1613145423,
+  "lines": [
+    {
+      "id": "5f9d53b3e711d5001e0e7cb9",
+      "text": "コンウェイの法則",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604146122,
+      "updated": 1604146122
+    },
+    {
+      "id": "5f9d53ca5b98c20000127bba",
+      "text": "Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604146122,
+      "updated": 1604146124
+    },
+    {
+      "id": "5f9d53cb5b98c20000127bbc",
+      "text": "「システムを設計する組織は、その構造をそっくりまねた構造の設計を生み出してしまう」",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604146124,
+      "updated": 1604146124
+    },
+    {
+      "id": "5f9d53cb5b98c20000127bbd",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1604146124,
+      "updated": 1604146124
+    },
+    {
+      "id": "6026a534e5172d00008b5e89",
+      "text": "\t[Nota]社には階層構造はないのかもしれない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613145394,
+      "updated": 1613145423
+    },
+    {
+      "id": "6026a534e5172d00008b5e8a",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613145395,
+      "updated": 1613145395
+    }
+  ]
+}

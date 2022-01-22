@@ -1,0 +1,85 @@
+{
+  "id": "5ff83704e3b0910023e0d71d",
+  "title": "記法が極限までシンプル",
+  "created": 1610102535,
+  "updated": 1612432140,
+  "lines": [
+    {
+      "id": "5ff83704e3b0910023e0d71d",
+      "text": "記法が極限までシンプル",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610102535,
+      "updated": 1610102535
+    },
+    {
+      "id": "5ff8373579d3a900001058a7",
+      "text": "\t[Scrapbox]の記法は良く出来てるなぁと改めて感心する今日このごろ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610102574,
+      "updated": 1610102584
+    },
+    {
+      "id": "5ff8370d79d3a900001058a4",
+      "text": "  [Markdown]しか知らなかった頃は`[link](url)`とか疑わなかったけど",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610102535,
+      "updated": 1610102586
+    },
+    {
+      "id": "5ff8372079d3a900001058a6",
+      "text": "  Scrapboxの`[link]`とか`[link url]`を知ってもう後戻りできなくなった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610102553,
+      "updated": 1610102586
+    },
+    {
+      "id": "5ff8374379d3a900001058a8",
+      "text": "  \t今でこそ当たり前に感じるけど、当時は疑いもしなかった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610102588,
+      "updated": 1610102598
+    },
+    {
+      "id": "5ff83a745b98c2000081d9ef",
+      "text": "  　\t`[link url]`と`[url link]`、順番を気にしなくていい記法は目からウロコだった",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610103413,
+      "updated": 1610103675
+    },
+    {
+      "id": "5ff83aee5b98c2000081d9f0",
+      "text": "  　\t　実は、`[url link]`は [MediaWiki] と同じ記法で、MediaWiki用のリンク作成ツールがそのまま使える",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610103535,
+      "updated": 1612432140
+    },
+    {
+      "id": "5ff852b4e5172d000004c8a7",
+      "text": "  　\t　順番どっちでもいいことを[ScrapScript]を使うまで知らなかった[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610109619,
+      "updated": 1610109662
+    },
+    {
+      "id": "5ff85308e5172d000004c8a8",
+      "text": "  　\t　[/help-jp/その他の書き方#5cfa1ea397c291000095c815]に載っている",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610109703,
+      "updated": 1610109708
+    },
+    {
+      "id": "5ff963e379d3a90000ba2e90",
+      "text": "  　\t　おお、気にしなくてもいいんだ、すげー[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179546,
+      "updated": 1610179558
+    },
+    {
+      "id": "5ff8370d79d3a900001058a5",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610102535,
+      "updated": 1610102535
+    }
+  ]
+}

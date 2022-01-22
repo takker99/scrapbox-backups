@@ -1,0 +1,127 @@
+{
+  "id": "6002c2aef0b7ba00222c6f76",
+  "title": "講義資料",
+  "created": 1610793649,
+  "updated": 1615634858,
+  "lines": [
+    {
+      "id": "6002c2aef0b7ba00222c6f76",
+      "text": "講義資料",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793649,
+      "updated": 1610793649
+    },
+    {
+      "id": "6002c2b11280f00000b0adf5",
+      "text": "国公立大学はほとんどの所で公開している",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793649,
+      "updated": 1610793668
+    },
+    {
+      "id": "6002c2c41280f00000b0adf7",
+      "text": "　数学や物理はこれで独学した[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793668,
+      "updated": 1610793679
+    },
+    {
+      "id": "6002c51a4bb2e20000b5e89b",
+      "text": "　趣味でコンパイラを作ろうとしていた時にお世話になったな[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610794182,
+      "updated": 1610794215
+    },
+    {
+      "id": "6002c5534bb2e20000b5e89d",
+      "text": "　 例を挙げるなら[こういうやつ https://www.is.s.u-tokyo.ac.jp/vu/96/cad/compilerresume/]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610794239,
+      "updated": 1610794250
+    },
+    {
+      "id": "604c28a38ee92a0000fca036",
+      "text": "　  1990年代のWebみたいで清清しい [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615603875,
+      "updated": 1615603885
+    },
+    {
+      "id": "6002c5234bb2e20000b5e89c",
+      "text": "　 情報科学系の分野だと大学がやはり強い",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610794191,
+      "updated": 1610794210
+    },
+    {
+      "id": "6002c2cf1280f00000b0adf8",
+      "text": "私立大学だと公開してるところは殆ど無い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793679,
+      "updated": 1610793705
+    },
+    {
+      "id": "6002c2e91280f00000b0adf9",
+      "text": "　慶應義塾大学で少しあったかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793705,
+      "updated": 1610793714
+    },
+    {
+      "id": "6002c2f41280f00000b0adfa",
+      "text": "　研究室単位だと公開してるとこもある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793717,
+      "updated": 1610793735
+    },
+    {
+      "id": "6002c5a31280f00000146285",
+      "text": "　 [/sfc-pm2020]とか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610794403,
+      "updated": 1610794406
+    },
+    {
+      "id": "604c28828ee92a0000fca035",
+      "text": "　  これは勝手に公開してるやつですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615603843,
+      "updated": 1615603853
+    },
+    {
+      "id": "6002c2b11280f00000b0adf6",
+      "text": "　　[takker.icon]の教授も2019年までは出していたみたいだけど、2020年からは大学内部で閉じたオンライン学習システムに移行してしまったので出てない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610793650,
+      "updated": 1610794516
+    },
+    {
+      "id": "6002c6141280f000004f7d66",
+      "text": "　　 [https://www.rs.noda.tus.ac.jp/~saeki/lecture.htm 授業｜東京理科大学 理工学部 土木工学科 佐伯研究室（構造工学研究室）]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610794516,
+      "updated": 1610794523
+    },
+    {
+      "id": "6002c5e21280f000004f7d65",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610794466,
+      "updated": 1610794466
+    },
+    {
+      "id": "604c28cb8ee92a0000fca037",
+      "text": "#大学 #講義 #講義資料",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615603916,
+      "updated": 1615603925
+    },
+    {
+      "id": "604c28cc8ee92a0000fca038",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615603917,
+      "updated": 1615603917
+    }
+  ]
+}

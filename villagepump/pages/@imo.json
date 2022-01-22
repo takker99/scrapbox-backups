@@ -1,0 +1,484 @@
+{
+  "id": "604fb055c8f35b002226a69e",
+  "title": "@imo",
+  "created": 1615835223,
+  "updated": 1615987755,
+  "lines": [
+    {
+      "id": "604fb055c8f35b002226a69e",
+      "text": "@imo",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835223,
+      "updated": 1615835223
+    },
+    {
+      "id": "604fb0571280f0000067cb42",
+      "text": "[/imo-memo/JavaScriptの空の波括弧]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835223,
+      "updated": 1615835225
+    },
+    {
+      "id": "604fb0591280f0000067cb44",
+      "text": " [/icons/eyes.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835225,
+      "updated": 1615835233
+    },
+    {
+      "id": "604fb0871280f0000067cb46",
+      "text": " 質問される前に回答するという高度な技をやろうかと思いましたが、[imo.icon]さん自身で調べたさそうなので控えておきます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835271,
+      "updated": 1615835365
+    },
+    {
+      "id": "604fb0e61280f0000067cb47",
+      "text": " 参考になりそうな情報源だけ上げておきます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835365,
+      "updated": 1615835378
+    },
+    {
+      "id": "604fb0611280f0000067cb45",
+      "text": "  [/programming-notes/引数分割束縛]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835233,
+      "updated": 1615835380
+    },
+    {
+      "id": "6051c7091280f000004dfdea",
+      "text": "   [引数分割束縛]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615972107,
+      "updated": 1615972113
+    },
+    {
+      "id": "604fb0f41280f0000067cb48",
+      "text": "   関連する概念",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835380,
+      "updated": 1615835440
+    },
+    {
+      "id": "604fb13f1280f0000067cb4b",
+      "text": "    [https://cpprefjp.github.io/lang/cpp17/structured_bindings.html 構造化束縛 - cpprefjp C++日本語リファレンス]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835454,
+      "updated": 1615835454
+    },
+    {
+      "id": "604fb1251280f0000067cb4a",
+      "text": "    pythonのtuple",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835429,
+      "updated": 1615835450
+    },
+    {
+      "id": "604fb15a1280f0000067cb4d",
+      "text": "  [https://chaika.hatenablog.com/entry/2019/12/16/083000 JavaScript 分割代入な引数にデフォルト値を設定したい - かもメモ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835481,
+      "updated": 1615835481
+    },
+    {
+      "id": "604fb1401280f0000067cb4c",
+      "text": "  [- ここまで文献上げたらもう回答したようなものな気がするけどまあいいや]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835456,
+      "updated": 1615835521
+    },
+    {
+      "id": "60506dd10684840000613faf",
+      "text": "  あら！これは非常に嬉しい[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615883730,
+      "updated": 1615883730
+    },
+    {
+      "id": "605070c30684840000613fb3",
+      "text": "  \tちょっと読んだのですが、この書き方をするメリットが、1.後で書くときに簡易に出来ること、2.引数を渡す際の順番を考慮しなくてよくなること、ってことですか？",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615884484,
+      "updated": 1615884509
+    },
+    {
+      "id": "6051b23e1280f00000300c25",
+      "text": "  \t 1. ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966784,
+      "updated": 1615966962
+    },
+    {
+      "id": "6051b2f01280f00000300c34",
+      "text": "  \t  user側の利点は場合によっては薄くなるかもです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966962,
+      "updated": 1615966962
+    },
+    {
+      "id": "6051b25c1280f00000300c27",
+      "text": "   \t 　`test(0)`と書けば済むはずが、わざわざ`test({index: 0})`と書かなくてはいけなくなる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966813,
+      "updated": 1615966992
+    },
+    {
+      "id": "6051c6f21280f000004dfde8",
+      "text": "   \t 　[名前付き引数]のデメリットです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615972085,
+      "updated": 1615972094
+    },
+    {
+      "id": "6051b2681280f00000300c28",
+      "text": "  \t 　また開発者側からすると",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966826,
+      "updated": 1615966838
+    },
+    {
+      "id": "6051b2731280f00000300c29",
+      "text": "  \t 　 code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966838,
+      "updated": 1615966843
+    },
+    {
+      "id": "6051b2791280f00000300c2a",
+      "text": "  \t 　  function test({title, project}) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966843,
+      "updated": 1615966855
+    },
+    {
+      "id": "6051b2871280f00000300c2c",
+      "text": "  \t 　    //...",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966857,
+      "updated": 1615966859
+    },
+    {
+      "id": "6051b2851280f00000300c2b",
+      "text": "  \t 　  }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966855,
+      "updated": 1615966855
+    },
+    {
+      "id": "6051b28a1280f00000300c2d",
+      "text": "  \t 　と書くか、",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966860,
+      "updated": 1615966866
+    },
+    {
+      "id": "6051b2901280f00000300c2e",
+      "text": "  \t 　 code:js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966866,
+      "updated": 1615966869
+    },
+    {
+      "id": "6051b2931280f00000300c2f",
+      "text": "  \t 　  function text(params) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966869,
+      "updated": 1615966875
+    },
+    {
+      "id": "6051b2991280f00000300c30",
+      "text": "   \t 　   const {title, project} = params;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966875,
+      "updated": 1615966890
+    },
+    {
+      "id": "6051b2a11280f00000300c31",
+      "text": "   \t 　   //...",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966883,
+      "updated": 1615966890
+    },
+    {
+      "id": "6051b2a51280f00000300c32",
+      "text": "  \t 　  }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966888,
+      "updated": 1615966888
+    },
+    {
+      "id": "6051b2a91280f00000300c33",
+      "text": "  \t 　と書くかの違いなので、見方を変えるとそこまでのメリットでもないんですよね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966891,
+      "updated": 1615966927
+    },
+    {
+      "id": "6051b2411280f00000300c26",
+      "text": "  \t 2. これが一番大きいですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615966787,
+      "updated": 1615966997
+    },
+    {
+      "id": "6051b4b31280f00000300c3e",
+      "text": "  \t  ちなみに型付き言語なら、型である程度順番間違えを防げます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967413,
+      "updated": 1615967510
+    },
+    {
+      "id": "6051b5151280f00000300c3f",
+      "text": "  \t   e.g. `function test(value1: string, value2: number)`を`test(0, 'test')`と呼び出すとType Errorになる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967511,
+      "updated": 1615967598
+    },
+    {
+      "id": "6051b53e1280f00000300c40",
+      "text": "  \t  尤も引数がどれも同じ型だったりすると防ぎようがないので、あくまである程度ですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967552,
+      "updated": 1615967591
+    },
+    {
+      "id": "6051b5651280f00000300c41",
+      "text": "  \t   e.g. `function test(value1: string, value2: string)`は`test('foo', 'bar')`で呼び出しても`test('bar', 'foo')`で呼び出してもエラーにならない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967591,
+      "updated": 1615967637
+    },
+    {
+      "id": "605203bb0684840000399028",
+      "text": "  \t   なるほど[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615987644,
+      "updated": 1615987647
+    },
+    {
+      "id": "60506dd30684840000613fb0",
+      "text": "  \t例えば`function test(param)`ではなく`function test({param})`のような書き方は、あとでその引数に値を入れるときに便利になり、",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615883731,
+      "updated": 1615884636
+    },
+    {
+      "id": "60506fa40684840000613fb2",
+      "text": "  \tで、`const greet = ({ name, msg = 'Hi' } = {}) =>`みたいな形をとるのは、ここで言えば[- nameと]`msg`の値に`\"Hi\"`をデフォルトとして指定するための書き方ってことですか？",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615884196,
+      "updated": 1615966762
+    },
+    {
+      "id": "604fb15b1280f0000067cb4e",
+      "text": "\t\t\t\tといっても、これらは今の私みたいに初めたての段階だと、肌感覚であまりメリットを感じられない感じもしますがっ！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615835483,
+      "updated": 1615884689
+    },
+    {
+      "id": "6051b3271280f00000300c36",
+      "text": "\t\t\t そんな感じです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967018,
+      "updated": 1615967046
+    },
+    {
+      "id": "605203d60684840000399029",
+      "text": "\t\t\t \tあ、カンマ区切りは複数指定ではないわけですね[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615987671,
+      "updated": 1615987709
+    },
+    {
+      "id": "605071650684840000613fb6",
+      "text": "\t\tまた質問したかったことについてなんですが、[https://scrapbox.io/nota-techconf/ページタイトルに絵文字を入れて状態管理する 以前takkerさんが作ったUserScript]に`import`文が使われていたことと、それについての注意事項について以下に書かれていたので、`import`を使わない書き方のものにしてみたかったんですよね[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615884646,
+      "updated": 1615885131
+    },
+    {
+      "id": "605071ef0684840000613fb7",
+      "text": "\t\t[/programming-notes/UserScriptの危険性]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615884784,
+      "updated": 1615884784
+    },
+    {
+      "id": "60506dc80684840000613fad",
+      "text": "\t\t（takkerさんやyosiderさん達を疑っているわけじゃないですヨ）",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615883720,
+      "updated": 1615885192
+    },
+    {
+      "id": "60511bf8e5172d0000897023",
+      "text": "\t\t　大事な心がけと思います[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615928312,
+      "updated": 1615928358
+    },
+    {
+      "id": "6051b34c1280f00000300c38",
+      "text": "\t\tおっしゃるとおりです。本当はこの部分も`import`を使わないか、`/api/code/nota-techconf`からのimportに留めるべきです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967054,
+      "updated": 1615967139
+    },
+    {
+      "id": "6051b3751280f00000300c39",
+      "text": "\t\t　それをせず別のprojectからimportした理由は、単に同じコードを書くのが面倒くさかったからですごめんなさい……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967095,
+      "updated": 1615967161
+    },
+    {
+      "id": "60520408068484000039902a",
+      "text": "\t\t　\t全然大丈夫ですよ～！ｗ[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615987721,
+      "updated": 1615987738
+    },
+    {
+      "id": "6050736f0684840000613fb9",
+      "text": "\t\tで、コードのどの部分が使われているかを確認しながら書き換えることは勉強にもなるかな～と思って調べていたという感じです",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615885168,
+      "updated": 1615885250
+    },
+    {
+      "id": "605073c20684840000613fba",
+      "text": "\t\ttakkerさんに直接答えを聞いた方が早いのは間違いないのですが、まあちょっと勉強も兼ねてやりたいので、自分ではお手上げの状態になったらまた伺っても良いですか？",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615885250,
+      "updated": 1615885458
+    },
+    {
+      "id": "6051b3bb1280f00000300c3a",
+      "text": "\t\t いつでも大丈夫ですよ～[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967165,
+      "updated": 1615967175
+    },
+    {
+      "id": "6051b3c51280f00000300c3b",
+      "text": "\t\t といっても別にprogrammingは専業じゃないので、あまり教えられることはないと思います。それでもよろしければお答えします。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967175,
+      "updated": 1615967374
+    },
+    {
+      "id": "60520423068484000039902b",
+      "text": "\t\t \tありがたし[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615987747,
+      "updated": 1615987755
+    },
+    {
+      "id": "60511b0ce5172d0000897021",
+      "text": "\t\timportを使うこと自体が危ないというより、他人が編集できるUserScriptをimportすることが危ないので、importを使わないのではなく、import先のUserScriptも含めて個人プロジェクトにコピーして、個人プロジェクト内でimportするのがいいかなと思います[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615928077,
+      "updated": 1615928393
+    },
+    {
+      "id": "60517f7b0684840000b16403",
+      "text": " \t\t\tこれについてなんですが、import元になっているスクリプトがどういう関係になっているかが自分には複雑で理解できていなかったんですねｗ[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953787,
+      "updated": 1615954037
+    },
+    {
+      "id": "60517fdf0684840000b16405",
+      "text": " \t\t\tcode:script.js",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953887,
+      "updated": 1615953899
+    },
+    {
+      "id": "60517feb0684840000b16406",
+      "text": " \t\t\t import {press} from '/api/code/programming-notes/scrapbox-keyboard-emulation/script.js';",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953900,
+      "updated": 1615953900
+    },
+    {
+      "id": "60517fec0684840000b16407",
+      "text": "     import {goHeadLine} from '/api/code/takker/scrapbox-cursor-emulation/cursor.js';",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953900,
+      "updated": 1615953900
+    },
+    {
+      "id": "60517fec0684840000b16408",
+      "text": "     ",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953900,
+      "updated": 1615953900
+    },
+    {
+      "id": "60517fec0684840000b16409",
+      "text": "     let repeat = false;",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953900,
+      "updated": 1615953900
+    },
+    {
+      "id": "60517fec0684840000b1640a",
+      "text": "     // 以下略",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953900,
+      "updated": 1615953944
+    },
+    {
+      "id": "60517fc30684840000b16404",
+      "text": " \t\t\tここの1、2行目でimportされてるコードが、どういうもの・どういう意図でimportされてるのかな～というのを理解したかった",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953859,
+      "updated": 1615954151
+    },
+    {
+      "id": "6051c748e5172d000005df48",
+      "text": " \t\t\t　[/icons/なるほど.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615972169,
+      "updated": 1615972181
+    },
+    {
+      "id": "6051b4201280f00000300c3c",
+      "text": " \t\t\t `import`文に説明つけたほうが良いかなあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967266,
+      "updated": 1615967282
+    },
+    {
+      "id": "6051b42f1280f00000300c3d",
+      "text": " \t\t\t でも[/programming-notes/scrapbox-keyboard-emulation]と[/takker/scrapbox-cursor-emulation]に飛べばなんのコードか分かるので、説明をつける必要はあまりなさそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615967282,
+      "updated": 1615967345
+    },
+    {
+      "id": "60511bc7e5172d0000897022",
+      "text": "\t\t\t（勝手にアドバイスしてしまいすみません）",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1615928264,
+      "updated": 1615928279
+    },
+    {
+      "id": "60517f3c0684840000b16400",
+      "text": " \t\t\tや！全然ありがたいです！[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615953725,
+      "updated": 1615953741
+    },
+    {
+      "id": "605073490684840000613fb8",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615885129,
+      "updated": 1615885129
+    }
+  ]
+}

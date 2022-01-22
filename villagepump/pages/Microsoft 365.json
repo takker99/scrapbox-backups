@@ -1,0 +1,92 @@
+{
+  "id": "5ff9827f3f0fe6001cde72f1",
+  "title": "Microsoft 365",
+  "created": 1610187393,
+  "updated": 1611725631,
+  "lines": [
+    {
+      "id": "5ff9827f3f0fe6001cde72f1",
+      "text": "Microsoft 365",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610187393,
+      "updated": 1610187393
+    },
+    {
+      "id": "5ff9828a79d3a90000cc11eb",
+      "text": " 旧Office365(O365)",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610187393,
+      "updated": 1610187403
+    },
+    {
+      "id": "5ff9829579d3a90000cc11ed",
+      "text": " MicrosoftのSaaSオフィススイート",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610187404,
+      "updated": 1610187417
+    },
+    {
+      "id": "5ff982a779d3a90000cc11ee",
+      "text": " \t[Teams]: 劣化Slack",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610187422,
+      "updated": 1610195003
+    },
+    {
+      "id": "5ff9a03c1280f000006bf92d",
+      "text": " \t 劣化Slackなんて[- 草生えるから]言わないでさしあげろ。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610195005,
+      "updated": 1610195054
+    },
+    {
+      "id": "6010fb1f0553320000d5b90e",
+      "text": " \t 　とはいえ、Office製品を使っている環境ならかなり出来る子",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611725600,
+      "updated": 1611725616
+    },
+    {
+      "id": "5ff982ab79d3a90000cc11ef",
+      "text": " \t[OneNote]: 劣化Scrapbox",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610187427,
+      "updated": 1611725421
+    },
+    {
+      "id": "6010fb310553320000d5b90f",
+      "text": " \t　これはほんとそう。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611725618,
+      "updated": 1611725631
+    },
+    {
+      "id": "6010faf80553320000d5b90b",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611725561,
+      "updated": 1611725569
+    },
+    {
+      "id": "6010fb010553320000d5b90c",
+      "text": "HotmailのユーザだけあればExcelやWord、パワポが使えるようになったのは結構便利。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611725569,
+      "updated": 1611725590
+    },
+    {
+      "id": "6010fb160553320000d5b90d",
+      "text": "　Googleのがあるけど。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611725591,
+      "updated": 1611725598
+    },
+    {
+      "id": "6010fa960553320000d5b90a",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611725463,
+      "updated": 1611725463
+    }
+  ]
+}

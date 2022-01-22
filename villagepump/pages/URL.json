@@ -1,0 +1,29 @@
+{
+  "id": "5ffd508f52779c004130c6c3",
+  "title": "URL",
+  "created": 1610436756,
+  "updated": 1610436766,
+  "lines": [
+    {
+      "id": "5ffd508f52779c004130c6c3",
+      "text": "URL",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610436756,
+      "updated": 1610436756
+    },
+    {
+      "id": "5ffd5093d438750000563f71",
+      "text": "Uniform Resource Locator",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610436756,
+      "updated": 1610436766
+    },
+    {
+      "id": "5ffd5094d438750000563f72",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610436757,
+      "updated": 1610436757
+    }
+  ]
+}

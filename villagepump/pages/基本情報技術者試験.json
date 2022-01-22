@@ -1,0 +1,43 @@
+{
+  "id": "6002a5c0dc09dc0023efd081",
+  "title": "基本情報技術者試験",
+  "created": 1610786245,
+  "updated": 1614162330,
+  "lines": [
+    {
+      "id": "6002a5c0dc09dc0023efd081",
+      "text": "基本情報技術者試験",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610786245,
+      "updated": 1610786245
+    },
+    {
+      "id": "6036299075892100003ab956",
+      "text": "受験料は5700円",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1614162320,
+      "updated": 1614162330
+    },
+    {
+      "id": "6002a5c6d438750000b8bc7e",
+      "text": "[https://fe-siken.com 基本情報技術者試験.com]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610786247,
+      "updated": 1610787602
+    },
+    {
+      "id": "6002a5c7d438750000b8bc7f",
+      "text": "[https://www.jitec.ipa.go.jp/1_11seido/cbt_sg_fe.html IPA 独立行政法人 情報処理推進機構：情報処理技術者試験：情報処理技術者試験制度：情報セキュリティマネジメント試験、基本情報技術者試験（CBT方式）]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610786247,
+      "updated": 1610787572
+    },
+    {
+      "id": "6002a5eed438750000b8bc80",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610786287,
+      "updated": 1610786287
+    }
+  ]
+}

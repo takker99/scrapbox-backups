@@ -1,0 +1,50 @@
+{
+  "id": "6016a186b04298001f087b69",
+  "title": "重ねるハザードマップ",
+  "created": 1612095881,
+  "updated": 1612103429,
+  "lines": [
+    {
+      "id": "6016a186b04298001f087b69",
+      "text": "重ねるハザードマップ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612095881,
+      "updated": 1612095883
+    },
+    {
+      "id": "6016a18ad438750000337146",
+      "text": "https://disaportal.gsi.go.jp/maps/",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612095883,
+      "updated": 1612095883
+    },
+    {
+      "id": "6016a1e2d438750000337148",
+      "text": "例:[https://disaportal.gsi.go.jp/maps/?ll=35.68205,139.799051&z=14&base=pale&ls=seamless%7Ctameike_raster%2C0.8%7Cflood_l2_kaokutoukai_kagan%2C0.8%7Cflood_l2_kaokutoukai_hanran%2C0.8%7Cflood_l2_keizoku%2C0.8%7Cflood_list%2C0.8%7Cflood_l1%2C0.8%7Cflood_list_l2%2C0.75%7Cdosha_kiken_nadare%2C0.8%7Cdosha_kiken_jisuberi%2C0.8%7Cdosha_kiken_kyukeisha%2C0.8%7Cdosha_kiken_dosekiryu%2C0.8%7Cdosha_keikai_jisuberi%2C0.8%7Cdosha_keikai_dosekiryu%2C0.8%7Cdosha_keikai_kyukeisha%2C0.8%7Ctakashio_sinsuisin_raster%2C0.8%7Cyoboukiseikukan_multi%2C0.8%7Cjizenkisei_00_multi%2C0.8%7Ckansui_multi%2C0.8%7Ctsunamishinsui_raster%2C0.8%7Cdisaster1%7Cdisaster2%7Cdisaster3%7Cdisaster5&disp=010000011111111111110000&vs=c1j0l0u0 清澄白河駅周辺]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612095971,
+      "updated": 1612095980
+    },
+    {
+      "id": "6016beec1280f0000090f8e7",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612103405,
+      "updated": 1612103407
+    },
+    {
+      "id": "6016bef11280f0000090f8e9",
+      "text": "[国土交通省]のデジタル地図は相変わらずすごいなあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612103410,
+      "updated": 1612103429
+    },
+    {
+      "id": "6016beee1280f0000090f8e8",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612103406,
+      "updated": 1612103406
+    }
+  ]
+}

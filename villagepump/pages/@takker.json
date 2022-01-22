@@ -1,0 +1,1282 @@
+{
+  "id": "5fd4bd5322c02c001f81c600",
+  "title": "@takker",
+  "created": 1607777622,
+  "updated": 1615772411,
+  "lines": [
+    {
+      "id": "5fd4bd5322c02c001f81c600",
+      "text": "@takker",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607777622,
+      "updated": 1615465031
+    },
+    {
+      "id": "602fd0fd4bb2e200002482ee",
+      "text": "[/takker/ScrapboxっぽいことをするDenops plugin#602e925a1280f00000d29830]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1613746242,
+      "updated": 1613746243
+    },
+    {
+      "id": "602fd0ff4bb2e200002482f0",
+      "text": " [- [Hoisting]ですね、JavaScriptでは変数や]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1613746244,
+      "updated": 1613746360
+    },
+    {
+      "id": "602fd1754bb2e200002482f1",
+      "text": " また嘘を書きそうになった[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1613746362,
+      "updated": 1613746366
+    },
+    {
+      "id": "602fd19a4bb2e200002482f4",
+      "text": "  [参考 https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Classes]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1613746399,
+      "updated": 1613746404
+    },
+    {
+      "id": "603001c21280f00000d0d872",
+      "text": "   こんな機能があるのか[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613758914,
+      "updated": 1613758924
+    },
+    {
+      "id": "603001cc1280f00000d0d873",
+      "text": "   ありがとうございます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613758924,
+      "updated": 1613758927
+    },
+    {
+      "id": "602fd1794bb2e200002482f2",
+      "text": "  多分型宣言だから通ってるんだと思う",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1613746366,
+      "updated": 1613746396
+    },
+    {
+      "id": "602fd1e7e5172d0000823520",
+      "text": " [新しい@メッセージは上の方に書くと便利そう？]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613746662,
+      "updated": 1613746815
+    },
+    {
+      "id": "604b7db34bb2e2000023a260",
+      "text": "[/takker/ScrapboxっぽいことをするDenops plugin]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1615560078,
+      "updated": 1615560087
+    },
+    {
+      "id": "604b7dbd4bb2e2000023a261",
+      "text": " まともに動くやつ（と思う）投げました",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1615560088,
+      "updated": 1615560098
+    },
+    {
+      "id": "604b7dc84bb2e2000023a262",
+      "text": "  [/icons/GitHub.icon][https://github.com/kuuote/dps-scrap GitHub - kuuote/dps-scrap]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1615560098,
+      "updated": 1615565358
+    },
+    {
+      "id": "604b92171280f0000080c41a",
+      "text": "  [/icons/わーい.icon*2][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615565333,
+      "updated": 1615565343
+    },
+    {
+      "id": "602fd0fd4bb2e200002482ef",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1613746242,
+      "updated": 1615464259
+    },
+    {
+      "id": "6049d82b06848400006a950a",
+      "text": "昨日Tech Confで議論されてたこの部分、なるほど便利だな～と思ったのですが、[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615452204,
+      "updated": 1615452387
+    },
+    {
+      "id": "6049d84a06848400006a950c",
+      "text": "\t[/nota-techconf/ページタイトルに絵文字を入れて状態管理する]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615452235,
+      "updated": 1615464239
+    },
+    {
+      "id": "6049d86b06848400006a950d",
+      "text": " \ttakkerさんが貼ってた[このscript https://scrapbox.io/api/code/nota-techconf/ページタイトルに絵文字を入れて状態管理する/script.js]ってどういった内容のものなんでしょうか？",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615452267,
+      "updated": 1615464261
+    },
+    {
+      "id": "6049d89f06848400006a950f",
+      "text": "  \t便利そうなので使わせていただきたいのですが、自分だといまいち使い方まで含めて良く分からなくて…スミマセン",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615452319,
+      "updated": 1615452457
+    },
+    {
+      "id": "604a0add1280f0000011913d",
+      "text": "  \t書きました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615465180,
+      "updated": 1615465180
+    },
+    {
+      "id": "604a0add1280f0000011913e",
+      "text": "   \t[/nota-techconf/ページタイトルに絵文字を入れて状態管理する#604a0a961280f000002f6d42]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615465180,
+      "updated": 1615465180
+    },
+    {
+      "id": "6049de390684840000300f41",
+      "text": "  \t解説はお時間のある時で大丈夫ですので！",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615453754,
+      "updated": 1615464022
+    },
+    {
+      "id": "604a06201280f00000401f8f",
+      "text": " ありがとうございます[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615463968,
+      "updated": 1615463977
+    },
+    {
+      "id": "604a060c1280f00000401f8e",
+      "text": "  即席コードなので大したものじゃありませんよｗ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615463947,
+      "updated": 1615463996
+    },
+    {
+      "id": "604a06021280f00000401f8d",
+      "text": "  2021-03-11 21:11:40 今初めて動かしたらバグだらけでした……お恥ずかしい……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615463937,
+      "updated": 1615464716
+    },
+    {
+      "id": "604a162506848400007d941e",
+      "text": "  動きました！ありがとうございます～[imo.icon]",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615468070,
+      "updated": 1615468097
+    },
+    {
+      "id": "604a16831280f0000091007a",
+      "text": "  [/icons2/Your welcome!.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615468163,
+      "updated": 1615468167
+    },
+    {
+      "id": "6049d82b06848400006a950b",
+      "text": "",
+      "userId": "5ad57975d54cd50014068484",
+      "created": 1615452204,
+      "updated": 1615452204
+    },
+    {
+      "id": "6002913b4bb2e20000cf2097",
+      "text": "前に自信満々に会話してたこと、嘘でしたごめんなさい[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610780903,
+      "updated": 1610780927
+    },
+    {
+      "id": "600291514bb2e20000cf2098",
+      "text": " [2020/12/17#6001b6ce4bb2e20000844555]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610780925,
+      "updated": 1610780925
+    },
+    {
+      "id": "600290ff1280f0000009dff1",
+      "text": " もう確認してました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610780928,
+      "updated": 1610780939
+    },
+    {
+      "id": "600291041280f0000009dff2",
+      "text": "  大丈夫ですよー",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610780932,
+      "updated": 1610780942
+    },
+    {
+      "id": "5fe34688d438750000691467",
+      "text": "あなたはぐっすり眠れる、とてもぐっすり眠れる....(暗示)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608730249,
+      "updated": 1608730272
+    },
+    {
+      "id": "600291bad438750000ee52d3",
+      "text": " 色温度を変えられる照明を使いこなすのもアリ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610781115,
+      "updated": 1610781138
+    },
+    {
+      "id": "5fd4bd55d438750000321758",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607777622,
+      "updated": 1607777622
+    },
+    {
+      "id": "5fd4bd55d438750000321759",
+      "text": "寝る時､豆球つけますか?真っ暗にしますか?",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607777622,
+      "updated": 1607777651
+    },
+    {
+      "id": "5fd4be434bb2e200006303b8",
+      "text": " 真っ暗だと[心理的安全性]が無くて眠れない[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607777788,
+      "updated": 1607820279
+    },
+    {
+      "id": "5fd563e8055332000048516c",
+      "text": " 　部屋と部屋主の二人チーム・・？！",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1607820264,
+      "updated": 1607820274
+    },
+    {
+      "id": "5fd56e3e4bb2e2000005789a",
+      "text": " 　想像上のおばけもおるで",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607822837,
+      "updated": 1607822891
+    },
+    {
+      "id": "5fd56e4a4bb2e2000005789b",
+      "text": " 　 ホラー系の情報を仕入れると眠れなくなるあれを引きずっている",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607822849,
+      "updated": 1607822874
+    },
+    {
+      "id": "5fd4bea0e5172d0000f552b6",
+      "text": " どういうページなんだこれは...？ちなみに真っ暗派[yosider.icon][dnin.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607777951,
+      "updated": 1613112360
+    },
+    {
+      "id": "5fd552991280f00000b74f3b",
+      "text": " 本当にどういうページなんだこれは[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607815834,
+      "updated": 1607815844
+    },
+    {
+      "id": "5fd552a31280f00000b74f3c",
+      "text": "　直接光線が目に当たらない限り寝れます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607815844,
+      "updated": 1607815885
+    },
+    {
+      "id": "5fd4bd57d43875000032175a",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607777624,
+      "updated": 1607777624
+    },
+    {
+      "id": "5fe96ea51280f000009219f0",
+      "text": "[Javascriptはどうやって学んだ？]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133733,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f2",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f3",
+      "text": "勝手にtakkerにおすすめしたい本コーナー",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f4",
+      "text": "　[ヨーロッパのドボクを見に行こう | 八馬 智 |本 | 通販 | Amazon https://www.amazon.co.jp/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E3%83%89%E3%83%9C%E3%82%AF%E3%82%92%E8%A6%8B%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86-%E5%85%AB%E9%A6%AC-%E6%99%BA/dp/4426119030]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f5",
+      "text": "　　もともと橋関係のヒトが書いてる､マニアックなガイドブック",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f6",
+      "text": "　[サイクルペディア 自転車事典 (GAIA BOOKS) | マイケル・エンバッハー, 一杉由美 |本 | 通販 | Amazon https://www.amazon.co.jp/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2-%E8%87%AA%E8%BB%A2%E8%BB%8A%E4%BA%8B%E5%85%B8-GAIA-BOOKS-%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%90%E3%83%83%E3%83%8F%E3%83%BC/dp/4882828227]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f7",
+      "text": "  見てるだけで楽しい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea61280f000009219f8",
+      "text": " ありがとうございます！[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133735,
+      "updated": 1609133735
+    },
+    {
+      "id": "5fe96ea51280f000009219f1",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609133733,
+      "updated": 1609133733
+    },
+    {
+      "id": "5fd8a8c5d438750000edd00c",
+      "text": "[道路標識]の類に萌えたりしますか？",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608034501,
+      "updated": 1608034547
+    },
+    {
+      "id": "5fd8a8d5d438750000edd00d",
+      "text": " 萌えはしませんが好きです",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608034517,
+      "updated": 1608037577
+    },
+    {
+      "id": "5fd8b4ad1280f00000ba084d",
+      "text": " [山さ行がねが]から影響を受けています",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608037549,
+      "updated": 1608037567
+    },
+    {
+      "id": "5fd8b4a31280f00000ba084c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608037539,
+      "updated": 1608121733
+    },
+    {
+      "id": "5fd9fd84d438750000a63468",
+      "text": "[/takker/ボイスレコーダー (Android app)]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608121733,
+      "updated": 1608121735
+    },
+    {
+      "id": "5fd9fd87d438750000a63469",
+      "text": "　[これ　https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder]はどうでしょうか？",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608121736,
+      "updated": 1608121769
+    },
+    {
+      "id": "5fd9fe12d438750000a6346a",
+      "text": " 紹介ありがとうございます[takker.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608121875,
+      "updated": 1608130441
+    },
+    {
+      "id": "5fda1f881280f000003778d6",
+      "text": " 　今度録音するときに試してみます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608130441,
+      "updated": 1608130453
+    },
+    {
+      "id": "5fda1f811280f000003778d5",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608130433,
+      "updated": 1608130433
+    },
+    {
+      "id": "5fdca285ec4fce0000da5edb",
+      "text": "[/takker/Gyazoをもう一度使ってみる]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608295051,
+      "updated": 1608295051
+    },
+    {
+      "id": "5fdca286ec4fce0000da5edd",
+      "text": " Windows 10なら`Win+Shift+S`で矩形領域のスクリーンショットを取得できます",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608295052,
+      "updated": 1608295076
+    },
+    {
+      "id": "5fdca81ae5172d0000399a36",
+      "text": " \t[切り取り&スケッチ]という最初から入っているアプリ",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608296473,
+      "updated": 1608296525
+    },
+    {
+      "id": "5fdca827e5172d0000399a37",
+      "text": " \t設定すればPrintScreenキーでも起動できる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1608296486,
+      "updated": 1608296498
+    },
+    {
+      "id": "5fe3323d1280f000005d53d3",
+      "text": " \tしらなかった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608725053,
+      "updated": 1608725059
+    },
+    {
+      "id": "5fdca29fec4fce0000da5ede",
+      "text": " クリップボードにコピーされるので、そのままScrapboxに貼り付けもできて便利",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608295076,
+      "updated": 1608295094
+    },
+    {
+      "id": "5fdca2c8ec4fce0000da5edf",
+      "text": " もっとも、GIF動画は撮れませんが...",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608295117,
+      "updated": 1608295125
+    },
+    {
+      "id": "5fe333f71280f0000037ff51",
+      "text": "  GIFは[Peek]使っているので気にしていないです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608725495,
+      "updated": 1608725513
+    },
+    {
+      "id": "5fe334081280f0000037ff52",
+      "text": "  Gyazo GIFは7sしか撮影できないので使っていない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608725513,
+      "updated": 1608725534
+    },
+    {
+      "id": "5fdca285ec4fce0000da5edc",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608295051,
+      "updated": 1608295051
+    },
+    {
+      "id": "5fe33084ec4fce00008370a5",
+      "text": "[/takker/(構想)HTMLをscrapbox記法に変換するUserScript]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608724623,
+      "updated": 1608724638
+    },
+    {
+      "id": "5fe33086ec4fce00008370a7",
+      "text": " https://github.com/pastak/scrapbox-converter/tree/master/packages/html2sb",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608724625,
+      "updated": 1608724625
+    },
+    {
+      "id": "5fe33088ec4fce00008370a8",
+      "text": " あたりが参考になるかもしれません",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608724627,
+      "updated": 1608724632
+    },
+    {
+      "id": "5fe3321d1280f000005d53d0",
+      "text": " Thanksです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608725022,
+      "updated": 1608725027
+    },
+    {
+      "id": "5fe332231280f000005d53d1",
+      "text": " 　parserはこっちみたい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608725028,
+      "updated": 1608725043
+    },
+    {
+      "id": "5fe332271280f000005d53d2",
+      "text": " 　https://github.com/pastak/scrapbox-converter/tree/master/packages/html2sb-compiler",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608725031,
+      "updated": 1608725032
+    },
+    {
+      "id": "5fe33084ec4fce00008370a6",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608724623,
+      "updated": 1608724623
+    },
+    {
+      "id": "5fe43be2ec4fce00007bc09d",
+      "text": "[/takker/Tree Style Tab Mouse Wheel#5fe3cdb01280f000004330fa]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608793068,
+      "updated": 1608793077
+    },
+    {
+      "id": "5fe43bf6ec4fce00007bc09e",
+      "text": " ここらへんの挙動は設定画面から変えられますよ！",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608793088,
+      "updated": 1608793114
+    },
+    {
+      "id": "5fe51f701280f00000552dc6",
+      "text": "  Thanks![takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608851313,
+      "updated": 1608851317
+    },
+    {
+      "id": "5fe43bddec4fce00007bc09a",
+      "text": " [https://gyazo.com/0b2f68ea0c11e74cc149cad43c41ab36]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608793063,
+      "updated": 1608793077
+    },
+    {
+      "id": "5fe7f9894bb2e200003ef817",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609038194,
+      "updated": 1609038195
+    },
+    {
+      "id": "5fe7f98a4bb2e200003ef818",
+      "text": "[/takker/rustcとrustup#5fe7e8771280f00000399096]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609038195,
+      "updated": 1609038196
+    },
+    {
+      "id": "5fe7f98b4bb2e200003ef819",
+      "text": " rustcはコンパイラ本体で、rustupはそのコンパイラ等をインストールするためのツールですね",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609038196,
+      "updated": 1609038222
+    },
+    {
+      "id": "5fe7f9a54bb2e200003ef81a",
+      "text": "  rustupの方は他の言語でenv系ツールを使ったことがあるならそれを想像してもらえると",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1609038222,
+      "updated": 1609038247
+    },
+    {
+      "id": "5fe82c271280f00000b50e15",
+      "text": " [/icons/なるほど.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609051176,
+      "updated": 1609051185
+    },
+    {
+      "id": "5fe82c2f1280f00000b50e16",
+      "text": "  rustupはcompilerやpackage managerその他諸々を全部整えてくれるtool、ということか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609051185,
+      "updated": 1609051269
+    },
+    {
+      "id": "5fe82c6b1280f00000b50e17",
+      "text": "  他の言語だとどれが該当するだろうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609051243,
+      "updated": 1609051272
+    },
+    {
+      "id": "5fe82c881280f00000b50e18",
+      "text": "  　必要なtoolを全部入れてくれるという点で、TeXLiveが一番近いかな?",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609051272,
+      "updated": 1609051306
+    },
+    {
+      "id": "5fe43bddec4fce00007bc09b",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1608793063,
+      "updated": 1608793063
+    },
+    {
+      "id": "6015834b4bb2e2000062cc60",
+      "text": "[構ってちゃん#60157c821280f00000d80cf0]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022477,
+      "updated": 1612022480
+    },
+    {
+      "id": "601583504bb2e2000062cc61",
+      "text": " こういうゴールが遠い、もしくはとても複雑な物を作るコツはいくつかあります[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022481,
+      "updated": 1612022537
+    },
+    {
+      "id": "6015873b4bb2e200001045da",
+      "text": "  あくまで自分のやり方なので参考までに",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023485,
+      "updated": 1612023491
+    },
+    {
+      "id": "601586de1280f00000d80d06",
+      "text": "  　参考にします[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023530,
+      "updated": 1612023533
+    },
+    {
+      "id": "6015836f4bb2e2000062cc63",
+      "text": "  かなり近い所にゴールラインを設けてそれを何度も更新していく",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022512,
+      "updated": 1612022529
+    },
+    {
+      "id": "601583914bb2e2000062cc65",
+      "text": "   これの手前にVimで実装されたパーサー、Goで書かれた静的サイトジェネレーター、[誰でも気軽にすぐ編集できるWeb]に書いてあるshokaiさんのツイートそのままのシステムを作って捨てています",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022547,
+      "updated": 1612022613
+    },
+    {
+      "id": "601584f61280f000007c1d2a",
+      "text": "   [prototype]を小さく作って捨てるのがやはり一番ですよね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023043,
+      "updated": 1612023072
+    },
+    {
+      "id": "6015860a4bb2e200001045d6",
+      "text": "    [rapid prototyping]は自分が見た手法の中でもかなり影響を受けてますね[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023179,
+      "updated": 1612023218
+    },
+    {
+      "id": "601586364bb2e200001045d7",
+      "text": "    作らないと何もわからないし何も始まらないので捨てるつもりで色々作ってます",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023223,
+      "updated": 1612023244
+    },
+    {
+      "id": "601584684bb2e2000062cc68",
+      "text": "  [常に動く物を維持する]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022761,
+      "updated": 1612678496
+    },
+    {
+      "id": "601584704bb2e2000062cc69",
+      "text": "   これはRui Ueyamaさんが言っていた",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022770,
+      "updated": 1612022776
+    },
+    {
+      "id": "6015847f4bb2e2000062cc6a",
+      "text": "   意欲を維持するためにはこれが一番だそう",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022784,
+      "updated": 1612022792
+    },
+    {
+      "id": "601585054bb2e200001045d1",
+      "text": "   作業が遅いのでどうしても破壊しないといけないことがあり、安定版のスナップショット撮って使ったりしてました",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022918,
+      "updated": 1612022942
+    },
+    {
+      "id": "601586791280f00000d80d01",
+      "text": "   ここが自分の弱いとこかも[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023430,
+      "updated": 1612023440
+    },
+    {
+      "id": "601586831280f00000d80d02",
+      "text": "   　本番環境をそのまま作り変えるので、しばらくぶっ壊れて使えない状態が続く",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023440,
+      "updated": 1612023466
+    },
+    {
+      "id": "6015869e1280f00000d80d04",
+      "text": "   　 [/takker/takker-scheduler-2]の修正時も、本番環境と開発環境を分けずにやったため、しばらく生活リズムがめちゃくちゃになった。[- 今もメチャクチャだけど]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023466,
+      "updated": 1612023528
+    },
+    {
+      "id": "601583804bb2e2000062cc64",
+      "text": "  [細かく問題を分解する]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022529,
+      "updated": 1612678505
+    },
+    {
+      "id": "6015842c4bb2e2000062cc66",
+      "text": "   一気に作ろうとすると絶対に頓挫する",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022701,
+      "updated": 1612022807
+    },
+    {
+      "id": "601584964bb2e2000062cc6b",
+      "text": "    考えることが多すぎて爆発する",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022807,
+      "updated": 1612022814
+    },
+    {
+      "id": "6015849d4bb2e2000062cc6c",
+      "text": "   例えば選択処理を作るとしたら、マウスクリックの処理、範囲の保持、描画と色々考えることがありますが、これを一気に考えるのは[特殊能力者]でもない限り難しいです",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022814,
+      "updated": 1612023060
+    },
+    {
+      "id": "601585ac4bb2e200001045d2",
+      "text": "    まずは後先をあまり考えずにマウスクリック処理だけを作ります",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023085,
+      "updated": 1612023096
+    },
+    {
+      "id": "601585b94bb2e200001045d3",
+      "text": "     半分くらい作り終わったら後先も意識している、やっぱ出戻りは痛いからね",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023098,
+      "updated": 1612023122
+    },
+    {
+      "id": "601f9e0be5172d00001a569e",
+      "text": "     結局後先を考え始めて立ち止まってしまうことが多い[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612684810,
+      "updated": 1612684822
+    },
+    {
+      "id": "601585d54bb2e200001045d4",
+      "text": "    これが終わったらコミットして範囲を保持する部分だけを作る",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023126,
+      "updated": 1612023158
+    },
+    {
+      "id": "601585fb4bb2e200001045d5",
+      "text": "     描画は全くせずにconsole.logするとかそんなレベル",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023165,
+      "updated": 1612023176
+    },
+    {
+      "id": "601586544bb2e200001045d8",
+      "text": "    これが完成して初めて描画に手を出す",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023253,
+      "updated": 1612023262
+    },
+    {
+      "id": "6015865d4bb2e200001045d9",
+      "text": "     まあ実際の所集中できないので並行して考えていたりはするけど",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023262,
+      "updated": 1612023284
+    },
+    {
+      "id": "601588024bb2e200001045db",
+      "text": " 便利そうなので自分のProjectに転記させてもらいました",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023683,
+      "updated": 1612023703
+    },
+    {
+      "id": "601588164bb2e200001045dc",
+      "text": "  [takker.icon]さんの発言部分は問題あれば消します",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023704,
+      "updated": 1612023712
+    },
+    {
+      "id": "601587c71280f00000d80d0a",
+      "text": "  まるごと写しちゃっていいですよー",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023764,
+      "updated": 1612023776
+    },
+    {
+      "id": "6015887c4bb2e200001045dd",
+      "text": "   どうもです",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023805,
+      "updated": 1612023807
+    },
+    {
+      "id": "601587f71280f00000d80d0b",
+      "text": "  `/villagepump/takker`は`/takker/takker`のほうがいいかな？[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023812,
+      "updated": 1612023872
+    },
+    {
+      "id": "6015881b1280f00000d80d0d",
+      "text": "  　井戸端から転記したから、[/villagepump]のままでもいいかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612023847,
+      "updated": 1612023870
+    },
+    {
+      "id": "601588c24bb2e200001045de",
+      "text": "  　直しました[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612023875,
+      "updated": 1612023878
+    },
+    {
+      "id": "601583534bb2e2000062cc62",
+      "text": "   [/icons/速度.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1612022484,
+      "updated": 1612023944
+    },
+    {
+      "id": "601f7cf879d3a90000cea2ba",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612676346,
+      "updated": 1612676346
+    },
+    {
+      "id": "601f7cf979d3a90000cea2bc",
+      "text": " takkerさんのprivate projectについて\"memex\"ってなんですか？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612676347,
+      "updated": 1612676388
+    },
+    {
+      "id": "601f7d0e79d3a90000cea2bd",
+      "text": " \tめめっくす？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612676368,
+      "updated": 1612676393
+    },
+    {
+      "id": "601f7d1879d3a90000cea2be",
+      "text": " \t[Memex - Wikipedia https://ja.wikipedia.org/wiki/Memex]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612676378,
+      "updated": 1612676391
+    },
+    {
+      "id": "601f7cfeec4fce0000e8f388",
+      "text": " \tこれじゃないですかね?",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1612676392,
+      "updated": 1612676406
+    },
+    {
+      "id": "601f7cf879d3a90000cea2bb",
+      "text": "\t\t\tおお、ありがとうございます",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612676346,
+      "updated": 1612676418
+    },
+    {
+      "id": "601ff5c91280f00000aabdd9",
+      "text": "\t\t丁度scrapboxを使い始める前に[memex]について調べていて、scrapboxと相性がよさそうな名前だったのでそうしました。[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612707274,
+      "updated": 1612707339
+    },
+    {
+      "id": "601ff6001280f00000aabdda",
+      "text": "\t\t ただ結果的に[/takker]の方が[memex]と化した",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612707329,
+      "updated": 1612707370
+    },
+    {
+      "id": "601f7d3979d3a90000cea2bf",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1612676411,
+      "updated": 1612676411
+    },
+    {
+      "id": "6023b095e5172d0000fc63ff",
+      "text": "\t[/takker/tritask-scrapbox-beta]ってどんな感じなのかスクショとか見てみたいです[yosider.icon][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612951697,
+      "updated": 1613031895
+    },
+    {
+      "id": "6023b09ee5172d0000fc6400",
+      "text": "\t\t[scrapboxでタスク管理する]方法を考えています",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612951707,
+      "updated": 1612951776
+    },
+    {
+      "id": "6023b09fe5172d0000fc6401",
+      "text": "  お、いいですよ〜[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1612951708,
+      "updated": 1612973710
+    },
+    {
+      "id": "6024068d1280f000000bab47",
+      "text": "   どうやって撮ろうかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973710,
+      "updated": 1612973723
+    },
+    {
+      "id": "6024069b1280f000000bab48",
+      "text": "    タスクの開始/終了",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973724,
+      "updated": 1612973744
+    },
+    {
+      "id": "602406c01280f000000bab4a",
+      "text": "    [/icons/done.icon]新しいタスクページの作成",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973760,
+      "updated": 1613119627
+    },
+    {
+      "id": "602406cf1280f000000bab4b",
+      "text": "    [/icons/done.icon]タスクの並び替え",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973775,
+      "updated": 1613119631
+    },
+    {
+      "id": "602406d31280f000000bab4c",
+      "text": "    別の日付への移動",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973780,
+      "updated": 1612973790
+    },
+    {
+      "id": "602406b01280f000000bab49",
+      "text": "   とりあえず適当なダミーデータを用意する必要があるか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973744,
+      "updated": 1612973793
+    },
+    {
+      "id": "6024d6c11280f0000055cdd2",
+      "text": "  ところで[/takker/takker-scheduler-2]ではなく[/takker/tritask-scrapbox-beta]のほうがいいですか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613027010,
+      "updated": 1613027091
+    },
+    {
+      "id": "6024d7091280f0000055cdd3",
+      "text": "   [/takker/takker-scheduler-2]が現行ver.です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613027081,
+      "updated": 1613027113
+    },
+    {
+      "id": "6024e475e5172d00006bc5ca",
+      "text": "   あ、じゃあ[/takker/takker-scheduler-2]のほうでお願いします[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613030518,
+      "updated": 1613030552
+    },
+    {
+      "id": "6024f0231280f00000d925e5",
+      "text": "   ういです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613033508,
+      "updated": 1613033515
+    },
+    {
+      "id": "602b57ef1280f00000c349c6",
+      "text": "  新しく作り直そうかと考えてます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613453295,
+      "updated": 1613453316
+    },
+    {
+      "id": "602b58061280f00000c349c7",
+      "text": "   記録はできるのですが、予定の組立ができなくて不満なのです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613453318,
+      "updated": 1613453359
+    },
+    {
+      "id": "602b58371280f00000c349c8",
+      "text": "   [sta.icon]さんの[/sta/scrapbox-dailytasklist]を取り入れたい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613453367,
+      "updated": 1613618129
+    },
+    {
+      "id": "604ebaa51280f00000077a07",
+      "text": "   2021-03-15 10:38:47 できたー！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615772325,
+      "updated": 1615772330
+    },
+    {
+      "id": "604ebaa91280f00000077a08",
+      "text": "   　[/takker/takker-scheduler-3]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615772330,
+      "updated": 1615772330
+    },
+    {
+      "id": "604ebaae1280f00000077a09",
+      "text": "   　運用が安定してきたらスクショを撮ろうと思います。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615772334,
+      "updated": 1615772411
+    },
+    {
+      "id": "602406821280f000000bab46",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1612973698,
+      "updated": 1612973698
+    },
+    {
+      "id": "6026c9bce5172d0000a03576",
+      "text": "[/takker/線型代数の解説をscrapboxに書きたい]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613154748,
+      "updated": 1613154749
+    },
+    {
+      "id": "6026c9bde5172d0000a03577",
+      "text": "\t[参加可能なPublic Project]でやってほしいかもしれない[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613154750,
+      "updated": 1613154804
+    },
+    {
+      "id": "6026ca2de5172d0000a0357b",
+      "text": "\t\t（積極的に書けるかはわからない）",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613154861,
+      "updated": 1613154861
+    },
+    {
+      "id": "6027f9641280f00000561083",
+      "text": "\t\t　今から本格的にtensorの勉強するので、どのみち積極的に書くことになります[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232484,
+      "updated": 1613232510
+    },
+    {
+      "id": "6027f97e1280f00000561084",
+      "text": "\t\t　というか積極的にやらないと単位どころか今後の進路が終わる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232510,
+      "updated": 1613232532
+    },
+    {
+      "id": "604a17ca1280f0000091007b",
+      "text": "\t\t　2021-03-11 22:14:51 これ書いてはや1ヶ月……え、マジ……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615468489,
+      "updated": 1615468507
+    },
+    {
+      "id": "604a17dc1280f0000091007c",
+      "text": "\t\t　 そろそろ詰みそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615468507,
+      "updated": 1615468532
+    },
+    {
+      "id": "6026ca23e5172d0000a0357a",
+      "text": "\t\t別に井戸端でもいいかもしれない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613154852,
+      "updated": 1613154858
+    },
+    {
+      "id": "6027fa451280f00000561086",
+      "text": "\t\t[/tensor]みたいなprojectを作ると良さそうですね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232709,
+      "updated": 1613232735
+    },
+    {
+      "id": "6027fa601280f00000561087",
+      "text": "\t\t ただ、自分が使っている記法は独自のやつなので、[複数人Project]に書いてもいいものか、悩むところです",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232735,
+      "updated": 1613232847
+    },
+    {
+      "id": "6027facf1280f00000561088",
+      "text": "\t\t つまり、[独自研究]を[複数人Project]に書いてもいいかどうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232847,
+      "updated": 1613232868
+    },
+    {
+      "id": "6027ff5de5172d00000e5fd4",
+      "text": "\t\t \t[/icons/なるほど.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613234011,
+      "updated": 1613234018
+    },
+    {
+      "id": "6027fae41280f00000561089",
+      "text": " \t\t 問題ないかな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232868,
+      "updated": 1613232876
+    },
+    {
+      "id": "6027fb271280f0000056108b",
+      "text": " \t\t  `[成分表示 (takker)]`のように人の名前で区別できる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232935,
+      "updated": 1613232970
+    },
+    {
+      "id": "6027faf21280f0000056108a",
+      "text": " \t\t むしろ、色んな人が各々で考えた理論を一つのprojectでつながってとても面白いことになりそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232881,
+      "updated": 1613232930
+    },
+    {
+      "id": "6027ff66e5172d00000e5fd5",
+      "text": " \t\t[/icons/よさそう.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613234021,
+      "updated": 1613234026
+    },
+    {
+      "id": "6027f95c1280f00000561082",
+      "text": "\t(このページ作ったの忘れてた)[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232476,
+      "updated": 1613232543
+    },
+    {
+      "id": "6027f99f1280f00000561085",
+      "text": "\t　忘れても困らないのがscrapboxのいいところ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232543,
+      "updated": 1613232553
+    },
+    {
+      "id": "6026c9bde5172d0000a03578",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613154750,
+      "updated": 1613154750
+    },
+    {
+      "id": "60279968a336820000a08f94",
+      "text": "[/takker/LaTeXの数式の字体一覧]についてですが，[https://katex.org/docs/supported.html#style-color-size-and-font Supported Functions]が良い感じにまとまっていてよかったです[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1613207912,
+      "updated": 1613208047
+    },
+    {
+      "id": "602799eaa336820000a08f95",
+      "text": " これは[KaTeX]全般なので目的とあってないかもです...[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1613208042,
+      "updated": 1613208237
+    },
+    {
+      "id": "60279965a336820000a08f93",
+      "text": "  TeXの処理系で分けることはあまり考えてないので大丈夫ですよー[takker.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1613207909,
+      "updated": 1613232341
+    },
+    {
+      "id": "6027f8d81280f0000056107f",
+      "text": " ありがとうございます[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232344,
+      "updated": 1613232401
+    },
+    {
+      "id": "6027f8dd1280f00000561080",
+      "text": "  KaTeXで動いているのだからKaTeXのmanualをみればよかったんだ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232349,
+      "updated": 1613232382
+    },
+    {
+      "id": "6027f8ff1280f00000561081",
+      "text": "  知らない記法がたくさんある！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1613232383,
+      "updated": 1613233230
+    },
+    {
+      "id": "5fd4bd79d43875000032175b",
+      "text": "[@]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607777657,
+      "updated": 1607952982
+    },
+    {
+      "id": "5fd769c1d4387500000641ed",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607952834,
+      "updated": 1607952834
+    }
+  ]
+}

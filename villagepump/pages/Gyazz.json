@@ -1,0 +1,36 @@
+{
+  "id": "600313f6e81139001d427023",
+  "title": "Gyazz",
+  "created": 1610814464,
+  "updated": 1610814756,
+  "lines": [
+    {
+      "id": "600313f6e81139001d427023",
+      "text": "Gyazz",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610814464,
+      "updated": 1610814464
+    },
+    {
+      "id": "600314554bb2e2000078f64a",
+      "text": "[増井俊之]さんが作った[Scrapbox]の原型",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610814464,
+      "updated": 1610814756
+    },
+    {
+      "id": "600314684bb2e2000078f64c",
+      "text": "[https://github.com/masui/Gyazz masui/Gyazz]に実装がある。[Ruby]製",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610814483,
+      "updated": 1610814572
+    },
+    {
+      "id": "600314564bb2e2000078f64b",
+      "text": "[Node.js]に移植された物が[https://github.com/masuilab/Gyazz masuilab/Gyazz]にある",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610814465,
+      "updated": 1610814548
+    }
+  ]
+}

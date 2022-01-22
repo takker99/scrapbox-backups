@@ -1,0 +1,57 @@
+{
+  "id": "5f4a557e39a638001efaf594",
+  "title": "Wikipedia",
+  "created": 1598707090,
+  "updated": 1606482467,
+  "lines": [
+    {
+      "id": "5f4a557e39a638001efaf594",
+      "text": "Wikipedia",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598707090,
+      "updated": 1598707090
+    },
+    {
+      "id": "5f4a55925b98c20000abfde7",
+      "text": "インターネット百科事典",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598707090,
+      "updated": 1598707091
+    },
+    {
+      "id": "5f4a55935b98c20000abfde9",
+      "text": "https://ja.wikipedia.org/wiki/",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598707092,
+      "updated": 1598707118
+    },
+    {
+      "id": "5f4a55ae5b98c20000abfdea",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598707118,
+      "updated": 1598707118
+    },
+    {
+      "id": "5f4a55b05b98c20000abfdeb",
+      "text": "おそらく、もっとも成功した[Wiki]システム",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598707120,
+      "updated": 1606482467
+    },
+    {
+      "id": "5f4a55925b98c20000abfde8",
+      "text": "[- みんなの時間泥棒]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598707091,
+      "updated": 1606482431
+    },
+    {
+      "id": "5fc0fa174bb2e20000ec2da0",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606482427,
+      "updated": 1606482427
+    }
+  ]
+}

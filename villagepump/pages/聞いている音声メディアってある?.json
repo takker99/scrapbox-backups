@@ -1,0 +1,428 @@
+{
+  "id": "5fc068fd0e5655001ce9c936",
+  "title": "聞いている音声メディアってある?",
+  "created": 1606445312,
+  "updated": 1610983010,
+  "lines": [
+    {
+      "id": "5fc068fd0e5655001ce9c936",
+      "text": "聞いている音声メディアってある?",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445312,
+      "updated": 1606445318
+    },
+    {
+      "id": "5fc06907d438750000f95905",
+      "text": "[radiotak]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445319,
+      "updated": 1606721060
+    },
+    {
+      "id": "5fc49e1e05533200004b28f1",
+      "text": "[gera]",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1606721054,
+      "updated": 1606721061
+    },
+    {
+      "id": "5fc49e2105533200004b28f2",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1606721057,
+      "updated": 1606721057
+    },
+    {
+      "id": "5fc0690cd438750000f95906",
+      "text": "[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445324,
+      "updated": 1613112356
+    },
+    {
+      "id": "5fc0690dd438750000f95907",
+      "text": "　Podcast",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445325,
+      "updated": 1606445328
+    },
+    {
+      "id": "5fc06917d438750000f9590b",
+      "text": "　　ドングリFM",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445336,
+      "updated": 1606445340
+    },
+    {
+      "id": "5fd217e8d438750000f07e0f",
+      "text": "　　　[マンガ]の話題が多い",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607604200,
+      "updated": 1607604205
+    },
+    {
+      "id": "5fc0691cd438750000f9590c",
+      "text": "　　東京ポッド許可局",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445340,
+      "updated": 1606445343
+    },
+    {
+      "id": "5fc9b5e5d438750000c770fd",
+      "text": "　　ネオ五条楽園",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607054821,
+      "updated": 1607054827
+    },
+    {
+      "id": "5fc06910d438750000f95909",
+      "text": "　ラジオ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445328,
+      "updated": 1606445349
+    },
+    {
+      "id": "5fc06927d438750000f9590d",
+      "text": "　\t世界の快適音楽",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445351,
+      "updated": 1606445359
+    },
+    {
+      "id": "5fc06932d438750000f9590e",
+      "text": "　\tお昼の番組",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445362,
+      "updated": 1606445365
+    },
+    {
+      "id": "5fc06935d438750000f9590f",
+      "text": "　\tいろいろ!気分で!",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445365,
+      "updated": 1606445370
+    },
+    {
+      "id": "5fc06912d438750000f9590a",
+      "text": "　音声ライブアプリ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445330,
+      "updated": 1606445334
+    },
+    {
+      "id": "5fc0690ed438750000f95908",
+      "text": "　　ごく稀にインストールしてやめる",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445326,
+      "updated": 1606445379
+    },
+    {
+      "id": "5fc0693cd438750000f95910",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606445373,
+      "updated": 1606445373
+    },
+    {
+      "id": "5fc097e41d860a000051b2a5",
+      "text": "[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457316,
+      "updated": 1606457320
+    },
+    {
+      "id": "5fc0b3521d860a000051b2ac",
+      "text": "音声メディアってどゆこと？",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606464340,
+      "updated": 1606464353
+    },
+    {
+      "id": "5fc097e91d860a000051b2a7",
+      "text": "　Spotify (有料)",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457321,
+      "updated": 1606457406
+    },
+    {
+      "id": "5fc097ef1d860a000051b2a8",
+      "text": "　AmazonMusic (Primeの)",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457328,
+      "updated": 1606457438
+    },
+    {
+      "id": "5fc097fc1d860a000051b2a9",
+      "text": "　radiko (Free)",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457341,
+      "updated": 1606457452
+    },
+    {
+      "id": "5fc098051d860a000051b2aa",
+      "text": "　Voicy",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457350,
+      "updated": 1606457358
+    },
+    {
+      "id": "5fc098161d860a000051b2ab",
+      "text": "　 石井正則のとりあえずやってみよう",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457366,
+      "updated": 1606457380
+    },
+    {
+      "id": "5fc097e81d860a000051b2a6",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1606457320,
+      "updated": 1606457320
+    },
+    {
+      "id": "5fc0ab6dec4fce00006b03ea",
+      "text": "[MISONLN41.icon]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462318,
+      "updated": 1606462318
+    },
+    {
+      "id": "5fc0ab6eec4fce00006b03eb",
+      "text": " Podcast",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462318,
+      "updated": 1606462324
+    },
+    {
+      "id": "5fc0ab74ec4fce00006b03ed",
+      "text": "  [Daisy Holiday w/ Haruomi Hosono | NTS https://www.nts.live/shows/haruomi-hosono]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462324,
+      "updated": 1606462330
+    },
+    {
+      "id": "5fc0ab6eec4fce00006b03ec",
+      "text": "  [Misreading Chat – CS の論文読んで話をしよう https://misreading.chat/]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462318,
+      "updated": 1606462356
+    },
+    {
+      "id": "5fc0ac34ec4fce00006b03f0",
+      "text": " YouTube",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462517,
+      "updated": 1606462519
+    },
+    {
+      "id": "5fc0ab95ec4fce00006b03ef",
+      "text": "  [Nine Game News - YouTube https://www.youtube.com/playlist?list=PLJe5i0SX1TIel3MDb4ChiBh2lLAVHhPEU]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462357,
+      "updated": 1606474754
+    },
+    {
+      "id": "5fc0dc02ec4fce00009ca9f9",
+      "text": "  june29 Vlog",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606474754,
+      "updated": 1606474757
+    },
+    {
+      "id": "5fc0ab7cec4fce00006b03ee",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1606462332,
+      "updated": 1606462332
+    },
+    {
+      "id": "5fc0bfbe1280f00000bcdf65",
+      "text": "[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467519,
+      "updated": 1606467523
+    },
+    {
+      "id": "5fc0bfc31280f00000bcdf66",
+      "text": "ニコニコ動画",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467523,
+      "updated": 1606467530
+    },
+    {
+      "id": "5fc0bfca1280f00000bcdf68",
+      "text": "\tこれは音声メディアなのか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467530,
+      "updated": 1606467540
+    },
+    {
+      "id": "5fc0c22add59fe0000746a4a",
+      "text": "\t [NicoBox]があるので音声メディアとしても使えそう",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606468140,
+      "updated": 1606468246
+    },
+    {
+      "id": "5fc0bfc91280f00000bcdf67",
+      "text": "  それがあった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606467529,
+      "updated": 1606468256
+    },
+    {
+      "id": "5fc0c29f1280f00000bcdf7b",
+      "text": "  　いっつもPCからしか使っていないから、存在を忘れていた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606468256,
+      "updated": 1606468268
+    },
+    {
+      "id": "5fc0c2ac1280f00000bcdf7c",
+      "text": "  　結構利用者は多いみたい？らしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606468268,
+      "updated": 1606468283
+    },
+    {
+      "id": "5fc0c2971280f00000bcdf7a",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606468248,
+      "updated": 1606468248
+    },
+    {
+      "id": "5fc0cf3d4bb2e20000c7df22",
+      "text": "[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606471458,
+      "updated": 1606471462
+    },
+    {
+      "id": "5fc0cf414bb2e20000c7df23",
+      "text": "特性的に声を聞くのがしんどいから滅多に聞かない",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606471462,
+      "updated": 1606471472
+    },
+    {
+      "id": "5fc0d2d34bb2e20000bfa814",
+      "text": " 親がテレビ見てるとイヤホンするレベルで気が散る",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606472376,
+      "updated": 1606472385
+    },
+    {
+      "id": "5fc0e858d438750000739758",
+      "text": "  わかる",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606477912,
+      "updated": 1606477913
+    },
+    {
+      "id": "5fc0cf4c4bb2e20000c7df25",
+      "text": " [ゆっくり実況]とかは見てた",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606471473,
+      "updated": 1607053778
+    },
+    {
+      "id": "5fc0cf424bb2e20000c7df24",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1606471462,
+      "updated": 1606471462
+    },
+    {
+      "id": "5fc0d240dd59fe00006ed76e",
+      "text": "[kokutousha.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606472258,
+      "updated": 1606472258
+    },
+    {
+      "id": "5fc0d241dd59fe00006ed76f",
+      "text": "自分は逆に人の声を聴いていると安心するので、人が喋っている動画とかをバックグラウンドで垂れ流してる",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606472258,
+      "updated": 1606472281
+    },
+    {
+      "id": "5fc0d241dd59fe00006ed770",
+      "text": "　喋っている内容はあまり頭に入れない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606472258,
+      "updated": 1606472382
+    },
+    {
+      "id": "5fc0e84dd438750000739757",
+      "text": "　 わかる",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1606477901,
+      "updated": 1606477904
+    },
+    {
+      "id": "5fc0d2a9dd59fe00006ed772",
+      "text": "　[ラジオ]とか[ポッドキャスト]みたいな聴かせるメディアだと話し声が明瞭で頭に入ってくるので聴かない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606472362,
+      "updated": 1610920229
+    },
+    {
+      "id": "5fc0d29ddd59fe00006ed771",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1606472350,
+      "updated": 1606472350
+    },
+    {
+      "id": "6005a5d0db62ad000003d6ea",
+      "text": "[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610982864,
+      "updated": 1610982865
+    },
+    {
+      "id": "6005a5d2db62ad000003d6eb",
+      "text": " [Rebuild - Podcast by Tatsuhiko Miyagawa https://rebuild.fm/]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610982866,
+      "updated": 1610982871
+    },
+    {
+      "id": "6005a5d4db62ad000003d6ec",
+      "text": " [Turing Complete FM https://turingcomplete.fm/]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610982867,
+      "updated": 1610982893
+    },
+    {
+      "id": "6005a5eedb62ad000003d6ed",
+      "text": " [匿名ラジオ - YouTube https://www.youtube.com/channel/UClSsb_e0HDQ-w7XuwNPgGqQ]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610982894,
+      "updated": 1610982932
+    },
+    {
+      "id": "6005a616db62ad000095cbfe",
+      "text": "　[Amazon | 放送室 1 | 松本人志, 高須光聖 | 効果音・実用 | 音楽 https://www.amazon.co.jp/%E6%94%BE%E9%80%81%E5%AE%A4-1-%E6%9D%BE%E6%9C%AC%E4%BA%BA%E5%BF%97/dp/B0015FHHUK]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610982933,
+      "updated": 1610983009
+    },
+    {
+      "id": "6005a662db62ad000095cbff",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610983010,
+      "updated": 1610983010
+    },
+    {
+      "id": "5fcf623ad43875000048aa4c",
+      "text": "[書いてけ]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607426618,
+      "updated": 1607426618
+    }
+  ]
+}

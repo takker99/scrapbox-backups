@@ -1,0 +1,50 @@
+{
+  "id": "6055adfa4dfb65001c5cc8f3",
+  "title": "asearch",
+  "created": 1616227855,
+  "updated": 1616227900,
+  "lines": [
+    {
+      "id": "6055adfa4dfb65001c5cc8f3",
+      "text": "asearch",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1616227855,
+      "updated": 1616227855
+    },
+    {
+      "id": "6055ae0e5b98c200004db6c3",
+      "text": "\t[https://github.com/masui/node-asearch asearch] by [/masui/増井俊之.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1616227855,
+      "updated": 1616227856
+    },
+    {
+      "id": "6055ae0f5b98c200004db6c4",
+      "text": "\t\t曖昧検索ライブラリ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1616227856,
+      "updated": 1616227856
+    },
+    {
+      "id": "6055ae0f5b98c200004db6c5",
+      "text": "\t\t[Scrapbox]での検索でも使っている",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1616227856,
+      "updated": 1616227856
+    },
+    {
+      "id": "6055ae0f5b98c200004db6c6",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1616227856,
+      "updated": 1616227856
+    },
+    {
+      "id": "6055ae125b98c200004db6c7",
+      "text": "#notatech2021",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1616227858,
+      "updated": 1616227892
+    }
+  ]
+}

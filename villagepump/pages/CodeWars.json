@@ -1,0 +1,57 @@
+{
+  "id": "5fdeacec3d5067001cc19cc6",
+  "title": "CodeWars",
+  "created": 1608428783,
+  "updated": 1611703340,
+  "lines": [
+    {
+      "id": "5fdeacec3d5067001cc19cc6",
+      "text": "CodeWars",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608428783,
+      "updated": 1608428783
+    },
+    {
+      "id": "5fdeaceed43875000016b26a",
+      "text": "https://www.codewars.com/",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608428783,
+      "updated": 1608428784
+    },
+    {
+      "id": "5fdeacf0d43875000016b26c",
+      "text": "[競技プログラミング]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608428784,
+      "updated": 1608428793
+    },
+    {
+      "id": "5fdeacf9d43875000016b26d",
+      "text": "回答後に、他の人の優れたコードを見れる",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608428794,
+      "updated": 1608428827
+    },
+    {
+      "id": "5fdeacefd43875000016b26b",
+      "text": "[https://i.imgur.com/5qI3BxP.png]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1608428783,
+      "updated": 1611703340
+    },
+    {
+      "id": "6010a42bd438750000d16262",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611703340,
+      "updated": 1611703340
+    },
+    {
+      "id": "6010a42bd438750000d16261",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611703340,
+      "updated": 1611703340
+    }
+  ]
+}

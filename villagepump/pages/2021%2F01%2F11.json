@@ -1,0 +1,820 @@
+{
+  "id": "5ffabfc0adea67001cd4a92c",
+  "title": "2021/01/11",
+  "created": 1610268614,
+  "updated": 1612610553,
+  "lines": [
+    {
+      "id": "5ffabfc0adea67001cd4a92c",
+      "text": "2021/01/11",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610268614
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76bd",
+      "text": "[2021/01/10]←2021/01/11→[2021/01/12]",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610268614
+    },
+    {
+      "id": "6002ecbb1280f000005ecd15",
+      "text": "[2020/12/11.icon][2020/11/11.icon][2020/10/11.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610804411,
+      "updated": 1610804433
+    },
+    {
+      "id": "6002ecbb1280f000005ecd16",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610804412,
+      "updated": 1610804412
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76be",
+      "text": "鏡開き",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610668202
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76bf",
+      "text": "[dnin.icon][回文]",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1613112363
+    },
+    {
+      "id": "5ffba2ebd438750000b13519",
+      "text": "code:iskaibun.py",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610326764,
+      "updated": 1610326790
+    },
+    {
+      "id": "5ffc099cd43875000058b4b6",
+      "text": " # -*- coding: utf-8 -*-",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353052,
+      "updated": 1610353052
+    },
+    {
+      "id": "5ffba306d438750000b1351a",
+      "text": " text = \"かいたいかいたいだだこねてすてねこだだいたいかいたいか\"",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610326791,
+      "updated": 1610353851
+    },
+    {
+      "id": "5ffc0a3fd43875000058b4b7",
+      "text": " print(text)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353215,
+      "updated": 1610353218
+    },
+    {
+      "id": "5ffc0a50d43875000058b4b8",
+      "text": " print(text[::-1])",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353232,
+      "updated": 1610353237
+    },
+    {
+      "id": "5ffc084ad4387500001ce075",
+      "text": " if text == text[::-1]:",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352715,
+      "updated": 1610352882
+    },
+    {
+      "id": "5ffc08f1d4387500001ce07b",
+      "text": " \tprint(\"回文です\")",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352882,
+      "updated": 1610352896
+    },
+    {
+      "id": "5ffc0900d4387500001ce07c",
+      "text": " else:",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352896,
+      "updated": 1610352899
+    },
+    {
+      "id": "5ffc0902d4387500001ce07d",
+      "text": " \tprint(\"いいえ、これは回文ではありません\") \t",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352899,
+      "updated": 1610352914
+    },
+    {
+      "id": "5ffc20b1d438750000d50141",
+      "text": "[英語から和訳したような日本語]好き[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610358961,
+      "updated": 1613112363
+    },
+    {
+      "id": "5ffc086ed4387500001ce079",
+      "text": "code:run.sh",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352751,
+      "updated": 1610352921
+    },
+    {
+      "id": "5ffc091ad4387500001ce07e",
+      "text": " curl -s https://scrapbox.io/api/code/villagepump/2021%2F01%2F11/iskaibun.py | python3",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352923,
+      "updated": 1610353860
+    },
+    {
+      "id": "5ffc09f5e5172d0000d93daa",
+      "text": "これサクッと実行できていいなあ[yosider.icon][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610353142,
+      "updated": 1610353238
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76c0",
+      "text": "[https://i.imgur.com/p0CKXO7.png]",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610353256
+    },
+    {
+      "id": "5ffc0a68d43875000058b4b9",
+      "text": " なんかおかしい(xterm)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353256,
+      "updated": 1610353335
+    },
+    {
+      "id": "5ffc0ab7d43875000058b4bb",
+      "text": "[https://i.imgur.com/DNHVbnQ.png]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353335,
+      "updated": 1610353337
+    },
+    {
+      "id": "5ffc0ab8d43875000058b4bc",
+      "text": " lxterminal",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353337,
+      "updated": 1610353341
+    },
+    {
+      "id": "5ffc0a6bd43875000058b4ba",
+      "text": "[https://i.imgur.com/ueT2j54.png]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353260,
+      "updated": 1610353378
+    },
+    {
+      "id": "5ffc0ae2d43875000058b4bd",
+      "text": " この辺思いつきました[sta.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353378,
+      "updated": 1610353477
+    },
+    {
+      "id": "5ffc0b3f79d3a90000922286",
+      "text": "  pythonが2だとマルチバイト文字まわりが面倒くさかった気が",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353469,
+      "updated": 1610353470
+    },
+    {
+      "id": "5ffc0b2879d3a90000922285",
+      "text": "  (windowsの場合)cmdのようなターミナルだと文字コードがcp932(utf8)じゃないので日本語が文字ばけ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353446,
+      "updated": 1610353476
+    },
+    {
+      "id": "5ffc0b5779d3a90000922287",
+      "text": "  [/icons/iine.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353493,
+      "updated": 1610353501
+    },
+    {
+      "id": "5ffc0b0e79d3a90000922284",
+      "text": "[https://i.imgur.com/62El5tP.png]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353420,
+      "updated": 1610353478
+    },
+    {
+      "id": "5ffc0b45d438750000a571a5",
+      "text": " ：)",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353478,
+      "updated": 1610353479
+    },
+    {
+      "id": "5ffc0bdee5172d0000d93dab",
+      "text": " ページタイトルに日本語が混じってる場合はだめだった[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610353631,
+      "updated": 1610353650
+    },
+    {
+      "id": "5ffc0bf7e5172d0000d93dac",
+      "text": " \tencodeすればいけるのかも",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610353656,
+      "updated": 1610353660
+    },
+    {
+      "id": "5ffc0b61d438750000a571a6",
+      "text": "[短縮]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353506,
+      "updated": 1610353900
+    },
+    {
+      "id": "5ffc0b64d438750000a571a8",
+      "text": "code:AxxB.py",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353509,
+      "updated": 1610353520
+    },
+    {
+      "id": "5ffc0b70d438750000a571aa",
+      "text": " text= \"accessibility\"",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353520,
+      "updated": 1610353758
+    },
+    {
+      "id": "5ffc0b77d438750000a571ab",
+      "text": " print(text[0]+str(len(text)-2)+text[-1])",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353527,
+      "updated": 1610353680
+    },
+    {
+      "id": "5ffc0b65d438750000a571a9",
+      "text": "code:run2.sh",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353510,
+      "updated": 1610353656
+    },
+    {
+      "id": "5ffc0bd9d438750000a571ac",
+      "text": " curl -s https://scrapbox.io/api/code/villagepump/2021%2F01%2F11/AxxB.py | python3",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353625,
+      "updated": 1610353633
+    },
+    {
+      "id": "5ffc0c75d438750000896c6c",
+      "text": "すべての組み合わせ",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610353782,
+      "updated": 1610354261
+    },
+    {
+      "id": "5ffc0db4d438750000266fb8",
+      "text": "code:cook.sh",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354101,
+      "updated": 1610354105
+    },
+    {
+      "id": "5ffc0dbbd438750000266fba",
+      "text": " echo {肉,野菜,魚}を{冷凍,蒸す,焼く,煮る,炒める}{基本,時短テクニック}",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354108,
+      "updated": 1610354344
+    },
+    {
+      "id": "5ffc0db3d438750000266fb7",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354099,
+      "updated": 1610354099
+    },
+    {
+      "id": "5ffc10d7d438750000d8476e",
+      "text": " いつもつかってるBluetoothイヤホンのアナウンスが突然英語から中国語に",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354904,
+      "updated": 1610354928
+    },
+    {
+      "id": "5ffc1198d438750000d84774",
+      "text": "  [{ kāishǐ]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610355097,
+      "updated": 1610355101
+    },
+    {
+      "id": "5ffc133f1280f0000007a616",
+      "text": "   [吹き出し記法]の使いどころさん",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610355519,
+      "updated": 1610355535
+    },
+    {
+      "id": "5ffc10f0d438750000d84770",
+      "text": "  こんなの初めてなんだが",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354929,
+      "updated": 1610355037
+    },
+    {
+      "id": "5ffc10f3d438750000d84771",
+      "text": "  放電したら別物になったか？",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354931,
+      "updated": 1610354942
+    },
+    {
+      "id": "5ffc1143d438750000d84772",
+      "text": "  さすが怪しい中華製品",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610355012,
+      "updated": 1610355028
+    },
+    {
+      "id": "5ffc13311280f0000007a615",
+      "text": "  [/icons/こわい.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610355505,
+      "updated": 1610355514
+    },
+    {
+      "id": "60017531d438750000b6220e",
+      "text": "  ペアリングモードで5回ボタンを連打すると切り替えられることが判明",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610708274,
+      "updated": 1610708297
+    },
+    {
+      "id": "5ffc17e8d43875000085114f",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610356712,
+      "updated": 1610356713
+    },
+    {
+      "id": "5ffc17e9d438750000851150",
+      "text": "code:今までみたプロジェクト一覧.sh",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610356713,
+      "updated": 1610356733
+    },
+    {
+      "id": "5ffc17fcd438750000851152",
+      "text": "  sqlite3 .local/share/qutebrowser/history.sqlite 'select url from History' | uniq | grep https://scrapbox.io/| grep -vE '^https:\\/\\/scrapbox.io\\/(.*\\/)'|grep -v \"opensearch\" | grep -v google",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610356733,
+      "updated": 1610356893
+    },
+    {
+      "id": "5ffc27f6d4387500007e7119",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610360822,
+      "updated": 1610360822
+    },
+    {
+      "id": "5ffc10d8d438750000d8476f",
+      "text": "[https://i.imgur.com/M8Y4XqQ.png]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610354904,
+      "updated": 1610360811
+    },
+    {
+      "id": "5ffc27ebd4387500007e7118",
+      "text": "お？",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610360811,
+      "updated": 1610360816
+    },
+    {
+      "id": "5ffc29f71280f0000047a357",
+      "text": " 日本語の利用規約はあるっぽい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610361335,
+      "updated": 1610361348
+    },
+    {
+      "id": "5ffc27ead4387500007e7117",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610360810,
+      "updated": 1610360810
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76c1",
+      "text": "[takker.icon]",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610352144
+    },
+    {
+      "id": "5ffc06101280f00000acf64b",
+      "text": "[Anki]を使い始めた！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610352145,
+      "updated": 1610352154
+    },
+    {
+      "id": "5ffc061a1280f00000acf64c",
+      "text": "　さっきinstallを終えた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610352154,
+      "updated": 1610352162
+    },
+    {
+      "id": "5ffc06221280f00000acf64e",
+      "text": "　今からManualを読む",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610352162,
+      "updated": 1610352177
+    },
+    {
+      "id": "5ffc065fd4387500001ce074",
+      "text": "　 記憶の妖精!",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610352224,
+      "updated": 1610352234
+    },
+    {
+      "id": "5ffc0ac61280f000005ac374",
+      "text": "　 [https://wikiwiki.jp/rage2050/2.0/FrequentlyAskedQuestions#h2_content_1_2 カード同士をリンクできますか? 依存関係を作るには? 同意語をどう扱ったらいい? | よくある質問 (Frequently Asked Questions) - Anki日本語マニュアル Wiki*]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610353350,
+      "updated": 1610353352
+    },
+    {
+      "id": "5ffc0ac81280f000005ac375",
+      "text": "　  これScrapboxでなんとかできないかな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610353353,
+      "updated": 1610353361
+    },
+    {
+      "id": "5ffc0ad11280f000005ac376",
+      "text": "　  リンクの問題ではなさそう？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610353361,
+      "updated": 1610353368
+    },
+    {
+      "id": "5ffc093d1280f00000888c6f",
+      "text": "[Anki]をScrapboxで実現できないかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610352958,
+      "updated": 1610352982
+    },
+    {
+      "id": "5ffc09561280f00000888c70",
+      "text": " 実質Javascript実行環境だし、いくらでもやりようはありそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610352982,
+      "updated": 1610353004
+    },
+    {
+      "id": "5ffc17321280f000000ad26f",
+      "text": "[https://ankiweb.net/shared/decks/ Ankiの共有デッキ]に[システム英単語]の丸コピが載ってたんだけど……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610356531,
+      "updated": 1610356598
+    },
+    {
+      "id": "5ffc17b01280f000000ad276",
+      "text": " [著作権]侵害じゃん",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610356656,
+      "updated": 1610356682
+    },
+    {
+      "id": "5ffc17751280f000000ad275",
+      "text": "　削除報告出すべきだよな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610356598,
+      "updated": 1610356632
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76c2",
+      "text": "  んだ",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610356700
+    },
+    {
+      "id": "5ffc18bc1280f000000ad277",
+      "text": " [https://forums.ankiweb.net/c/shared-decks/14 ここ]に報告すればいいのか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610356925,
+      "updated": 1610357032
+    },
+    {
+      "id": "5ffc18c81280f000000ad278",
+      "text": "  [- 垢作るの面倒だな]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610356936,
+      "updated": 1610358485
+    },
+    {
+      "id": "5ffc19ea1280f000000ad279",
+      "text": "[New Page (Scrapbox)がバグった]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610357227,
+      "updated": 1610362714
+    },
+    {
+      "id": "5ffc3410e5172d0000d04b5a",
+      "text": "関係あるかわからないけど箇条書きのbulletのUserCSSが動いてない？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610363915,
+      "updated": 1610364119
+    },
+    {
+      "id": "5ffc34dde5172d0000d04b5b",
+      "text": "\tこれは[suto3.icon]さんのUserCSSを切ると元に戻った",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610364120,
+      "updated": 1610364171
+    },
+    {
+      "id": "5ffc3511e5172d0000d04b5c",
+      "text": "\t[New Page (Scrapbox)がバグった]は依然発生した",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610364172,
+      "updated": 1610364217
+    },
+    {
+      "id": "5ffc360a1280f00000f31e84",
+      "text": "大学の非公式Scrapboxを去年の夏に作ったけど全然使っていないな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610364426,
+      "updated": 1610364445
+    },
+    {
+      "id": "5ffc36221280f00000f31e86",
+      "text": " あんまりやる気しない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610364450,
+      "updated": 1610364456
+    },
+    {
+      "id": "5ffc361d1280f00000f31e85",
+      "text": " cf. [/sta/井戸端みたいなコミュニケーションScrapbox Project何かつくりたい#5ffc30a779d3a900000bea8f]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610364445,
+      "updated": 1610364448
+    },
+    {
+      "id": "5ffc17dfd43875000085114e",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610356704,
+      "updated": 1610356704
+    },
+    {
+      "id": "5ffc096c79d3a9000092227d",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353003,
+      "updated": 1610353004
+    },
+    {
+      "id": "5ffc096d79d3a9000092227f",
+      "text": " [Anki]懐かしい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353004,
+      "updated": 1610353008
+    },
+    {
+      "id": "5ffc097279d3a90000922280",
+      "text": " \t英単語覚えるのに使ったことがある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353008,
+      "updated": 1610353012
+    },
+    {
+      "id": "5ffc097679d3a90000922281",
+      "text": " \t知らん単語片っ端から入れて1000個くらい頑張った",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353012,
+      "updated": 1610353034
+    },
+    {
+      "id": "5ffc096c79d3a9000092227e",
+      "text": "\t[/sta/Scrapboxで絵文字のかわりに顔文字を使う]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353003,
+      "updated": 1610353188
+    },
+    {
+      "id": "5ffc0a2679d3a90000922282",
+      "text": "\t\t検討してたけど微妙だった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353188,
+      "updated": 1610353197
+    },
+    {
+      "id": "5ffc0a2979d3a90000922283",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610353191,
+      "updated": 1610353191
+    },
+    {
+      "id": "5ffc0c72e5172d0000d93dad",
+      "text": "[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610353779,
+      "updated": 1610353780
+    },
+    {
+      "id": "5ffc0c73e5172d0000d93dae",
+      "text": "\t[コードブロック記法のすぐ下に箇条書きできない問題]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610353780,
+      "updated": 1612610553
+    },
+    {
+      "id": "5ffc0d72e5172d0000d93db2",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610354035,
+      "updated": 1610354036
+    },
+    {
+      "id": "5ffc1a3f5b98c20000a5fbca",
+      "text": "[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610357311,
+      "updated": 1610357319
+    },
+    {
+      "id": "5ffc1a405b98c20000a5fbcb",
+      "text": "　[神スクボ]っぽく、背景を格子模様にしてみました",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610357313,
+      "updated": 1610357404
+    },
+    {
+      "id": "5ffc1a745b98c20000a5fbcc",
+      "text": "  急に変わったと思ったらそういうことか",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610357365,
+      "updated": 1610357392
+    },
+    {
+      "id": "5ffc1a891280f00000be8bd1",
+      "text": "  純粋にデザインが良い[takker.icon][kuuote.icon][yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610357386,
+      "updated": 1610358166
+    },
+    {
+      "id": "5ffc1d97e5172d0000d5478e",
+      "text": "   [方眼ノート]っぽい",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610358167,
+      "updated": 1610526499
+    },
+    {
+      "id": "5ffeaf235b98c20000d66c27",
+      "text": "  [suto3.icon]まさかの好評で驚いている…",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610526500,
+      "updated": 1610526543
+    },
+    {
+      "id": "5ffeaf565b98c20000d66c28",
+      "text": "  　君たち、本当は[Excel方眼紙]とか好きだろ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610526550,
+      "updated": 1610526598
+    },
+    {
+      "id": "5ffec69f4bb2e20000c388a9",
+      "text": "  　 ハハハ、バレたか…",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610532435,
+      "updated": 1610532440
+    },
+    {
+      "id": "5fff333e1280f00000bb0eed",
+      "text": "  　[Excel方眼紙]というより紙の[方眼ノート]が好き[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610560319,
+      "updated": 1610560340
+    },
+    {
+      "id": "5fff33531280f00000bb0eef",
+      "text": "  　　位置合わせしやすい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610560340,
+      "updated": 1610560344
+    },
+    {
+      "id": "5fff33571280f00000bb0ef0",
+      "text": "  　　図形やグラフを書きやすい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610560344,
+      "updated": 1610560351
+    },
+    {
+      "id": "5ffc1add5b98c20000a5fbcd",
+      "text": " CSSのグラデーションを使っています",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610357470,
+      "updated": 1610357489
+    },
+    {
+      "id": "5ffc1d0b4bb2e20000e7849f",
+      "text": "  グラデーションこんなことできるのか、便利だ[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610357958,
+      "updated": 1610357972
+    },
+    {
+      "id": "5ffeb0a15b98c20000d66c29",
+      "text": "   [suto3.icon] 元ネタはこちらです https://leaverou.github.io/css3patterns/",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610526882,
+      "updated": 1610526920
+    },
+    {
+      "id": "5ffc5de5e5172d0000488ae8",
+      "text": " こちらの影響で箇条書きのbulletのUserCSS（[Settings#5f4e066a5b98c20000438968]）が効いてないようです[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610374624,
+      "updated": 1610374815
+    },
+    {
+      "id": "5ffc5e21e5172d0000488ae9",
+      "text": " \t切ったら効いた",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610374684,
+      "updated": 1610374702
+    },
+    {
+      "id": "5ffc5e44e5172d0000488aea",
+      "text": "\t\tどこが原因なんだろう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610374719,
+      "updated": 1610375064
+    },
+    {
+      "id": "5ffc5f95e5172d00009c0746",
+      "text": " \t\t中央揃えなど、このUserCSSより下にあるUserCSSが効いてないっぽい：[婚姻届]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610375056,
+      "updated": 1610375114
+    },
+    {
+      "id": "5ffc5fb3e5172d00009c0747",
+      "text": " \t\tこのCSS自体に何かエラーがある？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610375086,
+      "updated": 1610375177
+    },
+    {
+      "id": "5ffc73db4bb2e200004a09da",
+      "text": " \t\t 外側の`{`が閉じられていなかったので閉じてみた[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1610380182,
+      "updated": 1610380194
+    },
+    {
+      "id": "5ffc8860e5172d0000f26d8d",
+      "text": " \t\t \t[/icons/god.icon][yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610385499,
+      "updated": 1610385515
+    },
+    {
+      "id": "5ffcb8545b98c200009a73de",
+      "text": "　　　　すいません [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1610397780,
+      "updated": 1610397807
+    },
+    {
+      "id": "5ffc1a801280f00000be8bd0",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610357377,
+      "updated": 1610357377
+    },
+    {
+      "id": "5ffabfc36b9e9a00004d76c3",
+      "text": "[2021/01/10]←2021/01/11→[2021/01/12]",
+      "userId": "5fe419396e7697001c6b9e9a",
+      "created": 1610268614,
+      "updated": 1610268614
+    }
+  ]
+}

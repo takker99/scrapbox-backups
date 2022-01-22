@@ -1,0 +1,36 @@
+{
+  "id": "6022640c1f4fe5001d03a51c",
+  "title": "上場企業の情報をランダムに表示する",
+  "created": 1612866573,
+  "updated": 1612866588,
+  "lines": [
+    {
+      "id": "6022640c1f4fe5001d03a51c",
+      "text": "上場企業の情報をランダムに表示する",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612866573,
+      "updated": 1612866581
+    },
+    {
+      "id": "60226419d43875000044f3aa",
+      "text": "上場企業の情報を[ランダム]に表示する",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612866586,
+      "updated": 1612866588
+    },
+    {
+      "id": "6022640cd43875000044f3a8",
+      "text": "code:run.js",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612866573,
+      "updated": 1612866573
+    },
+    {
+      "id": "6022640cd43875000044f3a9",
+      "text": "\tlet meigara_code = Math.floor(Math.random() * 1000); while (meigara_code<= 1300){meigara_code = Math.floor(Math.random() * 10000);console.log(meigara_code)};location.href=\"https://web.fisco.jp/platform/companies/0\"+meigara_code+\"00\"",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1612866573,
+      "updated": 1612866573
+    }
+  ]
+}

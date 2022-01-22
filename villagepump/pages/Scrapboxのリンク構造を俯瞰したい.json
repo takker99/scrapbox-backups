@@ -1,0 +1,162 @@
+{
+  "id": "5f8e753aad5169002465d5d5",
+  "title": "Scrapboxのリンク構造を俯瞰したい",
+  "created": 1603171644,
+  "updated": 1606921629,
+  "lines": [
+    {
+      "id": "5f8e753aad5169002465d5d5",
+      "text": "Scrapboxのリンク構造を俯瞰したい",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171644,
+      "updated": 1603171651
+    },
+    {
+      "id": "5f8e75444daa92000057ca14",
+      "text": "[ScrapUniverse]がいい線をいってるけど、ある程度ノードが増えてくるとわけが解らなくなる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171651,
+      "updated": 1603171685
+    },
+    {
+      "id": "5f8e756d4daa92000057ca18",
+      "text": "\tノードの間隔が狭すぎてネットワーク構造をはっきり見えない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171693,
+      "updated": 1603171732
+    },
+    {
+      "id": "5f8e75994daa92000057ca19",
+      "text": "\t2 hopまでのノードだけをハイライトしたり、拡大して観察したい",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171737,
+      "updated": 1603171793
+    },
+    {
+      "id": "5f8e75f34daa92000057ca1c",
+      "text": "\tいい感じにプロットする方法があればいいんだけど",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171827,
+      "updated": 1603171836
+    },
+    {
+      "id": "5f8e75664daa92000057ca16",
+      "text": "[https://gyazo.com/b4c77e3cf686a2f2296a6417f990cfd5]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171685,
+      "updated": 1603171688
+    },
+    {
+      "id": "5f8e75684daa92000057ca17",
+      "text": "　少なくとも今の状態だと分析ができない",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171688,
+      "updated": 1603173838
+    },
+    {
+      "id": "5f8e77794daa92000057ca1e",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172216,
+      "updated": 1603172216
+    },
+    {
+      "id": "5f8e75444daa92000057ca15",
+      "text": "そもそもここまで複雑なネットワーク構造を分かりやすく表現する方法ってあるのかな",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603171652,
+      "updated": 1603172216
+    },
+    {
+      "id": "5f8e77644daa92000057ca1d",
+      "text": "\t[ScrapUniverse]が使ってる[d3.js]のForce-directed graphでもシンプルなネットワーク構造は分かりやすく表示できてる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172196,
+      "updated": 1603195974
+    },
+    {
+      "id": "5f8e77c74daa92000057ca25",
+      "text": "\t https://observablehq.com/@d3/force-directed-tree",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172295,
+      "updated": 1603172295
+    },
+    {
+      "id": "5f8e77a54daa92000057ca20",
+      "text": "\t\t[https://gyazo.com/ab5d2233a8f8fc3a9bcd654512f28c67]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172261,
+      "updated": 1603172263
+    },
+    {
+      "id": "5f8e77a74daa92000057ca21",
+      "text": "\tそして多少複雑になると似たようなことになる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172263,
+      "updated": 1603172275
+    },
+    {
+      "id": "5f8e77c34daa92000057ca24",
+      "text": "\t\thttps://observablehq.com/@d3/force-directed-graph",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172291,
+      "updated": 1603172291
+    },
+    {
+      "id": "5f8e77b44daa92000057ca22",
+      "text": "\t\t[https://gyazo.com/896e1f97adf1f73c8ae4e1e4f3bc3b4a]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172276,
+      "updated": 1603172284
+    },
+    {
+      "id": "5f8e77bc4daa92000057ca23",
+      "text": "\tリンクの強さを弱めにして、反発するようにしたら若干分かりやすくはなったかも？",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172284,
+      "updated": 1603172866
+    },
+    {
+      "id": "5f8e7a074daa92000057ca28",
+      "text": "\t\t逆にリンクされてない関係ないノードが隙間に入り込んでしまうようになった",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172870,
+      "updated": 1603172889
+    },
+    {
+      "id": "5f8e7a024daa92000057ca26",
+      "text": "\t\t[https://gyazo.com/cb432c6ce0e35cc95ffc596c43e24917]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172866,
+      "updated": 1603172868
+    },
+    {
+      "id": "5f8e7a044daa92000057ca27",
+      "text": "\tやっぱり距離ベースのグラフなのかなぁ",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172868,
+      "updated": 1603172946
+    },
+    {
+      "id": "5fc7ad978ee92a0000bade29",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606921625,
+      "updated": 1606921625
+    },
+    {
+      "id": "5fc7ad988ee92a0000bade2a",
+      "text": " 無理なのでは [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606921625,
+      "updated": 1606921629
+    },
+    {
+      "id": "5f8e777c4daa92000057ca1f",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1603172222,
+      "updated": 1603172222
+    }
+  ]
+}

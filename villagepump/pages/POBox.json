@@ -1,0 +1,113 @@
+{
+  "id": "604b2af5ed8ef1001c09fbde",
+  "title": "POBox",
+  "created": 1615538952,
+  "updated": 1615541757,
+  "lines": [
+    {
+      "id": "604b2af5ed8ef1001c09fbde",
+      "text": "POBox",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538952,
+      "updated": 1615538952
+    },
+    {
+      "id": "604b2b085b98c200007b7ac0",
+      "text": "[http://pitecan.com/OpenPOBox POBox]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538952,
+      "updated": 1615538953
+    },
+    {
+      "id": "604b2b095b98c200007b7ac1",
+      "text": " >「POBox」([* P]redictive [* O]peration [* B]ased [* O]n e[* X]ample)は 予測と曖昧検索にもとづく効率的な入力手法です。",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538953,
+      "updated": 1615539180
+    },
+    {
+      "id": "604b2b5d5b98c200007b7ac6",
+      "text": " 増井氏[増井俊之.icon]が開発した予測入力システム",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539037,
+      "updated": 1615539452
+    },
+    {
+      "id": "604b2b2d5b98c200007b7ac2",
+      "text": " SONYの[携帯電話]（[ガラケー]）に採用された",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538989,
+      "updated": 1615539084
+    },
+    {
+      "id": "604b2b375b98c200007b7ac5",
+      "text": "  人気が出たら、国内メーカー各社は[- パクった]同様のシステムを開発した",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538999,
+      "updated": 1615539600
+    },
+    {
+      "id": "604b2da45b98c200007b7acc",
+      "text": "  一方、APPLE は増井氏をヘッドハンティングした（らしい）",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539621,
+      "updated": 1615539740
+    },
+    {
+      "id": "604b2d0b5b98c200007b7acb",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539467,
+      "updated": 1615539467
+    },
+    {
+      "id": "604b2b2d5b98c200007b7ac3",
+      "text": "[https://ja.wikipedia.org/wiki/POBox POBox - Wikipedia]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538989,
+      "updated": 1615538989
+    },
+    {
+      "id": "604b2c455b98c200007b7ac7",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539270,
+      "updated": 1615539270
+    },
+    {
+      "id": "604b2c465b98c200007b7ac8",
+      "text": "[/nota-techconf/POBox]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539270,
+      "updated": 1615539271
+    },
+    {
+      "id": "604b2b2d5b98c200007b7ac4",
+      "text": "[/PDA-museum/文字認識つきPOBox]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615538989,
+      "updated": 1615541755
+    },
+    {
+      "id": "604b35fc5b98c200007b7acd",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615541757,
+      "updated": 1615541757
+    },
+    {
+      "id": "604b2ca65b98c200007b7ac9",
+      "text": "#notatech2021",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539366,
+      "updated": 1615539368
+    },
+    {
+      "id": "604b2ca75b98c200007b7aca",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1615539368,
+      "updated": 1615539368
+    }
+  ]
+}

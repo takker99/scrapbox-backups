@@ -1,0 +1,71 @@
+{
+  "id": "5f76863d33b486003a4516e1",
+  "title": "icon-suggestion",
+  "created": 1601603134,
+  "updated": 1611967806,
+  "lines": [
+    {
+      "id": "5f76863d33b486003a4516e1",
+      "text": "icon-suggestion",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603134,
+      "updated": 1601603138
+    },
+    {
+      "id": "5f7686451280f000001f6061",
+      "text": "[emoji-completion]と同様、絵文字を入力補完する[UserScript]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603142,
+      "updated": 1611967806
+    },
+    {
+      "id": "5f76869b1280f000001f6062",
+      "text": "[https://i.gyazo.com/thumb/1000/9bb62111ab9e6ccc924f3cdd0ee5cd1d-gif.gif]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603229,
+      "updated": 1601603230
+    },
+    {
+      "id": "5f7686401280f000001f605e",
+      "text": " [/mizdra/icon-suggestion]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603138,
+      "updated": 1601603170
+    },
+    {
+      "id": "5f7686421280f000001f6060",
+      "text": "　ページ内に埋め込まれた[アイコン記法]に限定されているようだ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603140,
+      "updated": 1601603264
+    },
+    {
+      "id": "5f7686e11280f000001f6065",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603299,
+      "updated": 1601603299
+    },
+    {
+      "id": "5f7686e71280f000001f6066",
+      "text": "[Popup menu]と入力画面が便利そう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603305,
+      "updated": 1601603327
+    },
+    {
+      "id": "5f7686fd1280f000001f6067",
+      "text": "\t[/takker/external-completion]に組み込めるかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603327,
+      "updated": 1601603351
+    },
+    {
+      "id": "5f7686411280f000001f605f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601603139,
+      "updated": 1601603139
+    }
+  ]
+}

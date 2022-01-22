@@ -1,0 +1,29 @@
+{
+  "id": "600e0f4d5b59980022b2ab6c",
+  "title": "NHK-R1",
+  "created": 1611534159,
+  "updated": 1611534273,
+  "lines": [
+    {
+      "id": "600e0f4d5b59980022b2ab6c",
+      "text": "NHK-R1",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611534159,
+      "updated": 1611534188
+    },
+    {
+      "id": "600e0f4fd43875000090266a",
+      "text": "[https://nhkradioakr1-i.akamaihd.net/hls/live/511633/1-r1/1-r1-01.m3u8#.mp3]R1",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611534160,
+      "updated": 1611534273
+    },
+    {
+      "id": "600e0f4fd43875000090266b",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611534160,
+      "updated": 1611534160
+    }
+  ]
+}

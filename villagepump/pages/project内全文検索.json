@@ -1,0 +1,57 @@
+{
+  "id": "6026cbd7e18e0d00204fb2df",
+  "title": "project内全文検索",
+  "created": 1613155289,
+  "updated": 1613173340,
+  "lines": [
+    {
+      "id": "6026cbd7e18e0d00204fb2df",
+      "text": "project内全文検索",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613155289,
+      "updated": 1613155289
+    },
+    {
+      "id": "6026cbefe5172d0000a0358e",
+      "text": "project内[全文検索]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613155312,
+      "updated": 1613155314
+    },
+    {
+      "id": "6026cbd9e5172d0000a0358b",
+      "text": "\t何度も考えたことがあるはずのことなのに無かったりすることが割とある[yosider.icon][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613155289,
+      "updated": 1613173310
+    },
+    {
+      "id": "6026cbdae5172d0000a0358c",
+      "text": "\t\tすぐ書く",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613155291,
+      "updated": 1613155293
+    },
+    {
+      "id": "6027124879d3a900008ddc16",
+      "text": "\t\t「いや、たしかに書いたはず」で検索粘って10分くらい経って結局なかったとか……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173321,
+      "updated": 1613173339
+    },
+    {
+      "id": "6027124979d3a900008ddc17",
+      "text": "\t[個人Project]が1個しかない人の場合は[プロジェクト横断検索]なしでこっちだけで済む",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1613173321,
+      "updated": 1613173340
+    },
+    {
+      "id": "6026cbdfe5172d0000a0358d",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613155296,
+      "updated": 1613155296
+    }
+  ]
+}

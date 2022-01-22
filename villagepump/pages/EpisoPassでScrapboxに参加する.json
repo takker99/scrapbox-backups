@@ -1,0 +1,211 @@
+{
+  "id": "5fea4ee022abe3002068d3bd",
+  "title": "EpisoPassでScrapboxに参加する",
+  "created": 1609191138,
+  "updated": 1609716657,
+  "lines": [
+    {
+      "id": "5fea4ee022abe3002068d3bd",
+      "text": "EpisoPassでScrapboxに参加する",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191138,
+      "updated": 1609191138
+    },
+    {
+      "id": "5fea4ee18ee92a0000ae087a",
+      "text": " [EpisoPass]問題を解いた瞬間にScrapboxに参加できるというのを考えたのですが、使う人いるですかね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191138,
+      "updated": 1609191176
+    },
+    {
+      "id": "5fea4ee18ee92a0000ae087b",
+      "text": " EpisoPassで[Invitation Link]を計算するだけですが",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191139,
+      "updated": 1609191246
+    },
+    {
+      "id": "5fea4fcc8ee92a00005c861c",
+      "text": " villagepump_invitation.html みたいなのにアクセスするとEpisoPass問題が表示され、正答すると参加できるみたいな",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191373,
+      "updated": 1609191411
+    },
+    {
+      "id": "5fea4f0f8ee92a0000ae087c",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609191185,
+      "updated": 1609191185
+    },
+    {
+      "id": "5fea687f1280f000004cfdfb",
+      "text": "問題を作るのがかなり難しいと思います[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609197696,
+      "updated": 1609197976
+    },
+    {
+      "id": "5fea688a1280f000004cfdfd",
+      "text": "　運用としては、問題の回答を知っている人物のみ参加できるという形になると考えられます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609197706,
+      "updated": 1609197831
+    },
+    {
+      "id": "5fea69071280f000004cfdfe",
+      "text": "　そのためには、参加させたい人は知っているがそれ以外の人は知らないような問題を複数作成する必要が生じます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609197831,
+      "updated": 1609197935
+    },
+    {
+      "id": "5fea696f1280f000004cfdff",
+      "text": "　　この条件を満たす問題を考え出す事自体困難だと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609197935,
+      "updated": 1609197974
+    },
+    {
+      "id": "5fea69991280f000004cfe00",
+      "text": "　　また仮に問題を作れたとしても、誰か一人が回答をどこかに漏らしてしまえばEpisoPassの意味がなくなります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609197978,
+      "updated": 1609198038
+    },
+    {
+      "id": "5feb35418ee92a0000588cdc",
+      "text": "　簡単な問題をひとつだけ用意する、みたいな運用も可能です [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609250114,
+      "updated": 1609250163
+    },
+    {
+      "id": "5feb35598ee92a0000588cdd",
+      "text": "　 招待URLを公開してるのとほとんど同じ状況",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609250138,
+      "updated": 1609250155
+    },
+    {
+      "id": "5feb35808ee92a0000588cde",
+      "text": "　 招待URLは誰かが漏らすことはありうるので、EpisoPassだからどうこうということはないハズ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609250177,
+      "updated": 1609250216
+    },
+    {
+      "id": "5febbe791280f0000009df92",
+      "text": "　 [/icons/たしかに.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609285241,
+      "updated": 1609285248
+    },
+    {
+      "id": "5fea68831280f000004cfdfc",
+      "text": " まぁすごく便利とか有用とかいうのじゃないですが、面白いかなとは思うわけですね [増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609197700,
+      "updated": 1609250302
+    },
+    {
+      "id": "5feb35dd8ee92a0000588ce0",
+      "text": "\t\tゲームをクリアした人だけが入れる掲示板みたいな感じかな？[yosider.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609250270,
+      "updated": 1609255692
+    },
+    {
+      "id": "5feb4ad4e5172d00008b9dba",
+      "text": "  別に外部に漏れてもいいけど、少しだけ手間をかけたいときに便利かもしれませんね[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1609255638,
+      "updated": 1609285308
+    },
+    {
+      "id": "5febbebc1280f0000009df94",
+      "text": "  　ゲームネタに詳しい人だけ入れるようにするとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609285308,
+      "updated": 1609285337
+    },
+    {
+      "id": "5febbed81280f0000009df95",
+      "text": "  　招待リンクを押せば参加できるのに比べて、ある程度参加のハードルを上げられる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609285337,
+      "updated": 1609285403
+    },
+    {
+      "id": "5ff01f658ee92a0000fc2920",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609572198,
+      "updated": 1609572198
+    },
+    {
+      "id": "5febbe8c1280f0000009df93",
+      "text": "[増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609285261,
+      "updated": 1609572196
+    },
+    {
+      "id": "5ff01f628ee92a0000fc291d",
+      "text": " `プロジェクト名_invitation.html` という名前で32桁の16進数が計算される場合、招待リンクと解釈することにしてみた",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609572194,
+      "updated": 1609572194
+    },
+    {
+      "id": "5ff01f628ee92a0000fc291e",
+      "text": " http://www.pitecan.com/tmp/masuilab_invitation.html を解くと[/masuilab]に参加できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609572194,
+      "updated": 1609572194
+    },
+    {
+      "id": "5ff01f628ee92a0000fc291f",
+      "text": "  よさそう！[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609572194,
+      "updated": 1609581095
+    },
+    {
+      "id": "5ff2248f8ee92a00007b57a1",
+      "text": " http://pitecan.com/tmp/villagepump_invitation.html で井戸端に参加できる",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609704591,
+      "updated": 1609704604
+    },
+    {
+      "id": "5ff224bc8ee92a0000c14af2",
+      "text": "  物知り or ググる手間をかける人 なら参加できる、みたいな",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609704637,
+      "updated": 1609704655
+    },
+    {
+      "id": "5ff0421c1280f000009aee3e",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1609581085,
+      "updated": 1609581085
+    },
+    {
+      "id": "5ff2424dd438750000fee01c",
+      "text": "中間テスト以下のミニテストをEpisoPassでやったら面白そう",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609712207,
+      "updated": 1609712229
+    },
+    {
+      "id": "5ff24252d438750000fee01d",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609712211,
+      "updated": 1609712211
+    }
+  ]
+}

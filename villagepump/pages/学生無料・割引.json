@@ -1,0 +1,99 @@
+{
+  "id": "6002b3530bbb2a001c9062ce",
+  "title": "学生無料・割引",
+  "created": 1610789721,
+  "updated": 1611581918,
+  "lines": [
+    {
+      "id": "6002b3530bbb2a001c9062ce",
+      "text": "学生無料・割引",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610789721,
+      "updated": 1611577817
+    },
+    {
+      "id": "600eb9dad4387500002e13f6",
+      "text": "Amazon Students",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611577819,
+      "updated": 1611577827
+    },
+    {
+      "id": "600eb9e2d4387500002e13f8",
+      "text": " [Amazon Prime]が安い",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611577827,
+      "updated": 1611577839
+    },
+    {
+      "id": "600eb9efd4387500002e13f9",
+      "text": " 入会してから4年なので、卒業ぎりぎり前にやっても良い",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611577840,
+      "updated": 1611577859
+    },
+    {
+      "id": "600eb9dcd4387500002e13f7",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611577821,
+      "updated": 1611577821
+    },
+    {
+      "id": "6002b35ad43875000081d3c8",
+      "text": "[国立科学博物館]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610789722,
+      "updated": 1611576340
+    },
+    {
+      "id": "6002b35ed43875000081d3c9",
+      "text": " [パートナーシップに参加している機関 https://www.kahaku.go.jp/learning/university/partnership/enroll.php]に限る",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610789726,
+      "updated": 1610789802
+    },
+    {
+      "id": "6002b372d43875000081d3ca",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610789747,
+      "updated": 1610789747
+    },
+    {
+      "id": "600ec99f1280f000004817b8",
+      "text": "[日経BP記事検索サービス アカデミック版]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611581855,
+      "updated": 1611581880
+    },
+    {
+      "id": "600ec9b51280f000004817b9",
+      "text": " 加入している大学に限る",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611581878,
+      "updated": 1611581893
+    },
+    {
+      "id": "600ec9c51280f000004817bb",
+      "text": " 1999年位からの日経の雑誌記事を全て読める",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611581893,
+      "updated": 1611581908
+    },
+    {
+      "id": "600ec9d51280f000004817bc",
+      "text": " 電子版のみの記事はない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611581909,
+      "updated": 1611581918
+    },
+    {
+      "id": "600ec9b81280f000004817ba",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611581881,
+      "updated": 1611581881
+    }
+  ]
+}

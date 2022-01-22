@@ -1,0 +1,183 @@
+{
+  "id": "5fa220b5bec3570023b9728f",
+  "title": "Roam Research",
+  "created": 1604460727,
+  "updated": 1605054620,
+  "lines": [
+    {
+      "id": "5fa220b5bec3570023b9728f",
+      "text": "Roam Research",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604460727,
+      "updated": 1604460728
+    },
+    {
+      "id": "5fa220bcdd59fe00006a3c98",
+      "text": "https://roamresearch.com/#/app/help",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604460732,
+      "updated": 1604460735
+    },
+    {
+      "id": "5fa220cadd59fe00006a3c9b",
+      "text": "　ヘルプページが保存機能なしの砂場になってて試用できる（ログイン不要）",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604460747,
+      "updated": 1604460924
+    },
+    {
+      "id": "5fa25732dd59fe0000e08801",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08802",
+      "text": " `((`を入力すると[全文検索]サジェストで任意のページ内の任意のツリーにリンクできる",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08803",
+      "text": " \t何かにリンクしたくなったときページを分けなくていい",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08804",
+      "text": "  \t正確には[トランスクルージョン]だけど、タイトルっぽい項目に中身を吊り下げてタイトルを呼べばリンクみたいなもの",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08805",
+      "text": "  \t[こんな感じ https://roamresearch.com/#/app/help/page/uuid384f2518-21e5-480c-ab43-03dede1f54d3]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08806",
+      "text": "  \t\tGoing Metaという部分はある日のDaily Noteに書かれていて、多数のページから「リンク」されている",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08807",
+      "text": " \tむしろページを分ける操作がない？",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08808",
+      "text": " \t\t(())記法で呼ばれている部分を切り出してページ化し、記法側もリンクに書き換えるみたいな操作があっても良さそうだけど",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa25732dd59fe0000e08809",
+      "text": " \t\tRoamの仕組み上なくてもいいのか",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474674,
+      "updated": 1604474674
+    },
+    {
+      "id": "5fa2587cdd59fe000028f247",
+      "text": " 一種の[内部状態]を持つエディタだ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604475005,
+      "updated": 1604475484
+    },
+    {
+      "id": "5fa25887dd59fe000028f248",
+      "text": " \t`{{[slider]}}`の値とか`:diagram`記法の接続関係・位置とか",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604475015,
+      "updated": 1604475087
+    },
+    {
+      "id": "5fa258d5dd59fe000028f24a",
+      "text": "  \tテキストに反映されないしコピーもできない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604475092,
+      "updated": 1604475464
+    },
+    {
+      "id": "5fa259e7dd59fe000028f24b",
+      "text": " \t`[[ページ名]]`のリンクも内部的にはIDらしい？",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604475366,
+      "updated": 1604475403
+    },
+    {
+      "id": "5fa243d0dd59fe000069f974",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604469712,
+      "updated": 1604469712
+    },
+    {
+      "id": "5fab0deadd59fe0000a97999",
+      "text": "[https://gyazo.com/cfbd8606fd570be7089c2c3337051bd6]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605045739,
+      "updated": 1605045763
+    },
+    {
+      "id": "5fab0df4dd59fe0000a9799b",
+      "text": " https://twitter.com/catominor3/status/1260452517491638279",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605045749,
+      "updated": 1605045774
+    },
+    {
+      "id": "5fab0ec1dd59fe0000a979a1",
+      "text": " [2-hop link]はtertiary referencesと表現されている",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605045954,
+      "updated": 1605054620
+    },
+    {
+      "id": "5fab0deadd59fe0000a9799a",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605045739,
+      "updated": 1605045739
+    },
+    {
+      "id": "5fa2573add59fe0000e08814",
+      "text": "関連",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474682,
+      "updated": 1604474683
+    },
+    {
+      "id": "5fa25734dd59fe0000e08813",
+      "text": " [/foldrr/RoamとScrapbox]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474676,
+      "updated": 1604474683
+    },
+    {
+      "id": "5fa25776dd59fe0000e08815",
+      "text": " [ScrapboxとRoam Researchでは主役が異なる | シゴタノ！ https://cyblog.jp/40928]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474742,
+      "updated": 1604474745
+    },
+    {
+      "id": "5fa25776dd59fe0000e08816",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604474742,
+      "updated": 1604474742
+    }
+  ]
+}

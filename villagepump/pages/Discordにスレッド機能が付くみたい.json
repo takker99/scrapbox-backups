@@ -1,0 +1,71 @@
+{
+  "id": "5fb394363b21cd00234c5f78",
+  "title": "Discordにスレッド機能が付くみたい",
+  "created": 1605604409,
+  "updated": 1605606556,
+  "lines": [
+    {
+      "id": "5fb394363b21cd00234c5f78",
+      "text": "Discordにスレッド機能が付くみたい",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605604409,
+      "updated": 1605606474
+    },
+    {
+      "id": "5fb394434daa92000056b6f4",
+      "text": "[Replies FAQ – Discord https://support.discord.com/hc/ja/articles/360057382374]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605604419,
+      "updated": 1605604433
+    },
+    {
+      "id": "5fb394534daa92000056b6f7",
+      "text": "\tthreadではなくrepliesとしか書かれてないけど、UIを見た感じおそらく[スレッド]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605604435,
+      "updated": 1605606074
+    },
+    {
+      "id": "5fb394514daa92000056b6f5",
+      "text": "\tDiscordの文化と相容れないと思っていたのでちょっと意外[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605604433,
+      "updated": 1605606456
+    },
+    {
+      "id": "5fb39c394daa92000088868e",
+      "text": "\t\t[強い時間軸指向はスレッドと相性が悪い？]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605606456,
+      "updated": 1605606457
+    },
+    {
+      "id": "5fb39c824daa920000888690",
+      "text": "\t政治的?な理由も少し感じる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605606530,
+      "updated": 1605606549
+    },
+    {
+      "id": "5fb39c2b4daa92000088868d",
+      "text": "\t\tユーザー層を拡大するためだったり",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605606443,
+      "updated": 1605606556
+    },
+    {
+      "id": "5fb39c9d4daa920000888691",
+      "text": "\t\t[Guilded]への流出を防ぐためだったり",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605606556,
+      "updated": 1605606556
+    },
+    {
+      "id": "5fb39c574daa92000088868f",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1605606487,
+      "updated": 1605606487
+    }
+  ]
+}

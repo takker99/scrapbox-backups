@@ -1,0 +1,36 @@
+{
+  "id": "5fe87af2e322d1001c6fc59f",
+  "title": "Distiller",
+  "created": 1609071349,
+  "updated": 1609071389,
+  "lines": [
+    {
+      "id": "5fe87af2e322d1001c6fc59f",
+      "text": "Distiller",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609071349,
+      "updated": 1609071349
+    },
+    {
+      "id": "5fe87af48ee92a00004ca029",
+      "text": " [PostScript]を[PDF]に変換するシステム",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609071349,
+      "updated": 1609071365
+    },
+    {
+      "id": "5fe87b068ee92a00004ca02b",
+      "text": " 昔は[Adobe]が売ってた気がするのだが、今はどのパソコンにも入ってるのかも? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609071367,
+      "updated": 1609071389
+    },
+    {
+      "id": "5fe87af48ee92a00004ca02a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609071349,
+      "updated": 1609071349
+    }
+  ]
+}

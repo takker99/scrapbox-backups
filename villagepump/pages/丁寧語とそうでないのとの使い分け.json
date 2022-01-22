@@ -1,0 +1,288 @@
+{
+  "id": "5fd5690caa8dcf00225b719e",
+  "title": "丁寧語とそうでないのとの使い分け",
+  "created": 1607821586,
+  "updated": 1608146701,
+  "lines": [
+    {
+      "id": "5fd5690caa8dcf00225b719e",
+      "text": "丁寧語とそうでないのとの使い分け",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821586,
+      "updated": 1607821604
+    },
+    {
+      "id": "5fd5693c1280f00000c42eca",
+      "text": "これは人によってかなり違いそうだから、[書いてけシリーズの]リスト方式より、日記方式のほうが描きやすいかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821629,
+      "updated": 1607821752
+    },
+    {
+      "id": "5fd569b81280f00000c42ed6",
+      "text": "[丁寧語]がない[文体]をなんと呼ぶのかわからなかったので「そうでないの」と表記しました",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821752,
+      "updated": 1607855615
+    },
+    {
+      "id": "5fd569d51280f00000c42ed7",
+      "text": "　知っている人がいたら書き換えてください",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821781,
+      "updated": 1607821789
+    },
+    {
+      "id": "5fd569471280f00000c42ecb",
+      "text": " [常体]「だ・である」と[敬体]「です・ます」のこと？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821640,
+      "updated": 1607824734
+    },
+    {
+      "id": "5fd5edc3e5172d00000f1b20",
+      "text": " \t敬体と丁寧語は同じと考えていい？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855553,
+      "updated": 1607855598
+    },
+    {
+      "id": "5fd5fb365b98c200002b02f9",
+      "text": " \t　だいたい同じ [suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1607858999,
+      "updated": 1607859011
+    },
+    {
+      "id": "5fd5750b5b98c20000d4671c",
+      "text": "#口調",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1607824652,
+      "updated": 1607855624
+    },
+    {
+      "id": "5fd5ee08e5172d00000f1b21",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855622,
+      "updated": 1607855622
+    },
+    {
+      "id": "5fd569721280f00000c42ecc",
+      "text": "[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821682,
+      "updated": 1607821683
+    },
+    {
+      "id": "5fd569731280f00000c42ecd",
+      "text": "internetのtext会話",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821683,
+      "updated": 1607821698
+    },
+    {
+      "id": "5fd569821280f00000c42ece",
+      "text": "　その場の気分",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821698,
+      "updated": 1607821827
+    },
+    {
+      "id": "5fda5e591280f0000048cbc9",
+      "text": "　　[SNSとかでどこまで敬語を使ってどこからタメ口を使うのか]という悩みに対する解決策……にはならないか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608146519,
+      "updated": 1608146548
+    },
+    {
+      "id": "5fda5e761280f0000048cbca",
+      "text": "　　少なくとも[初対面]でタメ口はちょっと無理だ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608146548,
+      "updated": 1608146568
+    },
+    {
+      "id": "5fd56a021280f00000c42ed8",
+      "text": "　ちょっと丁寧にしたいときにも使う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821827,
+      "updated": 1607821863
+    },
+    {
+      "id": "5fd569881280f00000c42ecf",
+      "text": "メール",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821704,
+      "updated": 1607821707
+    },
+    {
+      "id": "5fd5698b1280f00000c42ed0",
+      "text": "　全部[敬語]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821707,
+      "updated": 1608146484
+    },
+    {
+      "id": "5fd5698d1280f00000c42ed1",
+      "text": "物理世界",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821709,
+      "updated": 1607821720
+    },
+    {
+      "id": "5fd569931280f00000c42ed2",
+      "text": "　基本敬語",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821715,
+      "updated": 1607821728
+    },
+    {
+      "id": "5fd569a01280f00000c42ed4",
+      "text": "　独り言を表すときは敬語を抜く",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821728,
+      "updated": 1607821805
+    },
+    {
+      "id": "5fda5ef91280f0000048cbcc",
+      "text": "　 年上でも年下でも相手が教授でも抜く (流石にまずいか)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608146679,
+      "updated": 1608146701
+    },
+    {
+      "id": "5fd5692d1280f00000c42ec9",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607821613,
+      "updated": 1607821613
+    },
+    {
+      "id": "5fd5ec35e5172d00000f1b13",
+      "text": "[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855155,
+      "updated": 1607855156
+    },
+    {
+      "id": "5fd5ec37e5172d00000f1b14",
+      "text": "年上か年下かで決めがち",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855156,
+      "updated": 1607855201
+    },
+    {
+      "id": "5fd5ec52e5172d00000f1b16",
+      "text": "\t[年上]・[不特定多数]の人：[敬語]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855184,
+      "updated": 1607855510
+    },
+    {
+      "id": "5fd5ecfae5172d00000f1b1e",
+      "text": "\t\t親しくなったら敬語ではなく丁寧語になる？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855352,
+      "updated": 1607855492
+    },
+    {
+      "id": "5fd5ec74e5172d00000f1b18",
+      "text": "\t[年下]：常体",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855218,
+      "updated": 1607855416
+    },
+    {
+      "id": "5fd5ec8ee5172d00000f1b19",
+      "text": "\t\t初対面やあまり親しくないうちは丁寧語",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855244,
+      "updated": 1607855532
+    },
+    {
+      "id": "5fd5ec9fe5172d00000f1b1a",
+      "text": "\t[同い年]：気分・空気次第",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855261,
+      "updated": 1607855418
+    },
+    {
+      "id": "5fd5ecace5172d00000f1b1b",
+      "text": "\t\t相手が丁寧語だとこちらもそうしがち",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855274,
+      "updated": 1607855545
+    },
+    {
+      "id": "5fd5eccee5172d00000f1b1d",
+      "text": "\t\tこっちが常体なのに相手がいつまでも丁寧語だとちょっと寂しい",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855307,
+      "updated": 1607855527
+    },
+    {
+      "id": "5fd609fae5172d0000e09df1",
+      "text": "\tScrapboxだと気にせず常体にしがち",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607862776,
+      "updated": 1607862803
+    },
+    {
+      "id": "5fd5ec41e5172d00000f1b15",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855166,
+      "updated": 1607855166
+    },
+    {
+      "id": "5fd5eda2e5172d00000f1b1f",
+      "text": "[suto3.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607855519,
+      "updated": 1607859309
+    },
+    {
+      "id": "5fd5fc6d5b98c200002b02fa",
+      "text": "常体、敬体の他に、バイト敬語やオトナ語（[https://www.1101.com/otona/ オトナ語の謎。]）といったカテゴリもありますね。",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1607859310,
+      "updated": 1607859422
+    },
+    {
+      "id": "5fd61ced8ee92a0000bf1d1a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607867629,
+      "updated": 1607867629
+    },
+    {
+      "id": "5fd61ced8ee92a0000bf1d1b",
+      "text": "[増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607867630,
+      "updated": 1607867631
+    },
+    {
+      "id": "5fd61cef8ee92a0000bf1d1c",
+      "text": " ですます体で書いた論文があって違和感ありまくりだった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607867631,
+      "updated": 1607867654
+    },
+    {
+      "id": "5fd5fc765b98c200002b02fb",
+      "text": "　　雑誌の解説文みたいですんごい[違和感]だ[takker.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1607859319,
+      "updated": 1608146611
+    },
+    {
+      "id": "5fda5ea01280f0000048cbcb",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1608146590,
+      "updated": 1608146590
+    }
+  ]
+}

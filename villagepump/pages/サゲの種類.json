@@ -1,0 +1,57 @@
+{
+  "id": "5fec08f46f045c001c980ede",
+  "title": "サゲの種類",
+  "created": 1609304312,
+  "updated": 1609304436,
+  "lines": [
+    {
+      "id": "5fec08f46f045c001c980ede",
+      "text": "サゲの種類",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304312,
+      "updated": 1609304342
+    },
+    {
+      "id": "5fec0974d4387500006817cb",
+      "text": "https://ja.m.wikipedia.org/wiki/落ち",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304435,
+      "updated": 1609304436
+    },
+    {
+      "id": "5fec0917d4387500006817c9",
+      "text": "話のオチの種類",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304342,
+      "updated": 1609304352
+    },
+    {
+      "id": "5fec0904d4387500006817c7",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304323,
+      "updated": 1609304323
+    },
+    {
+      "id": "5fec0904d4387500006817c8",
+      "text": "トントン落ち",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304323,
+      "updated": 1609304326
+    },
+    {
+      "id": "5fec08fed4387500006817c6",
+      "text": "冗談落ち",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304318,
+      "updated": 1609304401
+    },
+    {
+      "id": "5fec094fd4387500006817ca",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609304398,
+      "updated": 1609304398
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "602c4b5cc04c740042ecf6ad",
+  "title": "JPCERT/CC",
+  "created": 1613515614,
+  "updated": 1613515899,
+  "lines": [
+    {
+      "id": "602c4b5cc04c740042ecf6ad",
+      "text": "JPCERT/CC",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515614,
+      "updated": 1613515723
+    },
+    {
+      "id": "602c4c037589210000351392",
+      "text": "https://www.jpcert.or.jp/",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515780,
+      "updated": 1613515780
+    },
+    {
+      "id": "602c4c037589210000351393",
+      "text": "　ソフトウェア脆弱性の注意喚起をしている",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515780,
+      "updated": 1613515899
+    },
+    {
+      "id": "602c4c527589210000351394",
+      "text": "　https://www.jpcert.or.jp/at/2021.html",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515859,
+      "updated": 1613515860
+    },
+    {
+      "id": "602c4be37589210000351390",
+      "text": "https://jvn.jp/",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515748,
+      "updated": 1613515748
+    },
+    {
+      "id": "602c4be37589210000351391",
+      "text": " ソフトウェア脆弱性の告知をしている",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515748,
+      "updated": 1613515761
+    },
+    {
+      "id": "602c4bca758921000035138f",
+      "text": "",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515723,
+      "updated": 1613515723
+    },
+    {
+      "id": "602c4c5d7589210000351395",
+      "text": "",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515870,
+      "updated": 1613515870
+    },
+    {
+      "id": "602c4c5e7589210000351396",
+      "text": "運用業務の人が毎日見てるイメージ",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515870,
+      "updated": 1613515887
+    },
+    {
+      "id": "602c4c637589210000351397",
+      "text": "",
+      "userId": "60226bcd2fbabe0022758921",
+      "created": 1613515876,
+      "updated": 1613515876
+    }
+  ]
+}

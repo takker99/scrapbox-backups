@@ -1,0 +1,113 @@
+{
+  "id": "603a23dd922f97001f5cbc35",
+  "title": "Scrapbox活用事例集が使いにくい",
+  "created": 1614423005,
+  "updated": 1614423773,
+  "lines": [
+    {
+      "id": "603a23dd922f97001f5cbc35",
+      "text": "Scrapbox活用事例集が使いにくい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423005
+    },
+    {
+      "id": "603a23dc1280f000009abd92",
+      "text": "from [public projectを紹介するページ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423005
+    },
+    {
+      "id": "603a23dc1280f000009abd94",
+      "text": "うまく言えないけど、[Scrapbox活用事例集]、なんか使いにくいの[suto3.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423020
+    },
+    {
+      "id": "603a23dc1280f000009abd95",
+      "text": " なんというか、手間のわりにすぐ行き止まりになるという印象。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423022
+    },
+    {
+      "id": "603a23dc1280f000009abd96",
+      "text": " \tたしかに、リンクをたどっていくというより、トップページを眺めて気になったものを見る→トップページに戻る→…、みたいな使い方をしがち[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423022
+    },
+    {
+      "id": "603a26d8e5172d0000bc1254",
+      "text": "\t\t一覧的な使い方のScrapboxとして、それはそれでいいような気もする[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614423767,
+      "updated": 1614423768
+    },
+    {
+      "id": "603a23f21280f00000cd506c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423027,
+      "updated": 1614423027
+    },
+    {
+      "id": "603a23dc1280f000009abd97",
+      "text": "動線(リンク)の貼り方がうまくないのかなあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423020
+    },
+    {
+      "id": "603a23dc1280f000009abd98",
+      "text": "\t[カテゴリとしてのリンクを使う]ぐらいしかリンクの張りようがない[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423020
+    },
+    {
+      "id": "603a23dc1280f000009abd99",
+      "text": "\t活用事例だけで、一般論みたいなことが書きづらいのも繋がらない原因？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423020
+    },
+    {
+      "id": "603a23f31280f00000cd506d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423029,
+      "updated": 1614423029
+    },
+    {
+      "id": "603a23dc1280f000009abd9a",
+      "text": "使いにくいですか... すみません [増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423020
+    },
+    {
+      "id": "603a23dc1280f000009abd9b",
+      "text": " どうすればいいでしょう?",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423005,
+      "updated": 1614423020
+    },
+    {
+      "id": "603a23f81280f00000cd506e",
+      "text": " →[Scrapbox活用事例集をrefactoring]する",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614423033,
+      "updated": 1614423254
+    },
+    {
+      "id": "603a26dee5172d0000bc1255",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614423773,
+      "updated": 1614423773
+    }
+  ]
+}

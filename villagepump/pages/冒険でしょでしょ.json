@@ -1,0 +1,36 @@
+{
+  "id": "60056fc1c442fe001ee8f55a",
+  "title": "冒険でしょでしょ",
+  "created": 1610969027,
+  "updated": 1610969056,
+  "lines": [
+    {
+      "id": "60056fc1c442fe001ee8f55a",
+      "text": "冒険でしょでしょ",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610969027,
+      "updated": 1610969027
+    },
+    {
+      "id": "60056fc38ee92a00005d9042",
+      "text": "[https://www.youtube.com/watch?v=xpyqVO9FMfA]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610969027,
+      "updated": 1610969056
+    },
+    {
+      "id": "60056fe08ee92a00005d9044",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610969056,
+      "updated": 1610969056
+    },
+    {
+      "id": "60056fc38ee92a00005d9043",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610969028,
+      "updated": 1610969028
+    }
+  ]
+}

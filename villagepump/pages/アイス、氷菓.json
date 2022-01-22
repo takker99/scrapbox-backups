@@ -1,0 +1,176 @@
+{
+  "id": "5fcf14abff6f0c001cf5d614",
+  "title": "アイス、氷菓",
+  "created": 1607406765,
+  "updated": 1609667092,
+  "lines": [
+    {
+      "id": "5fcf14abff6f0c001cf5d614",
+      "text": "アイス、氷菓",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406765,
+      "updated": 1607406813
+    },
+    {
+      "id": "5fcf14ddd43875000018c0a0",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406813,
+      "updated": 1607406813
+    },
+    {
+      "id": "5fcf14add43875000018c098",
+      "text": "ハーゲンダッツ[takker.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406766,
+      "updated": 1607428447
+    },
+    {
+      "id": "5fcf69601280f00000ea23e4",
+      "text": "　最近食べてない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607428448,
+      "updated": 1607428453
+    },
+    {
+      "id": "5ff1920e8ee92a00003cafed",
+      "text": "　妙に高くない? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1609667087,
+      "updated": 1609667092
+    },
+    {
+      "id": "5fcf14b9d43875000018c09b",
+      "text": "スーパーカップ[dnin.icon][kuuote.icon][air34n.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406777,
+      "updated": 1613112359
+    },
+    {
+      "id": "5fcf14bdd43875000018c09d",
+      "text": "ホームランバー[dnin.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406782,
+      "updated": 1613112359
+    },
+    {
+      "id": "5fcf14b7d43875000018c099",
+      "text": "ガリガリ君 [増井俊之.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406775,
+      "updated": 1607438719
+    },
+    {
+      "id": "5fcf14d5d43875000018c09f",
+      "text": "爽[MISONLN41.icon][takker.icon][air34n.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406805,
+      "updated": 1607441738
+    },
+    {
+      "id": "5fcf5b731280f000003fe1a4",
+      "text": "シャビィ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607424883,
+      "updated": 1607424890
+    },
+    {
+      "id": "5fcf14cad43875000018c09e",
+      "text": "雪にカルピスかけたやつ[takker.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607406795,
+      "updated": 1607424916
+    },
+    {
+      "id": "5fcf5b941280f000003fe1a7",
+      "text": "　雪山登山したときに食べた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607424916,
+      "updated": 1607424924
+    },
+    {
+      "id": "5fcf5b9d1280f000003fe1a8",
+      "text": "　おいしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607424925,
+      "updated": 1607424926
+    },
+    {
+      "id": "5fcf5ba21280f000003fe1a9",
+      "text": "　まねしちゃだめだぞ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607424931,
+      "updated": 1607424942
+    },
+    {
+      "id": "5fcf65104bb2e200000c6640",
+      "text": "　 マジレスすると雨や雪は塵が核になっているので割と汚い",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1607427284,
+      "updated": 1607427354
+    },
+    {
+      "id": "5fcf69481280f00000ea23e3",
+      "text": "　 なので本当にまねしちゃだめです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607428425,
+      "updated": 1607428438
+    },
+    {
+      "id": "5fcf5b8c1280f000003fe1a6",
+      "text": "サクレレモン[dnin.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607424909,
+      "updated": 1613112359
+    },
+    {
+      "id": "5fcf62b1d4387500004806f0",
+      "text": "雪見だいふく[takker.icon][air34n.icon][yosider.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607426738,
+      "updated": 1607449561
+    },
+    {
+      "id": "5fcf62c6d4387500004806f1",
+      "text": "MOW[yosider.icon][kuuote.icon]",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1607426758,
+      "updated": 1607441477
+    },
+    {
+      "id": "5fcf9d041d860a00007f2acc",
+      "text": "チョコバー[air34n.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1607441669,
+      "updated": 1607441680
+    },
+    {
+      "id": "5fcf9d1f1d860a00007f2acd",
+      "text": "クーリッシュ[air34n.icon][takker.icon]",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1607441696,
+      "updated": 1607443630
+    },
+    {
+      "id": "5fcf94c2e5172d0000b0c508",
+      "text": "パルム[air34n.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607439554,
+      "updated": 1607441620
+    },
+    {
+      "id": "5ff18890d438750000039f1b",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1609664657,
+      "updated": 1609664697
+    },
+    {
+      "id": "5fcf9cce1d860a00007f2acb",
+      "text": "",
+      "userId": "58e5636749e40700111d860a",
+      "created": 1607441615,
+      "updated": 1607441615
+    }
+  ]
+}

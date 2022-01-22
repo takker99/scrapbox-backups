@@ -1,0 +1,680 @@
+{
+  "id": "5fa21db3162579001eb9368c",
+  "title": "Scrapboxに向いてない人",
+  "created": 1604459957,
+  "updated": 1614414652,
+  "lines": [
+    {
+      "id": "5fa21db3162579001eb9368c",
+      "text": "Scrapboxに向いてない人",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c65",
+      "text": "これ知りたい[takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c66",
+      "text": " [Markdown] じゃなきゃだめだという人とか [suto3.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c67",
+      "text": " \t大した問題ではないと思うけどなあ[takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c68",
+      "text": "  \tscrapbox記法<=>markdown記法の変換ができれば良い",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c69",
+      "text": "   \t別に[/icons/word.icon]のようにバイナリデータで扱いが難しいというわけでもないので",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c6a",
+      "text": "   \tまだやっつけ状態だけど出来た",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c6b",
+      "text": "   \t\t[/takker/選択範囲をMarkdown記法に変換してclip boardにcopyするPopupMenu]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c6c",
+      "text": "   [takker.icon]はconverterさえあれば、どんな独自記法を用いても構わないと思っている",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c6d",
+      "text": "  [/masui/なぜScrapboxはMarkdownを採用していないのか]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c6e",
+      "text": "  [/rakusai/ScrapboxとMarkdownの思想的な違い]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fc3bee58ee92a0000b69376",
+      "text": "  MDラブなのは一部のエンジニアだけなんじゃないですかね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606663910,
+      "updated": 1606663923
+    },
+    {
+      "id": "5fc3bef48ee92a0000b69377",
+      "text": "   GitHub他でも使いたい、とかいうだけだと思う",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606663925,
+      "updated": 1606663947
+    },
+    {
+      "id": "6039ee45e5172d0000e14d33",
+      "text": "  個人的にはMarkdownって何？に近い状態だったので問題なかった()[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1614409284,
+      "updated": 1614409322
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c6f",
+      "text": " 階層を持たない、フラットなデータ構造に馴染めない人もいると思う　[suto3.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c70",
+      "text": " \t[/icons2/wakaru.icon][takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c71",
+      "text": " \t\t[/shokai/Scrapboxの哲学]とか[階層構造]の弊害とかの記事を読んで考えを理解しないと、普通は馴染めないと思う",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fc3bf168ee92a0000b69378",
+      "text": " \tかえって、階層に慣れてないピープルの方が馴染めるのかも [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606663959,
+      "updated": 1606663980
+    },
+    {
+      "id": "5fc3c2b08ee92a0000b6938c",
+      "text": " \t フォルダて何? みたいな人",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606664880,
+      "updated": 1606664888
+    },
+    {
+      "id": "6039d1d31280f00000e221c5",
+      "text": " ある程度の[秩序]が欲しい人",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402003,
+      "updated": 1614402012
+    },
+    {
+      "id": "6039d2241280f00000e221c6",
+      "text": "  >まずScrapboxはツールの種類としてはwikiで、更に「タグ」と「ページ」を区別しません。「タグ的な見た目をしたもの」と「個別の記事的な見た目をしたもの」が同じものとして扱われます（言葉で説明すると難解ですが、使ってみればすぐに意味するところがわかると思います）。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402083,
+      "updated": 1614402084
+    },
+    {
+      "id": "6039d2251280f00000e221c7",
+      "text": "  > ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402084,
+      "updated": 1614402084
+    },
+    {
+      "id": "6039d2251280f00000e221c8",
+      "text": "  > つまり、[* 同じ場所に、同じようなサイズ感で、「タグとして用いたいもの」と「個別記事として扱いたいもの」が同居する]ことになります。これはものすごい長所であると同時に、なんともいえない混沌を生み出すことになります。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402084,
+      "updated": 1614402136
+    },
+    {
+      "id": "6039d2261280f00000e221c9",
+      "text": "  (中略)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402086,
+      "updated": 1614402091
+    },
+    {
+      "id": "6039d22d1280f00000e221ca",
+      "text": "  >混沌であることが必ずしも悪いというわけでもなく、自分の脳もそのようにカオスであることを踏まえれば、別に気にすることはないのかもしれません。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402093,
+      "updated": 1614402105
+    },
+    {
+      "id": "6039d23a1280f00000e221cb",
+      "text": "  > ただ、個人的にはちょっと気になりすぎて耐えられなかったので、なんとかしたくなりました。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402105,
+      "updated": 1614402105
+    },
+    {
+      "id": "6039d23a1280f00000e221cc",
+      "text": "  > [* 混沌と自由はイコールではなく、私の場合は混沌であることが自由を妨げるので、自由に動ける程度の秩序を作ることが必要だと感じたからです。]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402105,
+      "updated": 1614402116
+    },
+    {
+      "id": "6039d25c1280f00000e221cd",
+      "text": "  from [https://note.com/noratetsu/n/nbb2412e139c0 Scrapboxのページは三種類――タグ・キーワード・個別記事｜のらてつ｜note]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614402140,
+      "updated": 1614402159
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c72",
+      "text": " 行頭一字下げをやりたい人、たぶんキレると思う[suto3.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c73",
+      "text": "　　[- これは確かUserScriptがあったような…？]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c74",
+      "text": "\t\tなかった",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c75",
+      "text": "\t\t\t[/scrapboxlab/行頭字下げをしたい]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c76",
+      "text": "\t\t\t[/scrapboxlab/行頭字下げしても個条書き風にならないUserCSS]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c77",
+      "text": "\t\tこればっかりは[/shokai/Scrapboxの哲学]と相容れないかな",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c78",
+      "text": "\t\t\t見た目は重要じゃない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c79",
+      "text": "\t\t実はできる[yuta0801.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459960
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c7a",
+      "text": "[　　　　　　]この行は字下げになってる。`[　]`みたいに空白をブラケットで包めばそのまま表示してくれる",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c7b",
+      "text": "\t\t\t\t[/masui]で使われていて知ったのだけど、今見に行っても見つけられなかった",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c7c",
+      "text": "\t\t\t\t\t透明アイコンになってた",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c7d",
+      "text": "\t\t\t\t\t[/masui/字下げ.icon]←これだ",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c7e",
+      "text": "\t\t\t\tこれですね[takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c7f",
+      "text": "\t\t\t\t\t[/scrapboxlab/行頭字下げをしたい]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c80",
+      "text": "\t\t\t\t\tリンクにならずにそのまま空白で表示されるのは知らなかった",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1604459957
+    },
+    {
+      "id": "5fc3bf3c8ee92a0000b69379",
+      "text": "\t\t\t\tこれは非推奨なんですけどね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606663997,
+      "updated": 1606664010
+    },
+    {
+      "id": "5fc45b301280f000005d38bc",
+      "text": "\t\t\t\tなぜ非推奨なのですか？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606703920,
+      "updated": 1606703931
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c81",
+      "text": "\t[ワープロ]文書のようなデジタルコンテンツを求めている人にも向かないだろうね。[suto3.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c82",
+      "text": "\t\t目的が違いますからね",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c83",
+      "text": "\t\t多分[/icons/Scrapbox.icon]のターゲットとなる人たちではない",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c84",
+      "text": "\t\t素直に[/icons/LaTeX.icon]を勧めます",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c85",
+      "text": "\t\t\tもしくは[Notion]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c86",
+      "text": "\t\t\t普通に[markdown]でもいいかも",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fc3c2408ee92a0000b6938b",
+      "text": "\t\t\t[$ \\LaTeX]はナイのでは... [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606664769,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fc3c2d18ee92a0000b6938d",
+      "text": "\t\t\t Wordかな?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606664914,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fc45ac11280f000005d38b7",
+      "text": "\t\t\t [$ \\LaTeX]はテキスト形式なのがよいです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606703809,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fc45aef1280f000005d38b8",
+      "text": "\t\t\t 　[環境構築]は地獄ですが",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606703856,
+      "updated": 1610180192
+    },
+    {
+      "id": "5ff965b08ee92a000067d3a8",
+      "text": "\t\t\t 　クラウドで使うのがいいかも [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1610180018,
+      "updated": 1610180192
+    },
+    {
+      "id": "5ff969d91280f000008cf2bb",
+      "text": "\t\t\t 　[Cloud LaTeX]というのがあったなあ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610181081,
+      "updated": 1610181090
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c87",
+      "text": "\t\t[/icons/word.icon]は勧めにくい",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c88",
+      "text": "\t\t\tスタイルを使いこなせないと操作性がメモ帳以下",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fc45b101280f000005d38bb",
+      "text": "\t\t それにバイナリだしボタンありすぎだし[- Microsoftだし]......",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1606703889,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c89",
+      "text": "\tPCを持っていない人←ほんとこれだと思う。",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c8a",
+      "text": "\t\tスマートフォンやタブレットでも使えるけど、快適に[アウトライン]編集するにはやはりPCが必要",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c8b",
+      "text": "\t\t>20代は「スマートフォン」83.3％に対し、「ノートパソコン」43.2％、「デスクトップパソコン」17.1％と、それぞれ2分の1、4分の1まで減少する。 https://webtan.impress.co.jp/n/2019/09/17/33951",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c8c",
+      "text": "\t\tGoogleアカウントさえ持っていればなんとかなるので、PCは借り物でなんとかできると思う[suto3.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c8d",
+      "text": " [Wiki]のコンセプトを知らない、というか、知ろうともしない人も向かないだろうね。[suto3.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c8e",
+      "text": "  的外れの評価が多すぎ（個人の感想です）",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c8f",
+      "text": "  そのへんはscrapbox userが[ダイマ]していくしかないかな[takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c90",
+      "text": "　　\t「scrapboxのコンセプト・設計背景を知らないで使うな」",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c91",
+      "text": "　　\tではなく、",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c92",
+      "text": "　　\t「スクボ初心者が来たぞ！」「囲め囲め！」「使い方と設計思想を丁重に教えて[- スクボ廃人にして]差し上げろ！」",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "5fa21db5dd59fe00006a3c93",
+      "text": "　　\tみたいなノリで行く",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1604459957,
+      "updated": 1610180192
+    },
+    {
+      "id": "6006b0e005533200003b8c9f",
+      "text": "　　\t　[VRCHAT]界隈かな？",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1611051233,
+      "updated": 1611051240
+    },
+    {
+      "id": "5fc3c2e68ee92a0000b6938e",
+      "text": "\t「[リテラシー]」を持ってない人",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606664935,
+      "updated": 1610181112
+    },
+    {
+      "id": "5ff9647579d3a90000df383d",
+      "text": "\t\tリテラシーというか基礎素養というか適性というか資質というか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179692,
+      "updated": 1610180029
+    },
+    {
+      "id": "5ff964b479d3a90000df3842",
+      "text": "\t\t\tでも学生さんでも普通に適応できるみたいだし、啓蒙の仕方が悪いだけかも",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179755,
+      "updated": 1610179779
+    },
+    {
+      "id": "5ff9647579d3a90000df383e",
+      "text": "\t\t大企業勤務だが（だからかどうかは知らないが）こういう人が結構いる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179692,
+      "updated": 1610179805
+    },
+    {
+      "id": "5ff9648379d3a90000df3840",
+      "text": "\t\t\tテキストは残り続けるのでできるだけ残したくない（揚げ足取られる）",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179706,
+      "updated": 1610179720
+    },
+    {
+      "id": "5ff9656e79d3a90000df3847",
+      "text": "\t\t\tテキストは[非言語コミュニケーション]じゃなくて感情が伝わらないので論外",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179941,
+      "updated": 1612874017
+    },
+    {
+      "id": "5ff965e879d3a90000df3848",
+      "text": "\t\t\tそもそも自分みたいな人間が物申すなんて考えられない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610180064,
+      "updated": 1610180075
+    },
+    {
+      "id": "5ff9649179d3a90000df3841",
+      "text": "\t\t「リテラシー」に相当する何かがある気がしてならない[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179720,
+      "updated": 1610180031
+    },
+    {
+      "id": "6039e9ba4bb2e200005419f4",
+      "text": "\t自由なエディタを使いたい人",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1614407912,
+      "updated": 1614407922
+    },
+    {
+      "id": "6039e9c44bb2e200005419f5",
+      "text": "\t >Scrapbox は思想が強すぎて私には合わなかったので個人的には使ってないんだよな",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1614407922,
+      "updated": 1614408037
+    },
+    {
+      "id": "6039ea384bb2e200005419f6",
+      "text": "\t >私の場合はメモ書くなら Vim から使えないと話にならないので…",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1614408038,
+      "updated": 1614408049
+    },
+    {
+      "id": "6039ea444bb2e200005419f7",
+      "text": "\t >確固たる思想の元、API は提供しないとのことだったので、[not for me] ですねってなった",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1614408050,
+      "updated": 1614409200
+    },
+    {
+      "id": "6039ea544bb2e200005419f8",
+      "text": "\t  [このへん https://vim-jp.org/slacklog/C03C4RC9F/2021/02/#ts-1614093202.037400]から抜粋",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1614408066,
+      "updated": 1614408085
+    },
+    {
+      "id": "6039eace4bb2e200005419f9",
+      "text": "\t  自分もエディタ部分にはちょっと不満があるのでわかる[kuuote.icon][takker.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1614408188,
+      "updated": 1614413322
+    },
+    {
+      "id": "5ff9651179d3a90000df3844",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610179848,
+      "updated": 1610179861
+    },
+    {
+      "id": "5fc3c2e98ee92a0000b69390",
+      "text": " 学生のレポートは全部Scrapboxで書いてもらってますが、特に文句は来ませんし、結構うまく使ってくれてる人がほとんどですね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606664938,
+      "updated": 1606665067
+    },
+    {
+      "id": "5fc3c2e88ee92a0000b6938f",
+      "text": "  プロジェクトさえ作れれば後は簡単みたい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606664936,
+      "updated": 1606665022
+    },
+    {
+      "id": "5fc3c3308ee92a0000b69391",
+      "text": "  おおかたの人はMDラブなんかじゃないし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606665009,
+      "updated": 1606665044
+    },
+    {
+      "id": "5fcca08b4daa920000acd271",
+      "text": "  使い方を教えられるような環境が必要だったりするのかな[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1607245963,
+      "updated": 1607245976
+    },
+    {
+      "id": "603a03251280f00000e6a2b6",
+      "text": "   企業向けにはNota Inc.で導入説明とかやってくれるらしい[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1614414630,
+      "updated": 1614414652
+    },
+    {
+      "id": "5fcb6e2a1280f00000dc64ef",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607167531,
+      "updated": 1610179691
+    },
+    {
+      "id": "5fc3c34a8ee92a0000b69392",
+      "text": "部活仲間に勧めたときに「自分に完全に合わないとわかった」と言ってた人がいた[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606665035,
+      "updated": 1607167569
+    },
+    {
+      "id": "5fcb6e411280f00000dc64f0",
+      "text": "\t理由が今でも気になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607167553,
+      "updated": 1607167566
+    },
+    {
+      "id": "5fc3c3768ee92a0000b69393",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606665079,
+      "updated": 1606665079
+    }
+  ]
+}

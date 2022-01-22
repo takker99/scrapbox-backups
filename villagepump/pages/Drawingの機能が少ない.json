@@ -1,0 +1,498 @@
+{
+  "id": "6003ec2921c658001cfb6693",
+  "title": "Drawingの機能が少ない",
+  "created": 1610869802,
+  "updated": 1615970914,
+  "lines": [
+    {
+      "id": "6003ec2921c658001cfb6693",
+      "text": "Drawingの機能が少ない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869802
+    },
+    {
+      "id": "600528bbe5172d000074b95a",
+      "text": "[https://gyazo.com/f0c83ff088430260df19c9c2fd19236d]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610950840,
+      "updated": 1610950840
+    },
+    {
+      "id": "600528bde5172d000074b95b",
+      "text": "\t謎に質の高いロゴが下に置かれていたので、上にもってきておく[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610950841,
+      "updated": 1610950899
+    },
+    {
+      "id": "60058160b3e7ed000005c403",
+      "text": "\t\t作ったのだろうか....もとからあったのだろうか......",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1610973537,
+      "updated": 1610973552
+    },
+    {
+      "id": "60058b011280f00000f5120e",
+      "text": "\t昨日かおととい誰かが作ってましたね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610976002,
+      "updated": 1610976014
+    },
+    {
+      "id": "602aade1e5172d0000102b0c",
+      "text": "\t[はがないジェネレータ]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1613409760,
+      "updated": 1613409763
+    },
+    {
+      "id": "600528f6e5172d000074b95c",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610950899,
+      "updated": 1610950900
+    },
+    {
+      "id": "6003ec2be5172d0000ac2925",
+      "text": "[Drawing]の機能が少ない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869802
+    },
+    {
+      "id": "6003ec2be5172d0000ac2926",
+      "text": " [/icons/done.icon]undoがない[sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1615970890
+    },
+    {
+      "id": "6051c2491280f0000083fb3b",
+      "text": "  2021-03-17 02:23:19 実装されました！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615970891,
+      "updated": 1615970914
+    },
+    {
+      "id": "6051c2511280f0000083fb3c",
+      "text": "  　[/help-jp/リリースノート2021#6051a62c97c29100008159b7]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1615970899,
+      "updated": 1615970902
+    },
+    {
+      "id": "6003ec2be5172d0000ac2927",
+      "text": "  消しゴムを工夫して使えばundoとして使えるからいいじゃん、ということなのでは[takker.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ee6f79d3a900007af4ef",
+      "text": "  Undoだけはキー一発でサクッと発動できるとありがたい[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870384,
+      "updated": 1610870665
+    },
+    {
+      "id": "6003ee8279d3a900007af4f0",
+      "text": "  \tその他の機能拡充は別に要らない",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870402,
+      "updated": 1610870409
+    },
+    {
+      "id": "6003ee8c79d3a900007af4f1",
+      "text": "  \tUndoだけ……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870411,
+      "updated": 1610870414
+    },
+    {
+      "id": "6003ee8f79d3a900007af4f2",
+      "text": "  \t消しゴムモードにして消して、またペンモードにして ← これがしんどい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870415,
+      "updated": 1610870427
+    },
+    {
+      "id": "6003f0921280f00000141955",
+      "text": "  \t なぜかしんどくなかった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870931,
+      "updated": 1610870957
+    },
+    {
+      "id": "6003f0ad1280f00000141958",
+      "text": "  \t  例えば[電子レンジの前に物が置かれてしまう問題.icon]はガタガタの線を消しては描くを何度も繰り返した",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870957,
+      "updated": 1610871014
+    },
+    {
+      "id": "6003f0e61280f0000014195a",
+      "text": "  \t  8minくらいかかったけどしんどいとは思わなかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610871014,
+      "updated": 1610871031
+    },
+    {
+      "id": "6003f0981280f00000141956",
+      "text": "  \t これも一種の[特殊能力]か",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870937,
+      "updated": 1610870947
+    },
+    {
+      "id": "6003ee9e79d3a900007af4f3",
+      "text": "  \tが、僕の絵書きスキルが低すぎるせいかもしれない[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870430,
+      "updated": 1610870454
+    },
+    {
+      "id": "6003eeb679d3a900007af4f4",
+      "text": "  \t\tマウスで書いてる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870454,
+      "updated": 1610870458
+    },
+    {
+      "id": "6003eeba79d3a900007af4f5",
+      "text": "  \t\t正確性がゴミなのでめちゃくちゃミスする",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870458,
+      "updated": 1610870466
+    },
+    {
+      "id": "6003eec379d3a900007af4f6",
+      "text": "  \t\t\t□一つ書くのに3-4回はミスするｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870466,
+      "updated": 1610870477
+    },
+    {
+      "id": "6003eecf79d3a900007af4f7",
+      "text": "  \t\t\tしまいには□に見えるか怪しい物体のまま進めちゃう",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870479,
+      "updated": 1610870494
+    },
+    {
+      "id": "6003eee579d3a900007af4f8",
+      "text": "  \t\tたぶん絵描き慣れてる人は、ちょっとした絵ならノーミスで行っちゃう？",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870501,
+      "updated": 1610870517
+    },
+    {
+      "id": "6003ec2be5172d0000ac2928",
+      "text": " 色が少ない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac2929",
+      "text": " 画質が悪い",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ed19e5172d0000902737",
+      "text": "\t丸とか四角のような図形を描ける機能",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870040,
+      "updated": 1610870040
+    },
+    {
+      "id": "6003ed19e5172d0000902738",
+      "text": "\tテキスト入力できる機能",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870040,
+      "updated": 1610870040
+    },
+    {
+      "id": "6003ed4fe5172d0000902746",
+      "text": "\t\tマウスだと文字を書くのが一番むずかしい気がする[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870094,
+      "updated": 1610870132
+    },
+    {
+      "id": "6003f1011280f0000014195b",
+      "text": "\t\t ゆっくり動かすのがコツ([バッドノウハウ])[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610871042,
+      "updated": 1610871055
+    },
+    {
+      "id": "6003ed1ae5172d0000902739",
+      "text": "\t\t[Ziteboard]だとクリックした位置から文字入力開始できて、これ便利ってなった",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870041,
+      "updated": 1610870571
+    },
+    {
+      "id": "6003ef1b79d3a900007af4fa",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870555,
+      "updated": 1610870555
+    },
+    {
+      "id": "6003ed2ce5172d0000902742",
+      "text": "\t機能が少ないことで、描き直しが何回も発生して時間かかるのがもったいない[yosider.icon][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870059,
+      "updated": 1610870373
+    },
+    {
+      "id": "6003ed2de5172d0000902743",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870060,
+      "updated": 1610870060
+    },
+    {
+      "id": "6003ec2be5172d0000ac292a",
+      "text": " もっと多機能の使いたかったらおとなしく専用のお絵描きソフトやweb serviceを使えばいいと思う[takker.icon][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610870638
+    },
+    {
+      "id": "6003ec2be5172d0000ac292b",
+      "text": "  [Drawing]はあくまで[思考を練るツール]の補助としての役割",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac292c",
+      "text": "   言葉にしづらいことを簡単な図で表現する",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac292d",
+      "text": "  あんまり多機能にすると",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac292e",
+      "text": "   思考以外のことに意識が割かれてしまう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac292f",
+      "text": "    表現したいことを伝えられればよかったのに、「線を真っ直ぐにしなきゃ」とか「彩度を落とそう」とか全然関係ないことに[思考のリソース]を使ってしまう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac2930",
+      "text": "   [UIがボタンだらけ]になる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec2be5172d0000ac2931",
+      "text": " ちなみに[Gyazo Pro]なら色ペンを使える",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869802,
+      "updated": 1610869866
+    },
+    {
+      "id": "6003ec95e5172d0000902728",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869908,
+      "updated": 1610869908
+    },
+    {
+      "id": "60059c55db62ad000003d6d2",
+      "text": " 手書きでScrapbox、いろいろ試行錯誤した結果[iPad]をPCにミラーリングしてスクショして[Gyazo]るという方法に落ち着いた[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610980437,
+      "updated": 1610980527
+    },
+    {
+      "id": "60059ddadb62ad000003d6d8",
+      "text": " \tこれならSAIやComicStudioなど、任意のお気に入りのツールを使える([yanma.icon]はGoodNotesというのを使っている)",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610980826,
+      "updated": 1610980909
+    },
+    {
+      "id": "60059c55db62ad000003d6d3",
+      "text": "\t\tいかにもオマケ機能の[Drawing]を使いこなすよりは、手書き専門に作られたツールを使うほうが(現時点では)良さそう",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610980437,
+      "updated": 1610980641
+    },
+    {
+      "id": "60059d33db62ad000003d6d7",
+      "text": "\t\tもし[Drawing]を伸ばしていくとするなら、単に高機能お絵かきツールに近づけていくのは車輪の再発明になりそうなので、多人数編集やブラケティングみたいな[Scrapbox]ならではの進化に期待",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610980659,
+      "updated": 1610980960
+    },
+    {
+      "id": "60059cbddb62ad000003d6d4",
+      "text": "",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1610980541,
+      "updated": 1610980541
+    },
+    {
+      "id": "6003ef3079d3a900007af4fb",
+      "text": " Scrapbox開発陣の貴重なリソースをDrawingごときに使ってほしくないってのはある[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870576,
+      "updated": 1610870590
+    },
+    {
+      "id": "6003ec51e5172d0000902725",
+      "text": "\t\t余計なお世話＆要らないお世話だと思うが",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869840,
+      "updated": 1610870605
+    },
+    {
+      "id": "6003ef4379d3a900007af4fc",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870595,
+      "updated": 1610870595
+    },
+    {
+      "id": "6003eff2e5172d0000cf6462",
+      "text": "\t[ペンタブレット]とか[iPad]とかほしい[yosider.icon][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870770,
+      "updated": 1611012720
+    },
+    {
+      "id": "6003f0741280f00000141951",
+      "text": "\t スマホから書いたらなんか細くなった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870901,
+      "updated": 1610870907
+    },
+    {
+      "id": "6003f07e1280f00000141953",
+      "text": "\t [https://gyazo.com/b14ace76ddf49cdd57085c8081857a32]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870911,
+      "updated": 1610870920
+    },
+    {
+      "id": "6003f07b1280f00000141952",
+      "text": "\t from [/takker/スマホからDrawingを試す]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870907,
+      "updated": 1610870910
+    },
+    {
+      "id": "6003f108e5172d0000312d61",
+      "text": "\t [手書き文字]にしかない魅力があるなあと思った[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610871047,
+      "updated": 1610871090
+    },
+    {
+      "id": "6003effbe5172d0000cf6464",
+      "text": "\t\t[ミニマリスト]で机が小さいから所有できないという[ジレンマ][sta.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870778,
+      "updated": 1611012745
+    },
+    {
+      "id": "60061a7579d3a90000ec37a3",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1611012723,
+      "updated": 1611012723
+    },
+    {
+      "id": "6004d7811280f0000036a71e",
+      "text": "代替となる非公式ツール",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610930050,
+      "updated": 1610930057
+    },
+    {
+      "id": "6004d7d11280f0000036a725",
+      "text": "　[Kakeru]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610930130,
+      "updated": 1610930140
+    },
+    {
+      "id": "6004d7891280f0000036a721",
+      "text": " [/daiiz/SVGお絵描き]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610930058,
+      "updated": 1610930092
+    },
+    {
+      "id": "6004d7ae1280f0000036a722",
+      "text": "  [お絵カキコ]とおんなじことできてしかもsvgなすごいやつ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610930094,
+      "updated": 1610930111
+    },
+    {
+      "id": "6004d7811280f0000036a71f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610930050,
+      "updated": 1610930050
+    },
+    {
+      "id": "6003ec4fe5172d0000902723",
+      "text": "from [Scrapboxの未解決問題]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869838,
+      "updated": 1610869838
+    },
+    {
+      "id": "6003ec4fe5172d0000902724",
+      "text": "from [Drawing]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610869838,
+      "updated": 1610869838
+    },
+    {
+      "id": "6003ed32e5172d0000902745",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1610870065,
+      "updated": 1610870065
+    },
+    {
+      "id": "6004e40ad438750000bec414",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610933258,
+      "updated": 1610933258
+    },
+    {
+      "id": "6004e40ad438750000bec413",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1610933258,
+      "updated": 1610933258
+    }
+  ]
+}

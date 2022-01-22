@@ -1,0 +1,85 @@
+{
+  "id": "5f6d516fd1a4aa0022e7557e",
+  "title": "WebAssembly",
+  "created": 1600999792,
+  "updated": 1605543538,
+  "lines": [
+    {
+      "id": "5f6d516fd1a4aa0022e7557e",
+      "text": "WebAssembly",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600999792,
+      "updated": 1600999792
+    },
+    {
+      "id": "5f6d51731280f00000f02133",
+      "text": ">ネイティブに近いパフォーマンスで動作するコンパクトなバイナリー形式の低レベルな[アセンブリ]風言語です。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600999796,
+      "updated": 1600999828
+    },
+    {
+      "id": "5f6d51701280f00000f02131",
+      "text": "from [https://developer.mozilla.org/ja/docs/WebAssembly WebAssembly | MDN]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600999792,
+      "updated": 1600999835
+    },
+    {
+      "id": "5f7670ee1280f0000028f4c9",
+      "text": "　略称：[WASM]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601597679,
+      "updated": 1601597690
+    },
+    {
+      "id": "5f6d518d1280f00000f02135",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600999822,
+      "updated": 1600999822
+    },
+    {
+      "id": "5f6d519c1280f00000f02137",
+      "text": "へー、そういう技術があるのかあ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600999837,
+      "updated": 1600999850
+    },
+    {
+      "id": "5f6d519f1280f00000f02138",
+      "text": " [Uno Platform]も裏側では[WebAssembly]を使っているらしい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600999840,
+      "updated": 1601597677
+    },
+    {
+      "id": "5f7670cb1280f0000028f4c8",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1601597645,
+      "updated": 1601597645
+    },
+    {
+      "id": "5fb2a61ddd59fe000084b003",
+      "text": "RustとかからWebAPIが呼べるのは凄いけど、パフォーマンス的にはどうなんだろう？",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605543453,
+      "updated": 1605543538
+    },
+    {
+      "id": "5fb2a62add59fe000084b005",
+      "text": "\t[https://docs.rs/web-sys/ web_sys - Rust]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605543466,
+      "updated": 1605543478
+    },
+    {
+      "id": "5fb2a61ddd59fe000084b004",
+      "text": "",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1605543453,
+      "updated": 1605543453
+    }
+  ]
+}

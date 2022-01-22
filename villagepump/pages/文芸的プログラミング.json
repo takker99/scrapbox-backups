@@ -1,0 +1,302 @@
+{
+  "id": "5f47a07144ed4e00209c19de",
+  "title": "文芸的プログラミング",
+  "created": 1598529669,
+  "updated": 1611985651,
+  "lines": [
+    {
+      "id": "5f47a07144ed4e00209c19de",
+      "text": "文芸的プログラミング",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529669,
+      "updated": 1598616857
+    },
+    {
+      "id": "5f47a0855b98c20000c24d11",
+      "text": "ドキュメントとコードを一緒に書く",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529669,
+      "updated": 1598529670
+    },
+    {
+      "id": "5f47a0865b98c20000c24d13",
+      "text": "[literate programming]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529670,
+      "updated": 1611592041
+    },
+    {
+      "id": "600ef2d9e5172d00006f21ac",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592410,
+      "updated": 1611592410
+    },
+    {
+      "id": "600ef164e5172d00006f219f",
+      "text": "目的",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592037,
+      "updated": 1611592408
+    },
+    {
+      "id": "600ef16de5172d00006f21a0",
+      "text": "\t[可読性]を上げること？[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592046,
+      "updated": 1611592418
+    },
+    {
+      "id": "600ef191e5172d00006f21a1",
+      "text": "\t\tプログラマによってはコメントは最小限のほうが読みやすい説",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592082,
+      "updated": 1611592408
+    },
+    {
+      "id": "600ef275e5172d00006f21a2",
+      "text": "\t情報の一体性を高めて保守の負担をへらす",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592310,
+      "updated": 1611592451
+    },
+    {
+      "id": "600ef2a0e5172d00006f21a3",
+      "text": "\t\t>通常コンピュータのプログラミングでは、プログラムソースと関連するドキュメントを別々のファイルに記述するが、これには管理や更新内容の反映が負担となる。",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592352,
+      "updated": 1611592408
+    },
+    {
+      "id": "600ef2c2e5172d00006f21a5",
+      "text": "  > この問題に対して、文芸的プログラミングでは、ドキュメントとソースを併記したWEBと呼ばれるメタソースを記述し、そこからドキュメントとソースコードをそれぞれ生成させることで、情報の一体性を高めている(これらのメカニズムを[WEBシステム]と呼ぶ)。",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592387,
+      "updated": 1611592492
+    },
+    {
+      "id": "600ef2d0e5172d00006f21ab",
+      "text": "  [https://ja.wikipedia.org/wiki/文芸的プログラミング 文芸的プログラミング - Wikipedia]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611592400,
+      "updated": 1611592517
+    },
+    {
+      "id": "5f47a0865b98c20000c24d14",
+      "text": " Scrapbox限定の目的",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529670,
+      "updated": 1611592552
+    },
+    {
+      "id": "600ef34f1280f00000a88b8d",
+      "text": "  コメントをブラケティングする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611592528,
+      "updated": 1611592555
+    },
+    {
+      "id": "600ef3491280f00000a88b8c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611592522,
+      "updated": 1611979744
+    },
+    {
+      "id": "5f47a0bf5b98c20000c24d1a",
+      "text": "[/scrapboxlab/文芸的プログラミング]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529728,
+      "updated": 1598530011
+    },
+    {
+      "id": "5f47a0a35b98c20000c24d17",
+      "text": "[/masui/文芸的プログラミング]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529699,
+      "updated": 1598529715
+    },
+    {
+      "id": "5f47a0b25b98c20000c24d19",
+      "text": "[/mlab/文芸的プログラミング]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529715,
+      "updated": 1598529724
+    },
+    {
+      "id": "5f47a0a45b98c20000c24d18",
+      "text": "[/ProgrammingExperience/Literate Programming]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529700,
+      "updated": 1598529811
+    },
+    {
+      "id": "5f47a1135b98c20000c24d1b",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529812,
+      "updated": 1598529812
+    },
+    {
+      "id": "600ef0aa1280f00000a88b81",
+      "text": "[http://www.pitecan.com/UnixMagazine/wtangle.html Web上での「文芸的プログラミング」]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611591851,
+      "updated": 1611621481
+    },
+    {
+      "id": "600ef0bb1280f00000a88b82",
+      "text": " [増井俊之.icon]さんのblog、UTF-8じゃなかった……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611591867,
+      "updated": 1611591887
+    },
+    {
+      "id": "600f646c8ee92a0000b55c9e",
+      "text": " 超古いからですね... すみません [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611621485,
+      "updated": 1611621497
+    },
+    {
+      "id": "600fb5ba1280f0000099d19f",
+      "text": "  まあ古い記事ですし、しょうがないですよ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611642298,
+      "updated": 1611642312
+    },
+    {
+      "id": "600fb5c81280f0000099d1a0",
+      "text": "  [- 未だにShift JISを使っている[ITmedia]は許さん]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611642312,
+      "updated": 1611642347
+    },
+    {
+      "id": "600fe0ca4bb2e200006da65b",
+      "text": "   技術系メディアとしてそれはどうなの…",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1611653324,
+      "updated": 1611653343
+    },
+    {
+      "id": "5f47a0a15b98c20000c24d16",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1598529697,
+      "updated": 1598529697
+    },
+    {
+      "id": "5fc3216c8ee92a0000278753",
+      "text": "[増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606623597,
+      "updated": 1606623597
+    },
+    {
+      "id": "5fc3216c8ee92a0000278754",
+      "text": " マニュアルもヘルプもテストコードも一緒に書くのが良いと思う",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606623597,
+      "updated": 1606623619
+    },
+    {
+      "id": "5fc3216d8ee92a0000278755",
+      "text": " 自分とこのUserScriptで丁度それやってます[takker.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1606623598,
+      "updated": 1610795569
+    },
+    {
+      "id": "6002ca231280f000005f49f1",
+      "text": "  ヘルプはなかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610795555,
+      "updated": 1610795578
+    },
+    {
+      "id": "6002ca361280f000005f49f2",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610795574,
+      "updated": 1610795574
+    },
+    {
+      "id": "600ef10ae5172d00006f219d",
+      "text": "[試行錯誤]の跡まで一緒に書いてしまうと可読性がさがる？",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611591946,
+      "updated": 1611592634
+    },
+    {
+      "id": "600ef10ee5172d00006f219e",
+      "text": " cf. [/programming-notes/他のプロジェクトにページを送るUserScript#600eef9de5172d00009cd4a3]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611591950,
+      "updated": 1611592634
+    },
+    {
+      "id": "600ef14d1280f00000a88b86",
+      "text": " どうすれば解決するんだろう？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611592014,
+      "updated": 1611592021
+    },
+    {
+      "id": "600ef1221280f00000a88b84",
+      "text": "  [文芸的プログラミングと共同編集の組み合わせ]の前例がない以上、過去の事例を参考にできない……",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611591971,
+      "updated": 1611592038
+    },
+    {
+      "id": "600ef12a1280f00000a88b85",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611591979,
+      "updated": 1611591979
+    },
+    {
+      "id": "6014ea4ad438750000666d96",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611983435,
+      "updated": 1611983435
+    },
+    {
+      "id": "6014ea4ad438750000666d97",
+      "text": "コードと散文を交互に書いてる本ってある？",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611983435,
+      "updated": 1611983453
+    },
+    {
+      "id": "6014ea5ed438750000666d99",
+      "text": "　技術書以外で",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611983454,
+      "updated": 1611983457
+    },
+    {
+      "id": "6014ea4dd438750000666d98",
+      "text": "　普通に小説で、普通にコードがしょっちゅう出てくる作品知りたい",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611983439,
+      "updated": 1611983491
+    },
+    {
+      "id": "6014f2e3a3368200008b8a72",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1611985635,
+      "updated": 1611985651
+    },
+    {
+      "id": "6014ea76d438750000666d9a",
+      "text": "",
+      "userId": "5fa258bdb102120024d43875",
+      "created": 1611983478,
+      "updated": 1611983478
+    }
+  ]
+}

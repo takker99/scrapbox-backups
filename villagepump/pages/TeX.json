@@ -1,0 +1,715 @@
+{
+  "id": "5f65e018a31dcb001ebc9944",
+  "title": "TeX",
+  "created": 1600512048,
+  "updated": 1615802681,
+  "lines": [
+    {
+      "id": "5f65e018a31dcb001ebc9944",
+      "text": "TeX",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512048,
+      "updated": 1600512048
+    },
+    {
+      "id": "5f675e9add59fe000001c34b",
+      "text": "[$ \\TeX]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609946,
+      "updated": 1600610031
+    },
+    {
+      "id": "5f65e02f5b98c2000076224e",
+      "text": "　わけがわからん[suto3.icon][MISONLN41.icon][udonn.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512048,
+      "updated": 1600593838
+    },
+    {
+      "id": "5f65e0305b98c2000076224f",
+      "text": "　　わからない所は[- ふたつ]（だけではなかった）",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512049,
+      "updated": 1615802243
+    },
+    {
+      "id": "5f65e0305b98c20000762250",
+      "text": "　　　1. 単に記法がわからん",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512049,
+      "updated": 1600512065
+    },
+    {
+      "id": "5f65e0305b98c20000762251",
+      "text": "　　　　これについては、単に私が知らないだけ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512049,
+      "updated": 1600512153
+    },
+    {
+      "id": "5f65e0305b98c20000762252",
+      "text": "　　　2. このソフトが未だに使われているのがわからん",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512049,
+      "updated": 1600512074
+    },
+    {
+      "id": "5f65e0305b98c20000762253",
+      "text": "　　　　後発にもっといいソフトはないのか",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512049,
+      "updated": 1600512083
+    },
+    {
+      "id": "5fa6a7a24bb2e200006fe594",
+      "text": "　　　　 全然使ったことないけど[SATySFi https://github.com/gfngfn/SATySFi/blob/master/README-ja.md]って組版システムがありますね[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1604757352,
+      "updated": 1604757382
+    },
+    {
+      "id": "5fa6a7dc4bb2e200006fe595",
+      "text": "　　　　  個人的にめっちゃ名前かっこいいって思ってる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1604757409,
+      "updated": 1604757422
+    },
+    {
+      "id": "5fd41a4e8ee92a0000c038aa",
+      "text": "　　　　 広く使われてるものは無いでしょう [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607735887,
+      "updated": 1607738055
+    },
+    {
+      "id": "5fd41a3a8ee92a0000c038a9",
+      "text": "　　　　  HTMLがもう少し頑張れば置き換えられるかもしれないけど",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607735867,
+      "updated": 1607735897
+    },
+    {
+      "id": "5fd41a7e8ee92a0000c038ab",
+      "text": "　　　　  現在は二段組すらできないし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607735934,
+      "updated": 1607735952
+    },
+    {
+      "id": "5fd422cd8ee92a0000c038c9",
+      "text": "　　　　 昔使われていたものは色々あります [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607738062,
+      "updated": 1607738105
+    },
+    {
+      "id": "5fd422d78ee92a0000c038ca",
+      "text": "　　　　  Troff, Scribe, ...",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607738071,
+      "updated": 1607738107
+    },
+    {
+      "id": "5f66c2735b98c20000f24d3b",
+      "text": "　　　3. 説明が頭のいい人向け",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569971,
+      "updated": 1600570009
+    },
+    {
+      "id": "5f66c2a75b98c20000f24d3c",
+      "text": "　　　　明瞭に書かれているが、なにを言っているのかわからん",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570023,
+      "updated": 1600570092
+    },
+    {
+      "id": "5f66c3145b98c20000f24d3d",
+      "text": "　　　　暗黙的に必要とされる知識が多い",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570133,
+      "updated": 1600570189
+    },
+    {
+      "id": "5f66c3595b98c20000f24d3e",
+      "text": "　　　　　説明する人は、当然理解していると思っている知識なので、どこで調べたよいか手がかりすらない",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570202,
+      "updated": 1600570316
+    },
+    {
+      "id": "5f66c3fc5b98c20000f24d3f",
+      "text": "　　　4. 必要な情報が、あちこちに分散している",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570364,
+      "updated": 1600570415
+    },
+    {
+      "id": "5f66c4ad5b98c20000f24d40",
+      "text": "　　 　正確な情報",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570542,
+      "updated": 1600570576
+    },
+    {
+      "id": "5f66c4bd5b98c20000f24d41",
+      "text": "　　 　わかりやすい情報",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570558,
+      "updated": 1600570578
+    },
+    {
+      "id": "5f66c4d45b98c20000f24d42",
+      "text": "　　 　最新の情報",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600570580,
+      "updated": 1600570596
+    },
+    {
+      "id": "5f664be04daa920000f58402",
+      "text": "　　単純に一般人だと使う必要性に迫られる機会が皆無なだけな気がする[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1600539617,
+      "updated": 1600539677
+    },
+    {
+      "id": "5f66c06d5b98c20000f24d33",
+      "text": "　 　（数式だけど）たまに不意打ちのように使う必要性に迫られる[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569453,
+      "updated": 1600569513
+    },
+    {
+      "id": "5f66c0ad5b98c20000f24d34",
+      "text": "　 　　ふだん使っていないし、覚える必要性も感じられないので、アドホックな対応をしがち",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569517,
+      "updated": 1600569631
+    },
+    {
+      "id": "5f66c1225b98c20000f24d35",
+      "text": "　 　 　[$ \\TeX] ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569634,
+      "updated": 1607736247
+    },
+    {
+      "id": "5f66c12b5b98c20000f24d36",
+      "text": "　 　 　MathML",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569644,
+      "updated": 1600569648
+    },
+    {
+      "id": "5f66c1315b98c20000f24d37",
+      "text": "　 　 　C言語の関数の書き方",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569649,
+      "updated": 1600569681
+    },
+    {
+      "id": "5f66c1515b98c20000f24d38",
+      "text": "　 　 　手書きの画像を貼る",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569681,
+      "updated": 1600569707
+    },
+    {
+      "id": "5f66c1da5b98c20000f24d3a",
+      "text": "　 　 　など、相手や条件によって対応はさまざま",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569819,
+      "updated": 1600569874
+    },
+    {
+      "id": "5f66c1995b98c20000f24d39",
+      "text": "　 　　それぞれ長所短所があるので、結局覚えない",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600569754,
+      "updated": 1600569808
+    },
+    {
+      "id": "5fd4384fe5172d0000ee545e",
+      "text": "　 読み方を統一して欲しい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607743567,
+      "updated": 1607743576
+    },
+    {
+      "id": "5fd43858e5172d0000ee545f",
+      "text": "　 \tテックらしいけどテフとよぶ流派もある",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1607743576,
+      "updated": 1607743595
+    },
+    {
+      "id": "5fd4b29b1280f000004bd8ec",
+      "text": "　 \tテック[erniogi.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607774875,
+      "updated": 1610806951
+    },
+    {
+      "id": "5fd4b29d1280f000004bd8ed",
+      "text": "　 \tテフ[takker.icon][増井俊之.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607774878,
+      "updated": 1611111079
+    },
+    {
+      "id": "5fd4b2a31280f000004bd8ee",
+      "text": "　 \tテックス",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607774883,
+      "updated": 1607774886
+    },
+    {
+      "id": "5fd4b2a51280f000004bd8ef",
+      "text": "　 \t　読み方わからない頃はこう呼んでた[takker.icon][kuuote.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1607774886,
+      "updated": 1607778173
+    },
+    {
+      "id": "60037a0e79d3a90000d0e551",
+      "text": "　 \t　テフだと知っているけど納得がいかないので胸中では今もこう[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610840590,
+      "updated": 1610840602
+    },
+    {
+      "id": "604f312e55cbd30000babeb1",
+      "text": "　 \t　これが間違ってると知らなかった…[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1615802671,
+      "updated": 1615802681
+    },
+    {
+      "id": "5f65f495ec4fce00004342a8",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1600517270,
+      "updated": 1600517270
+    },
+    {
+      "id": "5f65e0bc5b98c20000762257",
+      "text": "[/scrapboxlab/TeX]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512189,
+      "updated": 1600512190
+    },
+    {
+      "id": "5f6becce1280f00000a6c87d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600908494,
+      "updated": 1600908507
+    },
+    {
+      "id": "5f6becdb1280f00000a6c87e",
+      "text": "Wordなどの[ワープロソフト]の対比で見たほうがいい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600908507,
+      "updated": 1600908566
+    },
+    {
+      "id": "5f6bed901280f00000a6c883",
+      "text": "　[https://texwiki.texjp.org/?%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E6%96%B9%E3%81%B8#q45c5eed ワープロソフトから LaTeX へ - TeX Wiki]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600908688,
+      "updated": 1600908720
+    },
+    {
+      "id": "5f6becf01280f00000a6c87f",
+      "text": "　markdownなどの[軽量マークアップ言語]と対比したら、良さは見えないと思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600908529,
+      "updated": 1600908740
+    },
+    {
+      "id": "5f65e0be5b98c20000762258",
+      "text": "",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512190,
+      "updated": 1600512190
+    },
+    {
+      "id": "5f672d421280f0000010a166",
+      "text": "LaTeXライトユーザー[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600597316,
+      "updated": 1600597424
+    },
+    {
+      "id": "5f672daf1280f0000010a169",
+      "text": "　バイナリではなくテキストなのが良い",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600597425,
+      "updated": 1600597459
+    },
+    {
+      "id": "5f699c251280f000001ec696",
+      "text": "　[$ \\LaTeX]はいいぞ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600756775,
+      "updated": 1600756788
+    },
+    {
+      "id": "6007d9561280f0000093ab43",
+      "text": "　2021-01-20 16:18:58 と思ってたけど少し考え直している",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127128,
+      "updated": 1611127164
+    },
+    {
+      "id": "6007d97b1280f0000093ab45",
+      "text": "　　Wordよかマシなんだけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127164,
+      "updated": 1611127179
+    },
+    {
+      "id": "6007d9e61280f0000093ab48",
+      "text": "　　 すぐに体裁を整えた文書をかけるようなUIではある",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127272,
+      "updated": 1611127311
+    },
+    {
+      "id": "6007da041280f0000093ab49",
+      "text": "　　 しかし本格的に整えようとなると、[スタイル (Word)]の設定が非常に面倒になる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127301,
+      "updated": 1611127343
+    },
+    {
+      "id": "6007da2e1280f0000093ab4a",
+      "text": "　　 　どこに設定項目があるかもよくわからないし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127344,
+      "updated": 1611127354
+    },
+    {
+      "id": "6007da381280f0000093ab4b",
+      "text": "　　 　version上がるたびに設定項目が全然違う場所に移ったりするし",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127354,
+      "updated": 1611127382
+    },
+    {
+      "id": "6007d98b1280f0000093ab46",
+      "text": "　　どうしても[環境構築おじさん]になってしまうのがつらい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127180,
+      "updated": 1611127195
+    },
+    {
+      "id": "6007d99a1280f0000093ab47",
+      "text": "　　[LaTeX記法]自体は扱いやすい……なわけないか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127195,
+      "updated": 1611127264
+    },
+    {
+      "id": "6007d9671280f0000093ab44",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1611127145,
+      "updated": 1611127145
+    },
+    {
+      "id": "5f65e0595b98c20000762255",
+      "text": "[https://ja.wikipedia.org/wiki/TeX TeX - Wikipedia]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600512090,
+      "updated": 1600512115
+    },
+    {
+      "id": "5f65f6f3ec4fce00004342ae",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1600517876,
+      "updated": 1600517876
+    },
+    {
+      "id": "5f65f759ec4fce00004342b0",
+      "text": "TeX全く分からないので、[数式を手書きするとTeX記法に変換してくれるサイト https://webdemo.myscript.com/views/math/index.html]を使ってる",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1600517977,
+      "updated": 1600518212
+    },
+    {
+      "id": "5f65f759ec4fce00004342b1",
+      "text": " これは[LaTeX]なのか？違いがわからない",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1600517977,
+      "updated": 1600517996
+    },
+    {
+      "id": "5f6bed501280f00000a6c882",
+      "text": "  [https://texwiki.texjp.org/?FrontPage#la57baab TeXとLaTeXとの違い]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600908625,
+      "updated": 1600908638
+    },
+    {
+      "id": "604f2f878ee92a0000af04f4",
+      "text": "  数式は同じです [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1615802248,
+      "updated": 1615802254
+    },
+    {
+      "id": "5f6605e05b98c20000762259",
+      "text": " ほう。これはすごい[suto3.icon][takker.icon][増井俊之.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1600521696,
+      "updated": 1611111094
+    },
+    {
+      "id": "5f65f75cec4fce00004342b2",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1600517981,
+      "updated": 1600517981
+    },
+    {
+      "id": "5f675c5bdd59fe000001c345",
+      "text": "エラーメッセージの分かり難さがすごい[kokutousha.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609372,
+      "updated": 1600610273
+    },
+    {
+      "id": "5f675c5edd59fe000001c346",
+      "text": " メッセージを読んでも意味が分からないことが多い",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609375,
+      "updated": 1600609654
+    },
+    {
+      "id": "5f675d0bdd59fe000001c348",
+      "text": " ググっても意味が分からないことがある",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609548,
+      "updated": 1600609656
+    },
+    {
+      "id": "5f675d10dd59fe000001c349",
+      "text": "  TeX自体はともかく、パッケージ側のエラーは本当に情報が無かったり",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609553,
+      "updated": 1600609577
+    },
+    {
+      "id": "5f675d2bdd59fe000001c34a",
+      "text": " 結局、怪しげな部分をコメントアウトしたりしてどこが問題なのか特定し、目を皿にしてソースを眺めることになる",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609580,
+      "updated": 1600609623
+    },
+    {
+      "id": "5f7c3ee4dd59fe00001ef9ce",
+      "text": "  [焼畑デバッグ]というのか",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1601978153,
+      "updated": 1601978161
+    },
+    {
+      "id": "5f675d04dd59fe000001c347",
+      "text": "　エラーメッセージがわかりにくいのはどこもそんなものかと思ってた[takker.icon]",
+      "userId": "5f3cf18043ed94001edd59fe",
+      "created": 1600609541,
+      "updated": 1600672548
+    },
+    {
+      "id": "5f68531f1280f00000ae9b15",
+      "text": "　\tC++の怒濤のエラーメッセージで慣れた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600672548,
+      "updated": 1600672567
+    },
+    {
+      "id": "5f6853011280f00000ae9b14",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1600672517,
+      "updated": 1600672517
+    },
+    {
+      "id": "5fd41ac08ee92a0000c038ac",
+      "text": " [萩谷昌己]先生も [http://nicosia.is.s.u-tokyo.ac.jp/pub/essay/hagiya/h/tensai Knuthは馬鹿だ] と入ってますね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607736001,
+      "updated": 1607736068
+    },
+    {
+      "id": "5fd41c958ee92a0000c038b0",
+      "text": "  ワケがわからないのは全くそのとおりなんだけど30年以上使ってます",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607736469,
+      "updated": 1607736508
+    },
+    {
+      "id": "5fd41cbc8ee92a0000c038b1",
+      "text": "  昔はインストールするだけでも超大変だった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607736509,
+      "updated": 1607736520
+    },
+    {
+      "id": "5fd4ae648ee92a00001d5519",
+      "text": "  もともと[Pascal]だったし",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607773796,
+      "updated": 1607773807
+    },
+    {
+      "id": "5fd41ac28ee92a0000c038ad",
+      "text": "   その後Cになった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607736002,
+      "updated": 1607773814
+    },
+    {
+      "id": "5fd4ae708ee92a00001d551a",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1607773809,
+      "updated": 1607773809
+    },
+    {
+      "id": "60079228db62ad000048a89e",
+      "text": "[奥が深い症候群]と[バッドノウハウ]の塊と思っているのだが、[de facto standard]になっているので仕方なく使っている[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611108906,
+      "updated": 1611109014
+    },
+    {
+      "id": "60079228db62ad000048a89f",
+      "text": "　学会のテンプレートが[TeX]と[Microsoft Word]しか用意されていないみたいな場面が多い",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611108906,
+      "updated": 1611109062
+    },
+    {
+      "id": "600792c4db62ad000048a8a1",
+      "text": "　[Microsoft Word]が使いこなせないので消去法で[TeX]になる",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611109062,
+      "updated": 1611109213
+    },
+    {
+      "id": "600792cedb62ad000048a8a2",
+      "text": "　\t[Microsoft Word]はちょっと触るとフォントや文章構造が変になったり、[git]でバージョン管理できなかったり",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611109072,
+      "updated": 1611111568
+    },
+    {
+      "id": "60079ace8ee92a00004cde4c",
+      "text": " 　\t普通にバージョン管理してますが、できないというのはどういう意味ですか? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611111118,
+      "updated": 1611111761
+    },
+    {
+      "id": "60079c97db62ad0000f86bb7",
+      "text": "  　\t↑はWordに対する言及です。頑張ればできるのかもしれませんが、かなりしんどいと思います。[yanma.icon]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611111576,
+      "updated": 1611111871
+    },
+    {
+      "id": "6007a2158ee92a00004cde57",
+      "text": "  　\t 了解。バイナリデータもgit管理はできますけどね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611112981,
+      "updated": 1611113018
+    },
+    {
+      "id": "6007b4dbdb62ad0000217818",
+      "text": " 　\t 　もちろんできるのだが、[yanma.icon]は特にWordのような文章ファイルをバージョン管理するときには、文章中のどの文言が変わったのかという差分情報を見たいので、Wordファイルをバイナリとしてgitで管理できてもあまり嬉しくない。",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117787,
+      "updated": 1611117795
+    },
+    {
+      "id": "6007b4dcdb62ad0000217819",
+      "text": "    　\tテキストだけを編集したつもりでも、いろいろな部分が書き換わってしまう。",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117795
+    },
+    {
+      "id": "6007b4dcdb62ad000021781a",
+      "text": "    　\t頑張ればできるかもと書いたのは、一応下記のようなアプローチが存在するから。",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117795
+    },
+    {
+      "id": "6007b4dcdb62ad000021781b",
+      "text": "    　\t　[MSWordをGit diffで差分表示させる | ハックノート https://hacknote.jp/archives/31367/]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117795
+    },
+    {
+      "id": "6007b4dcdb62ad000021781c",
+      "text": "    　\t　とてもしんどそう",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117795
+    },
+    {
+      "id": "6007b4dcdb62ad000021781d",
+      "text": "    　\t　MSWordの文書構造にpandocが完全対応しているか不明(数年前に試したときは全然ダメだった)",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117804
+    },
+    {
+      "id": "6007b4dcdb62ad000021781e",
+      "text": "    　\t　仮に今できていても将来できる保証がない。Wordのよく分からない仕様変更にpandocが付いていく必要がある",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117805
+    },
+    {
+      "id": "6007b4fcdb62ad0000217820",
+      "text": "    　\t　[公式のサポートが期待しにくいインターフェースの使用を減らしたい]",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117821,
+      "updated": 1611125407
+    },
+    {
+      "id": "6007b4dcdb62ad000021781f",
+      "text": "  　\t一方TeXはテキストなので普通にgitでバージョン管理できると思います",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611117788,
+      "updated": 1611117792
+    },
+    {
+      "id": "60079d09db62ad0000f86bb8",
+      "text": "  　\tWord固有のバージョン管理機能もあるにはあるようなのだが、覚える気にならない……",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611111689,
+      "updated": 1611111871
+    },
+    {
+      "id": "6007926fdb62ad000048a8a0",
+      "text": "　環境構築コストはいまだに高いが、昔よりはだいぶマシになった。とりあえず`texlive-full`を入れておくとなんとかなる",
+      "userId": "5b8d55ab7d11180014db62ad",
+      "created": 1611108978,
+      "updated": 1611109201
+    },
+    {
+      "id": "60079aec8ee92a00004cde4d",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1611111149,
+      "updated": 1611111149
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "6003ed4d038942001cf11f60",
+  "title": "Scrapboxで外部ライブラリを使うには",
+  "created": 1610870097,
+  "updated": 1610870797,
+  "lines": [
+    {
+      "id": "6003ed4d038942001cf11f60",
+      "text": "Scrapboxで外部ライブラリを使うには",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870097,
+      "updated": 1610870097
+    },
+    {
+      "id": "6003efb51280f00000599cc3",
+      "text": " 1. コピペしてコードブロックに貼り付ける",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870709,
+      "updated": 1610870724
+    },
+    {
+      "id": "6003ed6c79d3a900009f0057",
+      "text": "  >ESModuleで使えるようにした後、minifyしてscrapboxに貼り付ければ使える",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1610870124,
+      "updated": 1610870725
+    },
+    {
+      "id": "6003efb11280f00000599cc2",
+      "text": " 2. [cdnjs]から`<script>`経由でimportする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870705,
+      "updated": 1610870748
+    },
+    {
+      "id": "6003efdc1280f00000599cc5",
+      "text": "  [install-CDN]が使えます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870748,
+      "updated": 1610870763
+    },
+    {
+      "id": "6003efeb1280f00000599cc6",
+      "text": "  cf. [/takker/scrapboxで外部APIを使う]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870763,
+      "updated": 1610870772
+    },
+    {
+      "id": "6003f0061280f00000599cc8",
+      "text": "  元ネタ：[/ci7lus/たのしいScrapboxUserScript]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1610870790,
+      "updated": 1610870794
+    }
+  ]
+}

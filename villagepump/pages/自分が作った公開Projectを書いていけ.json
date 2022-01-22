@@ -1,0 +1,379 @@
+{
+  "id": "5f3c4e0d8c826c001ec9f2b3",
+  "title": "自分が作った公開Projectを書いていけ",
+  "created": 1597787664,
+  "updated": 1613454042,
+  "lines": [
+    {
+      "id": "5f3c4e0d8c826c001ec9f2b3",
+      "text": "自分が作った公開Projectを書いていけ",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787664,
+      "updated": 1604902706
+    },
+    {
+      "id": "5f3c4e1b4daa920000a564a2",
+      "text": "そうでもしないと、なかなか人目に付かないし...[yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787674,
+      "updated": 1597787793
+    },
+    {
+      "id": "5f3c7d951280f0000046ad5e",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799829,
+      "updated": 1597799833
+    },
+    {
+      "id": "5f3c7d981280f0000046ad5f",
+      "text": "そのうち[scrapbox.io/InterestingProjects]に紹介文ごとコピペしても良いかも",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799833,
+      "updated": 1613454042
+    },
+    {
+      "id": "60112ae8e5172d00009c86d2",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611737834,
+      "updated": 1611737834
+    },
+    {
+      "id": "60112ae9e5172d00009c86d3",
+      "text": "関連：[projectのリンク比]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1611737834,
+      "updated": 1611737848
+    },
+    {
+      "id": "5f3c4e224daa920000a564a3",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787681,
+      "updated": 1597787681
+    },
+    {
+      "id": "5f3c4edf4daa920000a564a4",
+      "text": "曖昧さ回避 [/disambiguation][yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787870,
+      "updated": 1597787898
+    },
+    {
+      "id": "5f3c4fcd4daa920000a564aa",
+      "text": "\t参加：[/disambiguation/このプロジェクトについて]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788108,
+      "updated": 1597788117
+    },
+    {
+      "id": "5f3c4ee14daa920000a564a5",
+      "text": "\tここと同じで[Wikipedia]を着想にした",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787872,
+      "updated": 1597799649
+    },
+    {
+      "id": "5f3c4f094daa920000a564a7",
+      "text": "\t略語とかの意味を調べていて、目的のものではないものばかり出てくることがよくあったので作った",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787912,
+      "updated": 1597788012
+    },
+    {
+      "id": "5f3c4f6d4daa920000a564a8",
+      "text": "\tコンセプトはWikipediaの曖昧さ回避ページと同じだけど、Wikipediaはページを作る敷居が高いので",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788012,
+      "updated": 1597788044
+    },
+    {
+      "id": "5f3c4efd4daa920000a564a6",
+      "text": "\t今は[yuta0801.icon]がそういう状況に遭遇した場合とかに書き込んだりしてる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597787900,
+      "updated": 1597788095
+    },
+    {
+      "id": "5f3c4fea4daa920000a564ab",
+      "text": "",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788138,
+      "updated": 1597788138
+    },
+    {
+      "id": "5f3c4fea4daa920000a564ac",
+      "text": "Q&A [/q-a][yuta0801.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788138,
+      "updated": 1597788145
+    },
+    {
+      "id": "5f3c4f9d4daa920000a564a9",
+      "text": "\t参加：[/q-a/このプロジェクトについて]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788061,
+      "updated": 1597788153
+    },
+    {
+      "id": "5f3c4ff94daa920000a564ad",
+      "text": "\t[Discord]とかで[質問]しているのを見ていて色んな問題を感じたので、Scrapboxならどうなるのかという興味から作った",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788152,
+      "updated": 1597799646
+    },
+    {
+      "id": "5f3c50cc4daa920000a564b0",
+      "text": "\t\t解決していないのに流れてしまったり、言及が出来なくて、何度も同じ説明をする羽目になるとか",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788363,
+      "updated": 1597788379
+    },
+    {
+      "id": "5f3c50dd4daa920000a564b1",
+      "text": "\t\tそれから解決してしまった質問に対して後から補足できないのが個人的に気になっていた",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788381,
+      "updated": 1597788408
+    },
+    {
+      "id": "5f3c50504daa920000a564af",
+      "text": "\tここと同じようにチャットのような気軽さで質問できるような感じを目指してる",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788239,
+      "updated": 1597788449
+    },
+    {
+      "id": "5f3c50004daa920000a564ae",
+      "text": "　この質問が興味深かったです[takker.icon]",
+      "userId": "5bc5772df30ff700134daa92",
+      "created": 1597788160,
+      "updated": 1597800776
+    },
+    {
+      "id": "5f3c78de1280f00000918f13",
+      "text": "　\t[/q-a/質問と回答という流れにおける通知の役割について/自分の関わった記事の更新をうまく確認する方法]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597798622,
+      "updated": 1597798631
+    },
+    {
+      "id": "5f3c78cd1280f00000918f12",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597798605,
+      "updated": 1597798605
+    },
+    {
+      "id": "5f3c79831280f0000046ad4e",
+      "text": "[/icons/Slack.icon]ワークスペースまとめ[/slack-workspaces][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597798787,
+      "updated": 1597798812
+    },
+    {
+      "id": "5f3c799b1280f0000046ad50",
+      "text": " 公開[Slackワークスペース]をまとめるサイト",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597798812,
+      "updated": 1597934565
+    },
+    {
+      "id": "5f3c79b51280f0000046ad51",
+      "text": " 既存のまとめサイトとの違いは、リンクを使って興味のある[/icons/Slack.icon]が探しやすくなる(予定)こと",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597798837,
+      "updated": 1597798902
+    },
+    {
+      "id": "5f3c79841280f0000046ad4f",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597798789,
+      "updated": 1597798789
+    },
+    {
+      "id": "5f3c7c771280f0000046ad54",
+      "text": "WPF+MVVM情報[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799543,
+      "updated": 1597799800
+    },
+    {
+      "id": "5f3c7ca71280f0000046ad56",
+      "text": "\t[/wpf-mvvm]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799592,
+      "updated": 1597799601
+    },
+    {
+      "id": "5f3c7cac1280f0000046ad57",
+      "text": "\t情報が散逸していてとんでもなく[学習コスト]の高い[WPF]＆[MVVMパターン]についてまとめようとしているサイト",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799597,
+      "updated": 1597799662
+    },
+    {
+      "id": "5f3c7ced1280f0000046ad58",
+      "text": "\t[takker.icon]が必要に迫られて再び学び始めた折に作った",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799662,
+      "updated": 1597799700
+    },
+    {
+      "id": "5f3c7cfb1280f0000046ad59",
+      "text": "\t\t2回くらい挫折している",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799675,
+      "updated": 1597799681
+    },
+    {
+      "id": "5f3c7d151280f0000046ad5a",
+      "text": "\t\t再学習も兼ねてまとめていた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799701,
+      "updated": 1597799729
+    },
+    {
+      "id": "5f3c7d311280f0000046ad5b",
+      "text": "\tが、切迫して学ぶ必要がなくなったので、今は更新していない",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799729,
+      "updated": 1597799783
+    },
+    {
+      "id": "5f3c7c9c1280f0000046ad55",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597799581,
+      "updated": 1597799581
+    },
+    {
+      "id": "5f3d2b14b3e7ed00004be94a",
+      "text": "[めるアイコン]wiki[/meruicon/めるアイコンwiki.icon]　[/meruicon]",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1597844245,
+      "updated": 1597844662
+    },
+    {
+      "id": "5f3d2b2bb3e7ed00004be94b",
+      "text": "\t作成者[udonn.icon]",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1597844267,
+      "updated": 1597844316
+    },
+    {
+      "id": "5f3d2b5fb3e7ed00004be94c",
+      "text": "\t個人的に作りたかったから作った",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1597844320,
+      "updated": 1597844328
+    },
+    {
+      "id": "5f3d2b68b3e7ed00004be94d",
+      "text": "\t満足してるけど、まだ未登録がたくさんある",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1597844329,
+      "updated": 1597844365
+    },
+    {
+      "id": "5f3d2b83b3e7ed00004be94f",
+      "text": "\t非公式",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1597844356,
+      "updated": 1597844360
+    },
+    {
+      "id": "5f3d2caa1280f000001a3409",
+      "text": "\tめるアイコンいいですね[takker.icon]よい[udonn.icon][yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597844651,
+      "updated": 1611737674
+    },
+    {
+      "id": "5f3d2cb91280f000001a340a",
+      "text": "\t\tSNSをもっとやるようになったら、Melvileさんに依頼してみようかな[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597844667,
+      "updated": 1597984302
+    },
+    {
+      "id": "5f3d2b69b3e7ed00004be94e",
+      "text": "",
+      "userId": "5e644eb64b223c0017b3e7ed",
+      "created": 1597844330,
+      "updated": 1597844330
+    },
+    {
+      "id": "5f803013ec4fce0000c30a49",
+      "text": "誰でも編集できるアイコン置き場 [/Icons2]",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1602236436,
+      "updated": 1602236449
+    },
+    {
+      "id": "5f80300cec4fce0000c30a47",
+      "text": " [MISONLN41.icon]が作った",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1602236428,
+      "updated": 1602236457
+    },
+    {
+      "id": "5f80302eec4fce0000c30a4b",
+      "text": " [/icons]のFirefoxのアイコンが古かったから、というかなりどうでもいい理由",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1602236462,
+      "updated": 1602236476
+    },
+    {
+      "id": "5f803025ec4fce0000c30a4a",
+      "text": "",
+      "userId": "5da3a9589b96b70017ec4fce",
+      "created": 1602236453,
+      "updated": 1602236453
+    },
+    {
+      "id": "5fdb1dc70553320000c9518e",
+      "text": "お笑いまとめwiki [/laugh]　[p5w.icon]",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195528,
+      "updated": 1608195651
+    },
+    {
+      "id": "5fdb1dc80553320000c9518f",
+      "text": " お笑いのまとめwiki的なのが欲しくて作った",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195528,
+      "updated": 1608195669
+    },
+    {
+      "id": "5fdb1df70553320000c95191",
+      "text": "　ネタ同士のつながりがみえるのはscrapboxならではっぽくて更新してて面白い",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195576,
+      "updated": 1608195763
+    },
+    {
+      "id": "5fdb1e4c0553320000c95192",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195660,
+      "updated": 1608195660
+    },
+    {
+      "id": "5f3c81101280f0000012a7cf",
+      "text": "#public_project ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1597800721,
+      "updated": 1608195538
+    },
+    {
+      "id": "5fdb1dd20553320000c95190",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1608195538,
+      "updated": 1608195538
+    }
+  ]
+}
