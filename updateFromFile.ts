@@ -71,7 +71,7 @@ for (const title of oldTitles) {
 }
 await Deno.writeTextFile(
   new URL(`../project.json`, dir),
-  JSON.stringify({ name, displayName }, null, 2),
+  JSON.stringify({ name, displayName, count: pages.length }, null, 2),
 );
 console.log(
   `Finish updating: ${added} Created, ${updated} Updated, ${count2} Removed`,
