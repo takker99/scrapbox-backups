@@ -2,7 +2,7 @@
   "id": "61d709c0e576c5001dfbabc1",
   "title": "2022/01/07",
   "created": 1641482690,
-  "updated": 1642064566,
+  "updated": 1643623620,
   "lines": [
     {
       "id": "61d709c0e576c5001dfbabc1",
@@ -355,165 +355,11 @@
       "updated": 1641553091
     },
     {
-      "id": "61d81ce255cbd30000fab55a",
-      "text": " [/color]",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641553122,
-      "updated": 1641553124
-    },
-    {
-      "id": "61d81cc455cbd30000fab559",
-      "text": "\t [/icons]みたいなカラーコードまとめたプロジェクト欲しいなと思ったらすでにあった",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641553092,
-      "updated": 1641553126
-    },
-    {
-      "id": "61d81ce855cbd30000fab55b",
-      "text": "\t 数は少ないので追加していこう",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641553127,
-      "updated": 1641553134
-    },
-    {
-      "id": "61d81d347838e30000688542",
-      "text": "\t 　自分が好きな色から追加していくのも楽しそう[Mijinko_SD.icon]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641553205,
-      "updated": 1641553217
-    },
-    {
-      "id": "61d81d4e55cbd30000fab560",
-      "text": "\t 　そうですね、自分が必要なものがあれば都度追加していく感じになりそう",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641553230,
-      "updated": 1641553272
-    },
-    {
-      "id": "61d81d9655cbd30000fab563",
-      "text": "\t このプロジェクトに必要なのは[カラーコードを入力したら48×48の正方形で画像出力してくれるやつ]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641553302,
-      "updated": 1641560628
-    },
-    {
-      "id": "61d81dbc55cbd30000fab564",
-      "text": "\t  [めんどうくさい]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641553340,
-      "updated": 1641553740
-    },
-    {
-      "id": "61d83b1f7838e30000b9d080",
-      "text": "\t  \t作った[Mijinko_SD.icon]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641560863,
-      "updated": 1641560868
-    },
-    {
-      "id": "61d824f05b98c2000072789c",
-      "text": "\t  [カラーチップSVG]というのがあってですね…[suto3.icon]",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641555185,
-      "updated": 1641555222
-    },
-    {
-      "id": "61d81cef55cbd30000fab55e",
-      "text": "    思い浮かんだんですけど文字がいらない[mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641553134,
-      "updated": 1641556421
-    },
-    {
-      "id": "61d829c655cbd3000060aee6",
-      "text": "    [https://idy.herokuapp.com/color/FF0211#.svg]",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641556421,
-      "updated": 1641556520
-    },
-    {
-      "id": "61d82a2a1280f00000fdcf7d",
-      "text": "    別なAPI作るか、それとも[svg-hosting]をつかうか[takker.icon]",
+      "id": "61f7b44d1280f0000007b5b8",
+      "text": " [scrapbox.io/color]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1641556523,
-      "updated": 1641556585
-    },
-    {
-      "id": "61d82c345b98c2000072789d",
-      "text": "     作ったけれど芸がない[suto3.icon]",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557044,
-      "updated": 1641557067
-    },
-    {
-      "id": "61d82c4c5b98c2000072789e",
-      "text": "     code:sq01.svg",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557068,
-      "updated": 1641557070
-    },
-    {
-      "id": "61d82c4d5b98c2000072789f",
-      "text": "      <svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557070,
-      "updated": 1641557070
-    },
-    {
-      "id": "61d82c4d5b98c200007278a0",
-      "text": "      <rect x=\"0\" y=\"0\" width=\"48\" height=\"48\"",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557070,
-      "updated": 1641557070
-    },
-    {
-      "id": "61d82c4d5b98c200007278a1",
-      "text": "        fill=\"#DDFFFF\"",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557070,
-      "updated": 1641557070
-    },
-    {
-      "id": "61d82c4d5b98c200007278a2",
-      "text": "        stroke=\"none\" />",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557070,
-      "updated": 1641557070
-    },
-    {
-      "id": "61d82c4d5b98c200007278a3",
-      "text": "      </svg>",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557070,
-      "updated": 1641557070
-    },
-    {
-      "id": "61d82c4d5b98c200007278a4",
-      "text": "     [https://svg-hosting.vercel.app/api/svg?url=https://scrapbox.io/api/code/villagepump/2022%252F01%252F07/sq01.svg]",
-      "userId": "5b5e7121417cf700145b98c2",
-      "created": 1641557070,
-      "updated": 1641557222
-    },
-    {
-      "id": "61d82dd31280f00000fdcf81",
-      "text": "     色だけを表示するなら、これで十分だと思う[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1641557460,
-      "updated": 1641557470
-    },
-    {
-      "id": "61d86a2255cbd300009953e8",
-      "text": "     天才[mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
-      "created": 1641572898,
-      "updated": 1641572902
-    },
-    {
-      "id": "61d82a2e1280f00000fdcf7f",
-      "text": "  足りない色で機械的に追加できる部分は追加したいな[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1641556527,
-      "updated": 1641556621
+      "created": 1643623501,
+      "updated": 1643623606
     },
     {
       "id": "61d84852d1a02f00009b62ac",
@@ -545,10 +391,17 @@
     },
     {
       "id": "61d842cba33682000077aa4b",
-      "text": "",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "  期待[takker.icon*2]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1641562828,
-      "updated": 1641562828
+      "updated": 1643623620
+    },
+    {
+      "id": "61f7b4bf1280f0000007b5b9",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643623615,
+      "updated": 1643623615
     },
     {
       "id": "61d84a94d1a02f0000df1bcf",

@@ -2,7 +2,7 @@
   "id": "600a2b1ba55d110023c1ab35",
   "title": "レトロニム",
   "created": 1611279133,
-  "updated": 1640248188,
+  "updated": 1642991467,
   "lines": [
     {
       "id": "600a2b1ba55d110023c1ab35",
@@ -286,10 +286,17 @@
     },
     {
       "id": "61120fb28ee92a0000cf13a4",
-      "text": "",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": "　オフラインコンサート",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1628573619,
-      "updated": 1628573619
+      "updated": 1642991338
+    },
+    {
+      "id": "61ee0eebaff09e0000bbbbcd",
+      "text": "　　COVID19の影響でこう呼ばれるようになったっぽい",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642991339,
+      "updated": 1642991368
     },
     {
       "id": "600a2b3e8ee92a0000344d8b",
@@ -514,6 +521,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621681818,
       "updated": 1621681824
+    },
+    {
+      "id": "61ee0f41aff09e0000bbbbce",
+      "text": "\t　駅の改札も、人間が札を改める場合に「有人改札」って言うようになったね[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642991426,
+      "updated": 1642991467
     },
     {
       "id": "60a8e6a98ee92a000059b56a",

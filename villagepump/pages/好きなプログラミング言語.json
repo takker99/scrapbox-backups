@@ -2,7 +2,7 @@
   "id": "61a61568c7f118001d8bc9ac",
   "title": "好きなプログラミング言語",
   "created": 1638274411,
-  "updated": 1638361866,
+  "updated": 1643419470,
   "lines": [
     {
       "id": "61a61568c7f118001d8bc9ac",
@@ -94,6 +94,48 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1638275235,
       "updated": 1638275448
+    },
+    {
+      "id": "61f40bc44bb2e200005a70f9",
+      "text": "  設計から頭の良さみたいなの(雑)が伝わってきて、書いててとても気持ちいい",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643383749,
+      "updated": 1643383765
+    },
+    {
+      "id": "61f40bd54bb2e200005a70fa",
+      "text": "   色々なプログラミング言語を書いてるとたまに思う「こうであってくれ」みたいなのが大体そうなっている",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643383765,
+      "updated": 1643383826
+    },
+    {
+      "id": "61f40c694bb2e200005a70fb",
+      "text": "   例えば",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643383914,
+      "updated": 1643383987
+    },
+    {
+      "id": "61f40cb34bb2e200005a70fc",
+      "text": "    ソートメソッドに与える比較関数の返り値がほとんどの言語では数値、ひどいと論理値であるが、Rustの場合はOrderingという順序を示す型がちゃんと用意されている",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643383987,
+      "updated": 1643384129
+    },
+    {
+      "id": "61f40d014bb2e200005a70fd",
+      "text": "     Orderingを計算できることを示すOrdというトレイトがあるが、更にRustの場合は比較に失敗する可能性を示す(floatのNaNとか)PartialOrdという物が存在するのが丁寧だと思った",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643384065,
+      "updated": 1643384214
+    },
+    {
+      "id": "61f40d754bb2e200005a70fe",
+      "text": "      数学で言う全順序、半順序に対応する物らしい",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643384181,
+      "updated": 1643384208
     },
     {
       "id": "61a618964bb2e20000fe7e66",
@@ -752,6 +794,153 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1638348698,
       "updated": 1638348698
+    },
+    {
+      "id": "61f138b9aff09e000020dfc3",
+      "text": "[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198649,
+      "updated": 1643198651
+    },
+    {
+      "id": "61f138bbaff09e000020dfc4",
+      "text": " 僕の場合、好きな言語、嫌いな言語、ではなく、好きな言語仕様、嫌いな言語仕様、かなー",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198651,
+      "updated": 1643198792
+    },
+    {
+      "id": "61f13910aff09e000020dfc5",
+      "text": " あと、使い慣れた言語、使い慣れてない言語、かな",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198737,
+      "updated": 1643198756
+    },
+    {
+      "id": "61f13924aff09e000020dfc6",
+      "text": "　Pythonのlambdaは、ちゃんと囲われたフォーマットになってほしいですね",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198756,
+      "updated": 1643198851
+    },
+    {
+      "id": "61f139e5aff09e000020dfc8",
+      "text": "　　後ろの括弧は省略不可にして欲しい",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198949,
+      "updated": 1643198966
+    },
+    {
+      "id": "61f13983aff09e000020dfc7",
+      "text": "　　BAD: `lambda x: x+1`",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198852,
+      "updated": 1643198926
+    },
+    {
+      "id": "61f139ceaff09e000012fa40",
+      "text": "　　GOOD: `(x)=>{x + 1}`",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198927,
+      "updated": 1643198934
+    },
+    {
+      "id": "61f139d6aff09e000012fa41",
+      "text": "　　BAD: `(x)=>x + 1`",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198935,
+      "updated": 1643198942
+    },
+    {
+      "id": "61f13a03aff09e000012fa42",
+      "text": "　　GOOD: `[x: x + 1]`",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643198979,
+      "updated": 1643198986
+    },
+    {
+      "id": "61f13a4baff09e000012fa43",
+      "text": "　　BAD: `[](auto x){ return x + 1; }`",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643199051,
+      "updated": 1643199073
+    },
+    {
+      "id": "61f13a6eaff09e000020dfc9",
+      "text": "　　　囲われてはいるが…w",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643199086,
+      "updated": 1643199096
+    },
+    {
+      "id": "61f141f31280f00000a5e78b",
+      "text": "　　　 C++は許されなかった……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643201012,
+      "updated": 1643201037
+    },
+    {
+      "id": "61f1f34aaff09e00009574f5",
+      "text": "　　　 autoとreturnが省略できるようになったらGood[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643246411,
+      "updated": 1643246467
+    },
+    {
+      "id": "61f13a92aff09e000012fa44",
+      "text": "　　OK: `lambda {|x| x + 1}`",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643199123,
+      "updated": 1643199194
+    },
+    {
+      "id": "61f496ca55cbd3000063cf90",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419329,
+      "updated": 1643419329
+    },
+    {
+      "id": "61f496ca55cbd3000063cf91",
+      "text": "[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419329,
+      "updated": 1643419330
+    },
+    {
+      "id": "61f496cb55cbd3000063cf92",
+      "text": " [Javascript]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419331,
+      "updated": 1643419338
+    },
+    {
+      "id": "61f4972255cbd3000063cf96",
+      "text": " \t一つの言語で色々できる",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419417,
+      "updated": 1643419420
+    },
+    {
+      "id": "61f496d255cbd3000063cf93",
+      "text": " \t非エンジニアで趣味とも言えないレベルだと色々手を出せない",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419338,
+      "updated": 1643419425
+    },
+    {
+      "id": "61f4974a55cbd3000063cf97",
+      "text": " \tなんか自然言語における英語ポジションな気がする",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419458,
+      "updated": 1643419470
+    },
+    {
+      "id": "61f496db55cbd3000063cf94",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643419347,
+      "updated": 1643419347
     },
     {
       "id": "61a615a64bb2e20000681409",

@@ -2,7 +2,7 @@
   "id": "5f7be025943be2001e25ae1c",
   "title": "Wikipedia を勉強に活用する",
   "created": 1601953833,
-  "updated": 1628508229,
+  "updated": 1643661948,
   "lines": [
     {
       "id": "5f7be025943be2001e25ae1c",
@@ -34,10 +34,17 @@
     },
     {
       "id": "6110e445385a920000ec45b0",
-      "text": " 　 結構この差を感じるので、英語版あるなら積極的に見に行くようにしてますね[miyamonz.icon][sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": " 　 結構この差を感じるので、英語版あるなら積極的に見に行くようにしてますね[miyamonz.icon][sta.icon][erniogi.icon][nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1628496968,
-      "updated": 1628508020
+      "updated": 1643562687
+    },
+    {
+      "id": "61f6c6bfaff09e0000f331cb",
+      "text": " 　  しばしば日本語版がない悲しみ[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643562687,
+      "updated": 1643562731
     },
     {
       "id": "5f7be18648275400007de6a8",
@@ -320,6 +327,20 @@
       "updated": 1601953835
     },
     {
+      "id": "61f5266a774b170000f4c92d",
+      "text": "  [DeepL]とか[みらい翻訳]を使って読むのでも十分なこともある[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643456106,
+      "updated": 1643456141
+    },
+    {
+      "id": "61f52691774b170000f4c92e",
+      "text": "   精読したいところだけ原文を読む",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643456145,
+      "updated": 1643456158
+    },
+    {
       "id": "5f7be02a48275400007de696",
       "text": " ただ、中級者以上の人にとっては、英語版Wikipediaを読むのは本当に効果があるので、ぜひ取り組んでみてください！",
       "userId": "5ee76ce85f51de0023482754",
@@ -437,6 +458,13 @@
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1628508207,
       "updated": 1628508209
+    },
+    {
+      "id": "61f84a678ee92a000036a053",
+      "text": " \thttps://ja.wikipedia.org/wiki/地方病_(日本住血吸虫症) とか?",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1643661927,
+      "updated": 1643661948
     },
     {
       "id": "6111102079d3a90000c91fb7",

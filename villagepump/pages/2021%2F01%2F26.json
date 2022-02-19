@@ -2,7 +2,7 @@
   "id": "600f3a668cdf6b001ccfbf57",
   "title": "2021/01/26",
   "created": 1611610727,
-  "updated": 1626676452,
+  "updated": 1643147007,
   "lines": [
     {
       "id": "600f3a668cdf6b001ccfbf57",
@@ -383,53 +383,11 @@
       "updated": 1611659541
     },
     {
-      "id": "600ff9151280f0000015c127",
-      "text": "    [円函数]の上に累乗を書く書き方あんまり好きじゃない[takker.icon]",
+      "id": "61f06ec11280f00000de6863",
+      "text": "     [三角函数の上に累乗を書く書き方あんまり好きではな]い[takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611659542,
-      "updated": 1611659577
-    },
-    {
-      "id": "600ffa841280f0000015c131",
-      "text": "     理由",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611659908,
-      "updated": 1611659911
-    },
-    {
-      "id": "600ff9391280f0000015c128",
-      "text": "      記法[$ f^2(x) = (f\\circ f)(x)]との一貫性がない",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611659577,
-      "updated": 1611659911
-    },
-    {
-      "id": "600ffa881280f0000015c132",
-      "text": "      [takker.icon]の字が汚すぎて、[$ \\sin^2x]と[$ \\sin2x]との見分けがつかなくなる",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611659913,
-      "updated": 1611659947
-    },
-    {
-      "id": "600ff9821280f0000015c129",
-      "text": "     面倒だけど[$ (\\sin{x})^2 + (\\cos{x})^2=1]と書くようにしている",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611659651,
-      "updated": 1611659679
-    },
-    {
-      "id": "600ff9c21280f0000015c130",
-      "text": "    　(あくまで個人的な意見で、他の人に押し付ける意図はないです)",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1611659715,
-      "updated": 1611659715
-    },
-    {
-      "id": "600ffa30e5172d0000a64f7c",
-      "text": "    　[/icons/なるほど.icon]考えたことなかった[yosider.icon][erniogi.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1611659824,
-      "updated": 1611664919
+      "created": 1643146946,
+      "updated": 1643147007
     },
     {
       "id": "60100efbdb62ad0000ee37ea",
@@ -664,10 +622,10 @@
     },
     {
       "id": "601014141280f00000ff10ad",
-      "text": "  リンクを使わないなら[Google Spread Sheet]で十分です",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "  リンクを使わないなら[Google Spreadsheet]で十分です",
+      "userId": "5d89b1f60230ae001779e113",
       "created": 1611666452,
-      "updated": 1611666563
+      "updated": 1639798453
     },
     {
       "id": "6010153e4bb2e2000085fc59",
@@ -692,10 +650,10 @@
     },
     {
       "id": "601018204bb2e2000085fc5b",
-      "text": "   説明書が無いと使えないタイプのソフトウェアらしい",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "   [説明書が無いと使えないタイプ]のソフトウェアらしい",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611667374,
-      "updated": 1611667381
+      "updated": 1643146855
     },
     {
       "id": "601018284bb2e2000085fc5c",

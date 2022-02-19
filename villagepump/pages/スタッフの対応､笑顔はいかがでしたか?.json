@@ -2,7 +2,7 @@
   "id": "5fa271ee3c4eb3003806db65",
   "title": "スタッフの対応､笑顔はいかがでしたか?",
   "created": 1604481523,
-  "updated": 1617558944,
+  "updated": 1643507023,
   "lines": [
     {
       "id": "5fa271ee3c4eb3003806db65",
@@ -90,10 +90,10 @@
     },
     {
       "id": "6012e4bba336820000d5cfe8",
-      "text": "[* スタッフの対応､笑顔]はなくても気にしないけど，あったら嬉しい程度のものだと思ってる[erniogi.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": "[* スタッフの対応､笑顔]はなくても気にしないけど，あったら嬉しい程度のものだと思ってる[erniogi.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1611850939,
-      "updated": 1617250980
+      "updated": 1643505120
     },
     {
       "id": "6012e52aa336820000212b53",
@@ -166,11 +166,39 @@
       "updated": 1617558941
     },
     {
-      "id": "6069fd9fe5172d00008c43c1",
+      "id": "61f5eca4d1a02f00005b8fa9",
       "text": "",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1617558943,
-      "updated": 1617558944
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643506853,
+      "updated": 1643506862
+    },
+    {
+      "id": "61f5ecaed1a02f00005b8fab",
+      "text": "[スマイル0円]という考え方も、時代によって変わってきたのかなあ。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643506863,
+      "updated": 1643507023
+    },
+    {
+      "id": "61f5ecf9d1a02f00005b8fac",
+      "text": "　また[マクドナルド]の話になっとるけど。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643506938,
+      "updated": 1643507003
+    },
+    {
+      "id": "61f5eca4d1a02f00005b8faa",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643506853,
+      "updated": 1643506853
+    },
+    {
+      "id": "61f5ed3cd1a02f00005b8fad",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643507005,
+      "updated": 1643507005
     },
     {
       "id": "6012dd26e5172d000003a231",

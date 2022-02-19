@@ -1,0 +1,85 @@
+{
+  "id": "6181ac08008888001f038abb",
+  "title": "Windows11",
+  "created": 1635888138,
+  "updated": 1643856152,
+  "lines": [
+    {
+      "id": "6181ac08008888001f038abb",
+      "text": "Windows11",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1635888138,
+      "updated": 1643682479
+    },
+    {
+      "id": "6181ac0979d3a90000a0239c",
+      "text": "勝手にインストールされるわけじゃなさそうなのでとりあえず安心",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635888139,
+      "updated": 1635888149
+    },
+    {
+      "id": "6181ac1379d3a90000a0239e",
+      "text": " [https://gyazo.com/aefc1199f92e7f73f4e8a37dde33c239]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635888149,
+      "updated": 1635888159
+    },
+    {
+      "id": "6181ac0a79d3a90000a0239d",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1635888141,
+      "updated": 1635888141
+    },
+    {
+      "id": "61f89ac31280f000003c94da",
+      "text": "2022-02-01現在だと色々地雷があるそうな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643682498,
+      "updated": 1643682521
+    },
+    {
+      "id": "61f89ac41280f000003c94db",
+      "text": " [/motoso/「このPCは現在、Windows11のシステム要件を満たしていません」を解消する]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643682499,
+      "updated": 1643682516
+    },
+    {
+      "id": "61f89ad51280f000003c94dc",
+      "text": " [Gyazo] DesktopでクリップボードにURLが入らない[mtane0412.icon]",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643682516,
+      "updated": 1643692259
+    },
+    {
+      "id": "61fb40de0553320000af431b",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643856094,
+      "updated": 1643856094
+    },
+    {
+      "id": "61fb40de0553320000af431c",
+      "text": "Windowsアップデートにきててやってみたけどそこまで困っていない。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643856094,
+      "updated": 1643856131
+    },
+    {
+      "id": "61fb41040553320000af431d",
+      "text": "[チャット]として[Teams]がdefaultで表示されてるのは面白いなぁと思った。",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643856131,
+      "updated": 1643856152
+    },
+    {
+      "id": "61f8c0c555cbd300009ad4e5",
+      "text": "",
+      "userId": "5ae7fecf7766b7001455cbd3",
+      "created": 1643692230,
+      "updated": 1643692230
+    }
+  ]
+}

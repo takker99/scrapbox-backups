@@ -2,7 +2,7 @@
   "id": "61e9ad526454d50022148281",
   "title": "2022/01/21",
   "created": 1642704211,
-  "updated": 1642760138,
+  "updated": 1643381961,
   "lines": [
     {
       "id": "61e9ad526454d50022148281",
@@ -153,17 +153,45 @@
     },
     {
       "id": "61ea126ca3368200000b244d",
-      "text": " \t 東京だと，しょうもない公共交通機関で移動してから歩かされて防寒の終わった家に移動したり，あるいは池袋・大手町・西新宿以外では基本的にビル風に晒されながら地上を歩くことになるので寒いんです…[erniogi.icon]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": " \t 東京だと，しょうもない公共交通機関で移動してから歩かされて防寒の終わった家に移動したり，あるいは池袋・大手町・西新宿以外では基本的に[ビル風]に晒されながら地上を歩くことになるので寒いんです…[erniogi.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642730092,
-      "updated": 1642730279
+      "updated": 1642762648
+    },
+    {
+      "id": "61ea890e7838e30000540553",
+      "text": " \t \tビル風は本当に寒い[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642760461,
+      "updated": 1642760468
+    },
+    {
+      "id": "61ea89157838e30000540554",
+      "text": " \t \t氷点下のほうがマシまである[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642760469,
+      "updated": 1642760495
     },
     {
       "id": "61e9ef6e7838e30000114785",
-      "text": "\t[ビブラム]の輪がひろがっている",
+      "text": "\t井戸端で[ビブラム]の輪がひろがっていて嬉しい",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1642721132,
-      "updated": 1642755860
+      "updated": 1642770015
+    },
+    {
+      "id": "61eaae1da336820000e339d4",
+      "text": "\t\t周囲の知り合いにも[/shio/shio.icon]先生の記事見せながらゴリ押ししてる",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642769951,
+      "updated": 1642770019
+    },
+    {
+      "id": "61eaae44a336820000e339d5",
+      "text": "",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642769991,
+      "updated": 1642770004
     },
     {
       "id": "61ea76ffa3368200005dc556",
@@ -461,10 +489,24 @@
     },
     {
       "id": "61ea006eaff09e0000a81b60",
-      "text": "\t\t  解釈はできたけど流石に過激すぎる解釈な気がするw[nishio.icon]",
+      "text": "\t\t  解釈はできたけど流石に[過激すぎる]解釈な気がするw[nishio.icon]",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642725486,
-      "updated": 1642725513
+      "updated": 1642766397
+    },
+    {
+      "id": "61eaa8576eb4060000c011d7",
+      "text": "\t\t 買いたてのスマートフォンをわざとべたべたと触って汚す人を思い出した。[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642768480,
+      "updated": 1642768566
+    },
+    {
+      "id": "61eaa8a26eb4060000c011d8",
+      "text": "\t\t \tこれを行うと、以降雑に扱えるらしい",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642768555,
+      "updated": 1642768563
     },
     {
       "id": "61e9fe446eb4060000a22955",
@@ -563,6 +605,83 @@
       "userId": "58442db3ee4a2400116eb406",
       "created": 1642755967,
       "updated": 1642755991
+    },
+    {
+      "id": "61eaa4066eb40600006ba42a",
+      "text": "\t情報の出力先が増えると出しわけに困るな",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767375,
+      "updated": 1642767432
+    },
+    {
+      "id": "61eaa41f6eb40600006ba42c",
+      "text": "\t\tフロー",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767400,
+      "updated": 1642767561
+    },
+    {
+      "id": "61eaa4be6eb40600006ba435",
+      "text": "\t\t\tTwitter",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767559,
+      "updated": 1642767562
+    },
+    {
+      "id": "61eaa42b6eb40600006ba42e",
+      "text": "\t\t\tFacebook",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767412,
+      "updated": 1642767562
+    },
+    {
+      "id": "61eaa4a46eb40600006ba432",
+      "text": "\t\t\tSlack,discord（何か所か入っている）",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767533,
+      "updated": 1642767589
+    },
+    {
+      "id": "61eaa4b36eb40600006ba434",
+      "text": "\t\tストック",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767548,
+      "updated": 1642767551
+    },
+    {
+      "id": "61eaa4206eb40600006ba42d",
+      "text": "\t\t\tScrapbox",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767401,
+      "updated": 1642767649
+    },
+    {
+      "id": "61eaa5186eb40600006ba436",
+      "text": "\t\t\t\t[井戸端]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767649,
+      "updated": 1642767649
+    },
+    {
+      "id": "61eaa4826eb40600006ba430",
+      "text": "\t\t\tはてブ",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767499,
+      "updated": 1642767553
+    },
+    {
+      "id": "61eaa4ae6eb40600006ba433",
+      "text": "\t\t\t自分のwiki",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767543,
+      "updated": 1642767553
+    },
+    {
+      "id": "61eaa4936eb40600006ba431",
+      "text": "\t\t\tはてなblog",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642767516,
+      "updated": 1642767554
     },
     {
       "id": "61ea1fbd6eb4060000a22957",
@@ -678,10 +797,10 @@
     },
     {
       "id": "61ea5e52aff09e00004b061d",
-      "text": " https://scrapbox--reader--nishio-vercel-app.translate.goog/nishio/(6.2.4)_Parable,_metaphor,_analogy?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp",
+      "text": " [Scrapbox Readerを和訳 https://scrapbox--reader--nishio-vercel-app.translate.goog/nishio/(6.2.4)_Parable,_metaphor,_analogy?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en-US&_x_tr_pto=wapp]",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642749522,
-      "updated": 1642749525
+      "updated": 1642777080
     },
     {
       "id": "61ea082f7838e30000e2c5fe",
@@ -769,10 +888,10 @@
     },
     {
       "id": "61ea8586aff09e0000982e5c",
-      "text": "　　 　「アイコンを変えたことに慣れる」ではなくもっと抽象的な適応能力[nishio.icon]",
+      "text": "　　 　「アイコンを変えたことに慣れる」ではなくもっと抽象的な[変化に適応する能力][nishio.icon]",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642759559,
-      "updated": 1642759584
+      "updated": 1642833317
     },
     {
       "id": "61ea85a0aff09e0000982e5d",
@@ -796,18 +915,25 @@
       "updated": 1642759681
     },
     {
+      "id": "61ea88204bb2e2000059e36d",
+      "text": "　　 　  なるほど、確かに「当たり前」に気付くのは大事だ[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642760207,
+      "updated": 1642760216
+    },
+    {
       "id": "61ea7e67aff09e0000982e56",
-      "text": "　　最近の性別とか年齢の質問を見て、考えて、結局のところ自分は「物理的な身体から解き放たれたい」と感じてる気がしてきた[nishio.icon]",
+      "text": "　　最近の性別とか年齢の質問を見て、考えて、結局のところ自分は「[物理的な身体から解き放たれたい]」と感じてる気がしてきた[nishio.icon]",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642757736,
-      "updated": 1642759699
+      "updated": 1642863714
     },
     {
       "id": "61ea7e8caff09e0000982e57",
-      "text": "　　 なのに単に使い慣れているという理由で実写アイコンを使うのは矛盾している気がしてた",
+      "text": "　　 なのに[単に使い慣れているという理由で実写アイコンを使うのは矛盾]している気がしてた",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642757773,
-      "updated": 1642757966
+      "updated": 1642863726
     },
     {
       "id": "61ea7f4daff09e0000982e58",
@@ -818,17 +944,87 @@
     },
     {
       "id": "61ea87bc42774800007b2e03",
-      "text": "　　  いいね[dai.icon]",
-      "userId": "5abc77416573130014427748",
+      "text": "　　  [/icons/いいね！.icon] [dai.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1642760125,
-      "updated": 1642760138
+      "updated": 1642760263
     },
     {
       "id": "61ea79fbaff09e0000982e55",
-      "text": "",
+      "text": "　今の瞬間まで「自分の作った多人数公開プロジェクトはないなぁ」って思ってたw",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642756603,
-      "updated": 1642756603
+      "updated": 1642766829
+    },
+    {
+      "id": "61eaa1ecaff09e0000982e72",
+      "text": "　 あるじゃん、[未踏名鑑]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642766829,
+      "updated": 1642766854
+    },
+    {
+      "id": "61eaa209aff09e0000982e73",
+      "text": "　今日の日記",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642766857,
+      "updated": 1642767059
+    },
+    {
+      "id": "61eaa2d3aff09e0000982e79",
+      "text": "　　2ポモドーロかけて翻訳したページのタイトルを直したら「既に存在します」",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767060,
+      "updated": 1642767082
+    },
+    {
+      "id": "61eaa2e9aff09e0000982e7a",
+      "text": "　　　既に翻訳があった！",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767082,
+      "updated": 1642767090
+    },
+    {
+      "id": "61eaa2f2aff09e0000982e7b",
+      "text": "　　という心の傷を乗り越えてさらに4ページ訳した、偉い、肯定ペンギンが褒めてくれるアプリ欲しい",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767090,
+      "updated": 1642767126
+    },
+    {
+      "id": "61eed32d774b17000012b66e",
+      "text": "　　　えらい[基素.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643041582,
+      "updated": 1643381949
+    },
+    {
+      "id": "61f404bf1280f000000de59c",
+      "text": "　　　[カイル]みたいなのをつくるといいかも[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643381951,
+      "updated": 1643381961
+    },
+    {
+      "id": "61eaa330aff09e0000982e7d",
+      "text": "　　しかし2通りの翻訳があるページ、片方を捨て去る勇気もないのでマージの必要が誕生して[負の仕事量]…",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767152,
+      "updated": 1642767206
+    },
+    {
+      "id": "61eaa2cdaff09e0000982e78",
+      "text": "　明日は[ピクミンブルーム]のコミュニティディです",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767054,
+      "updated": 1642771304
+    },
+    {
+      "id": "61eab34faff09e0000fdb145",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642771279,
+      "updated": 1642771279
     },
     {
       "id": "61ea0a281280f00000700ede",
@@ -867,10 +1063,10 @@
     },
     {
       "id": "61ea7c224bb2e20000bd2708",
-      "text": "  乙[kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "  乙[kuuote.icon][yosider.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1642757154,
-      "updated": 1642757161
+      "updated": 1642769934
     },
     {
       "id": "61ea83f91280f0000053449f",
@@ -1007,10 +1203,10 @@
     },
     {
       "id": "61ea76efa3368200005dc555",
-      "text": " \tいいね[erniogi.icon*3]",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": " \tいいね[erniogi.icon*3][nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1642755823,
-      "updated": 1642755826
+      "updated": 1642775343
     },
     {
       "id": "61ea778a774b1700009f00dc",
@@ -1032,6 +1228,475 @@
       "userId": "5abc77416573130014427748",
       "created": 1642755794,
       "updated": 1642755794
+    },
+    {
+      "id": "61ea8be879d3a900007a2565",
+      "text": "[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761192,
+      "updated": 1642761193
+    },
+    {
+      "id": "61ea8c0a79d3a900007a256b",
+      "text": "\t上手い名前思いつきそうな気がしたが気のせいだった",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761227,
+      "updated": 1642761234
+    },
+    {
+      "id": "61ea8be879d3a900007a2566",
+      "text": "  [ビブラム散歩]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761193,
+      "updated": 1642761236
+    },
+    {
+      "id": "61ea8bed79d3a900007a2567",
+      "text": "  ビブラム + ブーム、ムーブ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761198,
+      "updated": 1642761236
+    },
+    {
+      "id": "61ea8bfa79d3a900007a2568",
+      "text": "  ビブラブーウ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761210,
+      "updated": 1642761236
+    },
+    {
+      "id": "61ea8bfc79d3a900007a2569",
+      "text": "  ビブラムーブ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761212,
+      "updated": 1642761236
+    },
+    {
+      "id": "61ea91ba1280f000000fc373",
+      "text": "  Vibramovement[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642762682,
+      "updated": 1642762688
+    },
+    {
+      "id": "61ea8bff79d3a900007a256a",
+      "text": " [アバターで使ってる画像●●]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761215,
+      "updated": 1642761298
+    },
+    {
+      "id": "61ea8c3f79d3a900007a256c",
+      "text": " \t取ってきたか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761279,
+      "updated": 1642761284
+    },
+    {
+      "id": "61ea8c4379d3a900007a256e",
+      "text": " \t入手",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761284,
+      "updated": 1642761285
+    },
+    {
+      "id": "61ea8c4579d3a900007a256f",
+      "text": " \t生成",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761285,
+      "updated": 1642761286
+    },
+    {
+      "id": "61ea8c4579d3a900007a2570",
+      "text": " \tつくったか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761286,
+      "updated": 1642761303
+    },
+    {
+      "id": "61ea8c5779d3a900007a2571",
+      "text": " \t誕生",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761303,
+      "updated": 1642761310
+    },
+    {
+      "id": "61ea8c5d79d3a900007a2572",
+      "text": " \t由来",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761310,
+      "updated": 1642761319
+    },
+    {
+      "id": "61ea8c8879d3a900007a2577",
+      "text": " \t",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761352,
+      "updated": 1642761352
+    },
+    {
+      "id": "61ea8c6779d3a900007a2573",
+      "text": " \t---",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761319,
+      "updated": 1642761338
+    },
+    {
+      "id": "61ea8c7b79d3a900007a2576",
+      "text": " \tアバターで使ってる画像はどうやってつくった？的な書いてけしようとしたけど力尽きた",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642761339,
+      "updated": 1642761395
+    },
+    {
+      "id": "61ea8d7b79d3a900007a2580",
+      "text": " \t\tそしてアバターは画像なので「[頭痛が痛い]」感[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761596,
+      "updated": 1642761615
+    },
+    {
+      "id": "61ea8d9379d3a900007a2581",
+      "text": " \t\t\t気分でブラケティングしたらもうあったｗ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761620,
+      "updated": 1642761623
+    },
+    {
+      "id": "61ea8e194bb2e20000898a06",
+      "text": " \t\t[アイコンどうやって決めた？]というページがあったりする[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642761736,
+      "updated": 1642761761
+    },
+    {
+      "id": "61ea8e304bb2e20000898a07",
+      "text": " \t\t けど体裁整った物が別にあってもいいのかもしれない",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642761759,
+      "updated": 1642761776
+    },
+    {
+      "id": "61eb549779d3a90000a235f7",
+      "text": " \t\t 自分も書いてました（全く覚えてない）[sta.icon*2]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642812568,
+      "updated": 1642812575
+    },
+    {
+      "id": "61ea8be779d3a900007a2564",
+      "text": "\t仕事で[Kubernetes]勉強してて、抽象化の綺麗さに痺れる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761192,
+      "updated": 1642761382
+    },
+    {
+      "id": "61ea8cd34bb2e20000898a04",
+      "text": "\t 私の知ってる別の方もあれは綺麗と言っていたな、気になってる[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642761410,
+      "updated": 1642761427
+    },
+    {
+      "id": "61ea8c9279d3a900007a2578",
+      "text": "\t\t公式サイトが意外と充実していて読み応えあります[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761364,
+      "updated": 1642761475
+    },
+    {
+      "id": "61ea8d0379d3a900007a257a",
+      "text": "\t\t\t[Kubernetesとは何か？ | Kubernetes https://kubernetes.io/ja/docs/concepts/overview/what-is-kubernetes/]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761475,
+      "updated": 1642761476
+    },
+    {
+      "id": "61ea8cfa79d3a900007a2579",
+      "text": "\t\t\t仕事でこれ読んで過ごしながらお金もらえるのはちょっと楽しい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761466,
+      "updated": 1642761506
+    },
+    {
+      "id": "61ea8d0879d3a900007a257b",
+      "text": "    [/icons/いい話だ.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642761481,
+      "updated": 1642761515
+    },
+    {
+      "id": "61ea8daa6eb406000079cebf",
+      "text": "  そういう仕事してます[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642761642,
+      "updated": 1642761651
+    },
+    {
+      "id": "61ea8dd779d3a900007a2582",
+      "text": "\t\t\t学ぶにはいいですが、これを仕事で使うとなるとキツそうだなぁと今から戦慄してます。。。[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761688,
+      "updated": 1642761717
+    },
+    {
+      "id": "61ea96636eb4060000f65f83",
+      "text": "\t\t\t\t永続データは他で管理する、可能ならマネージドKubernetesを使う のがはじめは良いかと[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642763883,
+      "updated": 1642763910
+    },
+    {
+      "id": "61eb54b779d3a90000a235f8",
+      "text": "\t\t\t\t参考になります！",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642812599,
+      "updated": 1642812603
+    },
+    {
+      "id": "61ea8d324bb2e20000898a05",
+      "text": "\t[アファンタジア]本を読んだ",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761505,
+      "updated": 1642761529
+    },
+    {
+      "id": "61ea8d3879d3a900007a257d",
+      "text": "\t\t[/sta/アファンタジア: イメージのない世界で生きる]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761529,
+      "updated": 1642761529
+    },
+    {
+      "id": "61ea8d3b79d3a900007a257e",
+      "text": "\t\t他にもいるんだとわかるとやはり楽になる",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642761532,
+      "updated": 1642761670
+    },
+    {
+      "id": "61ea8f447c8c6d00003bca57",
+      "text": "",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642762052,
+      "updated": 1642762053
+    },
+    {
+      "id": "61ea8f447c8c6d00003bca58",
+      "text": "[teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642762053,
+      "updated": 1642762057
+    },
+    {
+      "id": "61ea8f557c8c6d00003bca59",
+      "text": "　[ポメラ]を導入した",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642762069,
+      "updated": 1642812711
+    },
+    {
+      "id": "61ea8fb57c8c6d00003bca5a",
+      "text": "　[親指シフト]の練習しはじめたけど違和感がすごい",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642762165,
+      "updated": 1642767782
+    },
+    {
+      "id": "61eaa5a77c8c6d00004671c9",
+      "text": "　　ローマ字入力再開したら一瞬で忘れそうだからフリック入力している",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642767784,
+      "updated": 1642767878
+    },
+    {
+      "id": "61eac344aff09e000017a795",
+      "text": "　　塩澤先生もローマ字入力は封印した方がいいって言ってた[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642775365,
+      "updated": 1642775392
+    },
+    {
+      "id": "61eac3e4aff09e000017a796",
+      "text": "　　　http://shiology.com/shiology/2015/12/4254-151222-185.html",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642775524,
+      "updated": 1642775525
+    },
+    {
+      "id": "61eac3e6aff09e000017a797",
+      "text": "　　　閾値を超えると両方使えるようになる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642775526,
+      "updated": 1642775535
+    },
+    {
+      "id": "61eac3efaff09e000017a798",
+      "text": "　　　あった",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642775535,
+      "updated": 1642775955
+    },
+    {
+      "id": "61eac592aff09e000017a799",
+      "text": "　　　　[/shiology/03256-131010 【親指シフト】習得の掟7つに]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642775955,
+      "updated": 1642775957
+    },
+    {
+      "id": "61ea8d2379d3a900007a257c",
+      "text": "　　　　　キーボードのシール貼ってしまった…[teyoda7.icon]",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642761508,
+      "updated": 1642778027
+    },
+    {
+      "id": "61eacdae7c8c6d000092a86e",
+      "text": "　　　　　この掟通り数日間頑張ってみます！",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642778032,
+      "updated": 1642778077
+    },
+    {
+      "id": "61eacddd7c8c6d000092a86f",
+      "text": "\t\t勝間和代先生も同じこと言ってました[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642778079,
+      "updated": 1642812690
+    },
+    {
+      "id": "61eb54c879d3a90000a235f9",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642812617,
+      "updated": 1642812617
+    },
+    {
+      "id": "61ea9d2d5b98c200001f1354",
+      "text": "[suto3.icon]",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1642765614,
+      "updated": 1642765616
+    },
+    {
+      "id": "61ea9d295b98c200001f1353",
+      "text": "　[井戸端ユーザの公開プロジェクト所有率]に関係があるのか、ないか、わからないのでここに書くけど",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1642765610,
+      "updated": 1642765683
+    },
+    {
+      "id": "61ea9d985b98c200001f1356",
+      "text": "　　井戸端民の皆さん、[[さも当然のように[github]のリポジトリを持っている]]のはどうしてなんだぜ",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1642765721,
+      "updated": 1642765918
+    },
+    {
+      "id": "61eaa19e7838e30000423ba3",
+      "text": "　　\tそんなの持ってるわけ・・・って書こうとしたけど1個だけあったわ[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642766749,
+      "updated": 1642766780
+    },
+    {
+      "id": "61eaa44d4bb2e20000249c2e",
+      "text": "　　\t安心して使えるデータ共有スペースとしては上位に位置すると思う[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642767420,
+      "updated": 1642767436
+    },
+    {
+      "id": "61eaa5824bb2e20000249c30",
+      "text": "　　\t [git]という高性能なバージョン管理システムをバックエンドに据えてる時点でオンラインストレージと捉えても他のサービスとは一線を画している",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642767729,
+      "updated": 1642767793
+    },
+    {
+      "id": "61eaa45e4bb2e20000249c2f",
+      "text": "　　\t 後はGitHubにアカウント持ってる人とやりとりするためとかそういうのですね",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642767436,
+      "updated": 1642767459
+    },
+    {
+      "id": "61eaa4b7aff09e0000b6cc51",
+      "text": "　　\t無料の知的生産支援ツールですよ？(誇張)[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767544,
+      "updated": 1642767564
+    },
+    {
+      "id": "61eaa4ccaff09e0000b6cc52",
+      "text": "　　\t 「知的生産(特にソースコード)」",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767564,
+      "updated": 1642767578
+    },
+    {
+      "id": "61eaa4e3aff09e0000b6cc53",
+      "text": "　　\t 自然言語がいかに不便かわかる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642767587,
+      "updated": 1642767597
+    },
+    {
+      "id": "61eaa5b61280f000000b4122",
+      "text": " 　　\t 小説管理ツールとしても使えないことはない[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767798,
+      "updated": 1642767861
+    },
+    {
+      "id": "61ea9d705b98c200001f1355",
+      "text": "      [sta.icon]さんがやってた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642765680,
+      "updated": 1642767846
+    },
+    {
+      "id": "61eaa5e81280f000000b4124",
+      "text": "      他にもやっている人いそう",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767848,
+      "updated": 1642767854
+    },
+    {
+      "id": "61eaa5f71280f000000b4125",
+      "text": "     ただやはり不便な点もあるそうな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767863,
+      "updated": 1642767881
+    },
+    {
+      "id": "61eaa6091280f000000b4126",
+      "text": "      行単位の差分ではなく、話題・場面のまとまりで差分を出してほしいとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767881,
+      "updated": 1642767905
+    },
+    {
+      "id": "61eaa6221280f000000b4127",
+      "text": "      [/sta]のどこかにあったけど忘れた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767905,
+      "updated": 1642767912
+    },
+    {
+      "id": "61eb54f879d3a90000a235fa",
+      "text": "      [/sta/バージョン管理は自然文の管理に向いてない]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642812665,
+      "updated": 1642812665
+    },
+    {
+      "id": "61eaa5dd1280f000000b4123",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767837,
+      "updated": 1642767837
     },
     {
       "id": "61e9ad534bb2e20000a10ca0",

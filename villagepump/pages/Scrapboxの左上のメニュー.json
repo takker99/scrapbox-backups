@@ -2,7 +2,7 @@
   "id": "613fed680ff39b001fcf6e3b",
   "title": "Scrapboxの左上のメニュー",
   "created": 1631579531,
-  "updated": 1631579687,
+  "updated": 1644499660,
   "lines": [
     {
       "id": "613fed680ff39b001fcf6e3b",
@@ -34,10 +34,17 @@
     },
     {
       "id": "613fed8c1280f00000ec86bb",
-      "text": "",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "\t\tUser関連のメニューは[Scrapboxの右上のメニュー]に分割された",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1631579533,
-      "updated": 1631579533
+      "updated": 1644499660
+    },
+    {
+      "id": "620512a27838e300007b8c99",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644499618,
+      "updated": 1644499618
     },
     {
       "id": "613fedae1280f00000ec86bf",

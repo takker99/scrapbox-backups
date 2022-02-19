@@ -2,7 +2,7 @@
   "id": "61e7eea1ad050c00212ed110",
   "title": "inajob",
   "created": 1642589858,
-  "updated": 1642641175,
+  "updated": 1643976335,
   "lines": [
     {
       "id": "61e7eea1ad050c00212ed110",
@@ -96,6 +96,69 @@
       "updated": 1642638458
     },
     {
+      "id": "61fd15b16eb40600007cdf32",
+      "text": "[** 仕事]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976137,
+      "updated": 1643976142
+    },
+    {
+      "id": "61fd15b76eb40600007cdf33",
+      "text": "\t大手Webサービス企業",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976143,
+      "updated": 1643976150
+    },
+    {
+      "id": "61fd15bf6eb40600007cdf34",
+      "text": "\tスキル",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976150,
+      "updated": 1643976169
+    },
+    {
+      "id": "61fd166c6eb40600007cdf3a",
+      "text": "\t\t社内転職で色々やってます",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976324,
+      "updated": 1643976335
+    },
+    {
+      "id": "61fd15d26eb40600007cdf35",
+      "text": "\t\tWebフロントエンド",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976170,
+      "updated": 1643976174
+    },
+    {
+      "id": "61fd16396eb40600007cdf39",
+      "text": "\t\t\t古びたJavaScriptの知識・・",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976273,
+      "updated": 1643976278
+    },
+    {
+      "id": "61fd15e06eb40600007cdf36",
+      "text": "\t\tWebバックエンド",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976184,
+      "updated": 1643976207
+    },
+    {
+      "id": "61fd15e36eb40600007cdf37",
+      "text": "\t\tインフラ（いまここ）",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976187,
+      "updated": 1643976316
+    },
+    {
+      "id": "61fd15e96eb40600007cdf38",
+      "text": "\t\t\tKubernetes",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643976193,
+      "updated": 1643976195
+    },
+    {
       "id": "61e7f6bd6eb40600005eae83",
       "text": "[** 趣味指向]",
       "userId": "58442db3ee4a2400116eb406",
@@ -122,13 +185,6 @@
       "userId": "58442db3ee4a2400116eb406",
       "created": 1642591967,
       "updated": 1642591973
-    },
-    {
-      "id": "61e7f6e76eb40600005eae89",
-      "text": "\t\tお仕事はWebインフラ周り",
-      "userId": "58442db3ee4a2400116eb406",
-      "created": 1642591980,
-      "updated": 1642591987
     },
     {
       "id": "61e7f6cb6eb40600005eae85",
@@ -272,10 +328,10 @@
     },
     {
       "id": "61e7f7666eb40600005eae90",
-      "text": "\t個人Scrapboxもどき （人が見ることを考慮してないですが・・） http://inline.inajob.tk/web/?&user=twitter-5643382&id=FrontPage",
+      "text": "\t個人Scrapboxもどき: [inline] （人が見ることを考慮してないですが・・） http://inline.inajob.tk/web/?&user=twitter-5643382&id=FrontPage",
       "userId": "58442db3ee4a2400116eb406",
       "created": 1642592107,
-      "updated": 1642592132
+      "updated": 1643707435
     },
     {
       "id": "61e7efc6774b170000c8d329",
@@ -346,6 +402,139 @@
       "userId": "58442db3ee4a2400116eb406",
       "created": 1642589858,
       "updated": 1642589858
+    },
+    {
+      "id": "61fb17326eb4060000d9a68f",
+      "text": "",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845470
+    },
+    {
+      "id": "61fb17336eb4060000d9a690",
+      "text": "[** iconの補完]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb173f6eb4060000d9a69c",
+      "text": "\t[/takker/emoji-completion]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845439,
+      "updated": 1643845441
+    },
+    {
+      "id": "61fb17336eb4060000d9a691",
+      "text": "\tcode:script.js",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a692",
+      "text": "\t import {EmojiCompletion} from '/api/code/takker/emoji-completion/script.js';",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a693",
+      "text": "  const emojiCompletion = new EmojiCompletion({",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a694",
+      "text": "   \t\t\t\t\t\t\tprojects: ['icons','emoji','icons2'],",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a695",
+      "text": "   \t\t\t\t\t     // includeYourProject: true,",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a696",
+      "text": "   \t\t\t\t\t     // maxSuggestionNum: 30,",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a697",
+      "text": "   \t\t\t\t\t     // maxHeight: `calc(50vh - 100px)`",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a698",
+      "text": "   \t\t\t\t\t     // enableOnMobile: false,",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a699",
+      "text": "   \t\t\t\t\t\t});",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17336eb4060000d9a69a",
+      "text": "   emojiCompletion.start();",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845427,
+      "updated": 1643845427
+    },
+    {
+      "id": "61fb17556eb4060000d9a6a2",
+      "text": "",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845462,
+      "updated": 1643845462
+    },
+    {
+      "id": "61fb17346eb4060000d9a69b",
+      "text": "[** ScrapCalc]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845428,
+      "updated": 1643845459
+    },
+    {
+      "id": "61fb17526eb4060000d9a69e",
+      "text": "code:script.js",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845459,
+      "updated": 1643845459
+    },
+    {
+      "id": "61fb17526eb4060000d9a69f",
+      "text": " import '/api/code/masui/ScrapCalc/script.js'",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845459,
+      "updated": 1643845459
+    },
+    {
+      "id": "61fb17526eb4060000d9a6a0",
+      "text": "code:style.css",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845459,
+      "updated": 1643845459
+    },
+    {
+      "id": "61fb17526eb4060000d9a6a1",
+      "text": " @import '/api/code/masui/ScrapCalc/style.css';",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643845459,
+      "updated": 1643845459
     }
   ]
 }

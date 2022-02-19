@@ -2,7 +2,7 @@
   "id": "6153e8a2a6f4540022a5c17f",
   "title": "ShiftJIS",
   "created": 1632888997,
-  "updated": 1632915988,
+  "updated": 1644693927,
   "lines": [
     {
       "id": "6153e8a2a6f4540022a5c17f",
@@ -27,10 +27,10 @@
     },
     {
       "id": "615423f25b98c2000052a9c3",
-      "text": " 闇要素",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": " [闇]要素",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1632904179,
-      "updated": 1632904228
+      "updated": 1644666675
     },
     {
       "id": "615424165b98c2000052a9c4",
@@ -89,11 +89,46 @@
       "updated": 1632904171
     },
     {
+      "id": "62079f178ee92a0000d1dcb9",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644666648,
+      "updated": 1644666648
+    },
+    {
+      "id": "62079f188ee92a0000d1dcba",
+      "text": "これ作ったのはASCIIの深瀬さんだっけ [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644666648,
+      "updated": 1644693927
+    },
+    {
+      "id": "62079f398ee92a0000d1dcbb",
+      "text": " ホント闇が深い",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644666681,
+      "updated": 1644666687
+    },
+    {
       "id": "615423ea5b98c2000052a9c2",
       "text": "",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1632904171,
       "updated": 1632904171
+    },
+    {
+      "id": "62079f4f8ee92a0000d1dcbc",
+      "text": "#文字コード",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644666704,
+      "updated": 1644666707
+    },
+    {
+      "id": "62079f508ee92a0000d1dcbd",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644666704,
+      "updated": 1644666704
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "5f9e0e87fbe72300208aaaab",
   "title": "井戸端に書かないことを挙げてく",
   "created": 1604193930,
-  "updated": 1637194045,
+  "updated": 1643105180,
   "lines": [
     {
       "id": "5f9e0e87fbe72300208aaaab",
@@ -293,10 +293,38 @@
     },
     {
       "id": "6195566f66687200007b6cc2",
-      "text": " \t\t 　",
-      "userId": "5ee7f26f1c0c850025666872",
+      "text": " \t\tここでやっても有益なものが得られる確率が低そうと感じる[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1637176943,
-      "updated": 1637176969
+      "updated": 1643033913
+    },
+    {
+      "id": "61eeb517aff09e0000b56f70",
+      "text": " \t\t　その割に不用意なことを書くと過激派が見つけて乗り込んでくる可能性がある",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033880,
+      "updated": 1643033959
+    },
+    {
+      "id": "61eeb568aff09e0000b56f71",
+      "text": " \t\t　　ゲートを閉めない公開プロジェクトだからなぁ…",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033961,
+      "updated": 1643033995
+    },
+    {
+      "id": "61eeb5f5aff09e0000b56f72",
+      "text": " \t\t　人類の99%は公共の利益のために自分の利益に反する主張を受け入れることができないという諦観",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643034101,
+      "updated": 1643034163
+    },
+    {
+      "id": "61eeb633aff09e0000b56f73",
+      "text": " \t\t　　「格差がない方がいい」とか言うなら速やかに世界平均レベルまで資産を吐き出して発展途上国に送れよ、と。",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643034164,
+      "updated": 1643034290
     },
     {
       "id": "602e51f4e5172d00001a432f",
@@ -304,6 +332,13 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1613648370,
       "updated": 1613648385
+    },
+    {
+      "id": "61eeb234aff09e0000b56f67",
+      "text": "\t\t　[原始仏教]はいいぞ(ガルパンはいいぞ的な意味で)[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033141,
+      "updated": 1643039718
     },
     {
       "id": "602f6e8c5b98c2000047c6da",
@@ -461,10 +496,10 @@
     },
     {
       "id": "5f9e0f9d1280f000004d38c5",
-      "text": "　家族の情報[takker.icon][yosider.icon][kuuote.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "　家族の情報[takker.icon][yosider.icon][kuuote.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1604194206,
-      "updated": 1613670210
+      "updated": 1643033879
     },
     {
       "id": "602f63db1280f0000051ddb0",
@@ -489,10 +524,10 @@
     },
     {
       "id": "619598aa1280f00000708eab",
-      "text": " 住んでいる地域[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " 住んでいる地域[takker.icon][nishio.icon][kuuote.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1637193899,
-      "updated": 1637193929
+      "updated": 1643033882
     },
     {
       "id": "619598b11280f00000708eac",
@@ -521,6 +556,55 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1637194034,
       "updated": 1637194045
+    },
+    {
+      "id": "61eeb36aaff09e0000b56f68",
+      "text": "  最寄駅がバレないように気をつけている[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033451,
+      "updated": 1643033463
+    },
+    {
+      "id": "61eeb377aff09e0000b56f69",
+      "text": "  「今日は不燃ゴミを出さねば」とかも書かない[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033463,
+      "updated": 1643033492
+    },
+    {
+      "id": "61eeb394aff09e0000b56f6a",
+      "text": "  地元で祭りだとかイベントだとか地域の出身者がなんかのスポーツで入賞したとか系のことをことごとく封じてる[nishio.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643033492,
+      "updated": 1643033981
+    },
+    {
+      "id": "61eeb5a04bb2e20000efd945",
+      "text": "  地震の時に「揺れた」とかツイートするのをグッと堪えている[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643033989,
+      "updated": 1643034006
+    },
+    {
+      "id": "61eeb6d5aff09e0000b56f74",
+      "text": "  　めっちゃ落雷した時にツイートしたいのをかなり堪えてるw[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643034326,
+      "updated": 1643034365
+    },
+    {
+      "id": "61eeb7514bb2e20000efd946",
+      "text": "  　 それな[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643034423,
+      "updated": 1643034426
+    },
+    {
+      "id": "61eeb5804bb2e20000efd944",
+      "text": "  某所でどこに住んでいるのかわからんと言われたので達成できていそう[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643033958,
+      "updated": 1643033972
     },
     {
       "id": "602ea7444bb2e20000ad974e",
@@ -584,6 +668,13 @@
       "userId": "5ee7f26f1c0c850025666872",
       "created": 1637193848,
       "updated": 1637193976
+    },
+    {
+      "id": "61eeb3daaff09e0000b56f6b",
+      "text": "　 講演予定とかむしろピン留めしてるな[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033562,
+      "updated": 1643033575
     },
     {
       "id": "602ea8534bb2e20000ad9754",
@@ -684,11 +775,53 @@
       "updated": 1637193940
     },
     {
-      "id": "602ea7a34bb2e20000ad9752",
-      "text": "",
+      "id": "61eeb405aff09e0000b56f6c",
+      "text": "　　privateも含めてテキストに残さない[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033605,
+      "updated": 1643033630
+    },
+    {
+      "id": "61eeb41eaff09e0000b56f6d",
+      "text": "　　 残すとまた見てしまう",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643033631,
+      "updated": 1643033652
+    },
+    {
+      "id": "61eeb45baff09e0000b56f6f",
+      "text": "　　 [書いたものは戻ってくるのでなるべく良いことを書く]ようにしてる",
       "userId": "5e8944948a182900174bb2e2",
+      "created": 1643033692,
+      "updated": 1643033898
+    },
+    {
+      "id": "61eeb5364bb2e20000952e67",
+      "text": "　　  えらい[kuuote.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643033884,
+      "updated": 1643105180
+    },
+    {
+      "id": "602ea7a34bb2e20000ad9752",
+      "text": "\t信頼できない情報[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1613670306,
-      "updated": 1613670308
+      "updated": 1643033818
+    },
+    {
+      "id": "61eeb4e67838e30000eb59c4",
+      "text": "\t\t書かないようには意識しているけどたまに書いちゃってるかもしれない[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643033830,
+      "updated": 1643033842
+    },
+    {
+      "id": "61eeb4d27838e30000eb59c3",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643033810,
+      "updated": 1643033810
     },
     {
       "id": "5f9e0f401280f000004d38bf",
@@ -720,10 +853,10 @@
     },
     {
       "id": "6062a8d9e5172d0000b31770",
-      "text": "　　　おもしろい[yosider.icon][takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "　　　おもしろい[yosider.icon][takker.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1617078490,
-      "updated": 1637193874
+      "updated": 1643037082
     },
     {
       "id": "602ef60f79d3a90000217c32",

@@ -2,7 +2,7 @@
   "id": "5fa96feebdc00c001e4d5cab",
   "title": "p5w",
   "created": 1604939759,
-  "updated": 1628328916,
+  "updated": 1643855888,
   "lines": [
     {
       "id": "5fa96feebdc00c001e4d5cab",
@@ -131,6 +131,13 @@
       "updated": 1607420623
     },
     {
+      "id": "61fb3f9e05533200004e50bc",
+      "text": "ほかのページをリストから非表示にする",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643855773,
+      "updated": 1643855792
+    },
+    {
       "id": "5fa972d705533200008b3cc0",
       "text": "code:style.css",
       "userId": "5d131fa66fe2890017055332",
@@ -139,17 +146,38 @@
     },
     {
       "id": "5fa972df05533200008b3cc1",
-      "text": " ",
+      "text": " .page-list-item[data-page-title*=\"2ch感覚\"]",
       "userId": "5d131fa66fe2890017055332",
       "created": 1604940511,
-      "updated": 1612924892
+      "updated": 1643855858
+    },
+    {
+      "id": "61fb3f9605533200004e50bb",
+      "text": "   {display: none !important;}",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643855765,
+      "updated": 1643855765
     },
     {
       "id": "5fa970000553320000c18146",
       "text": "",
       "userId": "5d131fa66fe2890017055332",
       "created": 1604939776,
-      "updated": 1604939776
+      "updated": 1643855880
+    },
+    {
+      "id": "61fb40090553320000af4316",
+      "text": "　おーできたできた、ワンクリックでしたいな",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643855880,
+      "updated": 1643855888
+    },
+    {
+      "id": "61fb40090553320000af4317",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643855880,
+      "updated": 1643855880
     },
     {
       "id": "5fa974f105533200000271ef",
@@ -185,6 +213,20 @@
       "userId": "5d131fa66fe2890017055332",
       "created": 1604939759,
       "updated": 1604939759
+    },
+    {
+      "id": "61fb3f8f05533200004e5072",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643855759,
+      "updated": 1643855762
+    },
+    {
+      "id": "61fb3f9405533200004e5097",
+      "text": "",
+      "userId": "5d131fa66fe2890017055332",
+      "created": 1643855763,
+      "updated": 1643855763
     }
   ]
 }

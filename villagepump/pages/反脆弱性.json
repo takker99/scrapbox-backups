@@ -2,7 +2,7 @@
   "id": "619a22ecb5420a001d646670",
   "title": "反脆弱性",
   "created": 1637491438,
-  "updated": 1637496270,
+  "updated": 1643123610,
   "lines": [
     {
       "id": "619a22ecb5420a001d646670",
@@ -87,6 +87,34 @@
       "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1637491928,
       "updated": 1637491928
+    },
+    {
+      "id": "61f01371aff09e00002a65e4",
+      "text": "[/nishio/反脆弱性][nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123570,
+      "updated": 1643123585
+    },
+    {
+      "id": "61f0136daff09e00002a65e2",
+      "text": ">[不確定性]から得る益の大きいものを「反脆弱」と言う",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123566,
+      "updated": 1643123573
+    },
+    {
+      "id": "61f0136faff09e00002a65e3",
+      "text": "\t[/nishio/リスクと脆弱性]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123567,
+      "updated": 1643123610
+    },
+    {
+      "id": "61f0139aaff09e00002a65e5",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123610,
+      "updated": 1643123610
     }
   ]
 }

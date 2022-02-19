@@ -2,7 +2,7 @@
   "id": "60541d1dd94846001cf84c1b",
   "title": "Page Rank (Scrapbox)",
   "created": 1616125216,
-  "updated": 1619670470,
+  "updated": 1644836210,
   "lines": [
     {
       "id": "60541d1dd94846001cf84c1b",
@@ -62,10 +62,10 @@
     },
     {
       "id": "605704d4e5172d0000991b4e",
-      "text": "\t[2-hop link]が多いページほど価値が高いということ？[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "\t[2 hop link]が多いページほど価値が高いということ？[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1616315604,
-      "updated": 1616315622
+      "updated": 1639962709
     },
     {
       "id": "60543f961d860a0000943c76",
@@ -348,214 +348,11 @@
       "updated": 1616310351
     },
     {
-      "id": "6056fccbe5172d00002dde71",
-      "text": "そもそも[被リンク数が多いページは価値が高い]というのは本当だろうか？[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616313547,
-      "updated": 1616313607
-    },
-    {
-      "id": "6056fd10e5172d00002dde73",
-      "text": " [カテゴリとしてのリンクを使う]と、そのカテゴリを表す単語タグの価値が高いことになるが、実際はそんなに価値を感じない気がする",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616313616,
-      "updated": 1616313700
-    },
-    {
-      "id": "6056fccde5172d00002dde72",
-      "text": "\t\tたった今思い出したんですが、「カテゴリとしてのリンクは弾く」みたいな情報をどこかで見た覚えがあるような、ないような[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616313550,
-      "updated": 1616314253
-    },
-    {
-      "id": "605701a7e5172d0000991b47",
-      "text": "\t\t　[/nota-techconf/急にリクエストが1.5倍に増えてクソデカJSONと戦った#6047da2397c2910000454eb4]とかですかね？[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616314792,
-      "updated": 1616314798
-    },
-    {
-      "id": "6057cfdc79d3a9000022d5dc",
-      "text": "\t\t　yes[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616367581,
-      "updated": 1616367584
-    },
-    {
-      "id": "6056ff5779d3a90000cd0862",
-      "text": "\t\tリンク = タグリンク（カテゴリとしてのリンク） + [ピュアリンク]（Scrapboxが推奨してるリンク）として",
-      "userId": "5d131fa66fe2890017055332",
-      "created": 1616314199,
-      "updated": 1619670309
-    },
-    {
-      "id": "605701e3e5172d0000991b48",
-      "text": "\t\t　同じリンク記法を使っている場合は見分けがつかなさそう[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616314852,
-      "updated": 1616314865
-    },
-    {
-      "id": "605701f1e5172d0000991b49",
-      "text": "\t\t　　タグリンクにタグ記法を使っているならわかるけど",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616314866,
-      "updated": 1616314891
-    },
-    {
-      "id": "6057cfc579d3a9000022d5db",
-      "text": "\t\t　　そうなんですよね……（僕もたまに使う）[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616367558,
-      "updated": 1616367572
-    },
-    {
-      "id": "6056ff1979d3a90000cd085b",
-      "text": "\t\tつまり",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616314137,
-      "updated": 1616314142
-    },
-    {
-      "id": "6056ff2979d3a90000cd085d",
-      "text": "\t\t\tx [被リンク数が多いページは価値が高い]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616314153,
-      "updated": 1616314156
-    },
-    {
-      "id": "6056ff4e79d3a90000cd0861",
-      "text": "\t\t\tx 被タグリンク数が多いページは価値が高い",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616314190,
-      "updated": 1616314194
-    },
-    {
-      "id": "6056ff2d79d3a90000cd085e",
-      "text": "\t\t\to 被ピュアリンク数が多いページは価値が高い",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616314157,
-      "updated": 1616314190
-    },
-    {
-      "id": "6056ff4d79d3a90000cd0860",
-      "text": "\t\tまあ、だとしても「被ピュアリンク数が多いページは価値が高い」は本当だろうか？という疑問はあるんですが",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616314190,
-      "updated": 1616314242
-    },
-    {
-      "id": "605702bae5172d0000991b4b",
-      "text": "\tリンクの価値って、ある程度のリンク数にピークがあって、そこから離れるほど下がるような形なのかも[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616315066,
-      "updated": 1616315451
-    },
-    {
-      "id": "60570408e5172d0000991b4d",
-      "text": "\t\t[大きなリンク]の価値は低い",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616315401,
-      "updated": 1616315451
-    },
-    {
-      "id": "6057021ce5172d0000991b4a",
-      "text": "\t　「最適なリンク数」との近さに応じて被リンクの価値を重み付けしたらどうだろう",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616314909,
-      "updated": 1616315451
-    },
-    {
-      "id": "605703dbe5172d0000991b4c",
-      "text": "\t　　まあ決めるのが難しそうだが",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616315355,
-      "updated": 1616315451
-    },
-    {
-      "id": "608a35440553320000c04957",
-      "text": "\t　　\t状況に応じて変わるものだから単純なところでつけたんだろうけどscrapboxはそういう無駄な機能はできるだけやらないイメージだったのでこのタイトルのやつは以外だった。。（さっきじぶんのＰＪでたまたま存在に気が付いてここで検索したｗ）",
-      "userId": "5d131fa66fe2890017055332",
-      "created": 1619670341,
-      "updated": 1619670400
-    },
-    {
-      "id": "608a35bd0553320000c0495a",
-      "text": "\t　　\t　と思ったら、これみて安心した。よかった。",
-      "userId": "5d131fa66fe2890017055332",
-      "created": 1619670462,
-      "updated": 1619670470
-    },
-    {
-      "id": "608a35bb0553320000c04959",
-      "text": "\t　　\t　　https://twitter.com/shokai/status/1372564851873128449?s=20",
-      "userId": "5d131fa66fe2890017055332",
-      "created": 1619670460,
-      "updated": 1619670461
-    },
-    {
-      "id": "6057d06579d3a9000022d5e0",
-      "text": "\t　[- [正規表現のグラフ]]正規分布のグラフが頭に思い浮かんだ",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616367717,
-      "updated": 1616713129
-    },
-    {
-      "id": "6058e55de5172d000096c049",
-      "text": "\t　　よろしければkwsk[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616438621,
-      "updated": 1616438635
-    },
-    {
-      "id": "605d159179d3a90000173f6a",
-      "text": "\t\t\tすいません[sta.icon]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616713108,
-      "updated": 1616713111
-    },
-    {
-      "id": "605d159679d3a90000173f6b",
-      "text": "\t\t\t\tx 正規表現",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616713111,
-      "updated": 1616713114
-    },
-    {
-      "id": "605d159979d3a90000173f6c",
-      "text": "\t\t\t\to 正規分布",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616713114,
-      "updated": 1616713117
-    },
-    {
-      "id": "605d159c79d3a90000173f6d",
-      "text": "\t\t\t\t↓ こういうやつ",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616713117,
-      "updated": 1616713172
-    },
-    {
-      "id": "605d15b679d3a90000173f6e",
-      "text": "\t\t\t\t[https://gyazo.com/0cb995c3c20f2512d44816cb73db14ee]",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1616713143,
-      "updated": 1616713163
-    },
-    {
-      "id": "605d6f88e5172d0000d6a27f",
-      "text": "\t\t\t\tなるほどです[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616736137,
-      "updated": 1616736146
-    },
-    {
-      "id": "605d6f93e5172d0000d6a280",
-      "text": "\t\t[スケールフリーネットワーク]とかその辺の[複雑ネットワーク]論でなんか説明無いかなあ[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1616736148,
-      "updated": 1616736228
+      "id": "620a29021280f00000b3e464",
+      "text": "[被リンク数の多いページは本当に価値が高いのか]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644833026,
+      "updated": 1644833053
     },
     {
       "id": "605d15ca79d3a90000173f6f",
@@ -566,10 +363,31 @@
     },
     {
       "id": "6056ff6f79d3a90000cd0863",
-      "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
+      "text": "ちなみに[Most related]は[assets/dedicaated-worker.js]で計算されています",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1616314224,
-      "updated": 1616314224
+      "updated": 1644836137
+    },
+    {
+      "id": "620a35221280f00000458a4b",
+      "text": " https://scrapbox.io/assets/dedicated-worker.js",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644836130,
+      "updated": 1644836139
+    },
+    {
+      "id": "620a351a1280f00000458a4a",
+      "text": " `compileRelatedPages()`で計算している変数`point`がそれ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644836122,
+      "updated": 1644836210
+    },
+    {
+      "id": "620a353e1280f00000458a4c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644836158,
+      "updated": 1644836158
     }
   ]
 }

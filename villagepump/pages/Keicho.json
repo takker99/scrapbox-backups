@@ -2,7 +2,7 @@
   "id": "60d98ec92adef9001c2f2421",
   "title": "Keicho",
   "created": 1624870602,
-  "updated": 1627634787,
+  "updated": 1644407394,
   "lines": [
     {
       "id": "60d98ec92adef9001c2f2421",
@@ -82,6 +82,13 @@
       "updated": 1627499963
     },
     {
+      "id": "61eea5361280f000007b4349",
+      "text": "  改行ではなく、「まず聞いて」を入れてから流し込むべきでしたね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643029816,
+      "updated": 1643029855
+    },
+    {
       "id": "6101989aaff09e000064ccd0",
       "text": "",
       "userId": "582e63d27c56960011aff09e",
@@ -97,10 +104,10 @@
     },
     {
       "id": "61019a8faff09e000024d4d4",
-      "text": "\t\t幅優先探索したいケースもあると思うし、その場合はチャット的UIよりもScrapboxが向いてそう？？[nishio.icon]",
+      "text": "\t\t[幅優先探索]したいケースもあると思うし、その場合はチャット的UIよりもScrapboxが向いてそう？？[nishio.icon]",
       "userId": "582e63d27c56960011aff09e",
       "created": 1627495056,
-      "updated": 1627634783
+      "updated": 1643777162
     },
     {
       "id": "61019ad3aff09e000064ccd2",
@@ -115,6 +122,41 @@
       "userId": "582e63d27c56960011aff09e",
       "created": 1627634772,
       "updated": 1627634772
+    },
+    {
+      "id": "61eea5641280f000007b434a",
+      "text": "最近[keichobot]に名前が変わった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643029862,
+      "updated": 1643029872
+    },
+    {
+      "id": "61eea56e1280f000007b434c",
+      "text": " タイトル変更したほうがいいかな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643029872,
+      "updated": 1643029884
+    },
+    {
+      "id": "61eea9eaaff09e0000b56f4d",
+      "text": " どっちで書いても繋がるからどちらでも良いと思う[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643031019,
+      "updated": 1643031087
+    },
+    {
+      "id": "6203aa2eaff09e0000eb86d7",
+      "text": " 　あ、ちなみになんで変えたかというとTwitterを検索した時に関係ないものがヒットしすぎるからなので、このプロジェクトの中を検索する時にはKeichoで十分だからどっちでもいいということです",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644407342,
+      "updated": 1644407394
+    },
+    {
+      "id": "61eea5661280f000007b434b",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643029864,
+      "updated": 1643029864
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "61acce47eae3a8001d9cb06c",
   "title": "scrapbox-lint",
   "created": 1638714953,
-  "updated": 1642279593,
+  "updated": 1643727582,
   "lines": [
     {
       "id": "61acce47eae3a8001d9cb06c",
@@ -13,10 +13,10 @@
     },
     {
       "id": "61acce52d1a02f000064ac09",
-      "text": "Scrapbox で文章[校正]するための [UserScript]",
+      "text": "Scrapboxで文章[校正]するための [UserScript]",
       "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1638714962,
-      "updated": 1638715038
+      "updated": 1643483729
     },
     {
       "id": "61acceaed1a02f000064ac0b",
@@ -40,67 +40,116 @@
       "updated": 1638714957
     },
     {
-      "id": "61e2e8e0d1a02f000036c8b3",
+      "id": "61f58850d1a02f0000e15811",
       "text": "",
       "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481168,
+      "updated": 1643481168
+    },
+    {
+      "id": "61f5881ed1a02f0000e1580c",
+      "text": "2022/1/30 [hata6502.icon] ソースコードを[GitHub]リポジトリで管理することにしました。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481118,
+      "updated": 1643481160
+    },
+    {
+      "id": "61f58823d1a02f0000e1580d",
+      "text": "\thttps://github.com/hata6502/kohsei-san/tree/master/packages/scrapbox-lint",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481124,
+      "updated": 1643481128
+    },
+    {
+      "id": "61e2e8e0d1a02f000036c8b3",
+      "text": "\tようやく快適な開発環境を手に入れた。",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1642260705,
-      "updated": 1642260705
+      "updated": 1643481185
+    },
+    {
+      "id": "61f58861d1a02f0000e15813",
+      "text": "\t\t[TypeScript], [Webpack], etc...",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481185,
+      "updated": 1643481210
+    },
+    {
+      "id": "61f58856d1a02f0000e15812",
+      "text": "\tforkやプルリクエストもご自由に。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481174,
+      "updated": 1643482122
+    },
+    {
+      "id": "61f58c31d1a02f0000e1581f",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643482162,
+      "updated": 1643482180
+    },
+    {
+      "id": "61f5884cd1a02f0000e15810",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e2e8ded1a02f000036c8b0",
       "text": "2022/1/13 [hata6502.icon] 使ってくれる方がいて、ちゃんと作り込もうかなと思いました。",
       "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1642260703,
-      "updated": 1642260703
+      "updated": 1643481423
     },
     {
       "id": "61e2e8dfd1a02f000036c8b1",
       "text": "　scrapboxで校正すると、自由な文章執筆を妨げてしまうと思っていました。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642260703,
-      "updated": 1642279109
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e3194c774b1700005d4824",
       "text": "　　確かに気になる場合もありますね[基素.icon]",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642273101,
-      "updated": 1642279096
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e33068d1a02f00006fe9b1",
       "text": "　　[hata6502.icon][スペルチェック]のようにリアルタイムで指摘を表示したいけど、どうしようかな。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642279015,
-      "updated": 1642279085
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e2e8dfd1a02f000036c8b2",
       "text": "\tどのような用途に使えるだろう？",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642260703,
-      "updated": 1642262444
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e2efacd1a02f000055d088",
       "text": "\t\tScrapboxで原稿の下書きを書く。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642262445,
-      "updated": 1642262886
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e2efc9d1a02f000055d089",
       "text": "\t\tScrapboxプロジェクトごとに校正設定を変える。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642262474,
-      "updated": 1642262595
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61acceafd1a02f000064ac0c",
       "text": "",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1638715056,
-      "updated": 1638715056
+      "created": 1643481423,
+      "updated": 1643481423
     },
     {
       "id": "61e2f049d1a02f000055d08b",
@@ -118,10 +167,10 @@
     },
     {
       "id": "61df61351280f0000018e677",
-      "text": " Firefox非対応",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " ✅Firefox非対応",
+      "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1642029364,
-      "updated": 1642029369
+      "updated": 1643481293
     },
     {
       "id": "61ad4d0f1280f0000079407a",
@@ -159,11 +208,18 @@
       "updated": 1642278804
     },
     {
-      "id": "61e323d7d1a02f00003c5b43",
-      "text": "\t",
+      "id": "61f588acd1a02f0000e15815",
+      "text": "   2022/1/30 [hata6502.icon] 対応しました！",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642275800,
-      "updated": 1642275800
+      "created": 1643481261,
+      "updated": 1643481362
+    },
+    {
+      "id": "61f588dad1a02f0000e15816",
+      "text": "   \tようやくWebpack環境を手に入れたので、ESModuleを使わずバンドルできるようになった。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643481307,
+      "updated": 1643481356
     },
     {
       "id": "61ad4cf91280f00000794079",
@@ -208,88 +264,95 @@
       "updated": 1642274634
     },
     {
-      "id": "61e323d5d1a02f00003c5b42",
-      "text": "\t",
-      "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642275798,
-      "updated": 1642275802
-    },
-    {
       "id": "61e31f45d1a02f0000b136a7",
-      "text": "\t✅[hata6502.icon]指摘箇所がたくさんあるとパフォーマンスが悪くなる問題を修正した。",
+      "text": "\t✅[/hata6502/scrapbox-lintのパフォーマンスを改善した]",
       "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1642274629,
-      "updated": 1642275458
+      "updated": 1643482337
     },
     {
-      "id": "61e32228d1a02f00003c5b3d",
-      "text": "\t\tgetBoundingClientRect()を使って指摘箇所を表示しているからか?、UIをブロッキングしてしまう。",
+      "id": "61f58cdbd1a02f0000e15825",
+      "text": " ✅ツールチップをまともに機能させる。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642275369,
-      "updated": 1642275579
+      "created": 1643482332,
+      "updated": 1643525055
     },
     {
-      "id": "61e33294d1a02f000067049c",
-      "text": "\t\t カーソルを動かすだけで１秒かかる。",
+      "id": "61f63366d1a02f000014c697",
+      "text": " \t2022/1/30 スマホでもPCでも、まともにメッセージが表示されるようになった。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642279571,
-      "updated": 1642279593
+      "created": 1643524966,
+      "updated": 1643525058
     },
     {
-      "id": "61e3228dd1a02f00003c5b3e",
-      "text": "\t\t指摘箇所の描画を遅延させてしのぐことにした。",
+      "id": "61f6337fd1a02f000014c699",
+      "text": "\t \t以前はスマホ非対応、メッセージが１行で表示されて画面からはみ出してた。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642275470,
-      "updated": 1642278009
+      "created": 1643524992,
+      "updated": 1643525068
     },
     {
-      "id": "61e323d0d1a02f00003c5b41",
-      "text": "\t\t\t[https://scrapbox.io/files/61e32c55ab6c850022ffe13a.mp4]",
+      "id": "61f9497ad1a02f0000963ec0",
+      "text": "\t✅ユーザー辞書機能",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642275792,
-      "updated": 1642277978
+      "created": 1643727226,
+      "updated": 1643727226
     },
     {
-      "id": "61e32c59d1a02f00003c5b44",
-      "text": "\t\t\t[ファミコン]のBG書き換え処理を思い出す。",
+      "id": "61f9497ad1a02f0000963ec1",
+      "text": "\t\tScrapboxなら、辞書データを書きやすそう。",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642277978,
-      "updated": 1642278044
+      "created": 1643727226,
+      "updated": 1643727226
     },
     {
-      "id": "61e32eaad1a02f00006fe9a7",
+      "id": "61f9497ad1a02f0000963ec2",
+      "text": "\t\t[/hata6502/scrapbox-lintにユーザー辞書機能を作った]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643727226,
+      "updated": 1643727240
+    },
+    {
+      "id": "61f63359d1a02f000014c695",
+      "text": "　ツールチップ押しづらい。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643524954,
+      "updated": 1643525351
+    },
+    {
+      "id": "61f6c490d1a02f0000e5e77f",
+      "text": "　\t48px以上のボタンサイズを確保すれば良いと[アクセシビリティ]ガイドラインに書いてある。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643562128,
+      "updated": 1643562288
+    },
+    {
+      "id": "61f6c4f0d1a02f0000e5e780",
+      "text": "　\t\thttps://material.io/design/usability/accessibility.html#layout-and-typography",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643562224,
+      "updated": 1643562229
+    },
+    {
+      "id": "61f634e6d1a02f0000a7c3f6",
+      "text": "　ツールチップ意図せず消える。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643525351,
+      "updated": 1643525362
+    },
+    {
+      "id": "61f6c537d1a02f0000e5e782",
+      "text": "　\tバグっぽい。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643562295,
+      "updated": 1643562309
+    },
+    {
+      "id": "61f634d6d1a02f0000a7c3f5",
       "text": "",
       "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642278568,
-      "updated": 1642278568
-    },
-    {
-      "id": "61e32eefd1a02f00006fe9a8",
-      "text": " UserScriptを直接書かずGitHubで管理する時期かな。[hata6502.icon]",
-      "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642278637,
-      "updated": 1642278670
-    },
-    {
-      "id": "61e32f11d1a02f00006fe9aa",
-      "text": " 　Webpack入れてFirefox対応できる。",
-      "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642278672,
-      "updated": 1642278739
-    },
-    {
-      "id": "61e32f54d1a02f00006fe9af",
-      "text": " 　forkしたりもできる。",
-      "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642278739,
-      "updated": 1642278742
-    },
-    {
-      "id": "61e32eefd1a02f00006fe9a9",
-      "text": "",
-      "userId": "5ff4fb2169e764001cd1a02f",
-      "created": 1642278638,
-      "updated": 1642278638
+      "created": 1643525335,
+      "updated": 1643727223
     }
   ]
 }

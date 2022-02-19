@@ -2,7 +2,7 @@
   "id": "5f7407efdd25c1001e0d739e",
   "title": "Threadable SNS",
   "created": 1601439728,
-  "updated": 1601728401,
+  "updated": 1643881493,
   "lines": [
     {
       "id": "5f7407efdd25c1001e0d739e",
@@ -110,6 +110,20 @@
       "updated": 1601440302
     },
     {
+      "id": "61fb18d31280f0000078dad4",
+      "text": "\t\t[/vim-jp-emojis/surakkuno-sureddoha-shoujikifuben.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643845843,
+      "updated": 1643845867
+    },
+    {
+      "id": "61fb6817e5172d0000b23b45",
+      "text": "\t\t　ピンポイント過ぎるアイコン草[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1643866136,
+      "updated": 1643866143
+    },
+    {
       "id": "5f740a4c4daa920000491c34",
       "text": "\tスレッド内は俯瞰できる",
       "userId": "5bc5772df30ff700134daa92",
@@ -171,6 +185,27 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1601728352,
       "updated": 1601728352
+    },
+    {
+      "id": "61fba333fd049e0000ccddc9",
+      "text": "[/icons/Discord.icon][Discord]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1643881267,
+      "updated": 1643881493
+    },
+    {
+      "id": "61fba33afd049e0000ccddcb",
+      "text": " スレッドはネストできない",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1643881275,
+      "updated": 1643881281
+    },
+    {
+      "id": "61fba395fd049e0000ccddcc",
+      "text": " スレッドを開始した場所に、そのスレッド内の最後のメッセージがプレビューされる",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1643881365,
+      "updated": 1643881366
     }
   ]
 }

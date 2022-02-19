@@ -2,7 +2,7 @@
   "id": "5fbe1ec945cff7001ca29653",
   "title": "散髪めんどくない？",
   "created": 1606295243,
-  "updated": 1634807710,
+  "updated": 1643107805,
   "lines": [
     {
       "id": "5fbe1ec945cff7001ca29653",
@@ -47,11 +47,46 @@
       "updated": 1606295263
     },
     {
-      "id": "5fbe1ee4b3e7ed0000395143",
+      "id": "61eedf73aff09e0000e5ba09",
+      "text": "\t髪の毛のある人は散髪だけでなく日々の洗髪と乾燥に時間を費やしているのです[nishio.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1643044723,
+      "updated": 1643107805
+    },
+    {
+      "id": "61eedfa6aff09e0000e5ba0a",
+      "text": "\t　一旦髪の毛がない状態のつもりになってみよう",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643044774,
+      "updated": 1643044853
+    },
+    {
+      "id": "61eee022aff09e0000e5ba0d",
+      "text": "\t　髪の毛って本当にそんなコストかけてまで獲得したいもの？",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643044899,
+      "updated": 1643044918
+    },
+    {
+      "id": "61ef2f2c79d3a90000fbd980",
+      "text": "\t　あと掃除にも意外と費やしてます[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1643065134,
+      "updated": 1643065152
+    },
+    {
+      "id": "61ef2f3379d3a90000fbd981",
+      "text": "\t　\t排水溝とか普段の床掃除とか",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1643065141,
+      "updated": 1643065158
+    },
+    {
+      "id": "61eee017aff09e0000e5ba0c",
       "text": "",
-      "userId": "5e644eb64b223c0017b3e7ed",
-      "created": 1606295263,
-      "updated": 1606295263
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643044888,
+      "updated": 1643044889
     },
     {
       "id": "5fc4c290d438750000986494",
@@ -500,6 +535,13 @@
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1634807112,
       "updated": 1634807129
+    },
+    {
+      "id": "61efd5c3a336820000230a6f",
+      "text": "\t\tスキンヘッドやってもう3ヶ月になった",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1643107779,
+      "updated": 1643107796
     },
     {
       "id": "6014df9ba336820000576c52",

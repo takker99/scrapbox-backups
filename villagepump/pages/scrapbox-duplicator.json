@@ -2,7 +2,7 @@
   "id": "6090fc9571d426001c45a3e7",
   "title": "scrapbox-duplicator",
   "created": 1620114583,
-  "updated": 1639840826,
+  "updated": 1643112833,
   "lines": [
     {
       "id": "6090fc9571d426001c45a3e7",
@@ -320,6 +320,13 @@
       "updated": 1632994347
     },
     {
+      "id": "61efe9491280f00000ad6cd4",
+      "text": "↓[https://github.com/tkgshn/Scrapbox-Duplicator/pull/12 #12]で修正済み",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643112778,
+      "updated": 1643112833
+    },
+    {
       "id": "61558df51280f00000e901aa",
       "text": "テロメアが反映されないのが個人的に不便なので直したいところ[takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -369,11 +376,11 @@
       "updated": 1633007082
     },
     {
-      "id": "6155b5e679e11300004722e2",
+      "id": "61efe9441280f00000ad6ccd",
       "text": "",
-      "userId": "5d89b1f60230ae001779e113",
-      "created": 1633007078,
-      "updated": 1633007078
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643112774,
+      "updated": 1643112774
     }
   ]
 }

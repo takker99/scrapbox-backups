@@ -2,7 +2,7 @@
   "id": "5f71cbcfedefd40020db18cc",
   "title": "計画的偶発性理論",
   "created": 1601293265,
-  "updated": 1615040918,
+  "updated": 1643021981,
   "lines": [
     {
       "id": "5f71cbcfedefd40020db18cc",
@@ -20,10 +20,38 @@
     },
     {
       "id": "5f71cbed5b98c20000b8defb",
-      "text": "",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "\t[nishio.icon]これは僕と解釈違う",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1601293293,
-      "updated": 1601293293
+      "updated": 1642951319
+    },
+    {
+      "id": "61ed6c1faff09e000000782e",
+      "text": "\t　「従来のキャリアカウンセリングはキャリアの計画から不確実性を排除しようとしていたが、今の時代、計画外の出来事が起こることは不可避であり望ましいものだと考えるべきだ。カウンセラーはクライアントが予期せぬキャリアの機会を見つかる確率を上げるために、探索的な活動に従事するよう指導する必要がある」ということが本人の論文のアブストに書いてある",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642949664,
+      "updated": 1642949664
+    },
+    {
+      "id": "61ed6c2baff09e000000782f",
+      "text": "\t　一言で言えば「予期せぬ発見を探しに行け」",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642949675,
+      "updated": 1642949711
+    },
+    {
+      "id": "61ee3afbe5172d000016870c",
+      "text": "\t　[利用と探索のトレードオフ]の話かな[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1643002620,
+      "updated": 1643002635
+    },
+    {
+      "id": "61ed6c55aff09e0000007830",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642949718,
+      "updated": 1642949722
     },
     {
       "id": "5f71cfaf5b98c20000b8df05",
@@ -131,11 +159,74 @@
       "updated": 1615040917
     },
     {
+      "id": "61ed4e98e5172d000072eafd",
+      "text": " 　ほしい[yosider.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642942105,
+      "updated": 1642943910
+    },
+    {
       "id": "604391957589210000ffd4e4",
-      "text": "",
-      "userId": "60226bcd2fbabe0022758921",
+      "text": "　[nishio.icon]の文脈を補うと「一般向け解説が割と当たり前っぽい内容の時、多分論文の肝心なところが『一般人には難しい』と判断されて削られてる」と考えて出典の論文を探したけど、なんか他にもっと面白いことでもあったのかほったらかしてる状態だなこれw",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1615040918,
-      "updated": 1615040918
+      "updated": 1642948387
+    },
+    {
+      "id": "61ed6723aff09e0000007824",
+      "text": "  これ割と周辺知識も説明してて良さげ",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642948387,
+      "updated": 1642948437
+    },
+    {
+      "id": "61ed6755aff09e0000007825",
+      "text": "  　https://www.earthship-c.com/career/planned-happenstance-theory-by-krumboltz/",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642948437,
+      "updated": 1642948438
+    },
+    {
+      "id": "61ed6c65aff09e0000007831",
+      "text": "  とりあえず論文のアブストを読んで解説を書き足しておいた",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642949734,
+      "updated": 1642949768
+    },
+    {
+      "id": "61ed7283aff09e0000007839",
+      "text": "  　論文本体も読んだ",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642951299,
+      "updated": 1642951306
+    },
+    {
+      "id": "61ee3b21e5172d000016870d",
+      "text": "  本人に到達してしまったの草[yosider.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643002658,
+      "updated": 1643021981
+    },
+    {
+      "id": "61ed6c74aff09e0000007832",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642949748,
+      "updated": 1642949749
+    },
+    {
+      "id": "61edce8979d3a90000e97bfa",
+      "text": "刃を研ぐだけじゃなくて積極的に試してみよってことだと理解[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642974858,
+      "updated": 1642974914
+    },
+    {
+      "id": "61edcec179d3a90000e97bfc",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642974914,
+      "updated": 1642974914
     },
     {
       "id": "5f71cbd15b98c20000b8def7",

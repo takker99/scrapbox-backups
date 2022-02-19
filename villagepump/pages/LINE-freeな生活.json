@@ -2,7 +2,7 @@
   "id": "5f7bbe000f05320024ac532f",
   "title": "LINE-freeな生活",
   "created": 1601945091,
-  "updated": 1621221770,
+  "updated": 1644742049,
   "lines": [
     {
       "id": "5f7bbe000f05320024ac532f",
@@ -34,10 +34,10 @@
     },
     {
       "id": "5f7bbe581280f00000d9bf17",
-      "text": "したいけど、できないなあ[takker.icon][sta.icon][yosider.icon][kuuote.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "したいけど、できないなあ[takker.icon][sta.icon][yosider.icon][kuuote.icon][bluemountain.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
       "created": 1601945178,
-      "updated": 1612355509
+      "updated": 1644559469
     },
     {
       "id": "5f7bbe5f1280f00000d9bf19",
@@ -103,11 +103,46 @@
       "updated": 1611364335
     },
     {
-      "id": "600b779779d3a900008e8647",
+      "id": "6205fc76a336820000bfafe4",
+      "text": " 就活中にLINE登録を強制されて困惑してうけなかった企業があった[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1644559478,
+      "updated": 1644559502
+    },
+    {
+      "id": "620643987838e30000632efc",
+      "text": " 　企業なんだからSlackの方が適しているだろうに…[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644577689,
+      "updated": 1644577721
+    },
+    {
+      "id": "6208aa34774b170000759cee",
+      "text": " 　文脈が理解できていないですが単にブロードキャストしたいだけならLINEの方が向いてそう[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1644735029,
+      "updated": 1644735112
+    },
+    {
+      "id": "6208aa69774b170000759cef",
+      "text": " 　　https://www.linebiz.com/jp/manual/OfficialAccountManager/broadcast/",
+      "userId": "59fb21121207900012774b17",
+      "created": 1644735081,
+      "updated": 1644735082
+    },
+    {
+      "id": "6208aa88774b170000759cf1",
+      "text": " 　　Slackにはこういう機能がない",
+      "userId": "59fb21121207900012774b17",
+      "created": 1644735113,
+      "updated": 1644735113
+    },
+    {
+      "id": "6208c5a08ee92a000094e04b",
       "text": "",
-      "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1611364239,
-      "updated": 1611364239
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644742049,
+      "updated": 1644742049
     },
     {
       "id": "5f7bbe5c1280f00000d9bf18",
@@ -166,6 +201,41 @@
       "updated": 1601953271
     },
     {
+      "id": "6204da307838e3000058e5ab",
+      "text": "　\t通知の制限の選択肢が雑",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644485168,
+      "updated": 1644485190
+    },
+    {
+      "id": "6204da467838e3000058e5ac",
+      "text": "　\t話題ごとに場所を分けにくい",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644485190,
+      "updated": 1644485290
+    },
+    {
+      "id": "6204da647838e3000058e5ad",
+      "text": "　\t\tグループを新たに作るしかない",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644485220,
+      "updated": 1644485276
+    },
+    {
+      "id": "6204dab17838e3000058e5b0",
+      "text": "　\t\t興味のない話題も全て通知してくる",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644485297,
+      "updated": 1644485306
+    },
+    {
+      "id": "6204db037838e3000058e5b1",
+      "text": "　\t\t複数の話題を流しにくい",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644485379,
+      "updated": 1644485389
+    },
+    {
       "id": "5f7be1f01280f000009f41cf",
       "text": "　確かに[takker.icon]",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -192,6 +262,34 @@
       "userId": "5ee76ce85f51de0023482754",
       "created": 1601953069,
       "updated": 1601954517
+    },
+    {
+      "id": "6205f1e1774b170000769799",
+      "text": "　　　会社や研究室で多人数が関わる状態でチャットで議論するとこうなる[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1644556769,
+      "updated": 1644556827
+    },
+    {
+      "id": "6205f1f7774b17000076979a",
+      "text": "　　　 Slackはスレッドを導入して緩和しようとした",
+      "userId": "59fb21121207900012774b17",
+      "created": 1644556792,
+      "updated": 1644556808
+    },
+    {
+      "id": "6205fda51280f000000330ff",
+      "text": "　　　 [/vim-jp-emojis/surakkuno-sureddoha-shoujikifuben.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644559782,
+      "updated": 1644559825
+    },
+    {
+      "id": "620604ce774b17000086d26d",
+      "text": "　　　  [tricoteuse]みたいな限定的な絵文字だ[基素.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644561614,
+      "updated": 1644735469
     },
     {
       "id": "5f7be25548275400007de6ae",
@@ -425,6 +523,20 @@
       "updated": 1604756840
     },
     {
+      "id": "6204d93c7838e3000058e5a9",
+      "text": " LINEより質のいいチャットアプリはいくつかあると思うけれど、話し相手がLINEから離れないという点で代替が無い[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644484923,
+      "updated": 1644485048
+    },
+    {
+      "id": "6204d9707838e3000058e5aa",
+      "text": " \tそれでも最近の[Mijinko_SD.icon]の周りではLINEよりDiscordやSlackでやり取りをする人が増えてきました",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644484976,
+      "updated": 1644485101
+    },
+    {
       "id": "6006b58379d3a90000418a6d",
       "text": "",
       "userId": "5a4873ab2e26fb001479d3a9",
@@ -433,10 +545,10 @@
     },
     {
       "id": "60a1b5598ee92a000055c26c",
-      "text": "LINE使ったことない [増井俊之.icon]",
+      "text": "[LINE]使ったことない [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621210460,
-      "updated": 1621210465
+      "updated": 1644692996
     },
     {
       "id": "6006b58379d3a90000418a6e",
@@ -454,17 +566,45 @@
     },
     {
       "id": "60a1e1788ee92a0000ae4b1a",
-      "text": "  データ全部抜かれる可能性あるんですよね?",
+      "text": "  データ全部抜かれる可能性あるんですよね? [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621221755,
-      "updated": 1621221770
+      "updated": 1644742025
+    },
+    {
+      "id": "6204d5257838e300008958af",
+      "text": "  　そうなんですか？[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644483879,
+      "updated": 1644483884
+    },
+    {
+      "id": "620805a28ee92a0000fb985e",
+      "text": "  　そういう規約かもしれないし、そもそも会社を信用してないし [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644692900,
+      "updated": 1644692925
     },
     {
       "id": "60a1b5608ee92a000055c26d",
-      "text": "",
+      "text": " 自治会の連絡がLINEだけらしいので困ってる",
       "userId": "566fa156776c9b11008ee92a",
       "created": 1621210467,
-      "updated": 1621210467
+      "updated": 1644693017
+    },
+    {
+      "id": "620806188ee92a0000fb9860",
+      "text": "  それでも使わない",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644693018,
+      "updated": 1644693023
+    },
+    {
+      "id": "620806058ee92a0000fb985f",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644692999,
+      "updated": 1644692999
     }
   ]
 }

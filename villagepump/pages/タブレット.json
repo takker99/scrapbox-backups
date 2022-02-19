@@ -2,7 +2,7 @@
   "id": "610e7e3de2d2eb001c80c7e5",
   "title": "タブレット",
   "created": 1628339775,
-  "updated": 1628396280,
+  "updated": 1643844179,
   "lines": [
     {
       "id": "610e7e3de2d2eb001c80c7e5",
@@ -108,6 +108,20 @@
       "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1628395992,
       "updated": 1628395992
+    },
+    {
+      "id": "61fb12498ee92a00004e0117",
+      "text": " 良い[防水]タブレットあるですかね? [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1643844169,
+      "updated": 1643844179
+    },
+    {
+      "id": "61fb12498ee92a00004e0118",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1643844169,
+      "updated": 1643844169
     }
   ]
 }

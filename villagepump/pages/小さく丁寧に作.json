@@ -2,7 +2,7 @@
   "id": "60af514af01c62001dc0e9cc",
   "title": "小さく丁寧に作",
   "created": 1622102348,
-  "updated": 1622583414,
+  "updated": 1643123855,
   "lines": [
     {
       "id": "60af514af01c62001dc0e9cc",
@@ -68,46 +68,53 @@
       "updated": 1622120708
     },
     {
-      "id": "60af990406848400000414e8",
-      "text": "",
-      "userId": "5ad57975d54cd50014068484",
-      "created": 1622120708,
-      "updated": 1622120708
-    },
-    {
-      "id": "60b0790132ef9200002e66e9",
+      "id": "61f0118caff09e00000c3a62",
       "text": "\tなるほど",
-      "userId": "5ca094b00af7b0001732ef92",
-      "created": 1622178050,
-      "updated": 1622178053
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123085,
+      "updated": 1643123275
     },
     {
-      "id": "60b0790832ef9200002e66eb",
+      "id": "61f0123caff09e00000c3a6a",
       "text": "\t\t定期的にものができるからモチベーションが維持しやすい的な？",
-      "userId": "5ca094b00af7b0001732ef92",
-      "created": 1622178057,
-      "updated": 1622178080
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123260,
+      "updated": 1643123260
     },
     {
-      "id": "60b0792032ef9200002e66ec",
+      "id": "61f0123caff09e00000c3a6b",
       "text": "\t\t基本作業を繰り返す回数も増えるから慣れる的な",
-      "userId": "5ca094b00af7b0001732ef92",
-      "created": 1622178081,
-      "updated": 1622178118
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123260,
+      "updated": 1643123260
     },
     {
-      "id": "60b67e3be5172d000062b7c9",
+      "id": "61f0123caff09e00000c3a6c",
+      "text": "\t\t[nishio.icon]ユーザの[フィードバック]を早く得ることができる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123260,
+      "updated": 1643123260
+    },
+    {
+      "id": "61f0123caff09e00000c3a6d",
       "text": "\tこういうのは[アジャイル開発]と呼ぶので正しいんだろうか[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1622572573,
-      "updated": 1622572615
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123260,
+      "updated": 1643123260
     },
     {
-      "id": "60b0790532ef9200002e66ea",
+      "id": "61f0123caff09e00000c3a6e",
+      "text": "　　Yes、アジャイル開発の[Minimum Viable Product]の概念を解説するための図[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123260,
+      "updated": 1643123457
+    },
+    {
+      "id": "61f0123caff09e00000c3a6f",
       "text": "",
-      "userId": "5ca094b00af7b0001732ef92",
-      "created": 1622178053,
-      "updated": 1622178053
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643123260,
+      "updated": 1643123855
     }
   ]
 }

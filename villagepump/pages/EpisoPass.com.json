@@ -2,7 +2,7 @@
   "id": "6147f3fe42a90c002160574c",
   "title": "EpisoPass.com",
   "created": 1632105473,
-  "updated": 1632189609,
+  "updated": 1644029894,
   "lines": [
     {
       "id": "6147f3fe42a90c002160574c",
@@ -10,6 +10,20 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1632105473,
       "updated": 1632105475
+    },
+    {
+      "id": "61fde7c28ee92a00001a5d92",
+      "text": "[https://gyazo.com/c1aa3729833be1aa4d80e047a4f94afa]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029890,
+      "updated": 1644029890
+    },
+    {
+      "id": "61fde7c58ee92a00001a5d94",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029894,
+      "updated": 1644029894
     },
     {
       "id": "6147f4048ee92a00009fadef",
@@ -45,6 +59,34 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1632105582,
       "updated": 1632105587
+    },
+    {
+      "id": "61fde6488ee92a00001a5d8d",
+      "text": "  「問題データベース編集」タブでセーブ/ロード可能",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029513,
+      "updated": 1644029532
+    },
+    {
+      "id": "61fde6778ee92a00001a5d8e",
+      "text": " 完全ローカルに運用してたら安心感は抜群だろう",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029560,
+      "updated": 1644029573
+    },
+    {
+      "id": "61fde6848ee92a00001a5d8f",
+      "text": "  しかしデータが消える心配はある",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029573,
+      "updated": 1644029582
+    },
+    {
+      "id": "61fde68e8ee92a00001a5d90",
+      "text": "  GitHubにでも入れておけば大丈夫かな",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029583,
+      "updated": 1644029590
     },
     {
       "id": "6147f43e8ee92a00009fadf3",
@@ -136,6 +178,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1632105925,
       "updated": 1632105933
+    },
+    {
+      "id": "61fde6b68ee92a00001a5d91",
+      "text": "  アプリでもlocalStorageとか使えるのだろうか",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644029623,
+      "updated": 1644029632
     },
     {
       "id": "6147f4048ee92a00009fadf0",

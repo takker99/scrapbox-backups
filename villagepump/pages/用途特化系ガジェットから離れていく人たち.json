@@ -2,7 +2,7 @@
   "id": "5f9e1c130bcfac001e75582b",
   "title": "用途特化系ガジェットから離れていく人たち",
   "created": 1604197397,
-  "updated": 1633961218,
+  "updated": 1642847582,
   "lines": [
     {
       "id": "5f9e1c130bcfac001e75582b",
@@ -105,23 +105,58 @@
     {
       "id": "5fa8f5964bb2e20000b06af6",
       "text": "  最初から制限してあると[脱線]したいと思った時にできない",
-      "userId": "5e8944948a182900174bb2e2",
+      "userId": "6171231417617a001d7c8c6d",
       "created": 1604908434,
-      "updated": 1604908450
+      "updated": 1642829372
+    },
+    {
+      "id": "61eb963d7c8c6d0000ade7f2",
+      "text": " 充電ケーブルが多くなって面倒くさくなっている[teyoda7.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642829373,
+      "updated": 1642831763
+    },
+    {
+      "id": "61eb96967c8c6d0000ade7f3",
+      "text": " 　気が散りやすいタイプなので脱線しないのは嬉しい[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642829462,
+      "updated": 1642847559
+    },
+    {
+      "id": "61eb96e37c8c6d0000ade7f4",
+      "text": " 　ただ同時に面倒くさがりなので充電切れをきっかけに一切触らなくなりそう",
+      "userId": "6171231417617a001d7c8c6d",
+      "created": 1642829540,
+      "updated": 1642829603
     },
     {
       "id": "616444c8a336820000691cea",
-      "text": "",
+      "text": "\t\tUSB-Cで充電できないと嫌な気分になります[erniogi.icon]",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1633961163,
-      "updated": 1633961218
+      "updated": 1642831786
     },
     {
-      "id": "616444c9a336820000691cec",
-      "text": "",
+      "id": "61eb9faaa336820000f85a62",
+      "text": "\t\t\t[Magic Trackpad]はLightningでかなりいやだ",
       "userId": "5e5b870dd7f3000017a33682",
-      "created": 1633961163,
-      "updated": 1633961163
+      "created": 1642831787,
+      "updated": 1642831806
+    },
+    {
+      "id": "61ebdcef79d3a900002ecf93",
+      "text": "\t\t[デバイスの充電問題]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642847472,
+      "updated": 1642847582
+    },
+    {
+      "id": "61ebdd5879d3a900002ecf96",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642847577,
+      "updated": 1642847577
     },
     {
       "id": "5fbf1fb8dd59fe0000ebc8fe",

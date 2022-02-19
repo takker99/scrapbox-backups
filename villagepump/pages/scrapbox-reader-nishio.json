@@ -2,7 +2,7 @@
   "id": "61e67dc34ae3fa001dbcb58c",
   "title": "scrapbox-reader-nishio",
   "created": 1642495429,
-  "updated": 1642511000,
+  "updated": 1643362751,
   "lines": [
     {
       "id": "61e67dc34ae3fa001dbcb58c",
@@ -44,21 +44,49 @@
       "text": "目指していること",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642495572,
-      "updated": 1642495578
+      "updated": 1643361609
+    },
+    {
+      "id": "61f3b549aff09e0000d98b01",
+      "text": " 日本語のプロジェクト[/nishio]に置いた英訳版エンジニアの知的生産術をWebブラウザ上で本のように順繰りに読みつつScrapbox的なジャンプもできるようにしたい",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643361609,
+      "updated": 1643361687
+    },
+    {
+      "id": "61f3b59aaff09e0000d98b02",
+      "text": " 　大前提として日本語のわからない読者を想定しているので日本語コンテンツを隠す",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643361690,
+      "updated": 1643361732
+    },
+    {
+      "id": "61f3b5eeaff09e0000d98b03",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643361774,
+      "updated": 1643361775
+    },
+    {
+      "id": "61f3b53aaff09e0000d98b00",
+      "text": "目指していることdeprecated",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643361594,
+      "updated": 1643361772
     },
     {
       "id": "61e67e5aaff09e00003f1b21",
       "text": "　自分の日本語のプロジェクト[/nishio]と英語のプロジェクト[/intellitech-en]を機械翻訳コンテンツでブリッジして相互接続",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642495579,
-      "updated": 1642496980
+      "updated": 1643361772
     },
     {
       "id": "61e67e81aff09e00003f1b22",
       "text": "　　明記しておかないと脇道にそれそうなので書いた",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642495617,
-      "updated": 1642495650
+      "updated": 1643361772
     },
     {
       "id": "61e67ea2aff09e00003f1b25",
@@ -184,7 +212,7 @@
       "text": "",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642511000,
-      "updated": 1642511000
+      "updated": 1643361972
     },
     {
       "id": "61e67e81aff09e00003f1b23",
@@ -202,10 +230,31 @@
     },
     {
       "id": "61e67e5aaff09e00003f1b20",
-      "text": "",
+      "text": "　　ページにアクセスするとDeepLのAPIを叩いて翻訳してから返す仕組みができた",
       "userId": "582e63d27c56960011aff09e",
       "created": 1642495578,
-      "updated": 1642495578
+      "updated": 1643362682
+    },
+    {
+      "id": "61f3b97baff09e0000774293",
+      "text": "　　　ただしそれではQuotaをバンバン使ってしまうのでキャッシュする仕組みが必要",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643362683,
+      "updated": 1643362716
+    },
+    {
+      "id": "61f3b99daff09e0000774294",
+      "text": "　　　なのでこれはリリース版ではオフになっている",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643362718,
+      "updated": 1643362751
+    },
+    {
+      "id": "61f3b953aff09e0000774292",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643362644,
+      "updated": 1643362644
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "5ffac9107d8467001c63d09b",
   "title": "使っているキーボード",
   "created": 1610270996,
-  "updated": 1636025398,
+  "updated": 1644921691,
   "lines": [
     {
       "id": "5ffac9107d8467001c63d09b",
@@ -58,7 +58,14 @@
       "text": "   Scrapboxは多少困ってるけどEmacsキーバインド一部効くし[takker.icon]さんのUserScript借りればなんとかなりそうだからそのうちなんとかする",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1610275960,
-      "updated": 1610275999
+      "updated": 1644921676
+    },
+    {
+      "id": "620b83564bb2e2000093932a",
+      "text": "    そういえばこれ[Vivaldi]に乗り換えたので完全に解決した[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644921679,
+      "updated": 1644921691
     },
     {
       "id": "5ffb2884ec4fce0000d1f700",
@@ -66,6 +73,13 @@
       "userId": "5da3a9589b96b70017ec4fce",
       "created": 1610295435,
       "updated": 1610295453
+    },
+    {
+      "id": "620b7fef1280f0000042d441",
+      "text": "  [/vim-jp-emojis/HHKB.icon]使っている人結構いるな[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644920814,
+      "updated": 1644920830
     },
     {
       "id": "5ffac92679d3a9000001c972",

@@ -2,7 +2,7 @@
   "id": "6029ace33958e10022aef42b",
   "title": "2021/02/15",
   "created": 1613343977,
-  "updated": 1620027870,
+  "updated": 1644930866,
   "lines": [
     {
       "id": "6029ace33958e10022aef42b",
@@ -202,10 +202,10 @@
     },
     {
       "id": "602a4b3c1280f00000f12186",
-      "text": " Scrapboxのコードブロックに適当に書いて`deno run https://scrapbox.io/$project/$title/$filename`と打てばすぐ実行できる",
+      "text": " Scrapboxのコードブロックに適当に書いて`deno run https://scrapbox.io/api/code/$project/$title/$filename`と打てばすぐ実行できる",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1613384509,
-      "updated": 1613384509
+      "updated": 1644930658
     },
     {
       "id": "602a88424bb2e20000dc5612",
@@ -220,6 +220,13 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1613400038,
       "updated": 1613400045
+    },
+    {
+      "id": "620ba6661280f0000085253a",
+      "text": "   抜けてた。指摘サンクスです[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644930661,
+      "updated": 1644930667
     },
     {
       "id": "602a4aee1280f00000f12184",
@@ -292,6 +299,20 @@
       "updated": 1613386271
     },
     {
+      "id": "620ba67e1280f0000085253b",
+      "text": "\t 分割されたコードブロックを合体して返していた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644930685,
+      "updated": 1644930709
+    },
+    {
+      "id": "620ba6971280f0000085253c",
+      "text": "\t たぶんこの変更から、合体されたコードはURL経由でしか取得できなくなった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644930709,
+      "updated": 1644930745
+    },
+    {
       "id": "602a520ce5172d000033810c",
       "text": "[PageのRefactoring]をしたら、書き込みの順番が変わったせいで以前の書き込みが的外れなものに見えてしまうことがある、的なことがどこかに書いてあった気がするけど見つけられない",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -300,10 +321,17 @@
     },
     {
       "id": "602a5c21e5172d000025510d",
-      "text": "",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": " 以後の書き込みだけど[2022/02/13#6208c4ebaff09e0000f09a21]が語っている問題点と同じだ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1613388832,
-      "updated": 1613388832
+      "updated": 1644930866
+    },
+    {
+      "id": "620ba7181280f0000085253d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644930839,
+      "updated": 1644930839
     },
     {
       "id": "6029ace4758921000040f0d3",

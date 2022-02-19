@@ -2,7 +2,7 @@
   "id": "604375e0243d12002273b393",
   "title": "2021/03/11",
   "created": 1615033827,
-  "updated": 1626674595,
+  "updated": 1643918114,
   "lines": [
     {
       "id": "604375e0243d12002273b393",
@@ -586,32 +586,11 @@
       "updated": 1615472153
     },
     {
-      "id": "604a261ae5172d0000584076",
-      "text": "\t[https://note.com/demio_note/n/nfc5da27fc633 EnterとCtrl+EnterとAlt+Enterで送信が紛らわしい｜デミオ（ブロガー×双子のパパ×システムエンジニア）｜note]みたいなことが書いてあるページがどこかにあった気がするけど、見つけられなかった",
+      "id": "61fb642de5172d000055fdcf",
+      "text": " [<Enter>押すと送信されるメッセージ欄]",
       "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1615472153,
-      "updated": 1615472188
-    },
-    {
-      "id": "604a46251280f000007e7f75",
-      "text": "\t[MISONLN41.icon]さんのprojectにありましたね[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1615480357,
-      "updated": 1615480385
-    },
-    {
-      "id": "604a462f1280f000007e7f76",
-      "text": "\t　今はprivateになっているので閲覧できませんが",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1615480367,
-      "updated": 1615480381
-    },
-    {
-      "id": "604a88a0e5172d0000db4b7c",
-      "text": "\t　　mjk…残念[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1615497378,
-      "updated": 1615497406
+      "created": 1643865134,
+      "updated": 1643865139
     },
     {
       "id": "604a34224bb2e20000314527",
@@ -798,9 +777,9 @@
     {
       "id": "604c7513b19cc300004d1c14",
       "text": " 　 　　周囲の刺激で[偽欲求]が生まれがち",
-      "userId": "6044910bc9a74e001eb19cc3",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1615623446,
-      "updated": 1615623465
+      "updated": 1643918114
     },
     {
       "id": "604a34254bb2e20000314528",

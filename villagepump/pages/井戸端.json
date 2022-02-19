@@ -2,7 +2,7 @@
   "id": "5e2455312abb0a0017cadd9b",
   "title": "井戸端",
   "created": 1579439417,
-  "updated": 1632213630,
+  "updated": 1645174404,
   "lines": [
     {
       "id": "5e2455312abb0a0017cadd9b",
@@ -145,6 +145,34 @@
       "updated": 1605333127
     },
     {
+      "id": "620f5e431280f000008c8e47",
+      "text": "その他",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645174339,
+      "updated": 1645174342
+    },
+    {
+      "id": "620f5e451280f000008c8e48",
+      "text": "　このProjectで使っている文字装飾記法は[記法サンプル]で確認できます",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645174342,
+      "updated": 1645174370
+    },
+    {
+      "id": "620f5e621280f000008c8e49",
+      "text": "　 一部の超特殊な記法や、記法以外のスタイリングは[Settings]をご参照ください",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645174370,
+      "updated": 1645174404
+    },
+    {
+      "id": "620f5e431280f000008c8e46",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645174339,
+      "updated": 1645174339
+    },
+    {
       "id": "5f39ab6c4daa920000fdfe63",
       "text": "関連",
       "userId": "5bc5772df30ff700134daa92",
@@ -231,9 +259,9 @@
     {
       "id": "5ffa653f1280f00000743d78",
       "text": " [このProjectのmembers一覧 https://scrapbox.io/projects/villagepump/settings/members]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "userId": "5e11de5979b9010017ef07ca",
       "created": 1610245440,
-      "updated": 1610245460
+      "updated": 1643640665
     },
     {
       "id": "5ffa65371280f00000743d77",

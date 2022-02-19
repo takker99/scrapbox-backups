@@ -2,7 +2,7 @@
   "id": "5fb90d9bd6ffd7001dc590ea",
   "title": "スレッドもチャンネルも、ページすらないオープンワールドSNS",
   "created": 1605963173,
-  "updated": 1618675366,
+  "updated": 1644398955,
   "lines": [
     {
       "id": "5fb90d9bd6ffd7001dc590ea",
@@ -941,6 +941,48 @@
       "userId": "5bc5772df30ff700134daa92",
       "created": 1605966503,
       "updated": 1605966503
+    },
+    {
+      "id": "620386a2aff09e000055a6e4",
+      "text": "Kozaneba",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644398244,
+      "updated": 1644398246
+    },
+    {
+      "id": "620386a4aff09e000055a6e5",
+      "text": "\thttps://kozaneba.netlify.app/#edit=A7xWd6bOjRcoRLgjNnYc",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644398246,
+      "updated": 1644398247
+    },
+    {
+      "id": "620386a6aff09e000055a6e6",
+      "text": "\t　anyone can editでシェアしてみた",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644398247,
+      "updated": 1644398386
+    },
+    {
+      "id": "620386ddaff09e0000e7a1f7",
+      "text": "\t　不特定多数の人間が同時に編集することを想定して作ってないので更新がぶつかると壊れる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644398302,
+      "updated": 1644398355
+    },
+    {
+      "id": "620389386eb4060000c72d03",
+      "text": "\t　Google SpreadSheetをシェアしても似たようなことが出来る気がする",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1644398937,
+      "updated": 1644398955
+    },
+    {
+      "id": "620386b8aff09e000055a6e8",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644398266,
+      "updated": 1644398267
     },
     {
       "id": "607b06a5fd049e0000212607",

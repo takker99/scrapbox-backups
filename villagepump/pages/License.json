@@ -2,7 +2,7 @@
   "id": "5fb9ef66ea6ac1001c18138e",
   "title": "License",
   "created": 1606020971,
-  "updated": 1606710690,
+  "updated": 1642870478,
   "lines": [
     {
       "id": "5fb9ef66ea6ac1001c18138e",
@@ -122,6 +122,27 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1606049261,
       "updated": 1606710690
+    },
+    {
+      "id": "61ec365daff09e00006e4cdb",
+      "text": "  >著作権侵害が認められるためには、被告の著作物が原告の著作物と類似性を有することが必要です。",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642870365,
+      "updated": 1642870398
+    },
+    {
+      "id": "61ec367faff09e00006e4cdc",
+      "text": "  \thttps://www.saegusa-pat.co.jp/commentary/copyright/1467/3/",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642870400,
+      "updated": 1642870408
+    },
+    {
+      "id": "61ec3688aff09e00006e4cdd",
+      "text": "  \tなので「原型が分からなくなるほど編集」したなら類似性がないから著作権の侵害にもならない",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642870409,
+      "updated": 1642870478
     },
     {
       "id": "5fba59d74daa9200000013af",

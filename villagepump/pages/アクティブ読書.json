@@ -2,7 +2,7 @@
   "id": "600605f7a8beb7001ced0ceb",
   "title": "アクティブ読書",
   "created": 1611007482,
-  "updated": 1638667477,
+  "updated": 1643459605,
   "lines": [
     {
       "id": "600605f7a8beb7001ced0ceb",
@@ -124,6 +124,20 @@
       "updated": 1615869564
     },
     {
+      "id": "61f3e477aff09e0000ab5f7d",
+      "text": "\t　\t なお「アクティブ・ブック・ダイアローグ」は複数人でやるもの[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643373687,
+      "updated": 1643373778
+    },
+    {
+      "id": "61f3e496aff09e0000ab5f7e",
+      "text": "\t　 \t https://kuranuki.sonicgarden.jp/2019/02/abd.html",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643373719,
+      "updated": 1643373775
+    },
+    {
       "id": "6006311c8ee92a000020b5ba",
       "text": "\tあまりに拒否感が酷いので、拒否感の無さそうなところから普及させられないか考えている  [増井俊之.icon]",
       "userId": "566fa156776c9b11008ee92a",
@@ -173,6 +187,13 @@
       "updated": 1615769381
     },
     {
+      "id": "61f3d35f6eb4060000203773",
+      "text": "\t  旅の計画をScrapboxで立てるので、相性良いかも？[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1643369321,
+      "updated": 1643369334
+    },
+    {
       "id": "600641751280f0000019126f",
       "text": "\t 受験参考書及び教科書",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -220,6 +241,13 @@
       "userId": "5b8d55ab7d11180014db62ad",
       "created": 1615823535,
       "updated": 1615823536
+    },
+    {
+      "id": "61f3e4ecaff09e0000ab5f7f",
+      "text": "\t 　 Wikibooksを機械翻訳するとか[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643373804,
+      "updated": 1643373823
     },
     {
       "id": "604f15be55cbd3000056cfbc",
@@ -1137,6 +1165,27 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1632888815,
       "updated": 1636060815
+    },
+    {
+      "id": "61f533ea9a435200001c5ab2",
+      "text": "",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1643459565,
+      "updated": 1643459565
+    },
+    {
+      "id": "61f533ea9a435200001c5ab3",
+      "text": "僕も試しに初めて見ました！田山花袋の蒲団です！[rickshinmi.icon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1643459565,
+      "updated": 1643459605
+    },
+    {
+      "id": "61f533f39a435200001c5ab4",
+      "text": "\t[/futon]",
+      "userId": "60a860e104e3e3001c9a4352",
+      "created": 1643459573,
+      "updated": 1643459577
     },
     {
       "id": "612cbe0e31d03400002229bc",

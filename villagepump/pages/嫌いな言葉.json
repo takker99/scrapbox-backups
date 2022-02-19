@@ -2,7 +2,7 @@
   "id": "5fb5e3b6aa40df0024e21e89",
   "title": "嫌いな言葉",
   "created": 1605755833,
-  "updated": 1639843019,
+  "updated": 1644692531,
   "lines": [
     {
       "id": "5fb5e3b6aa40df0024e21e89",
@@ -13,10 +13,10 @@
     },
     {
       "id": "60f193169a4352000035219c",
-      "text": "論破[rickshinmi.icon][erniogi.icon][kidooom.icon][takker.icon][hata6502.icon][yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "論破[rickshinmi.icon][erniogi.icon][kidooom.icon][takker.icon][hata6502.icon][yosider.icon][nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1626444567,
-      "updated": 1633528290
+      "updated": 1643001816
     },
     {
       "id": "5fb5e3d6d438750000aa3566",
@@ -82,11 +82,18 @@
       "updated": 1613112354
     },
     {
+      "id": "61ee02a37838e300008ede8a",
+      "text": "　側面に表示って書かれてたとしても側面のどこやねんってなる[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642988197,
+      "updated": 1642988253
+    },
+    {
       "id": "5fb5ea69d438750000fc0c16",
-      "text": "コロナに勝つとか負けるとか[dnin.icon][takker.icon][kidooom.icon]",
-      "userId": "5df97d83ccfabb0017a19e40",
+      "text": "コロナに勝つとか負けるとか[dnin.icon][takker.icon][kidooom.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1605757545,
-      "updated": 1628209517
+      "updated": 1643007991
     },
     {
       "id": "5fb5e3bad438750000aa3563",
@@ -122,6 +129,83 @@
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1626363535,
       "updated": 1626363564
+    },
+    {
+      "id": "61ee02fb7838e300001b2358",
+      "text": " 　「適切」も人によって基準が異なるので結構アバウトな表現[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642988285,
+      "updated": 1642988592
+    },
+    {
+      "id": "61ee07427838e300008d871d",
+      "text": " 　駄目かどうかの観点で言うと、発達障害の人相手だと表現が伝わらないことがあるらしい。",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642989379,
+      "updated": 1642989447
+    },
+    {
+      "id": "61ee0fe6aff09e0000bbbbcf",
+      "text": " 　「適切にせよ」が「私は何が適切か明確に説明することにコストをかける気はないので、お前がコストをかけて私の気持ちを汲み取って振る舞え」という意味で使われてる時がある[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642991590,
+      "updated": 1642991688
+    },
+    {
+      "id": "61ee14b07838e300003f28bb",
+      "text": " 　\t[/icons/わかる.icon] [Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642992818,
+      "updated": 1642992830
+    },
+    {
+      "id": "61ee14bf7838e300003f28bc",
+      "text": " 　\t正確に伝わっていないのに説明した気になっているのはどうかと思う[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642992832,
+      "updated": 1642992890
+    },
+    {
+      "id": "61ee866c4bb2e2000003cc8e",
+      "text": " 　これ系統だとレシピに書いてある「適当」とか「適量」も「は？」となるな[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643021906,
+      "updated": 1643021921
+    },
+    {
+      "id": "61ee868b4bb2e2000003cc8f",
+      "text": " 　 お前の適当など知るかよという気持ちになる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643021936,
+      "updated": 1643021947
+    },
+    {
+      "id": "61ee8efd1280f0000042a019",
+      "text": " 　 自分の適当で入れることにしている[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643024126,
+      "updated": 1643024149
+    },
+    {
+      "id": "61ee93fa7838e30000feafe2",
+      "text": " 　 「適量」ってなんだよって親に聞いたら「適量」って言われた[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643025403,
+      "updated": 1643025443
+    },
+    {
+      "id": "61ee94237838e30000feafe3",
+      "text": " 　 　厳密に定めるほどの物でもないらしい",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643025444,
+      "updated": 1643025571
+    },
+    {
+      "id": "61ee94a17838e30000feafe4",
+      "text": " 　 　味の好みは人それぞれだから各自で調節しろ的な意味もあるっぽい",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643025571,
+      "updated": 1643025603
     },
     {
       "id": "5fc46b87d4387500009c7fd2",
@@ -202,10 +286,10 @@
     },
     {
       "id": "5fb6585dd4387500001621c9",
-      "text": "重要なお知らせ[dnin.icon]",
-      "userId": "5fa258bdb102120024d43875",
+      "text": "重要なお知らせ[dnin.icon][dokudami.icon]",
+      "userId": "5ca094b00af7b0001732ef92",
       "created": 1605785693,
-      "updated": 1613112354
+      "updated": 1643508015
     },
     {
       "id": "5fb65860d4387500001621ca",
@@ -797,10 +881,10 @@
     },
     {
       "id": "5fb6458d4bb2e200006cd8f9",
-      "text": "古い名称といえば、ユビキタスって言葉好きなのにIoTとかいうクソダサい名前と置き換わってしまったのが悲しい[kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "古い名称といえば、ユビキタスって言葉好きなのにIoTとかいうクソダサい名前と置き換わってしまったのが悲しい[kuuote.icon][erniogi.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1605780871,
-      "updated": 1611586743
+      "updated": 1644692531
     },
     {
       "id": "5fbcf94bdd59fe000044236c",
@@ -878,6 +962,13 @@
       "userId": "5e8944948a182900174bb2e2",
       "created": 1606303104,
       "updated": 1611586721
+    },
+    {
+      "id": "61f6ad3c7838e30000efa079",
+      "text": "  [何でもかんでも英語にする意味って何？]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643556156,
+      "updated": 1643556160
     },
     {
       "id": "5fbeb52b4daa920000fd0c62",
@@ -1021,10 +1112,10 @@
     },
     {
       "id": "5fbd466c4daa9200004a0683",
-      "text": " だいたいはくらかされてる",
-      "userId": "5bc5772df30ff700134daa92",
+      "text": " だいたいはぐらかされてる",
+      "userId": "5fe69c751a7bce001c716ca7",
       "created": 1606239852,
-      "updated": 1611586759
+      "updated": 1642945283
     },
     {
       "id": "5fbd46784daa9200004a0684",
@@ -1489,6 +1580,20 @@
       "updated": 1626388930
     },
     {
+      "id": "61ee08a07838e300008d871e",
+      "text": " foobarも該当しそう[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642989729,
+      "updated": 1642989738
+    },
+    {
+      "id": "61ee08bd7838e300008d871f",
+      "text": " \t[foobar2000]のことではない",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642989759,
+      "updated": 1642989766
+    },
+    {
       "id": "60f28011e5172d00008fc364",
       "text": "[暇つぶし][yosider.icon]",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -1587,11 +1692,116 @@
       "updated": 1636742016
     },
     {
+      "id": "61ee3812aff09e0000bbbbfe",
+      "text": "  「強いる」の「強」ですからね[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643001874,
+      "updated": 1643001895
+    },
+    {
+      "id": "61f6ae487838e30000efa07a",
+      "text": "  \t「勉める」のを「強いる」",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643556425,
+      "updated": 1643556445
+    },
+    {
       "id": "618e5be44bb2e20000a858dc",
       "text": " 人が使っているのを見てもそこまで気にならない",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1636719573,
       "updated": 1636719581
+    },
+    {
+      "id": "61fecbd81280f00000c97a94",
+      "text": " 代替表現はなんだろう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088281,
+      "updated": 1644088287
+    },
+    {
+      "id": "61fecbdf1280f00000c97a95",
+      "text": "  勉強から「強いる」の意を抜き出した表現",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088287,
+      "updated": 1644088627
+    },
+    {
+      "id": "61fecd0c1280f00000c97aa3",
+      "text": "  探す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088589,
+      "updated": 1644088592
+    },
+    {
+      "id": "61fecd031280f00000c97aa2",
+      "text": "   「Aを学(習して|んで)いる(ところ)?」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088580,
+      "updated": 1644088593
+    },
+    {
+      "id": "61fecbf01280f00000c97a96",
+      "text": "     この`?`は正規表現の繰り返し記号",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088305,
+      "updated": 1644088593
+    },
+    {
+      "id": "61fecc4f1280f00000c97a98",
+      "text": "     逆にわかりづらいか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088399,
+      "updated": 1644088593
+    },
+    {
+      "id": "61fecc5e1280f00000c97a99",
+      "text": "    「あ～先にAを学習するのが先だなあ」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088414,
+      "updated": 1644088593
+    },
+    {
+      "id": "61fecc2b1280f00000c97a97",
+      "text": "   「Aを学ぶ」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088364,
+      "updated": 1644088595
+    },
+    {
+      "id": "61fecc911280f00000c97a9b",
+      "text": "    「今年こそロジバンを学びたい」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088466,
+      "updated": 1644088595
+    },
+    {
+      "id": "61feccde1280f00000c97aa0",
+      "text": "   「Aを研究する」",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088543,
+      "updated": 1644088596
+    },
+    {
+      "id": "61fecce61280f00000c97aa1",
+      "text": "    これは少しずれるな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088551,
+      "updated": 1644088596
+    },
+    {
+      "id": "61fecc941280f00000c97a9c",
+      "text": "  「学(習する|ぶ)」で賄えそうだな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088468,
+      "updated": 1644088599
+    },
+    {
+      "id": "61feccc21280f00000c97a9d",
+      "text": "   まかなえない表現もあるかな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644088515,
+      "updated": 1644088599
     },
     {
       "id": "618eb3a18ee92a00005558a5",
@@ -1602,17 +1812,108 @@
     },
     {
       "id": "615dc417774b170000eb742a",
-      "text": "常識[dai.icon]",
-      "userId": "5abc77416573130014427748",
+      "text": "[常識][dai.icon][Mijinko_SD.icon*3][nishio.icon][kuuote.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1633534999,
-      "updated": 1639843019
+      "updated": 1643535890
+    },
+    {
+      "id": "61ee08f57838e300008d8720",
+      "text": "\t[アバウトな表現]すぎる[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642989815,
+      "updated": 1642989837
+    },
+    {
+      "id": "61ee85fe4bb2e2000003cc8d",
+      "text": "\t言葉自体に特に好き嫌いはないが、自分の勝手な前提を押しつけてこようとする人の使う「常識」は嫌い[kuuote.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643021795,
+      "updated": 1643024400
     },
     {
       "id": "61be04c64277480000d2819b",
-      "text": "",
-      "userId": "5abc77416573130014427748",
+      "text": "失礼[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1639843015,
-      "updated": 1639843015
+      "updated": 1643001849
+    },
+    {
+      "id": "61ee4ebe7838e30000c7db74",
+      "text": "\t相手を自分のご機嫌取りにする[魔法の言葉]（偏見）[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643007679,
+      "updated": 1643007696
+    },
+    {
+      "id": "61f513f24277480000b61abe",
+      "text": "本性[dai.icon]",
+      "userId": "5abc77416573130014427748",
+      "created": 1643451379,
+      "updated": 1643451385
+    },
+    {
+      "id": "61f513f94277480000b61abf",
+      "text": " [分人]のような考え方が好きなので",
+      "userId": "5abc77416573130014427748",
+      "created": 1643451386,
+      "updated": 1643451405
+    },
+    {
+      "id": "61f5e358c3f2c700007a8f80",
+      "text": "普通の人は[maichan.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643504472,
+      "updated": 1643540451
+    },
+    {
+      "id": "61f5e35fc3f2c700007a8f81",
+      "text": "　普通じゃない人で悪かったなぁ",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1643504479,
+      "updated": 1643505394
+    },
+    {
+      "id": "61f6891c1280f00000b06c3d",
+      "text": "　[自虐]でよくつかってしまう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643546908,
+      "updated": 1643546918
+    },
+    {
+      "id": "61ee37f9aff09e0000bbbbfd",
+      "text": "  [/takker/自分のことを貶すのは社会的責任を損なっている]から止めたいとは思っている",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643001850,
+      "updated": 1643547072
+    },
+    {
+      "id": "61f689271280f00000b06c3e",
+      "text": "[クソリプ] [Mijinko_SD.icon][takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643546919,
+      "updated": 1644088248
+    },
+    {
+      "id": "61fd00197838e30000087530",
+      "text": "\t[レッテル貼り]に使われているような気がしてる[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643970586,
+      "updated": 1643970621
+    },
+    {
+      "id": "61fd00117838e3000008752e",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643970578,
+      "updated": 1643970578
+    },
+    {
+      "id": "61fd00117838e3000008752f",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643970578,
+      "updated": 1643970578
     },
     {
       "id": "5fd7063dd43875000016bfc2",

@@ -2,7 +2,7 @@
   "id": "5fa6744ecf2d67002445a652",
   "title": "(WIP) Vim mode for scrapbox",
   "created": 1604744275,
-  "updated": 1605383671,
+  "updated": 1644379503,
   "lines": [
     {
       "id": "5fa6744ecf2d67002445a652",
@@ -111,10 +111,10 @@
     },
     {
       "id": "5fa676254bb2e20000f28a0d",
-      "text": "　 右下の通信ステータスの隣に出すとか？",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "　 [右下の通信ステータス]の隣に出すとか？",
+      "userId": "5c30ba88e98efe0017e5172d",
       "created": 1604744684,
-      "updated": 1604744696
+      "updated": 1644379503
     },
     {
       "id": "5fa676e21280f000005c03ad",

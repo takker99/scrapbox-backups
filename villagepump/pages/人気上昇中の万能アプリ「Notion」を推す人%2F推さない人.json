@@ -2,7 +2,7 @@
   "id": "604c0805ed8ef1001c0a521b",
   "title": "人気上昇中の万能アプリ「Notion」を推す人/推さない人",
   "created": 1615595526,
-  "updated": 1615615259,
+  "updated": 1645065367,
   "lines": [
     {
       "id": "604c0805ed8ef1001c0a521b",
@@ -132,17 +132,31 @@
     },
     {
       "id": "604c5507b3e7ed0000b1fcde",
-      "text": "\thttps://twitter.com/nakamura/status/1370614877849448453?s=20",
-      "userId": "5e644eb64b223c0017b3e7ed",
+      "text": "[https://twitter.com/nakamura/status/1370614877849448453?s=20 中村聡史（BADUIの人）(@nakamura)]",
+      "userId": "582e63d27c56960011aff09e",
       "created": 1615615240,
-      "updated": 1615615240
+      "updated": 1645065232
     },
     {
-      "id": "604c5508b3e7ed0000b1fcdf",
+      "id": "620db40caff09e000017bca0",
+      "text": ">Notionは個人利用はいいと思うけど、研究室みたいなところの知の共有に使うのは向いてないと思うんよね。",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1645065229,
+      "updated": 1645065229
+    },
+    {
+      "id": "620db40caff09e000017bca1",
+      "text": ">教員がひたすら気合い入れて書くとか、一部の人が誰も貢献してくれないけどひたすら頑張るとかじゃない限り...",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1645065229,
+      "updated": 1645065229
+    },
+    {
+      "id": "620db40caff09e000017bca2",
       "text": "",
-      "userId": "5e644eb64b223c0017b3e7ed",
-      "created": 1615615240,
-      "updated": 1615615240
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1645065229,
+      "updated": 1645065367
     }
   ]
 }

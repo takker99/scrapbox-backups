@@ -2,7 +2,7 @@
   "id": "607eaa3d67b5ad001c59e584",
   "title": "Mouse Dictionary",
   "created": 1618913858,
-  "updated": 1618914014,
+  "updated": 1643452515,
   "lines": [
     {
       "id": "607eaa3d67b5ad001c59e584",
@@ -41,10 +41,31 @@
     },
     {
       "id": "607eaaddfd049e0000b9b5f7",
-      "text": "",
+      "text": " > 英語学習者のための超高速辞書ツール",
       "userId": "5d20a16b6e57f80017fd049e",
       "created": 1618914014,
-      "updated": 1618914014
+      "updated": 1643452509
+    },
+    {
+      "id": "61f5185dfd049e0000be3617",
+      "text": " > Chromeブラウザ内で超高速に動作する辞書ツールです。 ",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1643452509,
+      "updated": 1643452511
+    },
+    {
+      "id": "61f5185dfd049e0000be3619",
+      "text": " > [* 英和・和英・英英での利用を想定]しています。",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1643452509,
+      "updated": 1643452515
+    },
+    {
+      "id": "61f5185bfd049e0000be3616",
+      "text": "",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1643452508,
+      "updated": 1643452508
     },
     {
       "id": "607eaaddfd049e0000b9b5f8",

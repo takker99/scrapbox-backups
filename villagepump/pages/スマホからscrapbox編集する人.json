@@ -2,7 +2,7 @@
   "id": "5f7e5be666f0a4002518d1b4",
   "title": "スマホからscrapbox編集する人",
   "created": 1602116588,
-  "updated": 1638526663,
+  "updated": 1643361113,
   "lines": [
     {
       "id": "5f7e5be666f0a4002518d1b4",
@@ -83,24 +83,24 @@
     },
     {
       "id": "5f7e5c571280f000001531b2",
-      "text": "　　でかけているとき[dnin.icon][増井俊之.icon][maichan.icon]",
-      "userId": "615026d6d6a2280023c3f2c7",
+      "text": "　　でかけているとき[dnin.icon][増井俊之.icon][maichan.icon][erniogi.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1602116695,
-      "updated": 1638499986
+      "updated": 1643361109
     },
     {
       "id": "5f7e8140a9f47400006ce930",
-      "text": "　　ベッドサイド[dnin.icon][air34n.icon][maichan.icon]",
-      "userId": "615026d6d6a2280023c3f2c7",
+      "text": "　　ベッドサイド[dnin.icon][air34n.icon][maichan.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
       "created": 1602126145,
-      "updated": 1638499990
+      "updated": 1643361113
     },
     {
       "id": "5f7e83181d860a000009eb01",
-      "text": "　　風呂[air34n.icon]",
-      "userId": "58e5636749e40700111d860a",
+      "text": "　　風呂[air34n.icon][maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
       "created": 1602126617,
-      "updated": 1602126626
+      "updated": 1643355867
     },
     {
       "id": "5f7f1ab81280f000001531d1",
@@ -762,10 +762,31 @@
     },
     {
       "id": "6123a73579e11300001aa405",
-      "text": "",
-      "userId": "5d89b1f60230ae001779e113",
+      "text": "　　最初使う人が長押しに気付けないのをよく見ます[基素.icon]",
+      "userId": "59fb21121207900012774b17",
       "created": 1629726517,
-      "updated": 1629726517
+      "updated": 1643351389
+    },
+    {
+      "id": "61f38d8e774b1700007535af",
+      "text": "　　　他人に薦めた時に聞かれる",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643351439,
+      "updated": 1643351452
+    },
+    {
+      "id": "61f38d63774b1700007535ae",
+      "text": "　　　学習後は長押しの方が便利なら変えない方がいいとは思いますが、どうかな？",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643351395,
+      "updated": 1643351424
+    },
+    {
+      "id": "61f38d4d774b1700007535ad",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643351374,
+      "updated": 1643351374
     },
     {
       "id": "600d85dc0553320000f9d08b",

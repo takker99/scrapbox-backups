@@ -2,7 +2,7 @@
   "id": "60b79a4ffcef92001ce76205",
   "title": "台湾",
   "created": 1622645342,
-  "updated": 1635052833,
+  "updated": 1643271406,
   "lines": [
     {
       "id": "60b79a4ffcef92001ce76205",
@@ -61,32 +61,11 @@
       "updated": 1635052603
     },
     {
-      "id": "60ba01f58ee92a000091cb86",
-      "text": "",
-      "userId": "566fa156776c9b11008ee92a",
-      "created": 1622802934,
-      "updated": 1622802934
-    },
-    {
       "id": "60d5ed200684840000a8c9b8",
-      "text": "この動画はどうでしょう[imo.icon]",
+      "text": "",
       "userId": "5ad57975d54cd50014068484",
       "created": 1624632609,
-      "updated": 1624632619
-    },
-    {
-      "id": "60d5ed2f0684840000a8c9b9",
-      "text": "\tだいたい辛亥革命から蒋介石が台湾へ逃れるまでのまとめ",
-      "userId": "5ad57975d54cd50014068484",
-      "created": 1624632625,
-      "updated": 1624632665
-    },
-    {
-      "id": "60d5ed1d0684840000a8c9b5",
-      "text": "[https://youtu.be/VMtoRKM-EBI?list=PLSR_1vzCCsTtK3dIRWRExAhuqiigAqNhI]",
-      "userId": "5ad57975d54cd50014068484",
-      "created": 1624632606,
-      "updated": 1624632607
+      "updated": 1643271406
     },
     {
       "id": "60d5ed1e0684840000a8c9b7",

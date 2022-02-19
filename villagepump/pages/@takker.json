@@ -2,7 +2,7 @@
   "id": "5fd4bd5322c02c001f81c600",
   "title": "@takker",
   "created": 1607777622,
-  "updated": 1641883411,
+  "updated": 1644581652,
   "lines": [
     {
       "id": "5fd4bd5322c02c001f81c600",
@@ -10,6 +10,328 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1607777622,
       "updated": 1615465031
+    },
+    {
+      "id": "62063edb4bb2e20000238214",
+      "text": "[/takker/ddc-bitapの開発動機#6205f62b1280f000008079c5]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644576471,
+      "updated": 1644576472
+    },
+    {
+      "id": "62063edc4bb2e20000238215",
+      "text": " これ、ddcのソース単位のオプションの`forceCompletionPattern`や`minAutoCompleteLength`をいじったらいいです[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644576473,
+      "updated": 1644576538
+    },
+    {
+      "id": "62063f1e4bb2e20000238218",
+      "text": "  デフォルトでは2文字始まりになってる",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644576538,
+      "updated": 1644576554
+    },
+    {
+      "id": "6206483b1280f000007e5022",
+      "text": " ありがとうございます[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644578875,
+      "updated": 1644578908
+    },
+    {
+      "id": "6206485c1280f000007e5024",
+      "text": "  `minAutoCompleteLength`は[/takker/1文字入力しただけでddc.vimに補完を開始させ]でもう見つけてあったり",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644578908,
+      "updated": 1644578945
+    },
+    {
+      "id": "620648811280f000007e5026",
+      "text": "  `forceCompletionPattern`は`.`などを押したらすぐ補完が開始されるようにできるということですね",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644578945,
+      "updated": 1644578972
+    },
+    {
+      "id": "6206489d1280f000007e5027",
+      "text": "   これも便利だ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644578973,
+      "updated": 1644578981
+    },
+    {
+      "id": "620648cd4bb2e20000238219",
+      "text": "  あ、もしかしてddc-fuzzy固有の話でした？[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644579017,
+      "updated": 1644579029
+    },
+    {
+      "id": "620648d94bb2e2000023821a",
+      "text": "   だとすると的外れではありましたね",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644579029,
+      "updated": 1644579035
+    },
+    {
+      "id": "62064fc11280f0000036f601",
+      "text": "   んにゃ一般の話であってます[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644580801,
+      "updated": 1644580896
+    },
+    {
+      "id": "62064fcc1280f0000036f602",
+      "text": "    これを書いた当処は1文字だけで補完が始まらない原因がどこにあるのかわかっていなかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644580812,
+      "updated": 1644580889
+    },
+    {
+      "id": "620652f84bb2e20000548ca4",
+      "text": "   なるほど、ならよかった[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644581629,
+      "updated": 1644581652
+    },
+    {
+      "id": "62063ede4bb2e20000238216",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1644576474,
+      "updated": 1644576474
+    },
+    {
+      "id": "61fb5cf9774b170000e3cf89",
+      "text": "[/takker/開発コンソールからReactの内部情報を得#61fae2cf1280f00000660727]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643863290,
+      "updated": 1643863290
+    },
+    {
+      "id": "61fb5cfa774b170000e3cf8a",
+      "text": " Store as a global variable?[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643863291,
+      "updated": 1643863305
+    },
+    {
+      "id": "61fb5cfb774b170000e3cf8b",
+      "text": " 英語版だとそういう表記でしたね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643863291,
+      "updated": 1643863494
+    },
+    {
+      "id": "61fb5dc71280f000004f192e",
+      "text": "  GIFは日本語にして撮ってあります",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643863494,
+      "updated": 1643863510
+    },
+    {
+      "id": "61fb5f33774b170000e3cf8c",
+      "text": " 間違えました、[/takker/開発コンソールからReactの内部情報を得#61fae2c71280f00000660726]だ[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643863860,
+      "updated": 1643863888
+    },
+    {
+      "id": "61fb5f3b774b170000e3cf8d",
+      "text": "  ``に文字が抜けてそうです",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643863867,
+      "updated": 1643863919
+    },
+    {
+      "id": "61fb892a1280f00000e0787a",
+      "text": "  うわ全然気づかなかった[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643874603,
+      "updated": 1643874675
+    },
+    {
+      "id": "61fb89721280f00000e0787b",
+      "text": "   直しました。[/icons/感謝.icon]です",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643874675,
+      "updated": 1643874684
+    },
+    {
+      "id": "61fb5db01280f000004f192d",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643863471,
+      "updated": 1643863471
+    },
+    {
+      "id": "61efa6824bb2e20000d0feb5",
+      "text": "[/takker/カウンセリング 2022-01-25#61ef3d241280f000000dc84c]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643095683,
+      "updated": 1643095692
+    },
+    {
+      "id": "61efa68e4bb2e20000d0feb7",
+      "text": " これ分けると逆に面倒とかあるのかなとか考えていた[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643095694,
+      "updated": 1643095811
+    },
+    {
+      "id": "61efb8251280f000009400e8",
+      "text": "  ないんだなあこれが[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643100199,
+      "updated": 1643100218
+    },
+    {
+      "id": "61efb8391280f000009400e9",
+      "text": "   privateとpublicとで2つページを作らなければならない程度",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643100218,
+      "updated": 1643101219
+    },
+    {
+      "id": "61efbc061280f000003d69da",
+      "text": "   じゃあ分けろとも思う",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643101191,
+      "updated": 1643101191
+    },
+    {
+      "id": "61efa6c04bb2e20000d0feb8",
+      "text": " 私はこの手のデータは多分外には出さないけども、人によって考えが違うのでなんとも言えない",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1643095745,
+      "updated": 1643095827
+    },
+    {
+      "id": "61efba1a1280f000009400ea",
+      "text": "  なにも考えていない()[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643100699,
+      "updated": 1643100719
+    },
+    {
+      "id": "61efbc261280f000003d69db",
+      "text": "  敢えて挙げるなら、[sta.icon]さんとかがいっぱい外に出してるのでまあこのくらいいいかな程度に思っていた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643101223,
+      "updated": 1643101287
+    },
+    {
+      "id": "61efbc661280f000003d69dc",
+      "text": "   でも[sta.icon]さんを基準にするのはさすがに極端すぎるか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643101287,
+      "updated": 1643101388
+    },
+    {
+      "id": "61efbc981280f000003d69dd",
+      "text": "    ([sta.icon]さんを非難する意図はありません)",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643101337,
+      "updated": 1643101367
+    },
+    {
+      "id": "61efa6834bb2e20000d0feb6",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1643095683,
+      "updated": 1644576934
+    },
+    {
+      "id": "61eb9ec3a336820000f85a5d",
+      "text": "[/takker/scrapbox-backups]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642831556,
+      "updated": 1642831571
+    },
+    {
+      "id": "61eb9ed4a336820000f85a5f",
+      "text": "\tこれの詳細がとても気になります[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642831573,
+      "updated": 1642831751
+    },
+    {
+      "id": "61eb9f4da336820000f85a61",
+      "text": "\t\t個人projectのbackup取得を自動化したい",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642831693,
+      "updated": 1642831741
+    },
+    {
+      "id": "61eb9ef1a336820000f85a60",
+      "text": "\tお手隙のときに使い方を[/takker/scrapbox-backups]に書いてもらえるとありがたいです[erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642831601,
+      "updated": 1642831691
+    },
+    {
+      "id": "61eb9ec3a336820000f85a5e",
+      "text": " これまだ自動化script作っていないんですよね[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642831556,
+      "updated": 1642832681
+    },
+    {
+      "id": "61eba31b1280f00000abc932",
+      "text": "  構想はページに書いてあるとおりですけど",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642832668,
+      "updated": 1642832679
+    },
+    {
+      "id": "61eba32a1280f00000abc933",
+      "text": " 完成したら使い方書こうと思います",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642832682,
+      "updated": 1642832705
+    },
+    {
+      "id": "61eba4eda3368200005c2b14",
+      "text": "  ありがとうございます！！[erniogi.icon*2]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642833134,
+      "updated": 1642833143
+    },
+    {
+      "id": "61f1d9c51280f0000031b1dd",
+      "text": " 2022-01-27 08:31:08 localからのjson一括展開できた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643239877,
+      "updated": 1643239890
+    },
+    {
+      "id": "61f1d9d11280f0000031b1de",
+      "text": "  展開先directory pathが決め打ち",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643239890,
+      "updated": 1643241975
+    },
+    {
+      "id": "61f1e1f71280f000008faa48",
+      "text": "   そこをちゃんとしたら公開できるかな？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643241975,
+      "updated": 1643241975
+    },
+    {
+      "id": "61f1d9e91280f0000031b1df",
+      "text": "  あとscrapbox.ioから直接backupを取得するscriptも作りたい",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643239914,
+      "updated": 1643239929
+    },
+    {
+      "id": "61eba3111280f00000abc931",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642832658,
+      "updated": 1642832658
     },
     {
       "id": "61dcb551e5172d0000f3ffcd",
@@ -1728,10 +2050,10 @@
     },
     {
       "id": "60d1670a1280f000008b6a73",
-      "text": "",
-      "userId": "5e5b870dd7f3000017a33682",
+      "text": " 2022-01-24 21:34:34 これもう直してある[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1624336139,
-      "updated": 1624345181
+      "updated": 1643027685
     },
     {
       "id": "60d165fda336820000447a6a",

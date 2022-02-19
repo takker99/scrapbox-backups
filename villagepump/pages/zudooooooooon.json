@@ -2,7 +2,7 @@
   "id": "61b736899406f8001d36aa04",
   "title": "zudooooooooon",
   "created": 1639397002,
-  "updated": 1641879500,
+  "updated": 1642760321,
   "lines": [
     {
       "id": "61b736899406f8001d36aa04",
@@ -47,11 +47,25 @@
       "updated": 1639462766
     },
     {
+      "id": "61ea88707838e30000540552",
+      "text": "　よろしくです！[Mijinko_SD.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642760303,
+      "updated": 1642760321
+    },
+    {
       "id": "61b736893013bd0000084462",
       "text": "code:style.css",
       "userId": "61d55bcb9433fc001d078a6b",
       "created": 1639397002,
       "updated": 1641879500
+    },
+    {
+      "id": "61ea8832dda1270000331a15",
+      "text": " @import \"https://scrapbox.io/api/code/zu-ap-prep/settings/style.css\";",
+      "userId": "61e95f4152ecf6001ddda127",
+      "created": 1642760242,
+      "updated": 1642760249
     },
     {
       "id": "61c5be953013bd00002044a6",

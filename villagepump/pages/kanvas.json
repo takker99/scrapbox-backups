@@ -2,7 +2,7 @@
   "id": "60fbaff3d43090001ca045ed",
   "title": "kanvas",
   "created": 1627107316,
-  "updated": 1634471851,
+  "updated": 1643903114,
   "lines": [
     {
       "id": "60fbaff3d43090001ca045ed",
@@ -255,6 +255,55 @@
       "userId": "5ff4fb2169e764001cd1a02f",
       "created": 1634409628,
       "updated": 1634409628
+    },
+    {
+      "id": "61f9a244d1a02f000073d138",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643749957,
+      "updated": 1643749957
+    },
+    {
+      "id": "61f9a238d1a02f000073d135",
+      "text": "Safariだと文字入れできない問題がある。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643749946,
+      "updated": 1643749975
+    },
+    {
+      "id": "61f9a2c0d1a02f000073d139",
+      "text": "\thttps://github.com/hata6502/kanvas/issues/50",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643750081,
+      "updated": 1643774476
+    },
+    {
+      "id": "61fbdec6d1a02f000000d942",
+      "text": "スマホ向けに最適化した。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643896518,
+      "updated": 1643896547
+    },
+    {
+      "id": "61fa9533d1a02f00002d15bf",
+      "text": "　https://helpfeel.com/hata6502/スマホでもkanvasでお絵かきしやすくした-61fbd0e97b3d0f001f50f3fa",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643812148,
+      "updated": 1643896523
+    },
+    {
+      "id": "61fbdebdd1a02f000000d941",
+      "text": "Firefoxでクリップボードコピーの不具合が出てる。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643896510,
+      "updated": 1643903114
+    },
+    {
+      "id": "61fbf869d1a02f00001feb8f",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1643903081,
+      "updated": 1643903081
     }
   ]
 }

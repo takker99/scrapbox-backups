@@ -2,7 +2,7 @@
   "id": "6002a5c0dc09dc0023efd081",
   "title": "基本情報技術者試験",
   "created": 1610786245,
-  "updated": 1642209543,
+  "updated": 1642777182,
   "lines": [
     {
       "id": "6002a5c0dc09dc0023efd081",
@@ -45,6 +45,13 @@
       "userId": "61d55bcb9433fc001d078a6b",
       "created": 1610786287,
       "updated": 1641903292
+    },
+    {
+      "id": "61eaca537838e300002f73aa",
+      "text": "\t白背景に白文字で読めない・・・[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642777171,
+      "updated": 1642777182
     },
     {
       "id": "61dd74b9078a6b0000242a40",

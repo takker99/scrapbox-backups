@@ -2,7 +2,7 @@
   "id": "6013fd1cb1833f00215cf74d",
   "title": "アイコンどうやって決めた？",
   "created": 1611922718,
-  "updated": 1611922741,
+  "updated": 1643033617,
   "lines": [
     {
       "id": "6013fd1cb1833f00215cf74d",
@@ -131,6 +131,20 @@
       "updated": 1611922718
     },
     {
+      "id": "61ea8e3e6eb406000079cec0",
+      "text": "\t自分でモデリングした[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642761790,
+      "updated": 1642761798
+    },
+    {
+      "id": "61ea8e4a6eb406000079cec1",
+      "text": "\t　古いblenderで作ったのだが、高解像度版を作ろうとしたら新しいバージョンだとうまく開なくて困ったことがある",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642761803,
+      "updated": 1642761836
+    },
+    {
       "id": "6013fd1d1280f000006c59e1",
       "text": "",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -185,6 +199,41 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1611922718,
       "updated": 1611922718
+    },
+    {
+      "id": "61eea3b2c3f2c70000b1a098",
+      "text": "",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1643029427,
+      "updated": 1643029428
+    },
+    {
+      "id": "61eea3b3c3f2c70000b1a099",
+      "text": "亜音速で[ドット絵]打ってきた[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1643029428,
+      "updated": 1643029535
+    },
+    {
+      "id": "61eea3dac3f2c70000b1a09b",
+      "text": "　シナモンっぽい何かになった…！",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1643029467,
+      "updated": 1643029501
+    },
+    {
+      "id": "61eeaa1d0684840000b04a29",
+      "text": "　かわE[imo.icon][kuuote.icon][erniogi.icon]",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1643031070,
+      "updated": 1643033617
+    },
+    {
+      "id": "61eea3b5c3f2c70000b1a09a",
+      "text": "",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1643029430,
+      "updated": 1643029430
     },
     {
       "id": "6013fd351280f0000087b25f",

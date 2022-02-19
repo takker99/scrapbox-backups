@@ -2,7 +2,7 @@
   "id": "606805ab4b034a002268f530",
   "title": "サクラエディタ",
   "created": 1617429943,
-  "updated": 1617430048,
+  "updated": 1644572849,
   "lines": [
     {
       "id": "606805ab4b034a002268f530",
@@ -52,6 +52,76 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1617430031,
       "updated": 1617430031
+    },
+    {
+      "id": "6204ddaf7838e300008958b9",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644486064,
+      "updated": 1644486064
+    },
+    {
+      "id": "6204ddaf7838e300008958ba",
+      "text": "　矩形選択機能が優秀なので今でもたまに使ってる[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644486064,
+      "updated": 1644486212
+    },
+    {
+      "id": "6204ddaf7838e300008958bb",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644486064,
+      "updated": 1644486064
+    },
+    {
+      "id": "6204ebcdc3f2c700001a161d",
+      "text": "　仕事で[TRPG]的なゲームのリプレイを書くのに使ってました[maichan.icon]",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1644489675,
+      "updated": 1644572791
+    },
+    {
+      "id": "62062ffbc3f2c700008d4d99",
+      "text": "　　運営からのオススメがサクラエディタだったため",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1644572665,
+      "updated": 1644572837
+    },
+    {
+      "id": "620630b0c3f2c700008d4d9a",
+      "text": "　　軽くて良い",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1644572846,
+      "updated": 1644572849
+    },
+    {
+      "id": "6204ebcfc3f2c700001a161e",
+      "text": "",
+      "userId": "615026d6d6a2280023c3f2c7",
+      "created": 1644489676,
+      "updated": 1644489676
+    },
+    {
+      "id": "6205bfe879d3a90000ac378d",
+      "text": " [秀丸エディタ]マン[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644543979,
+      "updated": 1644543982
+    },
+    {
+      "id": "6205bfe879d3a90000ac378e",
+      "text": "\t\tが、秀丸は有償でSAKURAは無償なので、企業useではSAKURAが多い",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644543979,
+      "updated": 1644544005
+    },
+    {
+      "id": "6205bff179d3a90000ac378f",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644543986,
+      "updated": 1644543986
     }
   ]
 }

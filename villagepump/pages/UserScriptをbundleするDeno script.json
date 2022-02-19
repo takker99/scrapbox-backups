@@ -2,7 +2,7 @@
   "id": "60ae137d15ad4e001cd3ca06",
   "title": "UserScriptをbundleするDeno script",
   "created": 1622020990,
-  "updated": 1625519708,
+  "updated": 1643691459,
   "lines": [
     {
       "id": "60ae137d15ad4e001cd3ca06",
@@ -24,6 +24,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1622020990,
       "updated": 1622021126
+    },
+    {
+      "id": "61f8bdc01280f00000c62095",
+      "text": "2022-02-01 13:52:39 コードが雑すぎて一から作り直したい欲求にかられる……[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643691455,
+      "updated": 1643691456
+    },
+    {
+      "id": "61f8bc951280f0000079e7df",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1643691206,
+      "updated": 1643691206
     },
     {
       "id": "60bafb8f1280f00000c44edb",

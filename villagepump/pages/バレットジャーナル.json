@@ -2,7 +2,7 @@
   "id": "60025f7ef0c4ce0022b6ac32",
   "title": "バレットジャーナル",
   "created": 1610768257,
-  "updated": 1612600661,
+  "updated": 1644821337,
   "lines": [
     {
       "id": "60025f7ef0c4ce0022b6ac32",
@@ -13,10 +13,10 @@
     },
     {
       "id": "60025f805b98c20000329cf9",
-      "text": "Bullet journal",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "[Bullet journal]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1610768257,
-      "updated": 1610768271
+      "updated": 1644794758
     },
     {
       "id": "60025f8e5b98c20000329cfa",
@@ -234,6 +234,48 @@
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1612600577,
       "updated": 1612600577
+    },
+    {
+      "id": "6209916f79d3a90000ef2a3f",
+      "text": "デザインにこだわれるのも魅力の一つらしい",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644794224,
+      "updated": 1644794233
+    },
+    {
+      "id": "6209917879d3a90000ef2a40",
+      "text": " Instagramに腐るほどアップされている？（アカウントないので見れないが",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644794233,
+      "updated": 1644794280
+    },
+    {
+      "id": "6209fb36aff09e0000156e25",
+      "text": " [nishio.icon]デザインにこだわってインスタにアップするのって[承認欲求]ではw",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1644821303,
+      "updated": 1644821337
+    },
+    {
+      "id": "6209916f79d3a90000ef2a3e",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644794224,
+      "updated": 1644794224
+    },
+    {
+      "id": "620991b579d3a90000ef2a41",
+      "text": "[バレット]とは",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644794294,
+      "updated": 1644794300
+    },
+    {
+      "id": "620991bb79d3a90000ef2a42",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1644794300,
+      "updated": 1644794300
     },
     {
       "id": "601e52a05b98c2000076b432",

@@ -2,7 +2,7 @@
   "id": "600e51d512cddb002102c1b4",
   "title": "承認欲求を刺激するsystem",
   "created": 1611551206,
-  "updated": 1612546971,
+  "updated": 1643045491,
   "lines": [
     {
       "id": "600e51d512cddb002102c1b4",
@@ -269,6 +269,27 @@
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1612541652,
       "updated": 1612541652
+    },
+    {
+      "id": "61eee1c0aff09e0000e5ba0e",
+      "text": "「Scrapboxで[自分の作ったページに書き込みがあると嬉しい]」+「[自分語り]をするキッカケがもらえると遠慮せず自分語りができて嬉しい」=[自分語り誘発ページ]の量産",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643045313,
+      "updated": 1643045459
+    },
+    {
+      "id": "61eee1c2aff09e0000e5ba0f",
+      "text": "　これ承認欲求を刺激するシステムな気がする[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643045314,
+      "updated": 1643045491
+    },
+    {
+      "id": "61eee257aff09e0000e5ba11",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1643045463,
+      "updated": 1643045463
     }
   ]
 }

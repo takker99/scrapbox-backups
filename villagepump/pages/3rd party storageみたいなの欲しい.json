@@ -2,7 +2,7 @@
   "id": "611ba73a5f73ca001dceefab",
   "title": "3rd party storageみたいなの欲しい",
   "created": 1629202236,
-  "updated": 1639830955,
+  "updated": 1642930717,
   "lines": [
     {
       "id": "611ba73a5f73ca001dceefab",
@@ -985,11 +985,67 @@
       "updated": 1639822530
     },
     {
-      "id": "61bd64e579d3a90000613302",
-      "text": "",
+      "id": "61ed0315d1a02f0000157ab8",
+      "text": "[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642922773,
+      "updated": 1642928952
+    },
+    {
+      "id": "61ed1b2c6eb4060000ae9345",
+      "text": "\t認証に無頓着で良いならなんでも使えそうだが、、htmlの中にパスワードを書くのはまずくないですか？",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642928952,
+      "updated": 1642928978
+    },
+    {
+      "id": "61ed1f9a6eb4060000a9c3f5",
+      "text": "\t　ローカルのhtml限定なら良いか",
       "userId": "5a4873ab2e26fb001479d3a9",
-      "created": 1639802086,
-      "updated": 1639802155
+      "created": 1642930075,
+      "updated": 1642930701
+    },
+    {
+      "id": "61ed220d79d3a900004c3302",
+      "text": "\t　\tローカルのhtml限定のつもりでした[sta.icon]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642930701,
+      "updated": 1642930717
+    },
+    {
+      "id": "61ed21406eb4060000a9c3f6",
+      "text": "\t　FileAPIでローカルファイルに書き出すのはどうか？",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642930500,
+      "updated": 1642930513
+    },
+    {
+      "id": "61ed21566eb4060000a9c3f7",
+      "text": "\t　　インターネットにデータを置きたい？",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642930518,
+      "updated": 1642930527
+    },
+    {
+      "id": "61ed1b2b6eb4060000ae9344",
+      "text": "",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642928951,
+      "updated": 1642928951
+    },
+    {
+      "id": "61ed02ded1a02f0000157ab5",
+      "text": "[hata6502.icon][通知]機能を自作したいときに便利かもしれない。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642922718,
+      "updated": 1642922738
+    },
+    {
+      "id": "61ed031cd1a02f0000157ab9",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1642922781,
+      "updated": 1642922781
     }
   ]
 }

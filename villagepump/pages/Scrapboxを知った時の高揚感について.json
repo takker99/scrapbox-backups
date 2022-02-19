@@ -2,7 +2,7 @@
   "id": "5f3d3570a93ded001f808007",
   "title": "Scrapboxを知った時の高揚感について",
   "created": 1597846898,
-  "updated": 1635789671,
+  "updated": 1645034022,
   "lines": [
     {
       "id": "5f3d3570a93ded001f808007",
@@ -846,10 +846,17 @@
     },
     {
       "id": "5ff461f2a336820000d0c422",
-      "text": "[erniogi.icon]は[/nishio/nishio.icon]さんの[エンジニアの知的生産術　 https://scrapbox.io/nishio/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93_%E8%91%97%E8%80%85%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8]のなかで紹介されているのを見て，TeX言語が使えたのが決め手で使いはじめた",
+      "text": "[erniogi.icon]",
       "userId": "5e5b870dd7f3000017a33682",
       "created": 1609851378,
-      "updated": 1628408426
+      "updated": 1642843821
+    },
+    {
+      "id": "61ebceada336820000b276c1",
+      "text": "\t[/nishio/nishio.icon]さんの[/nishio/エンジニアの知的生産術 著者公式ページ]のなかで紹介されているのを見て，TeX言語が使えたのが決め手で使いはじめた",
+      "userId": "5e5b870dd7f3000017a33682",
+      "created": 1642843821,
+      "updated": 1642843838
     },
     {
       "id": "5ff46297a336820000d0c424",
@@ -1272,6 +1279,27 @@
       "updated": 1628406925
     },
     {
+      "id": "620d3a081280f00000b0f8a4",
+      "text": "　\tme too...[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645033993,
+      "updated": 1645034004
+    },
+    {
+      "id": "620d3a141280f00000b0f8a5",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645034006,
+      "updated": 1645034006
+    },
+    {
+      "id": "620d3a141280f00000b0f8a6",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645034006,
+      "updated": 1645034006
+    },
+    {
       "id": "61100d439a4352000005e29b",
       "text": "[rickshinmi.icon]",
       "userId": "60a860e104e3e3001c9a4352",
@@ -1438,6 +1466,265 @@
       "userId": "5ca094b00af7b0001732ef92",
       "created": 1634817256,
       "updated": 1634817256
+    },
+    {
+      "id": "61eb7c9480275d0000cce18b",
+      "text": "",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642822809,
+      "updated": 1642822809
+    },
+    {
+      "id": "61eb7c9580275d0000cce18c",
+      "text": "[westantenna.icon]",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642822809,
+      "updated": 1642822817
+    },
+    {
+      "id": "61eb7c9580275d0000cce18d",
+      "text": "\t成蹊大の塩澤先生[/shiology/shio.icon]が使い始めたことで存在を知る。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642822810,
+      "updated": 1642823079
+    },
+    {
+      "id": "61eb7cd980275d0000cce18f",
+      "text": "\t2018年10月18日にアカウントを作成したが、しっくりこなかった。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642822878,
+      "updated": 1642823228
+    },
+    {
+      "id": "61eb7d7880275d0000cce190",
+      "text": "\t\tダークテーマの導入方法が現在より難しかった。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823037,
+      "updated": 1642824172
+    },
+    {
+      "id": "61eb7dc680275d0000cce192",
+      "text": "\t\tスマホでの利用がとても不便だった。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823116,
+      "updated": 1642824301
+    },
+    {
+      "id": "61eb7f9e80275d0000cce19a",
+      "text": "\t\t\t（今でもすごく便利ではないと思うが）",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823587,
+      "updated": 1642823914
+    },
+    {
+      "id": "61eb7ee280275d0000cce197",
+      "text": "\t\t\t自分は、PCでもスマホでも同期できる点を最も重視している。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823399,
+      "updated": 1642824192
+    },
+    {
+      "id": "61eb7f7680275d0000cce198",
+      "text": "\t\t\t\tPCで入力した買い物のメモを出先で見れることが重要。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823547,
+      "updated": 1642843528
+    },
+    {
+      "id": "61eb7fce80275d0000cce19b",
+      "text": "\t\t\t\t\t忘れっぽい。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823635,
+      "updated": 1642823950
+    },
+    {
+      "id": "61eb808980275d0000cce1a0",
+      "text": "\t\t\t\t電車の中などで、スマホを使って日記を書くことが多い。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823822,
+      "updated": 1642823948
+    },
+    {
+      "id": "61eb7dd480275d0000cce193",
+      "text": "\t\t\t2019年4月4日に、Scrapboxが[PWA]に対応して使いやすくなった。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823129,
+      "updated": 1642823283
+    },
+    {
+      "id": "61eb7e2b80275d0000cce195",
+      "text": "\t2019年の秋ごろ、生活環境が大きく変わったことをきっかけとして、[SimpleNote]からScrapboxに本格移行して使い始めた。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823216,
+      "updated": 1642823696
+    },
+    {
+      "id": "61eb803980275d0000cce19e",
+      "text": "\t\t個人の未公開プロジェクトのページ数が1500を超えたあたりから、リンクの貼り方が上手くできるようになった気がする。",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823742,
+      "updated": 1642824156
+    },
+    {
+      "id": "61eb806a80275d0000cce19f",
+      "text": "",
+      "userId": "5a23bbeb93e689001480275d",
+      "created": 1642823791,
+      "updated": 1642824139
+    },
+    {
+      "id": "61eb8bb06eb4060000a8c322",
+      "text": "[inajob.icon]",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826682,
+      "updated": 1642826683
+    },
+    {
+      "id": "61eb8bb26eb4060000a8c323",
+      "text": "\thttp://inline.inajob.tk/web/?&user=twitter-5643382&id=Scrapboxとの出会い",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826685,
+      "updated": 1642826685
+    },
+    {
+      "id": "61eb8bb36eb4060000a8c324",
+      "text": "\t\t2016年 リリース時認知していた",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826685,
+      "updated": 1642826784
+    },
+    {
+      "id": "61eb8bbf6eb4060000a8c326",
+      "text": "\t\t2018年ごろから使い始めた",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826697,
+      "updated": 1642826697
+    },
+    {
+      "id": "61eb8bb96eb4060000a8c325",
+      "text": "\t\t2019年 よく似たものを自作し始めた",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826691,
+      "updated": 1642826719
+    },
+    {
+      "id": "61eb8be26eb4060000a8c328",
+      "text": "\t\t2020年 夫婦で活用を始めた",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826732,
+      "updated": 1642826739
+    },
+    {
+      "id": "61eb8beb6eb4060000a8c329",
+      "text": "\t\t2021年 [/childcare] を作った",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826741,
+      "updated": 1642826759
+    },
+    {
+      "id": "61eb8bfe6eb4060000a8c32a",
+      "text": "\t\t2022年 [井戸端]に参加",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826760,
+      "updated": 1642826768
+    },
+    {
+      "id": "61eb8bcc6eb4060000a8c327",
+      "text": "\tインラインで編集できるWikiが欲しかったのでこれだ！と思った",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826711,
+      "updated": 1642826803
+    },
+    {
+      "id": "61eb8c366eb4060000a8c32c",
+      "text": "\t[nishio.icon] が使っているのを見ていた。（今もRSS購読している）",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826816,
+      "updated": 1642826839
+    },
+    {
+      "id": "61eb8c206eb4060000a8c32b",
+      "text": "",
+      "userId": "58442db3ee4a2400116eb406",
+      "created": 1642826794,
+      "updated": 1642826794
+    },
+    {
+      "id": "61ebec9aaff09e000036bfe9",
+      "text": "[nishio.icon][/nishio/Scrapboxとのなれそめ]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642851483,
+      "updated": 1642857731
+    },
+    {
+      "id": "61ec0821aff09e0000e83779",
+      "text": "　このようにブログの代替としてのなれそめなので「公開の個人プロジェクト」のウェイトが大きい",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642858530,
+      "updated": 1642858531
+    },
+    {
+      "id": "61ec0822aff09e0000e8377a",
+      "text": "　　公開の場に書くことに抵抗を感じる人は非公開の場に書けば良いと思う、僕ももちろん非公開プロジェクトを持ってる",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642858531,
+      "updated": 1642858531
+    },
+    {
+      "id": "61ebec9baff09e000036bfea",
+      "text": "　2021-04-29 [個人Scrapboxに知り合いを入れる運用]で[bluemountain][bluemountain.icon]のPrivate Projectに参加",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642851483,
+      "updated": 1642859385
+    },
+    {
+      "id": "61ec05cdaff09e0000e83778",
+      "text": "　\tここで初めて?多人数プロジェクトの面白さを理解した",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642857934,
+      "updated": 1642859170
+    },
+    {
+      "id": "61ec0606aff09e00002d577a",
+      "text": "　2021-05-16 未踏ジュニア共通Private Project作成 [/nishio/未踏ジュニア2021ブースト会議]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642857990,
+      "updated": 1642859392
+    },
+    {
+      "id": "61ec0541aff09e0000e83776",
+      "text": "\t2021-07-18 [/villagepump]参加",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642857793,
+      "updated": 1642857876
+    },
+    {
+      "id": "61ec058daff09e0000e83777",
+      "text": "",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642857870,
+      "updated": 1642857870
+    },
+    {
+      "id": "61ebecefaff09e0000e83768",
+      "text": "[/wkwknote/Scrapboxでの編集作業が楽しい]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642851568,
+      "updated": 1645034013
+    },
+    {
+      "id": "620d3a1d1280f00000b0f8a8",
+      "text": " いい話だ[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645034014,
+      "updated": 1645034022
+    },
+    {
+      "id": "620d3a1b1280f00000b0f8a7",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645034013,
+      "updated": 1645034013
     }
   ]
 }

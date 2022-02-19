@@ -2,7 +2,7 @@
   "id": "61deb985171002001fbb7129",
   "title": "静的hosting",
   "created": 1641986444,
-  "updated": 1641986611,
+  "updated": 1642770544,
   "lines": [
     {
       "id": "61deb985171002001fbb7129",
@@ -38,6 +38,13 @@
       "userId": "61d55bcb9433fc001d078a6b",
       "created": 1641986454,
       "updated": 1641986456
+    },
+    {
+      "id": "61eab069dda12700002cb100",
+      "text": " [Fly.io]",
+      "userId": "61e95f4152ecf6001ddda127",
+      "created": 1642770539,
+      "updated": 1642770544
     },
     {
       "id": "61deb99b078a6b0000ce6a74",

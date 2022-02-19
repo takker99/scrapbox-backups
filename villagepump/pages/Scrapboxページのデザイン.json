@@ -2,7 +2,7 @@
   "id": "613dde8979f03f001d7dc7cc",
   "title": "Scrapboxページのデザイン",
   "created": 1631444620,
-  "updated": 1631863856,
+  "updated": 1643535193,
   "lines": [
     {
       "id": "613dde8979f03f001d7dc7cc",
@@ -97,17 +97,17 @@
     },
     {
       "id": "613ded831280f000004e4a0b",
-      "text": "   これ本当にわからない[takker.icon][bluemountain.icon]",
-      "userId": "5d89b1f60230ae001779e113",
+      "text": "   これ本当にわからない[takker.icon][bluemountain.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1631448451,
-      "updated": 1631450102
+      "updated": 1643512418
     },
     {
       "id": "613e157dd1a02f00001f9cb7",
-      "text": "   たしかに[hata6502.icon]",
-      "userId": "5ff4fb2169e764001cd1a02f",
+      "text": "   たしかに[hata6502.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1631458686,
-      "updated": 1631458689
+      "updated": 1643534515
     },
     {
       "id": "613df3f679e11300000fec07",
@@ -138,6 +138,27 @@
       "updated": 1631837884
     },
     {
+      "id": "61f658cf7838e300000c5cdb",
+      "text": "  　　ページを開いた時のみnavbarに置くようにすればそこまで問題にもならない気がする[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643534543,
+      "updated": 1643534711
+    },
+    {
+      "id": "61f6598d7838e300000c5cdc",
+      "text": "  　　\t[/Mijinko/プロジェクトタイトルと戻るボタンを上部に固定するUserCSS#61ee13737838e300005b3cd3]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643534734,
+      "updated": 1643534734
+    },
+    {
+      "id": "61f65ab17838e300000c5cdf",
+      "text": "  　　\tあ、でもいきなりページ内から入った人はダメか[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643535026,
+      "updated": 1643535193
+    },
+    {
       "id": "613e1583d1a02f00001f9cb8",
       "text": "",
       "userId": "5ff4fb2169e764001cd1a02f",
@@ -160,17 +181,17 @@
     },
     {
       "id": "613de04e8ee92a0000f14897",
-      "text": "  [アイコンサイズ変更スライダ]なんていつも表示しとく必要ないと思うのですが",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "  [アイコンサイズ変更スライダ]なんていつも表示しとく必要ないと思うのですが [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1631445070,
-      "updated": 1631502978
+      "updated": 1643512434
     },
     {
       "id": "613ded901280f000004e4a0c",
-      "text": "   確かに[takker.icon][kidooom.icon][hata6502.icon][45Nuyagawa.icon]",
-      "userId": "5fe444046f8e560041dd60be",
+      "text": "   確かに[takker.icon][kidooom.icon][hata6502.icon][45Nuyagawa.icon][nishio.icon][基素.icon]",
+      "userId": "59fb21121207900012774b17",
       "created": 1631448463,
-      "updated": 1631863856
+      "updated": 1643519942
     },
     {
       "id": "613ded921280f000004e4a0d",
@@ -187,11 +208,18 @@
       "updated": 1631494375
     },
     {
+      "id": "61f61fcb774b17000089196f",
+      "text": "　　　 イラストを置くだけのプロジェクトを作ったら大きくしたいかも？[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643519947,
+      "updated": 1643519992
+    },
+    {
       "id": "613e14b5d1a02f00001f9cb1",
-      "text": " 　　使ったことないなあ[hata6502.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " 　　使ったことないなあ[hata6502.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1631458486,
-      "updated": 1631502853
+      "updated": 1643534120
     },
     {
       "id": "613ec2061280f000003e9471",
@@ -216,10 +244,10 @@
     },
     {
       "id": "613ec3f379e1130000ba1f70",
-      "text": "　　  すごい[bluemountain.icon][mrsekut.icon]",
-      "userId": "5b4ea932de544f0014198270",
+      "text": "　　  すごい[bluemountain.icon][mrsekut.icon][増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1631503348,
-      "updated": 1631527377
+      "updated": 1643512467
     },
     {
       "id": "613e1477d1a02f00001f9caf",
@@ -426,10 +454,31 @@
     },
     {
       "id": "613fec1f1280f000007457a6",
-      "text": "　　デザインを変えるのは基本的に気にならないが、メニューを押せなくするのだけはやめてほしい[takker.icon]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "　　デザインを変えるのは基本的に気にならないが、メニューを押せなくするのだけはやめてほしい[takker.icon][Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1631579168,
-      "updated": 1631579263
+      "updated": 1643534417
+    },
+    {
+      "id": "61f657957838e300000c5cd8",
+      "text": "　　プロジェクトを行き来するのがだるくなる[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643534229,
+      "updated": 1643534325
+    },
+    {
+      "id": "61f657fe7838e300000c5cda",
+      "text": "　　\tアイコンがあっちこっち移動すると直感的に操作できなくなる",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643534335,
+      "updated": 1643534359
+    },
+    {
+      "id": "61f657d87838e300000c5cd9",
+      "text": "　　\t[Mijinko_SD.icon]のプロジェクトでも位置変えしていたけれど使いにくいのでやめた",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643534296,
+      "updated": 1643534375
     },
     {
       "id": "613f6601385a92000065643b",

@@ -2,7 +2,7 @@
   "id": "61dd268d1d99c4001de09576",
   "title": "記法サンプル",
   "created": 1641883282,
-  "updated": 1642117454,
+  "updated": 1644513076,
   "lines": [
     {
       "id": "61dd268d1d99c4001de09576",
@@ -103,60 +103,25 @@
       "updated": 1641883784
     },
     {
-      "id": "61dd28797838e30000dc9c9d",
+      "id": "61dd28a37838e30000dc9cbc",
       "text": "",
       "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883769,
-      "updated": 1641883769
-    },
-    {
-      "id": "61dd28a37838e30000dc9cbc",
-      "text": "[** 文字装飾とか]",
-      "userId": "60fb0a79f3364000237838e3",
       "created": 1641883811,
-      "updated": 1641883843
+      "updated": 1644053714
     },
     {
-      "id": "61dd289d7838e30000dc9ca8",
-      "text": "通常",
+      "id": "61fe3c9f7838e300001888e9",
+      "text": "",
       "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883805,
-      "updated": 1641883806
+      "created": 1644051614,
+      "updated": 1644051614
     },
     {
-      "id": "61dd289e7838e30000dc9caa",
-      "text": "[[太字]]",
+      "id": "61fe3c8e7838e300001888e8",
+      "text": "[** リンク]",
       "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883806,
-      "updated": 1641883806
-    },
-    {
-      "id": "61dd289e7838e30000dc9cab",
-      "text": "[- 取り消し線]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883806,
-      "updated": 1641883806
-    },
-    {
-      "id": "61dd289e7838e30000dc9cac",
-      "text": "[_ 下線]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883806,
-      "updated": 1641883806
-    },
-    {
-      "id": "61dd289e7838e30000dc9cad",
-      "text": "[/ 斜体(Italic)]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883806,
-      "updated": 1641883806
-    },
-    {
-      "id": "61dd289e7838e30000dc9cae",
-      "text": "`コード`",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641883806,
-      "updated": 1641883806
+      "created": 1644051597,
+      "updated": 1644051616
     },
     {
       "id": "61dd289e7838e30000dc9caf",
@@ -194,18 +159,67 @@
       "updated": 1641884145
     },
     {
+      "id": "61fe3cbf7838e300001888ec",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644051646,
+      "updated": 1644051646
+    },
+    {
+      "id": "61fe3ca37838e300001888ea",
+      "text": "[* [外部リンクを区別するUserCSS]]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644051618,
+      "updated": 1644051640
+    },
+    {
       "id": "61dd29a77838e30000dc9cc9",
-      "text": "[外部サイトリンク https://example.com/]",
+      "text": " [外部サイトリンク https://example.com/]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641884071,
-      "updated": 1641884078
+      "updated": 1644051633
     },
     {
       "id": "61dd6fcd1280f00000ab09cd",
-      "text": "[https://twitter.com/shokai/status/1480481768247549954 Twitterのリンク]",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": " [https://twitter.com/shokai/status/1480481768247549954 Twitterのリンク]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1641902029,
-      "updated": 1641902044
+      "updated": 1644051633
+    },
+    {
+      "id": "62012b2a7838e30000b54cf8",
+      "text": "[* [特定のリンクにアイコンをつけるUserCSS]]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644243754,
+      "updated": 1644243759
+    },
+    {
+      "id": "61fd72957838e3000076ff1e",
+      "text": " [https://github.com/ GitHubのリンク]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643999893,
+      "updated": 1644051633
+    },
+    {
+      "id": "61fd72c97838e3000076ff1f",
+      "text": " [https://ja.wikipedia.org ウィキペディアのリンク]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1643999944,
+      "updated": 1644051633
+    },
+    {
+      "id": "620129c37838e30000b54cf7",
+      "text": " [https://www.mhlw.go.jp/content/10900000/000622211.pdf PDFへのリンク]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644243396,
+      "updated": 1644243406
+    },
+    {
+      "id": "61fe3c897838e300001888e7",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644051592,
+      "updated": 1644051592
     },
     {
       "id": "61dd289e7838e30000dc9cb5",
@@ -551,11 +565,18 @@
       "updated": 1641901850
     },
     {
+      "id": "61fe3cf67838e300001888ed",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644051701,
+      "updated": 1644051701
+    },
+    {
       "id": "61dd70c51280f00000ab09da",
-      "text": "数式",
-      "userId": "5ef2bdebb60650001e1280f0",
+      "text": "[** 数式]",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1641902277,
-      "updated": 1641902279
+      "updated": 1644051698
     },
     {
       "id": "61dd70a61280f00000ab09d9",
@@ -579,6 +600,69 @@
       "updated": 1641902283
     },
     {
+      "id": "61fe44d77838e300001888ef",
+      "text": "[** 文字装飾とか]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe44d77838e300001888f0",
+      "text": "通常",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe44d77838e300001888f1",
+      "text": "[[太字]]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe44d77838e300001888f2",
+      "text": "[- 取り消し線]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe44d77838e300001888f3",
+      "text": "[_ 下線]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe44d77838e300001888f4",
+      "text": "[/ 斜体(Italic)]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe44d77838e300001888f5",
+      "text": "`コード`",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053718,
+      "updated": 1644053718
+    },
+    {
+      "id": "61fe45047838e300001888f7",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644053764,
+      "updated": 1644053764
+    },
+    {
+      "id": "61fe3cfe7838e300001888ee",
+      "text": "[** ブラケット記法]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644051709,
+      "updated": 1644051720
+    },
+    {
       "id": "61dd26b87838e300002ff246",
       "text": "デフォルト",
       "userId": "60fb0a79f3364000237838e3",
@@ -591,6 +675,13 @@
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641883606,
       "updated": 1641883620
+    },
+    {
+      "id": "61fe342c7838e3000072858e",
+      "text": "\t\t[マーカー記法]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644049452,
+      "updated": 1644049456
     },
     {
       "id": "61dd26c07838e300002ff247",
@@ -636,10 +727,10 @@
     },
     {
       "id": "61dd2af67838e30000dc9ccb",
-      "text": " \tインライン記法（[Settings#5f39ec5e1280f00000ca6c7a]）",
+      "text": " \t[インライン引用記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641884406,
-      "updated": 1641884503
+      "updated": 1644051443
     },
     {
       "id": "61dd26c07838e300002ff24e",
@@ -650,10 +741,10 @@
     },
     {
       "id": "61dd2f2b7838e30000dc9ce8",
-      "text": " \t（[Settings#60f164c679e11300009efbe2]）",
+      "text": " \t[ネタバレ防止記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641885483,
-      "updated": 1641885486
+      "updated": 1644051451
     },
     {
       "id": "61dd26c07838e300002ff24f",
@@ -664,10 +755,10 @@
     },
     {
       "id": "61dd2d647838e30000dc9ce3",
-      "text": " \tスプレッドシート的に使う（[Settings#60462aed8ee92a0000997850]）",
+      "text": " \t[スプレッドシート的に使う記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641885029,
-      "updated": 1641885039
+      "updated": 1644051462
     },
     {
       "id": "61dd26c07838e300002ff250",
@@ -678,10 +769,10 @@
     },
     {
       "id": "61dd2d2b7838e30000dc9ce2",
-      "text": " \t愚痴記法（[Settings#5f8b9999ec4fce0000a747d7]）",
+      "text": " \t[愚痴記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641884971,
-      "updated": 1641884981
+      "updated": 1644051465
     },
     {
       "id": "61dd26c07838e300002ff251",
@@ -692,10 +783,10 @@
     },
     {
       "id": "61dd2d127838e30000dc9ce1",
-      "text": " \t中央揃え（[Settings#5f8b9999ec4fce0000a747cf]）",
+      "text": " \t[中央揃え記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641884946,
-      "updated": 1641884957
+      "updated": 1644051468
     },
     {
       "id": "61dd26c07838e300002ff256",
@@ -706,10 +797,10 @@
     },
     {
       "id": "61dd2d927838e30000dc9ce4",
-      "text": " \tリンクを出典アイコンにするUserCSS[. [Settings#6157ebcf1280f00000ad87f1]]",
+      "text": " \t[リンクを出典アイコンにするUserCSS][. [Settings#6157ebcf1280f00000ad87f1]]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641885075,
-      "updated": 1641885168
+      "updated": 1644051217
     },
     {
       "id": "61dd26c07838e300002ff258",
@@ -727,10 +818,10 @@
     },
     {
       "id": "61dd2b287838e30000dc9ccd",
-      "text": " \tふきだし記法（[Settings#5f3a4dc91280f0000061197d]）",
+      "text": " \t[ふきだし記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641884457,
-      "updated": 1641884496
+      "updated": 1644051480
     },
     {
       "id": "61dd2a4f7838e30000dc9cca",
@@ -741,10 +832,10 @@
     },
     {
       "id": "61dd2fbd7838e30000dc9cea",
-      "text": " \t画像を並べて表示（[Settings#5f818b421280f00000bedd4a]）",
+      "text": " \t[画像を並べて表示する記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641885629,
-      "updated": 1641885639
+      "updated": 1644051483
     },
     {
       "id": "61df8a4c7838e300001de3b0",
@@ -762,10 +853,10 @@
     },
     {
       "id": "61dd2e7d7838e30000dc9ce7",
-      "text": " \tルビ[< きほう]記法（[Settings#61adec5a666872000023bd60]）",
-      "userId": "60fb0a79f3364000237838e3",
+      "text": " \t[< る  び きほう][ルビ記法]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1641885310,
-      "updated": 1641885368
+      "updated": 1644062465
     },
     {
       "id": "61dd26c07838e300002ff25c",
@@ -776,10 +867,10 @@
     },
     {
       "id": "61dd2e617838e30000dc9ce6",
-      "text": " \tユーザーフラッグ記法（[Settings#61adc13466687200006e35e5]）",
+      "text": " \t[ユーザーフラッグ記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641885281,
-      "updated": 1641885289
+      "updated": 1644051489
     },
     {
       "id": "61dd26c07838e300002ff25d",
@@ -790,10 +881,31 @@
     },
     {
       "id": "61dd2e407838e30000dc9ce5",
-      "text": " \tネタバレ防止記法（[Settings#61602ba1c75fd30000f3b5e6]）",
+      "text": " \t[曇りガラス記法]",
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641885248,
-      "updated": 1641885272
+      "updated": 1644051492
+    },
+    {
+      "id": "620518307838e30000deb4d2",
+      "text": " `/`: [/ abcABC123あいう]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644501040,
+      "updated": 1644501062
+    },
+    {
+      "id": "620518477838e30000deb4d4",
+      "text": " \t[/ [イドバタニシ.icon]]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644501063,
+      "updated": 1644501080
+    },
+    {
+      "id": "620518337838e30000deb4d3",
+      "text": " \t[アイコン記法を画像記法っぽくするUserCSS]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644501044,
+      "updated": 1644501044
     },
     {
       "id": "61dd314f7838e30000494402",
@@ -950,25 +1062,11 @@
       "updated": 1641884711
     },
     {
-      "id": "61dd2c2a7838e30000dc9cde",
-      "text": " [Settings#5f4e066a5b98c20000438968]",
+      "id": "61fe343f7838e3000072858f",
+      "text": " [箇条書きのバレットをFontAwesomeにするUserCSS]",
       "userId": "60fb0a79f3364000237838e3",
-      "created": 1641884715,
-      "updated": 1641884730
-    },
-    {
-      "id": "61dd2c5f7838e30000dc9cdf",
-      "text": " 番号なしリスト：[Settings#5f4e06595b98c2000082126e]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641884768,
-      "updated": 1641884774
-    },
-    {
-      "id": "61dd2c167838e30000dc9ccf",
-      "text": "\t番号つきリスト：[Settings#5f4e065a5b98c200008212a5]",
-      "userId": "60fb0a79f3364000237838e3",
-      "created": 1641884695,
-      "updated": 1641884820
+      "created": 1644049470,
+      "updated": 1644049477
     },
     {
       "id": "61dd2c887838e30000dc9ce0",
@@ -1104,6 +1202,20 @@
       "updated": 1641883905
     },
     {
+      "id": "6205471fe5172d00002d0db0",
+      "text": "　リンク付き",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644513056,
+      "updated": 1644513061
+    },
+    {
+      "id": "62054724e5172d00002d0db1",
+      "text": "[https://i.gyazo.com/da78df293f9e83a74b5402411e2f2e01.png https://google.com]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644513061,
+      "updated": 1644513076
+    },
+    {
       "id": "61dd29047838e30000dc9cc1",
       "text": "",
       "userId": "60fb0a79f3364000237838e3",
@@ -1123,6 +1235,20 @@
       "userId": "60fb0a79f3364000237838e3",
       "created": 1641883909,
       "updated": 1641883911
+    },
+    {
+      "id": "61fe79477838e30000a0ba9c",
+      "text": "\t[画像を並べて表示する記法]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644067143,
+      "updated": 1644067185
+    },
+    {
+      "id": "61fe794b7838e30000a0ba9d",
+      "text": "\t\t[*****| [https://i.gyazo.com/da78df293f9e83a74b5402411e2f2e01.png][https://i.gyazo.com/da78df293f9e83a74b5402411e2f2e01.png][https://i.gyazo.com/da78df293f9e83a74b5402411e2f2e01.png][https://i.gyazo.com/da78df293f9e83a74b5402411e2f2e01.png][https://i.gyazo.com/da78df293f9e83a74b5402411e2f2e01.png]]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644067147,
+      "updated": 1644067180
     },
     {
       "id": "61dd28d97838e30000dc9cbe",
@@ -1238,10 +1364,17 @@
     },
     {
       "id": "61dfac841280f00000faf8d6",
-      "text": "",
+      "text": "  TODO:誰かが動画を貼る",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642048643,
-      "updated": 1642048643
+      "updated": 1644062523
+    },
+    {
+      "id": "61fe672e1280f0000061b09c",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644062511,
+      "updated": 1644062511
     },
     {
       "id": "61dfac841280f00000faf8d7",

@@ -2,7 +2,7 @@
   "id": "6008c6583a55690022054aaa",
   "title": "三角形問題",
   "created": 1611187803,
-  "updated": 1611827718,
+  "updated": 1644666485,
   "lines": [
     {
       "id": "6008c6583a55690022054aaa",
@@ -38,6 +38,20 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1611187812,
       "updated": 1611187818
+    },
+    {
+      "id": "62076e218ee92a0000d1dcad",
+      "text": " [広中平祐]が高校のとき解いたらしい",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644654113,
+      "updated": 1644654180
+    },
+    {
+      "id": "62076e7d8ee92a0000d1dcae",
+      "text": "  [https://www.amazon.co.jp/dp/4065124972 学問の発見]という本に書いてあった",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644654205,
+      "updated": 1644654229
     },
     {
       "id": "6008c6948ee92a00000d854d",
@@ -104,10 +118,10 @@
     },
     {
       "id": "600981dde5172d00000589e4",
-      "text": "　　ぜんぜんわからんからwikipediaを見たら奥が深かった[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "　　[全然わからない]からwikipediaを見たら奥が深かった[yosider.icon]",
+      "userId": "566fa156776c9b11008ee92a",
       "created": 1611235804,
-      "updated": 1611235832
+      "updated": 1644666485
     },
     {
       "id": "60093815db62ad0000fc836a",

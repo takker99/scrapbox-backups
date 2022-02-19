@@ -2,7 +2,7 @@
   "id": "6157ea0245894d001d3c5765",
   "title": "リンクを出典アイコンにするUserCSS",
   "created": 1633151492,
-  "updated": 1639821259,
+  "updated": 1644727365,
   "lines": [
     {
       "id": "6157ea0245894d001d3c5765",
@@ -115,6 +115,20 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1633154977,
       "updated": 1633154981
+    },
+    {
+      "id": "61ec1e40e5172d0000b2054c",
+      "text": "  [アイコン記法を片方向リンクとして使]えるのがメリットなこともあるなあと思う[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1642864192,
+      "updated": 1642864241
+    },
+    {
+      "id": "61ec1e73e5172d0000b2054d",
+      "text": "  　1つの出典内に関係ない複数の話題が含まれる場合、それらがリンクされてしまう",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1642864243,
+      "updated": 1642864291
     },
     {
       "id": "6157ede41280f00000574cd4",
@@ -600,6 +614,41 @@
       "updated": 1633269956
     },
     {
+      "id": "61fe3ef41280f000008faa45",
+      "text": " 特定のサイトへのリンクの場合は、そのサイトのfaviconを出す",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052212,
+      "updated": 1644052230
+    },
+    {
+      "id": "61fe3f051280f000008faa46",
+      "text": "  wikipediaならWマークにするとか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052230,
+      "updated": 1644052240
+    },
+    {
+      "id": "61fe41381280f000008faa6b",
+      "text": "  ちょっと難しいかも？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052792,
+      "updated": 1644052797
+    },
+    {
+      "id": "61fe413d1280f000008faa6c",
+      "text": "  　まあそのうちやってみるか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052797,
+      "updated": 1644052808
+    },
+    {
+      "id": "61fe4f6a1280f0000042867b",
+      "text": "  2022-02-05 19:20:28 wikipediaに対応させてみた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644056427,
+      "updated": 1644056433
+    },
+    {
       "id": "6171cf3fe5172d0000b99741",
       "text": " [リンクを出典アイコンにするUserCSSでリンクをクリックできない問題]",
       "userId": "5c30ba88e98efe0017e5172d",
@@ -789,18 +838,11 @@
       "updated": 1633411919
     },
     {
-      "id": "61596b2a1280f00000737908",
-      "text": "     font-size: .6em;",
-      "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1633250090,
-      "updated": 1633252204
-    },
-    {
       "id": "6159ef60e5172d0000e67da0",
-      "text": "     /* font-size: .8em; */",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "     font-size: .8em;",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633283937,
-      "updated": 1633283941
+      "updated": 1644052325
     },
     {
       "id": "61a34e5e1280f000008b393a",
@@ -894,6 +936,34 @@
       "updated": 1633252204
     },
     {
+      "id": "61fe4a481280f000006d5e90",
+      "text": "  2022-02-05 18:58:39 [リンクを出典アイコンにするUserCSS: リンクの最初の3文字を表示するバージョン]をあてる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055112,
+      "updated": 1644055124
+    },
+    {
+      "id": "61fe4a9b1280f00000a67cbd",
+      "text": "   code:差分.diff",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055195,
+      "updated": 1644055205
+    },
+    {
+      "id": "61fe4aa51280f00000a67cbf",
+      "text": "    + .line:not(.cursor-line) .deco-\\. a:is(.page-link:not(.icon), .link) span:not(.empty-char-index) + span + span ~ span {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055205,
+      "updated": 1644055213
+    },
+    {
+      "id": "61fe4aad1280f00000a67cc0",
+      "text": "    - .line:not(.cursor-line) .deco-\\. a:is(.page-link:not(.icon), .link) span {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055213,
+      "updated": 1644055219
+    },
+    {
       "id": "6157ea821280f00000ad879f",
       "text": "  code:style.css",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -902,10 +972,10 @@
     },
     {
       "id": "61596afb1280f000007378d3",
-      "text": "   .line:not(.cursor-line) .deco-\\. :is(.page-link:not(.icon), .link) span {",
+      "text": "   .line:not(.cursor-line) .deco-\\. a:is(.page-link:not(.icon), .link) span:not(.empty-char-index) + span + span ~ span {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250043,
-      "updated": 1633252204
+      "updated": 1644055138
     },
     {
       "id": "61596afb1280f000007378d4",
@@ -1062,6 +1132,34 @@
       "updated": 1633252204
     },
     {
+      "id": "61fe4af11280f00000a67cd1",
+      "text": "  2022-02-05 19:01:22 [リンクを出典アイコンにするUserCSS: リンクの最初の3文字を表示するバージョン]をあてた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055281,
+      "updated": 1644055327
+    },
+    {
+      "id": "61fe4af31280f00000a67cd2",
+      "text": "   code:差分2.diff",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055283,
+      "updated": 1644055290
+    },
+    {
+      "id": "61fe4b071280f00000a67cd4",
+      "text": "    + .line:not(.cursor-line) .deco-\\. .page-link:not(.icon) span.empty-char-index ~ span.char-index {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055304,
+      "updated": 1644055305
+    },
+    {
+      "id": "61fe4afc1280f00000a67cd3",
+      "text": "    - .line:not(.cursor-line) .deco-\\. a.page-link:not(.icon) span.empty-char-index ~ span {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055292,
+      "updated": 1644055298
+    },
+    {
       "id": "61580c691280f0000097e632",
       "text": "  code:style.css",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -1070,10 +1168,10 @@
     },
     {
       "id": "6157eaf41280f00000ad87aa",
-      "text": "   .line:not(.cursor-line) .deco-\\. .page-link:not(.icon) span.empty-char-index ~ span {",
+      "text": "   .line:not(.cursor-line) .deco-\\. .page-link:not(.icon) span.empty-char-index ~ span.char-index {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633151733,
-      "updated": 1633252204
+      "updated": 1644055309
     },
     {
       "id": "6157eaf41280f00000ad87ab",
@@ -1104,6 +1202,90 @@
       "updated": 1633252204
     },
     {
+      "id": "61fe4b2b1280f00000a67cd6",
+      "text": "   ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055339,
+      "updated": 1644055339
+    },
+    {
+      "id": "61fe4ada1280f00000a67ccb",
+      "text": "  行idの直前に`#`をつける",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055258,
+      "updated": 1644055333
+    },
+    {
+      "id": "61fe4ade1280f00000a67ccc",
+      "text": "   code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055263,
+      "updated": 1644055330
+    },
+    {
+      "id": "61fe4ae61280f00000a67cce",
+      "text": "    .line:not(.cursor-line) .deco-\\. a.page-link:not(.icon) span.empty-char-index + span::before {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055270,
+      "updated": 1644055330
+    },
+    {
+      "id": "61fe4ae61280f00000a67ccf",
+      "text": "      content: \"#\";",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055270,
+      "updated": 1644055330
+    },
+    {
+      "id": "61fe4ae61280f00000a67cd0",
+      "text": "    }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055270,
+      "updated": 1644055330
+    },
+    {
+      "id": "61fe4b2a1280f00000a67cd5",
+      "text": "    ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644055338,
+      "updated": 1644055338
+    },
+    {
+      "id": "61fe40391280f000008faa52",
+      "text": " 上2つのブロック(~ [リンクを出典アイコンにするUserCSS#6157eaf41280f00000ad87ae])は何をやってるんでしょうか？[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052537,
+      "updated": 1644052545
+    },
+    {
+      "id": "61fe403b1280f000008faa53",
+      "text": "  解説書いてみました[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052540,
+      "updated": 1644052545
+    },
+    {
+      "id": "61fe403b1280f000008faa54",
+      "text": "  　感謝です！[yosider.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052540,
+      "updated": 1644052545
+    },
+    {
+      "id": "61fe403b1280f000008faa55",
+      "text": "  　すごい発想で草",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052540,
+      "updated": 1644052545
+    },
+    {
+      "id": "61fe403b1280f000008faa56",
+      "text": "  　 [/scrasobox/madobe.icon]さんはどこでこのテクニックを知ったのだろうか",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052540,
+      "updated": 1644052545
+    },
+    {
       "id": "61580c901280f0000097e635",
       "text": " アイコンを設定する",
       "userId": "5ef2bdebb60650001e1280f0",
@@ -1111,179 +1293,221 @@
       "updated": 1633252204
     },
     {
+      "id": "61fe3fdb1280f000008faa47",
+      "text": "  既定の設定",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052443,
+      "updated": 1644052452
+    },
+    {
       "id": "61580c881280f0000097e634",
-      "text": "  code:style.css",
+      "text": "   code:style.css",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633160332,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f00000737945",
-      "text": "   .line .deco-\\. :is(.page-link:not(.icon), .link)::before {",
+      "text": "    .line .deco-\\. :is(.page-link:not(.icon), .link)::before {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f00000737946",
-      "text": "     display: inline-block;",
+      "text": "      display: inline-block;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f00000737947",
-      "text": "     min-width: 1.15em;",
+      "text": "      min-width: 1.15em;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f00000737948",
-      "text": "     padding-left: 1px;",
+      "text": "      padding-left: 1px;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "6159ef44e5172d0000e67d9f",
-      "text": "     /* padding: 0 1px; */",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "      /* padding: 0 1px; */",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633283909,
-      "updated": 1633284978
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f00000737949",
-      "text": "     font-family: 'Font Awesome 5 Free';",
+      "text": "      font-family: \"Font Awesome 5 Free\",\"Font Awesome 5 Brands\";",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644727365
     },
     {
       "id": "61596bb01280f0000073794a",
-      "text": "     text-align: center;",
+      "text": "      text-align: center;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f0000073794b",
-      "text": "     vertical-align: middle;",
+      "text": "      vertical-align: middle;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f0000073794c",
-      "text": "     font-weight: 900;",
+      "text": "      font-weight: 900;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f0000073794d",
-      "text": "     content: \"\\f02d\";",
+      "text": "      content: \"\\f02d\";",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
     },
     {
       "id": "61596bb01280f0000073794e",
-      "text": "   }",
+      "text": "    }",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052552
+    },
+    {
+      "id": "61fe3fe51280f000008faa48",
+      "text": "    ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052454,
+      "updated": 1644052555
+    },
+    {
+      "id": "61fe402a1280f000008faa4d",
+      "text": "  カスタム設定",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052522,
+      "updated": 1644052554
+    },
+    {
+      "id": "61fe40061280f000008faa4b",
+      "text": "   `/`を入れるとノートみたいなアイコンになる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052486,
+      "updated": 1644052554
+    },
+    {
+      "id": "61fe40121280f000008faa4c",
+      "text": "    カスタム設定の例として入れただけ",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052498,
+      "updated": 1644052554
+    },
+    {
+      "id": "61fe3ffd1280f000008faa49",
+      "text": "    code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644052477,
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f0000073794f",
-      "text": "   /* 斜体を取り消す */",
+      "text": "     /* 斜体を取り消す */",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737950",
-      "text": "   .line .deco-\\..deco-\\/ {",
+      "text": "     .line .deco-\\..deco-\\/ {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737951",
-      "text": "     font-style: initial;",
+      "text": "       font-style: initial;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737952",
-      "text": "   }",
+      "text": "     }",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737953",
-      "text": "   .line .deco-\\..deco-\\/ :is(.page-link:not(.icon), .link)::before {",
+      "text": "     .line .deco-\\..deco-\\/ :is(.page-link:not(.icon), .link)::before {",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737954",
-      "text": "     font-weight: 400;",
+      "text": "       font-weight: 400;",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737955",
-      "text": "     content: \"\\f15c\";",
+      "text": "       content: \"\\f15c\";",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
       "id": "61596bb01280f00000737956",
-      "text": "   }",
+      "text": "     }",
       "userId": "5ef2bdebb60650001e1280f0",
       "created": 1633250223,
-      "updated": 1633252204
+      "updated": 1644052559
     },
     {
-      "id": "6157eae81280f00000ad87a4",
-      "text": "上2つのブロック(~ [リンクを出典アイコンにするUserCSS#6157eaf41280f00000ad87ae])は何をやってるんでしょうか？[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1633151721,
-      "updated": 1633156603
-    },
-    {
-      "id": "61580c9e1280f0000097e636",
-      "text": " 解説書いてみました[takker.icon]",
+      "id": "61fe40511280f000008faa57",
+      "text": "   特定のリンクへのアイコンを変える",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1633160354,
-      "updated": 1633160364
+      "created": 1644052561,
+      "updated": 1644052578
     },
     {
-      "id": "61586d83e5172d0000f7fe9e",
-      "text": " 　感謝です！[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1633185156,
-      "updated": 1633185169
-    },
-    {
-      "id": "61586d95e5172d0000f7fe9f",
-      "text": " 　すごい発想で草",
-      "userId": "5c30ba88e98efe0017e5172d",
-      "created": 1633185173,
-      "updated": 1633185196
-    },
-    {
-      "id": "61596aff1280f000007378ef",
-      "text": " 　 [/scrasobox/madobe.icon]さんはどこでこのテクニックを知ったのだろうか",
+      "id": "61ffa15f1280f0000026a397",
+      "text": "    ([特定のリンクにアイコンをつけるUserCSS]に統合しました)",
       "userId": "5ef2bdebb60650001e1280f0",
-      "created": 1633250046,
-      "updated": 1633250063
+      "created": 1644142945,
+      "updated": 1644142958
+    },
+    {
+      "id": "61fec35ae5172d0000b11a39",
+      "text": "　なんか複雑な感じになってきた[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644086107,
+      "updated": 1644086237
+    },
+    {
+      "id": "61fec362e5172d0000b11a3a",
+      "text": "　　「リンクを出典アイコンにするUserCSS: リンクの最初の3文字を表示+特定サイトではfaviconを出す」みたいなページを作って新しく書くのもありかも",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644086115,
+      "updated": 1644086187
+    },
+    {
+      "id": "61fec3abe5172d0000b11a3b",
+      "text": "　　gitで管理したほうがいいか",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644086187,
+      "updated": 1644086219
     },
     {
       "id": "61b6ec92774b170000d7c4ef",

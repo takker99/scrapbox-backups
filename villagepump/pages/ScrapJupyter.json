@@ -2,7 +2,7 @@
   "id": "604b5276b5c7430023284079",
   "title": "ScrapJupyter",
   "created": 1615549048,
-  "updated": 1630321335,
+  "updated": 1644494916,
   "lines": [
     {
       "id": "604b5276b5c7430023284079",
@@ -563,6 +563,13 @@
       "userId": "5953adab7aa58a0011385a92",
       "created": 1616391538,
       "updated": 1616391538
+    },
+    {
+      "id": "6204fffb1280f000005d687b",
+      "text": " [QuickJS-ecmascripten]でSandboxを作るのが一番堅牢そう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1644494843,
+      "updated": 1644494867
     },
     {
       "id": "612cb6d51280f00000f8b048",

@@ -2,7 +2,7 @@
   "id": "5fa6680ca5d26b0024fb0f13",
   "title": "kuuote",
   "created": 1604741132,
-  "updated": 1640954844,
+  "updated": 1644591760,
   "lines": [
     {
       "id": "5fa6680ca5d26b0024fb0f13",
@@ -314,10 +314,10 @@
     },
     {
       "id": "5fa7d4134bb2e20000c66626",
-      "text": " import(\"/api/code/kuuote/pin-diary-4/script.js\");",
+      "text": " // import(\"/api/code/kuuote/pin-diary-4/script.js\");",
       "userId": "5e8944948a182900174bb2e2",
       "created": 1604834321,
-      "updated": 1640954844
+      "updated": 1644591760
     },
     {
       "id": "5fb1147f4bb2e200007c7a9f",

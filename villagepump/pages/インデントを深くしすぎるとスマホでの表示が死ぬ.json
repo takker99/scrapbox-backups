@@ -2,7 +2,7 @@
   "id": "5ffacfda74bd97001cca7fc6",
   "title": "インデントを深くしすぎるとスマホでの表示が死ぬ",
   "created": 1610272734,
-  "updated": 1613199498,
+  "updated": 1644325165,
   "lines": [
     {
       "id": "5ffacfda74bd97001cca7fc6",
@@ -54,6 +54,13 @@
       "updated": 1613199498
     },
     {
+      "id": "62024e597838e30000e2b757",
+      "text": "  キーボードを表示しているとなおさら死ぬ[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644318298,
+      "updated": 1644318330
+    },
+    {
       "id": "6027787279d3a900001e4a76",
       "text": "",
       "userId": "5a4873ab2e26fb001479d3a9",
@@ -101,6 +108,34 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1610272864,
       "updated": 1610272864
+    },
+    {
+      "id": "62026899d1a02f0000003bbd",
+      "text": "\t[プログラミング]と同様に、Scrapboxの[ネスト]も避けたほうがよいと思っています。[hata6502.icon]",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1644325017,
+      "updated": 1644325112
+    },
+    {
+      "id": "620268bbd1a02f0000003bbf",
+      "text": "\t\tスマホでの表示がちょうどいい基準かもしれない。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1644325051,
+      "updated": 1644325098
+    },
+    {
+      "id": "6202689bd1a02f0000003bbe",
+      "text": "\t\t\t議論が盛り上がると表示が崩れやすい。",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1644325019,
+      "updated": 1644325165
+    },
+    {
+      "id": "62026920d1a02f0000003bc0",
+      "text": "",
+      "userId": "5ff4fb2169e764001cd1a02f",
+      "created": 1644325152,
+      "updated": 1644325152
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "5fc2cf653f6afd00223c6099",
   "title": "増井俊之",
   "created": 1606602599,
-  "updated": 1638672820,
+  "updated": 1644017211,
   "lines": [
     {
       "id": "5fc2cf653f6afd00223c6099",
@@ -3503,6 +3503,1126 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1638672802,
       "updated": 1638672802
+    },
+    {
+      "id": "61fdb6368ee92a0000fe53cf",
+      "text": "code:style.css",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017206,
+      "updated": 1644017210
+    },
+    {
+      "id": "61fdb63a8ee92a0000fe53d1",
+      "text": " @media (min-width: 768px) {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d2",
+      "text": " \t/* 要素横並び */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d3",
+      "text": " \tdiv.page-wrapper {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d4",
+      "text": " \t\tdisplay: flex;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d5",
+      "text": " \t\tjustify-content: space-around;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d6",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d7",
+      "text": " \tdiv.drag-and-drop-enter {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d8",
+      "text": " \t\torder: 2;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53d9",
+      "text": " \t\twidth: calc(100% - 250px);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53da",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53db",
+      "text": " \tdiv.related-page-list {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53dc",
+      "text": " \t\torder: 1;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53dd",
+      "text": " \t\tflex-basis: 216px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53de",
+      "text": " \t\tpadding: 0 8px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53df",
+      "text": " \t\tbackground-color: var(--related-page-list-bg);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e0",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e1",
+      "text": " \t",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e2",
+      "text": " \t/* 関連リンク一覧形状変更 */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e3",
+      "text": " \tdiv.related-page-list{",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e4",
+      "text": " \t\tfont-family: var(--relation-title-font);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e5",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e6",
+      "text": " \tdiv.related-page-list .grid li.relation-label,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e7",
+      "text": " \tdiv.related-page-list li.page-list-item,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e8",
+      "text": " \tdiv.related-page-list li.ellipsis {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53e9",
+      "text": " \t\t/* サイズ変更（共通） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53ea",
+      "text": " \t\twidth: 200px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53eb",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53ec",
+      "text": " \tdiv.related-page-list .grid li.relation-label {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53ed",
+      "text": " \t\t/* ラベルサイズ変更 */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53ee",
+      "text": " \t\theight: var(--relation-label-height);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53ef",
+      "text": " \t\tmargin-bottom: 0;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f0",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f1",
+      "text": " \tdiv.related-page-list li.page-list-item,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f2",
+      "text": " \tdiv.related-page-list li.ellipsis {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f3",
+      "text": " \t\t/* カードサイズ変更 */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f4",
+      "text": " \t\theight: 50px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f5",
+      "text": " \t\tmargin-bottom: 3px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f6",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f7",
+      "text": " \tdiv.related-page-list .grid li.relation-label .arrow {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f8",
+      "text": " \t\tdisplay: none;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53f9",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53fa",
+      "text": " \t.related-page-list li.relation-label a {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53fb",
+      "text": " \t\t/* 関連リンク ラベル */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53fc",
+      "text": " \t\tdisplay: flex !important;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53fd",
+      "text": " \t\tpadding: 0 !important;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53fe",
+      "text": " \t\tbackground-color: inherit;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe53ff",
+      "text": " \t\tborder-bottom: 2px solid var(--relation-label-border);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5400",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5401",
+      "text": " \t.related-page-list li.page-list-item a {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5402",
+      "text": " \t\t/* 関連リンク カード */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5403",
+      "text": " \t\tborder-right: 6px solid var(--card-border);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5404",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5405",
+      "text": " \t.related-page-list li.relation-label a,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5406",
+      "text": " \t.related-page-list li.page-list-item a {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5407",
+      "text": " \t\t/* 関連リンク ラベル・カード（共通） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5408",
+      "text": " \t\tborder-radius: 0;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5409",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe540a",
+      "text": " \t.related-page-list ul.grid:hover li.relation-label a,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe540b",
+      "text": " \t.related-page-list div.links-2-hop ul.grid:hover li.relation-label a,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe540c",
+      "text": " \t.related-page-list li.page-list-item a:hover {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe540d",
+      "text": " \t\t/* 関連リンク ラベル・カード（共通、ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe540e",
+      "text": " \t\ttransition: 0s;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe540f",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5410",
+      "text": " \t.related-page-list div.links-2-hop ul.grid li.relation-label a {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5411",
+      "text": " \t\t/* 関連リンク 2 hops link ラベル */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5412",
+      "text": " \t\tbackground-color: var(--relation-label-2-hop-bg);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5413",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5414",
+      "text": " \t.related-page-list div.links-2-hop ul.grid:hover li.relation-label a {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5415",
+      "text": " \t\t/* 関連リンク 2 hops link ラベル（ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5416",
+      "text": " \t\tbackground-color: var(--relation-label-2-hop-hover-bg);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5417",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5418",
+      "text": " \t.related-page-list li.relation-label a:hover {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5419",
+      "text": " \t\t/* 関連リンク ラベル（ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe541a",
+      "text": " \t\tfilter: brightness(80%);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe541b",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe541c",
+      "text": " \t.related-page-list li.page-list-item a:hover {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe541d",
+      "text": "   \t\t/* 関連リンク カード（ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe541e",
+      "text": "   \t\t/* background-color: var(--card-hover-bg); */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe541f",
+      "text": "   \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5420",
+      "text": "   \t.related-page-list li.ellipsis a {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5421",
+      "text": "   \t\t/* 2 hopが大きすぎるときに出る三点ボタン */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5422",
+      "text": "   \t\tpadding: 0;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5423",
+      "text": "   \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5424",
+      "text": "   \t.related-page-list li.ellipsis a div.circle {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5425",
+      "text": "   \t\t/* 三点ボタンをホバーした時に表示される丸 */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5426",
+      "text": "   \t\theight: auto;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5427",
+      "text": "   \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5428",
+      "text": " \t.related-page-list span.kamon::before {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5429",
+      "text": " \t\t/* 鎖マークの大きさ */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe542a",
+      "text": " \t\tfont-size: 14px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe542b",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe542c",
+      "text": " \t.related-page-list li.page-list-item .content > .description {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe542d",
+      "text": " \t\tdisplay: none;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe542e",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe542f",
+      "text": " \t.related-page-list li.relation-label a span.title,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5430",
+      "text": " \t.related-page-list ul.grid li.page-list-item a .header {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5431",
+      "text": " \t\t/* リンクのタイトル文字がある空間（共通） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5432",
+      "text": " \t\tborder-top: 0;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5433",
+      "text": " \t\twidth: 158px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5434",
+      "text": " \t\tpadding: 7px 3px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5435",
+      "text": " \t\tmargin-left: 42px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5436",
+      "text": " \t\ttext-align: left;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5437",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5438",
+      "text": " \t.related-page-list li.relation-label a span.title {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5439",
+      "text": " \t\t/* リンクのタイトル文字がある空間（ラベル） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe543a",
+      "text": " \t\tpadding: 0 3px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe543b",
+      "text": " \t\tline-height: var(--relation-label-height);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe543c",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe543d",
+      "text": " \t.related-page-list ul.grid li.page-list-item a .header {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe543e",
+      "text": " \t\t/* リンクのタイトル文字がある空間（カード） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe543f",
+      "text": " \t\tpadding: 7px 3px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5440",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5441",
+      "text": " \t.related-page-list li.relation-label a span.title,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5442",
+      "text": " \t.related-page-list ul.grid li.page-list-item a .header .title {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5443",
+      "text": " \t\t/* リンクのタイトル文字（共通） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5444",
+      "text": " \t\tfont-family: var(--relation-title-font);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5445",
+      "text": " \t\tfont-size: 14px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5446",
+      "text": " \t\tfont-weight: bold;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5447",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5448",
+      "text": " \t.related-page-list li.relation-label a:hover span.title,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5449",
+      "text": " \t.related-page-list ul.grid li.page-list-item a:hover .header .title {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe544a",
+      "text": " \t\t/* リンクのタイトル文字（共通、ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe544b",
+      "text": " \t\ttransition: 0s;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe544c",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe544d",
+      "text": " \t.related-page-list li.relation-label a:hover span.title {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe544e",
+      "text": " \t\t/* リンクのタイトル文字（ラベル、ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe544f",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5450",
+      "text": " \t.related-page-list ul.grid li.page-list-item a:hover .header .title {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5451",
+      "text": " \t\t/* リンクのタイトル文字（カード、ホバー時） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5452",
+      "text": " \t\tcolor: var(--card-hover-title-color);",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5453",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5454",
+      "text": " \t.related-page-list ul.grid li.page-list-item a:hover .hover {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5455",
+      "text": " \t\t/* opacity: 0 !important; */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5456",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5457",
+      "text": " \t.related-page-list li.relation-label a span.kamon.icon-lg,",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5458",
+      "text": " \t.related-page-list ul.grid li.page-list-item a .icon {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5459",
+      "text": " \t\t/* リンクのアイコン */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe545a",
+      "text": " \t    display: flex;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe545b",
+      "text": " \t    position: absolute;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe545c",
+      "text": " \t    align-items: center;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe545d",
+      "text": " \t    justify-content: center;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe545e",
+      "text": " \t    width: 30px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe545f",
+      "text": " \t\tmargin: 0;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5460",
+      "text": " \t    margin-left: 6px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5461",
+      "text": " \t    padding: 0;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5462",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5463",
+      "text": " \t.related-page-list li.relation-label a span.kamon.icon-lg {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5464",
+      "text": " \t\t/* リンクのアイコン（ラベル） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5465",
+      "text": "    \theight: 25px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5466",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5467",
+      "text": " \t.related-page-list ul.grid li.page-list-item a .icon {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5468",
+      "text": " \t\t/* リンクのアイコン（カード） */",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe5469",
+      "text": " \t    height: 50px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe546a",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe546b",
+      "text": " \t.related-page-list ul.grid li.splitter {",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe546c",
+      "text": " \t\theight: 5px;",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe546d",
+      "text": " \t}",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb63b8ee92a0000fe546e",
+      "text": " }",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017211,
+      "updated": 1644017211
+    },
+    {
+      "id": "61fdb6368ee92a0000fe53d0",
+      "text": "",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1644017206,
+      "updated": 1644017206
     },
     {
       "id": "610e75d88ee92a0000dc9d27",

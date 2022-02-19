@@ -2,7 +2,7 @@
   "id": "61ea741321ea76002196121f",
   "title": "井戸端ユーザの公開プロジェクト所有率",
   "created": 1642755094,
-  "updated": 1642759007,
+  "updated": 1642886774,
   "lines": [
     {
       "id": "61ea7419aff09e0000982e41",
@@ -27,31 +27,66 @@
     },
     {
       "id": "61ea7439aff09e0000982e45",
-      "text": "　公開の個人プロジェクトがある[takker.icon][Mijinko_SD.icon][基素.icon][nishio.icon][erniogi.icon][bluemountain.icon][inajob.icon][kidooom.icon][kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "　公開の個人プロジェクトがある",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642755129,
-      "updated": 1642758984
+      "updated": 1642767384
+    },
+    {
+      "id": "61eaa4181280f000000b4116",
+      "text": "　 [takker.icon][Mijinko_SD.icon][基素.icon][nishio.icon][erniogi.icon][bluemountain.icon][inajob.icon][kidooom.icon][kuuote.icon][sta.icon][yosider.icon][hata6502.icon][tkgshn.icon][suto3.icon][増井俊之.icon][maichan.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1642767384,
+      "updated": 1642866628
     },
     {
       "id": "61ea7446aff09e0000982e46",
-      "text": "　公開の自分が作った多人数プロジェクトに参加している[takker.icon][Mijinko_SD.icon][基素.icon][bluemountain.icon][inajob.icon]",
-      "userId": "58442db3ee4a2400116eb406",
+      "text": "　公開の自分が作った多人数プロジェクトに参加している",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642755143,
-      "updated": 1642755860
+      "updated": 1642767391
+    },
+    {
+      "id": "61eaa41f1280f000000b4117",
+      "text": "　 [takker.icon][Mijinko_SD.icon][基素.icon][inajob.icon][yosider.icon][tkgshn.icon][westantenna.icon][増井俊之.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1642767391,
+      "updated": 1642866633
     },
     {
       "id": "61ea7419aff09e0000982e42",
-      "text": "　公開の他人が作った多人数プロジェクトに参加している[takker.icon][基素.icon][bluemountain.icon][Mijinko_SD.icon][nishio.icon][kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "　公開の他人が作った多人数プロジェクトに参加している",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642755097,
-      "updated": 1642759004
+      "updated": 1642767396
+    },
+    {
+      "id": "61eaa4241280f000000b4118",
+      "text": "　 [takker.icon][基素.icon][bluemountain.icon][Mijinko_SD.icon][nishio.icon][kuuote.icon][sta.icon][yosider.icon][hata6502.icon][tkgshn.icon][suto3.icon][erniogi.icon][westantenna.icon][増井俊之.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1642767396,
+      "updated": 1642866640
+    },
+    {
+      "id": "61eaa4cf1280f000000b411f",
+      "text": "　 [scrapbox.io/forum-jp]があるから、ここに該当する人は必然的に多そう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767567,
+      "updated": 1642767609
     },
     {
       "id": "61ea781caff09e0000982e54",
-      "text": "　Scrapbox以外の(Twitter、ブログなどの)情報発信の場を持っている[Mijinko_SD.icon][nishio.icon][基素.icon][inajob.icon][kidooom.icon][bluemountain.icon][kuuote.icon]",
-      "userId": "5e8944948a182900174bb2e2",
+      "text": "　Scrapbox以外の(Twitter、ブログなどの)情報発信の場を持っている",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642756124,
-      "updated": 1642759007
+      "updated": 1642767402
+    },
+    {
+      "id": "61eaa42b1280f000000b4119",
+      "text": "　 [Mijinko_SD.icon][nishio.icon][基素.icon][inajob.icon][kidooom.icon][bluemountain.icon][kuuote.icon][sta.icon][yosider.icon][hata6502.icon][tkgshn.icon][suto3.icon][westantenna.icon][増井俊之.icon][maichan.icon][tetsuya-k.icon]",
+      "userId": "5d20a16b6e57f80017fd049e",
+      "created": 1642767402,
+      "updated": 1642866643
     },
     {
       "id": "61ea765eaff09e0000982e4f",
@@ -173,11 +208,67 @@
       "updated": 1642755530
     },
     {
+      "id": "61eaa4411280f000000b411a",
+      "text": "項目ごとに文章の長さが違うため、末尾のアイコンがガタガタでみにくかった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767425,
+      "updated": 1642767458
+    },
+    {
+      "id": "61eaa4631280f000000b411c",
+      "text": "タブ文字を入れてそろえてみた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767458,
+      "updated": 1642767466
+    },
+    {
+      "id": "61eaa46b1280f000000b411d",
+      "text": "しかし今度は行が長くなり過ぎて、小さい画面だと変なところで折り返されてますますみにくくなってしまった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767467,
+      "updated": 1642767506
+    },
+    {
+      "id": "61eaa4931280f000000b411e",
+      "text": "というわけで改行を加えてアイコンを並べてみた[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642767506,
+      "updated": 1642767527
+    },
+    {
+      "id": "61eab0cb7838e30000ae7f12",
+      "text": "\t天才[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642770636,
+      "updated": 1642770642
+    },
+    {
       "id": "61ea74dcaff09e000067de88",
-      "text": "",
-      "userId": "582e63d27c56960011aff09e",
+      "text": "\t名前つけてみた",
+      "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1642755293,
-      "updated": 1642755293
+      "updated": 1642812512
+    },
+    {
+      "id": "61eb546079d3a90000a235f6",
+      "text": "\t\t[アイコンぶら下げ記法]",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642812512,
+      "updated": 1642812515
+    },
+    {
+      "id": "61ec76721280f00000730635",
+      "text": "\t\tおお～[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642886770,
+      "updated": 1642886774
+    },
+    {
+      "id": "61eb545979d3a90000a235f5",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1642812506,
+      "updated": 1642812506
     },
     {
       "id": "61ea741321ea76002196121f",
@@ -237,10 +328,10 @@
     },
     {
       "id": "61ea778daff09e00004b0621",
-      "text": "\t「Wikipediaで編集合戦してるようなタイプの人」って、多分Wikipedia以外にその人が発信できる場を持ってないから「その場に自分の書いた表現が残ること」に必死なんだと思った[nishio.icon]",
-      "userId": "582e63d27c56960011aff09e",
+      "text": "\t「Wikipediaで[編集合戦]してるようなタイプの人」って、多分Wikipedia以外にその人が発信できる場を持ってないから「その場に自分の書いた表現が残ること」に必死なんだと思った[nishio.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1642755981,
-      "updated": 1642756084
+      "updated": 1642767654
     },
     {
       "id": "61ea77a4aff09e00004b0622",

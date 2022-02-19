@@ -2,7 +2,7 @@
   "id": "5fdf1af4c8ee20001e1bd4e4",
   "title": "スーパーのランキング",
   "created": 1608456950,
-  "updated": 1641550740,
+  "updated": 1642993316,
   "lines": [
     {
       "id": "5fdf1af4c8ee20001e1bd4e4",
@@ -587,10 +587,10 @@
     },
     {
       "id": "5fdf1e4a8ee92a00006285c9",
-      "text": " [万代 http://www.mandai-net.co.jp/] (大阪, 近畿)",
-      "userId": "566fa156776c9b11008ee92a",
+      "text": " [万代 http://www.mandai-net.co.jp/] (大阪, 近畿)[mrsekut.icon]",
+      "userId": "5b4ea932de544f0014198270",
       "created": 1608457802,
-      "updated": 1608513474
+      "updated": 1642993135
     },
     {
       "id": "5fdfe3e5d438750000f0f1f2",
@@ -598,6 +598,13 @@
       "userId": "5fa258bdb102120024d43875",
       "created": 1608508390,
       "updated": 1608508411
+    },
+    {
+      "id": "61ee169d198270000082b972",
+      "text": " \t\tたしかに何だこのサイト[mrsekut.icon]",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1642993309,
+      "updated": 1642993316
     },
     {
       "id": "5fdf24e7d438750000567c2b",
@@ -761,6 +768,13 @@
       "updated": 1622157630
     },
     {
+      "id": "61ee1613198270000082b971",
+      "text": "　 めっちゃたまに見かけるな[mrsekut.icon]",
+      "userId": "5b4ea932de544f0014198270",
+      "created": 1642993172,
+      "updated": 1642993177
+    },
+    {
       "id": "5fe94989d438750000a57b06",
       "text": "",
       "userId": "5fa258bdb102120024d43875",
@@ -808,6 +822,13 @@
       "userId": "566fa156776c9b11008ee92a",
       "created": 1609142470,
       "updated": 1609142478
+    },
+    {
+      "id": "61ee14ba8ee92a00003c2d67",
+      "text": "    あるね [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1642992827,
+      "updated": 1642992832
     },
     {
       "id": "5fe990708ee92a0000758b04",

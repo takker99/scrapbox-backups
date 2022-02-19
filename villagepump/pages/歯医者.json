@@ -2,7 +2,7 @@
   "id": "6082a3118befea001eedce81",
   "title": "歯医者",
   "created": 1619174163,
-  "updated": 1636937093,
+  "updated": 1644042311,
   "lines": [
     {
       "id": "6082a3118befea001eedce81",
@@ -164,6 +164,104 @@
       "userId": "5ad57975d54cd50014068484",
       "created": 1622038156,
       "updated": 1622038156
+    },
+    {
+      "id": "61fe10d7e5172d0000c130c9",
+      "text": "[歯のクリーニング]に行きたいが、[保険適用]にしようとすると面倒らしい[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040407,
+      "updated": 1644040536
+    },
+    {
+      "id": "61fe10efe5172d0000c130ca",
+      "text": "　歯周病などの治療として扱えないと保険適用できない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040432,
+      "updated": 1644040468
+    },
+    {
+      "id": "61fe111be5172d0000c130cc",
+      "text": "　　レントゲンを撮ったりしないといけない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040476,
+      "updated": 1644040488
+    },
+    {
+      "id": "61fe1128e5172d0000c130cd",
+      "text": "　　経過観察のため複数回に分けないといけない",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040488,
+      "updated": 1644040498
+    },
+    {
+      "id": "61fe1167e5172d0000c130d1",
+      "text": "　　3000円程度/回",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040551,
+      "updated": 1644040551
+    },
+    {
+      "id": "61fe1169e5172d0000c130d2",
+      "text": "　自由診療",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040553,
+      "updated": 1644040558
+    },
+    {
+      "id": "61fe116fe5172d0000c130d3",
+      "text": "　　1度で済ませられる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040559,
+      "updated": 1644040567
+    },
+    {
+      "id": "61fe1177e5172d0000c130d4",
+      "text": "　　5000~20000円程度/回",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040567,
+      "updated": 1644040579
+    },
+    {
+      "id": "61fe1822e5172d000039b058",
+      "text": "　　全国的な費用相場は15,000～20,000円程度",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644042274,
+      "updated": 1644042302
+    },
+    {
+      "id": "61fe1825e5172d000039b059",
+      "text": "　　 極端に安い場合は内容が簡素化されているかも",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644042277,
+      "updated": 1644042289
+    },
+    {
+      "id": "61fe183fe5172d000039b05a",
+      "text": "　　 https://tokyo-shinbi.jp/pmtc/cost/",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644042304,
+      "updated": 1644042311
+    },
+    {
+      "id": "61fe11c6e5172d0000c130d7",
+      "text": "　[https://haisha-yoyaku.jp/docs/smileline/column/tooth-cleaning-fee.html 歯のクリーニングの料金はいくら？相場と4つのメリットとは]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040646,
+      "updated": 1644040647
+    },
+    {
+      "id": "61fe1142e5172d0000c130cf",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040515,
+      "updated": 1644040523
+    },
+    {
+      "id": "61fe10f0e5172d0000c130cb",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1644040432,
+      "updated": 1644040432
     },
     {
       "id": "60a61bb6246f5900001b2c72",

@@ -2,7 +2,7 @@
   "id": "609205c5ecbf090022ef8f38",
   "title": "世界の霧",
   "created": 1620182505,
-  "updated": 1626489240,
+  "updated": 1643822380,
   "lines": [
     {
       "id": "609205c5ecbf090022ef8f38",
@@ -104,10 +104,10 @@
     },
     {
       "id": "609255ac55cbd3000028c613",
-      "text": "　　　[Age of Empires]思い出す[mtane0412.icon]",
-      "userId": "5ae7fecf7766b7001455cbd3",
+      "text": "　　　[Age of Empires]思い出す[mtane0412.icon][kidooom.icon]",
+      "userId": "5df97d83ccfabb0017a19e40",
       "created": 1620202925,
-      "updated": 1620202929
+      "updated": 1643768688
     },
     {
       "id": "6092061e79e113000072fd8e",
@@ -185,6 +185,20 @@
       "userId": "5d89b1f60230ae001779e113",
       "created": 1620207969,
       "updated": 1620207984
+    },
+    {
+      "id": "61ec0cd1aff09e00002d577b",
+      "text": "\t\t\t\t[戦場の霧]ってのは元ネタは[クラウゼヴィッツ]の[戦争論]で、そこから[大戦略 https://game.watch.impress.co.jp/docs/news/1382/216/index.html]みたいな戦略ゲームで索敵して視界を広げるのを「戦場の霧を消すの心地よい」みたいな感じで表現したりする[nishio.icon]",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642859729,
+      "updated": 1642860119
+    },
+    {
+      "id": "61ec0d85aff09e00002d577c",
+      "text": "\t\t\t\t　https://ja.wikipedia.org/wiki/戦場の霧",
+      "userId": "582e63d27c56960011aff09e",
+      "created": 1642859911,
+      "updated": 1642859911
     },
     {
       "id": "6092061e79e113000072fd91",
@@ -328,10 +342,10 @@
     },
     {
       "id": "60926361e5172d0000fc97bf",
-      "text": "（騙されたと思って）買ってみた[yosider.icon]",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "（騙されたと思って）買ってみた[yosider.icon][kidooom.icon][nishio.icon][fumito.icon]",
+      "userId": "5e11de5979b9010017ef07ca",
       "created": 1620206433,
-      "updated": 1620206448
+      "updated": 1643801740
     },
     {
       "id": "609266f979e11300001974ac",
@@ -510,10 +524,80 @@
     },
     {
       "id": "60d7c75279e113000042e660",
-      "text": "",
+      "text": "  [kml]ファイルならインポートできるみたいです[bluemountain.icon]",
       "userId": "5d89b1f60230ae001779e113",
       "created": 1624754002,
-      "updated": 1624754002
+      "updated": 1643725131
+    },
+    {
+      "id": "61f9415a79e1130000b2ed77",
+      "text": "   なので[Google タイムライン]の記録をエクスポートして世界の霧にインポート、等ができる",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1643725146,
+      "updated": 1643725178
+    },
+    {
+      "id": "61f9cc658ee92a0000cb0518",
+      "text": "   Googleタイムラインってあまり正確じゃない気が [増井俊之.icon]",
+      "userId": "566fa156776c9b11008ee92a",
+      "created": 1643760741,
+      "updated": 1643760756
+    },
+    {
+      "id": "61f9413979e1130000b2ed76",
+      "text": "",
+      "userId": "5d89b1f60230ae001779e113",
+      "created": 1643725114,
+      "updated": 1643725114
+    },
+    {
+      "id": "61fa5b63774b170000226e96",
+      "text": "中国でも使えるらしい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643797348,
+      "updated": 1643797354
+    },
+    {
+      "id": "61fa5b6a774b170000226e98",
+      "text": " >💖 Fog of World is the only app that truly works around the world since China uses the [GCJ-02] coordinate system due to political reasons. Other copycats either work correctly in China or the rest of the world, but not both.",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643797354,
+      "updated": 1643822380
+    },
+    {
+      "id": "61fa5b6a774b170000226e97",
+      "text": "  https://play.google.com/store/apps/details?id=com.ollix.fogofworld&hl=ja&gl=US",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643797354,
+      "updated": 1643797369
+    },
+    {
+      "id": "61fa5b76774b170000226e99",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1643797367,
+      "updated": 1643797367
+    },
+    {
+      "id": "61fa6d56e5172d000055032d",
+      "text": "　最近あまり使ってないな…[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1643801943,
+      "updated": 1643801949
+    },
+    {
+      "id": "61fa6d5ce5172d0000550330",
+      "text": "　　スマホが古くなってきたのもあって電池消費が気になる",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1643801949,
+      "updated": 1643801962
+    },
+    {
+      "id": "61fa6d57e5172d000055032e",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1643801943,
+      "updated": 1643801943
     }
   ]
 }

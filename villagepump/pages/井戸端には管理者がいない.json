@@ -2,7 +2,7 @@
   "id": "61d7a9dab464f800233bcf18",
   "title": "井戸端には管理者がいない",
   "created": 1641523675,
-  "updated": 1641572872,
+  "updated": 1642766985,
   "lines": [
     {
       "id": "61d7a9dab464f800233bcf18",
@@ -125,10 +125,199 @@
     },
     {
       "id": "61d8125679e1130000eaaa62",
-      "text": "",
-      "userId": "5d89b1f60230ae001779e113",
+      "text": "  急に怖くなったので[backup data置き場 https://github.com/takker99/scrapbox-backups]作った[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
       "created": 1641550423,
-      "updated": 1641550423
+      "updated": 1642762272
+    },
+    {
+      "id": "61ea901b1280f000000fc36f",
+      "text": "   ところでRemote repoをこういう用途に使うのは問題ないのだろうか……？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642762267,
+      "updated": 1642762295
+    },
+    {
+      "id": "61ea900c1280f000000fc36e",
+      "text": "    某jpのslacklogとかあったし大丈夫ではと思ってる[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642762252,
+      "updated": 1642762376
+    },
+    {
+      "id": "61ea91181280f000000fc371",
+      "text": "     そういえばあのslacklogって何のbotで収集していたんだろう[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642762520,
+      "updated": 1642762554
+    },
+    {
+      "id": "61ea912f1280f000000fc372",
+      "text": "     　別にサーバー立てていたのかな",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642762543,
+      "updated": 1642762550
+    },
+    {
+      "id": "61ea93bb4bb2e20000c1dea1",
+      "text": "      GitHub Actionsでやってた…[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642763178,
+      "updated": 1642763179
+    },
+    {
+      "id": "61ea93ca4bb2e20000c1dea2",
+      "text": "       ちなみにbotのソース自体は[ここ https://github.com/vim-jp/slacklog-generator]にあります",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642763193,
+      "updated": 1642763207
+    },
+    {
+      "id": "61ea94104bb2e20000c1dea4",
+      "text": "      予算が0円だったので他に選択肢が無かったです",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642763262,
+      "updated": 1642763338
+    },
+    {
+      "id": "61ea908e4bb2e2000059e36e",
+      "text": "    GitHub Actionsで定期的にbackupとるのは流石にまずいかな[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642762365,
+      "updated": 1642762514
+    },
+    {
+      "id": "61ea9774e5172d00008aa03f",
+      "text": "   backupのデータってadminじゃなくても取れるんでしたっけ[yosider.icon]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1642764149,
+      "updated": 1642764162
+    },
+    {
+      "id": "61ea9a071280f0000086bbdd",
+      "text": "    とれないです(作れないとは言っていない)[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642764807,
+      "updated": 1642764825
+    },
+    {
+      "id": "61ea9c13e5172d0000890c2f",
+      "text": "     あっ(察し)",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1642765332,
+      "updated": 1642765337
+    },
+    {
+      "id": "61ea9c3e7838e3000071cbd4",
+      "text": "     手動でもCtrl + Aでコピペすれば保存できる",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642765373,
+      "updated": 1642765387
+    },
+    {
+      "id": "61ea9c4b7838e3000071cbd5",
+      "text": "     その作業はbotでもできる（具体的な手法は違うけど）",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642765387,
+      "updated": 1642765483
+    },
+    {
+      "id": "61ea9c557838e3000071cbd6",
+      "text": "     後はわかるね？",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642765397,
+      "updated": 1642765402
+    },
+    {
+      "id": "61eaa1b11280f000000b410f",
+      "text": "     さすがにそれは狂気で草[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642766769,
+      "updated": 1642766950
+    },
+    {
+      "id": "61eaa1d11280f000000b4110",
+      "text": "      答えは単に全ページのAPIを順番に叩いているだけ[. [/takker/scrapbox-external-backup] ]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642766801,
+      "updated": 1642766847
+    },
+    {
+      "id": "61eaa27d1280f000000b4114",
+      "text": "      まあでもやっていること(全ページ走査)は一緒か",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642766972,
+      "updated": 1642766985
+    },
+    {
+      "id": "61ea98a44bb2e2000059e371",
+      "text": "",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642764435,
+      "updated": 1642764435
+    },
+    {
+      "id": "61ea90fb1280f000000fc370",
+      "text": "admin失踪した時の対処法って何かあるんだろうか[kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642762491,
+      "updated": 1642764436
+    },
+    {
+      "id": "61ea988c4bb2e2000059e370",
+      "text": " もしかして何もない？",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642764411,
+      "updated": 1642764432
+    },
+    {
+      "id": "61ea989d7838e3000071cbd1",
+      "text": " \t多分何もない[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642764445,
+      "updated": 1642764448
+    },
+    {
+      "id": "61ea98a47838e3000071cbd2",
+      "text": " \t失踪する前にadmin権限を付与してもらうしかない",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1642764451,
+      "updated": 1642764494
+    },
+    {
+      "id": "61ea987f4bb2e2000059e36f",
+      "text": " あ、adminじゃなくてownerか",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642764398,
+      "updated": 1642764477
+    },
+    {
+      "id": "61ea98d47838e3000071cbd3",
+      "text": " \t素で間違えた（）[Mijinko_SD.icon][kuuote.icon]",
+      "userId": "5e8944948a182900174bb2e2",
+      "created": 1642764499,
+      "updated": 1642764511
+    },
+    {
+      "id": "61ea98ca4bb2e2000059e372",
+      "text": "  草[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642764473,
+      "updated": 1642766917
+    },
+    {
+      "id": "61eaa2451280f000000b4113",
+      "text": "   まあadminでもbackup dataを取得できたはず",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642766917,
+      "updated": 1642766932
+    },
+    {
+      "id": "61eaa2431280f000000b4112",
+      "text": "",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1642766914,
+      "updated": 1642766914
     }
   ]
 }

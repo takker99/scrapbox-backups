@@ -2,7 +2,7 @@
   "id": "5ffafa6974bd97001cca9fd2",
   "title": "神スクボ",
   "created": 1610283627,
-  "updated": 1612024710,
+  "updated": 1644584833,
   "lines": [
     {
       "id": "5ffafa6974bd97001cca9fd2",
@@ -185,6 +185,174 @@
       "userId": "5c30ba88e98efe0017e5172d",
       "created": 1612024500,
       "updated": 1612024710
+    },
+    {
+      "id": "61fe2fe67838e30000f23c68",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048358,
+      "updated": 1644048358
+    },
+    {
+      "id": "61fe2fe77838e30000f23c69",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048358,
+      "updated": 1644048358
+    },
+    {
+      "id": "61fe2fe77838e30000f23c6a",
+      "text": "from [Settings]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048359,
+      "updated": 1644048388
+    },
+    {
+      "id": "61fe2fee7838e30000f23c6c",
+      "text": "[神スクボ]（方眼紙みたいな格子模様）",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048365,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c6d",
+      "text": " from [2021/01/11#5ffc1a405b98c20000a5fbcb]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c6e",
+      "text": " 2021-01-16 18:05:38 Themeに合わせて背景色を変えるようにした",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c6f",
+      "text": " 2021/1/17 目的は果たしたので無効にしました",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "620659ee5b98c20000e71178",
+      "text": "　[CSSグラデーション]を使っている",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1644583406,
+      "updated": 1644584833
+    },
+    {
+      "id": "620659ee5b98c20000e71179",
+      "text": "　https://projects.verou.me/css3patterns/#blueprint-grid",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1644583406,
+      "updated": 1644583411
+    },
+    {
+      "id": "61fe2ff87838e30000f23c70",
+      "text": "code:stylexx.css",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c71",
+      "text": " body {",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c72",
+      "text": "   background:",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c73",
+      "text": "      repeating-linear-gradient( 0deg,",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c74",
+      "text": "        transparent 0px 9px,",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c75",
+      "text": "        silver      10px,",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c76",
+      "text": "        transparent 11px 15px",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c77",
+      "text": "      ),",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c78",
+      "text": "      repeating-linear-gradient( 90deg,",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c79",
+      "text": "        var(--body-bg, transparent) 0px 9px,",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c7a",
+      "text": "        silver      10px,",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c7b",
+      "text": "        var(--body-bg, transparent) 11px 15px",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c7c",
+      "text": "      );",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2ff87838e30000f23c7d",
+      "text": " }",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048375,
+      "updated": 1644048375
+    },
+    {
+      "id": "61fe2fea7838e30000f23c6b",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644048362,
+      "updated": 1644048362
     }
   ]
 }

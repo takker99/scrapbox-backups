@@ -1,0 +1,183 @@
+{
+  "id": "620dbf6e23e69b001d155c4e",
+  "title": "pinされたページ以外を非表示にする",
+  "created": 1645068143,
+  "updated": 1645069231,
+  "lines": [
+    {
+      "id": "620dbf6e23e69b001d155c4e",
+      "text": "pinされたページ以外を非表示にする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729eff",
+      "text": "from [2022/02/16]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f00",
+      "text": "\tpinされたページ以外を非表示にする[dokudami.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645069231
+    },
+    {
+      "id": "620dbf6e1280f00000729f01",
+      "text": " code:style.css",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f02",
+      "text": "  /* pinされたページ以外を非表示にする */",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f03",
+      "text": "  div.clearfix:not(.related-page-list) li.page-list-item.grid-style-item:not(.pin) {",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f04",
+      "text": "  \tdisplay: none;",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f05",
+      "text": "  }",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f06",
+      "text": " [https://scrapbox.io/katolab/Page_list_items_UserCSS Page list items UserCSS - Kato Laboratory]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f07",
+      "text": "\t\tこれ良いなぁ、と個人的になっていた",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f08",
+      "text": "\t\t\tトップページでピン止めされてないページだけ非表示になる。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f09",
+      "text": "\t\t\tLinks系は非表示にならない。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f0a",
+      "text": "\t\t\tトップページではぱっと見ページ数少なく見えるけど、その裏にはたくさんある。とかができる。",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f0b",
+      "text": "\t\t\t\tピン止めされてないページは、[リンク]を辿ってでしか到達できないので、適切な過程（リンクの繋がりをもとに来る）を経た人にだけ見てもらえる",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f0c",
+      "text": "\t\t\t\t[nishio.icon]検索エンジン経由で適切に辿らずに来る人がいるのでは…？",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f0d",
+      "text": "\t\t\t\t\tそれはどうしようもない！！！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f0e",
+      "text": "\t\t\t\t\t（でも、じぶんの経験からして検索エンジン経由で行きつくこともまぁまぁあるなぁ）",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f0f",
+      "text": "\t\t自分だけが見るやつならトップページで全部見れるのは見やすくていいけど、",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f10",
+      "text": "\t\t\t人に見せることを考えると、トップページで全部見れちゃうのはなんか嫌だった",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f11",
+      "text": "\t\t\t\tでもあまりこの風潮広まってほしくはない（見る側からしたら見にくいから）",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f12",
+      "text": "\t\t\t以前同じ流れでだいたい同じこと思いついたのを思い出した[takker.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f13",
+      "text": "\t\t\t [/tus-alpine/テーマごとにページをまとめる必要性#5f68982d1eb91c0000b0876b]の流れで[/tus-alpine/テーマごとにページをまとめる必要性#5f68a3f61280f000004dc4ad]で思いついて[/tus-alpine/ピン留めしたページ以外を見えなくするUserCSS]を作った",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f14",
+      "text": "\t\t\t 余計な情報が原因で本来見られてほしい情報が見られない、という理由は筋が通っている気がした[dokudami.icon]",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f15",
+      "text": "\t\t[自分勝手]な奴だな！！",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    },
+    {
+      "id": "620dbf6e1280f00000729f16",
+      "text": "\t\t\tまた気が変わる気もする",
+      "userId": "5ef2bdebb60650001e1280f0",
+      "created": 1645068143,
+      "updated": 1645068143
+    }
+  ]
+}

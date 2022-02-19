@@ -2,7 +2,7 @@
   "id": "60f2df64c0080c001c427c59",
   "title": "旭日旗のUserCSS",
   "created": 1626529686,
-  "updated": 1626609689,
+  "updated": 1644588581,
   "lines": [
     {
       "id": "60f2df64c0080c001c427c59",
@@ -54,11 +54,39 @@
       "updated": 1626609689
     },
     {
+      "id": "62052bb37838e30000af1b25",
+      "text": "　[CSSグラデーション]を使っている",
+      "userId": "5b5e7121417cf700145b98c2",
+      "created": 1644506035,
+      "updated": 1644584808
+    },
+    {
+      "id": "62066e197838e300009e7c14",
+      "text": "　[建国記念の日]に有効化されたりする",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644588569,
+      "updated": 1644588579
+    },
+    {
+      "id": "62066e247838e300009e7c15",
+      "text": "　\t[2022/02/10#6204e3af5b98c20000e22723]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644588580,
+      "updated": 1644588581
+    },
+    {
       "id": "60f417425b98c200005f264e",
       "text": "",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1626609475,
       "updated": 1626609475
+    },
+    {
+      "id": "62052bd47838e30000af1b29",
+      "text": "色",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506068,
+      "updated": 1644506070
     },
     {
       "id": "60f2df975b98c20000675b8d",
@@ -75,32 +103,109 @@
       "updated": 1626529687
     },
     {
+      "id": "62052e2c7838e3000071449d",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506668,
+      "updated": 1644506706
+    },
+    {
+      "id": "62052e547838e30000afbaae",
+      "text": "\t普通の色",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506708,
+      "updated": 1644506722
+    },
+    {
+      "id": "62052e247838e3000071449c",
+      "text": "  code:tyle.css",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506660,
+      "updated": 1644506716
+    },
+    {
       "id": "60f2df975b98c20000675b8f",
-      "text": "   /* --A: var(--navbar-bg, #AAA); /* */",
+      "text": "     /* --A: var(--body-bg, #EEE); /* グレー */",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1626529687,
-      "updated": 1626529687
+      "updated": 1644506810
     },
     {
       "id": "60f2df975b98c20000675b90",
-      "text": "   /* --B: var(--body-bg, #BBB); /* */",
+      "text": "     /* --B: var(--card-bg, #DDD); /* グレー */",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1626529687,
-      "updated": 1626529687
+      "updated": 1644506818
     },
     {
       "id": "60f2df975b98c20000675b91",
-      "text": "   --A: #D00; /* red */",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "     --A: #D00; /* red */",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1626529687,
-      "updated": 1626529687
+      "updated": 1644506859
     },
     {
       "id": "60f2df975b98c20000675b92",
-      "text": "   --B: #DDD; /* white */",
-      "userId": "5b5e7121417cf700145b98c2",
+      "text": "     --B: #DDD; /* white */",
+      "userId": "60fb0a79f3364000237838e3",
       "created": 1626529687,
-      "updated": 1626529687
+      "updated": 1644506865
+    },
+    {
+      "id": "62052bc97838e30000af1b26",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506057,
+      "updated": 1644506057
+    },
+    {
+      "id": "62052bec7838e30000af1b2b",
+      "text": "\t本当に邪魔にならない程度に薄くしてみる[Mijinko_SD.icon]",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506093,
+      "updated": 1644506390
+    },
+    {
+      "id": "62052c537838e30000af1b2c",
+      "text": "\t\tcode:style.css",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506195,
+      "updated": 1644506675
+    },
+    {
+      "id": "62052c5c7838e30000af1b2d",
+      "text": "\t\t --A: var(--body-bg, #ffe9e9); /* #ffd5d5; */",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506204,
+      "updated": 1644506772
+    },
+    {
+      "id": "62052c6e7838e30000af1b2e",
+      "text": "\t\t --B: var(--card-bg, #fff9f9);",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506222,
+      "updated": 1644506744
+    },
+    {
+      "id": "62052be87838e30000af1b2a",
+      "text": "",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506088,
+      "updated": 1644506088
+    },
+    {
+      "id": "62052bd27838e30000af1b28",
+      "text": "形",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506066,
+      "updated": 1644506076
+    },
+    {
+      "id": "62052bca7838e30000af1b27",
+      "text": "code:style.css",
+      "userId": "60fb0a79f3364000237838e3",
+      "created": 1644506058,
+      "updated": 1644506064
     },
     {
       "id": "60f2df975b98c20000675b93",
@@ -111,10 +216,10 @@
     },
     {
       "id": "60f2df975b98c20000675b94",
-      "text": "     /* 中心の丸*/",
+      "text": "     /* 中心の丸 */",
       "userId": "5b5e7121417cf700145b98c2",
       "created": 1626529687,
-      "updated": 1626529687
+      "updated": 1644506906
     },
     {
       "id": "60f2df975b98c20000675b95",

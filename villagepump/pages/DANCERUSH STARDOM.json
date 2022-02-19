@@ -2,7 +2,7 @@
   "id": "61599dcdbdcb48001db26424",
   "title": "DANCERUSH STARDOM",
   "created": 1633263055,
-  "updated": 1634816730,
+  "updated": 1643358996,
   "lines": [
     {
       "id": "61599dcdbdcb48001db26424",
@@ -146,10 +146,31 @@
     },
     {
       "id": "61712e027c8c6d0000ba3e5c",
-      "text": "",
+      "text": "\t最近やってないな……[sta.icon]",
       "userId": "5a4873ab2e26fb001479d3a9",
       "created": 1634807299,
-      "updated": 1634816702
+      "updated": 1643358967
+    },
+    {
+      "id": "61f3aaf579d3a90000e9a69f",
+      "text": "\t\tマスクつけたままってのが厳しすぎる。酸欠……",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1643358967,
+      "updated": 1643358980
+    },
+    {
+      "id": "61f3ab0579d3a90000e9a6a0",
+      "text": "\t\t\t店舗によってはマスクなしでできる（囲いがある）ところもある",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1643358983,
+      "updated": 1643358996
+    },
+    {
+      "id": "61f3aaf379d3a90000e9a69e",
+      "text": "",
+      "userId": "5a4873ab2e26fb001479d3a9",
+      "created": 1643358965,
+      "updated": 1643358965
     }
   ]
 }
