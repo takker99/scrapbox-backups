@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-action.json": "file:///home/takker/git/scrapbox-backups/.github/workflow/backup.yml"
+    }
+}

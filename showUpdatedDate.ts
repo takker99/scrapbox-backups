@@ -1,16 +1,4 @@
-interface Page {
-  title: string;
-  id: string;
-  updated: number;
-  created: number;
-  lines: {
-    id: string;
-    userId: string;
-    updated: number;
-    created: number;
-    text: string;
-  }[];
-}
+import { Page } from "./deps/scrapbox.ts";
 
 const text = await Deno.readTextFile(Deno.args[0]);
 const json = (JSON.parse(text)) as { pages: Page[] };
